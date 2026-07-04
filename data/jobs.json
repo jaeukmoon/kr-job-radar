@@ -1,10 +1,12 @@
 {
- "generated": "2026-07-04",
+ "generated": "2026-07-05",
  "sources_ok": [
   "naver",
   "kakao",
   "woowahan",
   "toss",
+  "lg",
+  "kt",
   "lgairesearch",
   "coupang",
   "sk",
@@ -1060,6 +1062,40 @@
    "first_seen": "2026-07-05"
   },
   {
+   "id": "lg:1001506",
+   "source": "lg",
+   "company": "비즈테크아이",
+   "title": "[비즈테크아이] AI 엔지니어(PM/PL) 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-31",
+   "url": "https://careers.lg.com/apply/detail?id=1001506",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005096",
+   "source": "naver",
+   "company": "SNOW",
+   "title": "[SNOW] 서비스 데이터 분석가",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005096",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
    "id": "sk:R261426",
    "source": "sk",
    "company": "SK하이닉스",
@@ -1160,6 +1196,215 @@
    "tags": [],
    "categories": [
     "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005057",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 프랑스어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-05",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005057",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005092",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-12",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005092",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005056",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-06",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005056",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005067",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud] LINE WORKS Speech/Vision/NLP 시니어 리서치 엔지니어 (경력)",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-15",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005067",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "llm",
+    "speech"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005081",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] 헬스케어 AI 서비스 기획 (프로덕트 매니저) (경력)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-13",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005081",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001822",
+   "source": "lg",
+   "company": "LG전자",
+   "title": "[생산기술원] 로봇 AI/비전 AI/AI Agent 솔루션 개발 및 확산",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://careers.lg.com/apply/detail?id=1001822",
+   "tags": [],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001821",
+   "source": "lg",
+   "company": "LG전자",
+   "title": "[생산기술원] Digital Twin 솔루션 프로젝트 리딩 (AI/3D/시뮬레이션) ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://careers.lg.com/apply/detail?id=1001821",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001907",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[정보보안센터] 클라우드 및 AI 보안 아키텍쳐 설계 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://careers.lg.com/apply/detail?id=1001907",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001889",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[정보보안센터] AI보안 담당자 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-06",
+   "url": "https://careers.lg.com/apply/detail?id=1001889",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001400",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] 의료/Bio AI Sales/Presales 담당자 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-31",
+   "url": "https://careers.lg.com/apply/detail?id=1001400",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001432",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] 어플리케이션 아키텍트/AI 아키텍트 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-31",
+   "url": "https://careers.lg.com/apply/detail?id=1001432",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lg:1001807",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] Robotics 분야 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://careers.lg.com/apply/detail?id=1001807",
+   "tags": [],
+   "categories": [
+    "robotics"
    ],
    "first_seen": "2026-07-05"
   },
@@ -1649,6 +1894,75 @@
    "career_type": "",
    "deadline": "상시",
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4325674005",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kt:258107",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
+   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면동)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119954",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kt:258054",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용 (AX기술연구 및 개발)",
+   "team": "AI Foundation 모델 개발 · Data Governance · AI Engineering",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119898",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kt:257745",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용 (AI 프로젝트 제안/이행 PM)",
+   "team": "제안/이행-AI 프로젝트 제안/이행 PM-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-07",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119589",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kt:258711",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
+   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://kt.recruiter.co.kr/career/jobs/120562",
    "tags": [],
    "categories": [
     "research"
@@ -2320,112 +2634,6 @@
     "data-analysis"
    ],
    "first_seen": "2026-07-05"
-  },
-  {
-   "id": "naver:30005096",
-   "source": "naver",
-   "company": "SNOW",
-   "title": "[SNOW] 서비스 데이터 분석가",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-14",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005096",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-04"
-  },
-  {
-   "id": "naver:30005057",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 프랑스어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-05",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005057",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-04"
-  },
-  {
-   "id": "naver:30005092",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-12",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005092",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-04"
-  },
-  {
-   "id": "naver:30005056",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005056",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-04"
-  },
-  {
-   "id": "naver:30005067",
-   "source": "naver",
-   "company": "NAVER Cloud",
-   "title": "[NAVER Cloud] LINE WORKS Speech/Vision/NLP 시니어 리서치 엔지니어 (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-15",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005067",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "llm",
-    "speech"
-   ],
-   "first_seen": "2026-07-04"
-  },
-  {
-   "id": "naver:30005081",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 헬스케어 AI 서비스 기획 (프로덕트 매니저) (경력)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-13",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005081",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-04"
   }
  ]
 }

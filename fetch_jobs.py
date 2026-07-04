@@ -93,6 +93,16 @@ def get_json(url, **kw):
     return json.loads(http_get(url, **kw))
 
 
+def post_json(url, payload, headers=None, timeout=30):
+    """POST a JSON body and parse the JSON response."""
+    body = json.dumps(payload).encode()
+    req = urllib.request.Request(url, data=body, headers={
+        "User-Agent": UA, "Content-Type": "application/json",
+        "Accept": "application/json", **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read().decode("utf-8", errors="replace"))
+
+
 def pick_name(d, *keys):
     """First non-empty value among keys of a possibly-None dict."""
     if not isinstance(d, dict):
@@ -218,6 +228,74 @@ def fetch_naver():
     return jobs
 
 
+LG_FILTER = {"lnbSearch": "", "hashTagText": "", "recDate": "CREATION_DATE",
+             "order": "DESC", "careerList": [], "companyCodeList": [],
+             "desireLocList": [], "jobGroupList": []}
+
+
+def fetch_lg():
+    """careers.lg.com — LG그룹 통합 채용 (전자·디스플레이·이노텍·화학·에너지솔루션 등)."""
+    d = post_json("https://api.careers.lg.com/rmk/job/retrieveJobNoticesList", LG_FILTER,
+                  headers={"Origin": "https://careers.lg.com",
+                           "Referer": "https://careers.lg.com/"})
+    jobs = []
+    for j in (d.get("data") or {}).get("jobNoticeList", []):
+        if j.get("noticeStatus") != "POSTING":  # skip closed/reserved
+            continue
+        title = j.get("jobNoticeName", "")
+        cats = categorize(title, [j.get("hashtagText") or ""])
+        if not cats:
+            continue
+        end = (j.get("recEndDateTime") or "")[:10].replace(".", "-")  # 2026.07.19 23:00
+        jid = j.get("jobNoticeId")
+        jobs.append({
+            "id": f"lg:{jid}",
+            "source": "lg",
+            "company": j.get("companyName") or "LG",
+            "title": title,
+            "team": "",
+            "location": "",
+            "employment_type": "",
+            "career_type": j.get("careerTypeName") or "",
+            "deadline": end or "상시",
+            "url": f"https://careers.lg.com/apply/detail?id={jid}",
+            "tags": [],
+            "categories": cats,
+        })
+    return jobs
+
+
+def fetch_kt():
+    """recruit.kt.com — KT그룹 채용 (KT·BC카드·kt ds·kt is·kt alpha 등 계열사)."""
+    d = get_json("https://recruit.kt.com/api/recruit"
+                 "?isPost=1&isInprogress=1&isContainsContents=0")
+    jobs = []
+    for j in d.get("data", []):
+        title = j.get("recruitNoticeName") or j.get("title") or ""
+        sectors = [s.get("recruitSectorName", "") for s in (j.get("recruitSectorList") or [])
+                   if isinstance(s, dict)]
+        cats = categorize(title, sectors)
+        if not cats:
+            continue
+        end = (j.get("receiveEndDatetime") or "")[:10]  # 2026-07-05 23:59:59
+        sn = j.get("recruitNoticeSn")
+        jobs.append({
+            "id": f"kt:{sn}",
+            "source": "kt",
+            "company": j.get("company") or "KT",
+            "title": title,
+            "team": " · ".join(s for s in sectors if s),
+            "location": "",
+            "employment_type": j.get("recruitTypeName") or "",
+            "career_type": j.get("recruitClassName") or "",
+            "deadline": end or "상시",
+            "url": j.get("recruitNoticeUrl") or "https://recruit.kt.com/careers",
+            "tags": [],
+            "categories": cats,
+        })
+    return jobs
+
+
 TOSS_META = {  # Greenhouse custom-field ids used by toss.im career feed
     "category": 24623243003, "company": 4169410003, "employment": 4112432003,
     "deadline": 11431213003, "hidden": 5038345003,
@@ -299,12 +377,14 @@ SOURCES = {
     "kakao": fetch_kakao,
     "woowahan": fetch_woowahan,
     "toss": fetch_toss,
+    "lg": fetch_lg,
+    "kt": fetch_kt,
     "lgairesearch": lambda: fetch_greenhouse("lgairesearch", "LG AI연구원"),
     "coupang": lambda: fetch_greenhouse("coupang", "쿠팡", korea_only=True),
 }
 
 # v2 candidates (blocked or needs deeper reverse-engineering; see README):
-#   samsung, sk(hynix), lg-electronics, hyundai, kt, line, kakaobank
+#   line, kakaobank
 
 
 # ------------------------------------------------------------------ main --
