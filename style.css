@@ -1,0 +1,141 @@
+:root {
+  --bg: #f6f7f9;
+  --card: #ffffff;
+  --text: #191c22;
+  --muted: #6b7280;
+  --accent: #2563eb;
+  --accent-soft: #dbeafe;
+  --green: #059669;
+  --green-soft: #d1fae5;
+  --amber: #b45309;
+  --amber-soft: #fef3c7;
+  --border: #e5e7eb;
+}
+[data-theme="dark"] {
+  --bg: #101318;
+  --card: #1a1e26;
+  --text: #e7eaee;
+  --muted: #98a1ad;
+  --accent: #60a5fa;
+  --accent-soft: #1d3a63;
+  --green: #34d399;
+  --green-soft: #113b2e;
+  --amber: #fbbf24;
+  --amber-soft: #3d2f10;
+  --border: #2b303a;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Malgun Gothic", sans-serif;
+  background: var(--bg); color: var(--text); line-height: 1.55;
+}
+a { color: inherit; }
+
+header {
+  position: sticky; top: 0; z-index: 20;
+  background: var(--card); border-bottom: 1px solid var(--border);
+  padding: 12px 20px; display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+}
+header h1 { font-size: 1.1rem; white-space: nowrap; }
+header .sub { color: var(--muted); font-size: 0.78rem; }
+header .spacer { flex: 1; }
+#search {
+  padding: 7px 12px; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--bg); color: var(--text); width: 210px; font-size: 0.9rem;
+}
+.iconbtn {
+  border: 1px solid var(--border); background: var(--bg); color: var(--text);
+  border-radius: 8px; padding: 7px 11px; cursor: pointer; font-size: 0.88rem;
+}
+.iconbtn:hover { background: var(--accent-soft); }
+
+.wrap { max-width: 1200px; margin: 0 auto; padding: 18px 20px 60px; }
+
+.filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; align-items: center; }
+.chip {
+  border: 1px solid var(--border); background: var(--card); color: var(--text);
+  border-radius: 999px; padding: 5px 13px; cursor: pointer; font-size: 0.85rem;
+}
+.chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.chip .n { opacity: 0.65; font-size: 0.78rem; margin-left: 3px; }
+
+.layout { display: flex; gap: 18px; align-items: flex-start; }
+#jobList { flex: 1; min-width: 0; }
+
+.job {
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 14px 16px; margin-bottom: 10px;
+}
+.job .row1 { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.job .company { font-size: 0.82rem; color: var(--accent); font-weight: 600; }
+.job .badge {
+  font-size: 0.7rem; padding: 1px 8px; border-radius: 999px; font-weight: 700;
+}
+.badge.new { background: var(--green-soft); color: var(--green); }
+.badge.due { background: var(--amber-soft); color: var(--amber); }
+.badge.match { background: var(--accent-soft); color: var(--accent); }
+.job h3 { font-size: 0.98rem; margin: 3px 0 5px; }
+.job h3 a { text-decoration: none; }
+.job h3 a:hover { text-decoration: underline; }
+.job .meta { color: var(--muted); font-size: 0.8rem; display: flex; gap: 12px; flex-wrap: wrap; }
+.job .mk { margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap; }
+.job .mk span {
+  font-size: 0.72rem; background: var(--accent-soft); color: var(--accent);
+  padding: 1px 8px; border-radius: 999px;
+}
+.job .actions { margin-top: 8px; display: flex; gap: 8px; }
+.job .actions button { font-size: 0.78rem; padding: 4px 10px; }
+
+/* CV side panel */
+#cvPanel {
+  flex: 0 0 330px; position: sticky; top: 74px;
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 16px;
+}
+#cvPanel h2 { font-size: 0.95rem; margin-bottom: 8px; }
+#cvPanel .hint { color: var(--muted); font-size: 0.78rem; margin-bottom: 8px; }
+#cvText {
+  width: 100%; height: 150px; resize: vertical;
+  border: 1px solid var(--border); border-radius: 8px; padding: 8px;
+  background: var(--bg); color: var(--text); font-size: 0.82rem;
+}
+#cvPanel .btnrow { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
+#cvSkills { margin-top: 10px; display: flex; gap: 5px; flex-wrap: wrap; }
+#cvSkills span {
+  font-size: 0.74rem; background: var(--green-soft); color: var(--green);
+  padding: 2px 9px; border-radius: 999px;
+}
+.privacy { margin-top: 12px; font-size: 0.72rem; color: var(--muted); border-top: 1px dashed var(--border); padding-top: 8px; }
+
+/* modal */
+.modal-back {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.45); z-index: 50;
+  display: none; align-items: center; justify-content: center; padding: 20px;
+}
+.modal-back.open { display: flex; }
+.modal {
+  background: var(--card); color: var(--text); border-radius: 14px;
+  max-width: 720px; width: 100%; max-height: 85vh; overflow-y: auto; padding: 20px;
+}
+.modal h2 { font-size: 1rem; margin-bottom: 12px; }
+.modal label { display: block; font-size: 0.82rem; margin: 10px 0 4px; color: var(--muted); }
+.modal input, .modal select {
+  width: 100%; padding: 8px 10px; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--bg); color: var(--text); font-size: 0.88rem;
+}
+.modal .out {
+  white-space: pre-wrap; font-size: 0.86rem; background: var(--bg);
+  border: 1px solid var(--border); border-radius: 8px; padding: 12px; margin-top: 10px;
+}
+.modal .btnrow { display: flex; gap: 8px; margin-top: 14px; justify-content: flex-end; }
+.spin { display: inline-block; animation: spin 1s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.empty { color: var(--muted); text-align: center; padding: 50px 0; }
+footer { text-align: center; color: var(--muted); font-size: 0.75rem; padding: 26px 16px; }
+footer a { color: var(--accent); }
+
+@media (max-width: 900px) {
+  .layout { flex-direction: column-reverse; }
+  #cvPanel { position: static; flex: none; width: 100%; }
+}

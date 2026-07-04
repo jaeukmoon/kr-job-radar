@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KR Job Radar — 국내 대기업 AI/ML/데이터 채용</title>
+<meta name="description" content="국내 대기업 AI·ML·데이터 직군 채용 공고 모음 + 브라우저 내 CV 매칭">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>KR Job Radar</h1>
+  <span class="sub">국내 대기업 AI/ML/데이터 채용 · <span id="genDate"></span> 갱신</span>
+  <span class="spacer"></span>
+  <input id="search" type="search" placeholder="공고 검색...">
+  <button class="iconbtn" id="settingsBtn" title="Claude API 설정">⚙ AI 설정</button>
+  <button class="iconbtn" id="themeToggle" title="테마 전환">◐</button>
+</header>
+
+<div class="wrap">
+  <div class="filters" id="companyChips"></div>
+  <div class="filters">
+    <button class="chip" id="newOnly">NEW만</button>
+    <button class="chip" id="sortDeadline">마감임박순</button>
+    <button class="chip" id="sortMatch" style="display:none">매칭순</button>
+  </div>
+
+  <div class="layout">
+    <div id="jobList"><div class="empty">불러오는 중...</div></div>
+
+    <aside id="cvPanel">
+      <h2>내 CV/이력서 매칭</h2>
+      <div class="hint">이력서 텍스트를 붙여넣거나 파일(.txt/.md/.pdf)을 올리면 <b>브라우저 안에서만</b> 분석해 공고별 매칭 점수를 보여줍니다. 서버로 전송되지 않습니다.</div>
+      <textarea id="cvText" placeholder="이력서 내용을 여기에 붙여넣기..."></textarea>
+      <div class="btnrow">
+        <input type="file" id="cvFile" accept=".txt,.md,.pdf" style="display:none">
+        <button class="iconbtn" id="cvFileBtn">파일 업로드</button>
+        <button class="iconbtn" id="cvApply">매칭 계산</button>
+        <button class="iconbtn" id="cvClear">지우기</button>
+      </div>
+      <div id="cvSkills"></div>
+      <div class="privacy">
+        🔒 CV·API 키는 이 브라우저(localStorage)에만 저장됩니다.<br>
+        AI 기능 사용 시에만 본인 Claude API 키로 Anthropic에 직접 전송됩니다.
+      </div>
+    </aside>
+  </div>
+</div>
+
+<!-- settings modal -->
+<div class="modal-back" id="settingsModal">
+  <div class="modal">
+    <h2>Claude AI 설정 (BYOK — 본인 키 사용)</h2>
+    <label>Anthropic API 키 (<a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">발급받기</a>)</label>
+    <input id="apiKey" type="password" placeholder="sk-ant-...">
+    <label>모델</label>
+    <select id="apiModel">
+      <option value="claude-sonnet-5">Claude Sonnet 5 (권장)</option>
+      <option value="claude-haiku-4-5-20251001">Claude Haiku 4.5 (저렴/빠름)</option>
+      <option value="claude-opus-4-8">Claude Opus 4.8 (고급)</option>
+    </select>
+    <div class="privacy">키는 이 브라우저에만 저장되며, AI 버튼을 누를 때 브라우저에서 Anthropic API로 직접 호출합니다. 이 사이트 운영자는 키·CV에 접근할 수 없습니다.</div>
+    <div class="btnrow">
+      <button class="iconbtn" id="settingsSave">저장</button>
+      <button class="iconbtn" id="settingsClose">닫기</button>
+    </div>
+  </div>
+</div>
+
+<!-- AI result modal -->
+<div class="modal-back" id="aiModal">
+  <div class="modal">
+    <h2 id="aiTitle">AI 분석</h2>
+    <div class="out" id="aiOut"></div>
+    <div class="btnrow">
+      <button class="iconbtn" id="aiCopy">복사</button>
+      <button class="iconbtn" id="aiClose">닫기</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  공고 정보는 각 사 채용 사이트에서 수집한 제목·메타데이터 요약이며, 상세 내용과 지원은 원문 링크에서 확인하세요.<br>
+  소스: 네이버 · 카카오 · 우아한형제들 · LG AI연구원 · 쿠팡 (매일 자동 갱신) ·
+  <a href="https://github.com/jaeukmoon/kr-job-radar" target="_blank" rel="noopener">GitHub</a>
+</footer>
+
+<script src="data/jobs.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

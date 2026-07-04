@@ -1,0 +1,1820 @@
+{
+ "generated": "2026-07-05",
+ "sources_ok": [
+  "naver",
+  "kakao",
+  "woowahan",
+  "lgairesearch",
+  "coupang"
+ ],
+ "errors": [],
+ "jobs": [
+  {
+   "id": "kakao:S-4689",
+   "source": "kakao",
+   "company": "카카오헬스케어",
+   "title": "[공동체] 카카오헬스케어 Data Engineer(Healthcare)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4689",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4699",
+   "source": "kakao",
+   "company": "카카오헬스케어",
+   "title": "[공동체] 카카오헬스케어 AI Native EHR 개발",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4699",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4706",
+   "source": "kakao",
+   "company": "카카오페이",
+   "title": "[공동체] 카카오페이 데이터 엔지니어 - 데이터 플랫폼",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4706",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4661",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 측위(Localization/Positioning) research scientist (R&D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4661",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4718",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 관제 플랫폼 백엔드 엔지니어",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4718",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4717",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 개발품질 평가 엔지니어",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4717",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4681",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 SLAM 엔지니어 (R&D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4681",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4680",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 AI 엔지니어 (R&D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4680",
+   "tags": [],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4725",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 AI Perception 엔지니어 (R&D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4725",
+   "tags": [],
+   "categories": [
+    "ml",
+    "vision",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4668",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 백엔드 개발자(주차 플랫폼 개발)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4668",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4432",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 물류 & 에이전트 개발실 백엔드 개발자",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4432",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4306",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 머신러닝 research scientist (R&D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4306",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4728",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 내비게이션 3D 지도 렌더링 엔진 개발자",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4728",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4651",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 SLAM research scientist (R&D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4651",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:S-4644",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 (데이터 사이언티스트)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4644",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:P-14402",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "Multimodal LLM Research Engineer (경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14402",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:P-14318",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "Machine Learning Engineer (Search) (경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14318",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:P-14476",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "LLM Research Engineer (Pre-training) (신입/경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14476",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:P-14324",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "Data Scientist (경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14324",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:P-14276",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "Data Analytics Engineer (경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14276",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "kakao:P-14472",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "AI 추론/학습 효율화 엔지니어 (경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14472",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:25113",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇프로덕트 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25113/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:24907",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로보틱스 S/W 엔지니어링(SLAM 개발)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/24907/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:25247",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(딜리버리 MLOps)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25247/detail",
+   "tags": [],
+   "categories": [
+    "mlops"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:25246",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터분석(CX프로덕트)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25246/detail",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:24698",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "Business Analyst(타임세일)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/24698/detail",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:25245",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "Business Analyst(커머스딜리버리)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25245/detail",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "woowahan:24250",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "Business Analyst(간편픽업)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/24250/detail",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4708922005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "[독자 AI 파운데이션 모델 개발] Reinforcement Learning Research/Engineering Internship",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708922005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4708027005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "[Residency/Postdoc] Research Scientist - Scientific Foundation Model",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708027005",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4012547005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist/Engineer - NLP",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4012547005",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4179238005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist/Engineer - EXAONE Lab",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4179238005",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4706754005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist Internship-Physical AI 개발",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4706754005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4638356005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist Internship(Agentic AI)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4638356005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4693138005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist Internship - Robot Foundation Model",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4693138005",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4708013005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist - Structured data modeling",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708013005",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4708924005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist - Physical AI & Robot Foundation Models",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708924005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "llm",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4709362005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist - Drug Discovery",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4709362005",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4080869005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist (LG AI Research Center, Ann Arbor)",
+   "team": "",
+   "location": "Ann Arbor, Michigan, United States",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080869005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4080978005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080978005",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4080871005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Engineer (LG AI Research Center, Ann Arbor)",
+   "team": "",
+   "location": "Ann Arbor, Michigan, United States",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080871005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4603031005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Protein Design Research Engineer Internship",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4603031005",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4083477005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "NLP 연구인턴",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4083477005",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4024293005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "NLP 개발인턴",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4024293005",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4012564005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "MLOps Engineer",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4012564005",
+   "tags": [],
+   "categories": [
+    "mlops"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4180455005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Large Language Model 연구 및 개발 Internship",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4180455005",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4607350005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "LLM Inference Engineer",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4607350005",
+   "tags": [],
+   "categories": [
+    "llm",
+    "mlops"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4710118005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI 사업개발 전문가(국방분야)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4710118005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4130830005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Scientist/Engineer Intern (LG AI Research Center, Ann Arbor) ",
+   "team": "",
+   "location": "Ann Arbor, Michigan, United States",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4130830005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4711938005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Safety & Policy Specialist",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4711938005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4608205005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI R&D 전략·정부과제 기획 담당자",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4608205005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4520326005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Product/Service Planning (AI 상품기획)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4520326005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4709731005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Data Engineer Internship",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4709731005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4223874005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Data Engineer",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4223874005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4666089005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Consultant",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4666089005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "lgairesearch:4325674005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "(인재풀) Research Scientist/Engineer - Language Lab",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4325674005",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7920685",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "재고기획 및 분석 담당자 (OHL Instock Planning)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7920685",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8025544",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] Water Flex 라스트마일 데이터 분석 및 운영 개선 담당자",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8025544",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7912198",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 프로그램 매니저 - 광고 운영 및 분석 (쿠팡이츠)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7912198",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8027856",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 쿠팡이츠 머천트 전략 기획 / 데이터 분석 담당자",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8027856",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7957055",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 카탈로그 데이터 분석 및 운영",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7957055",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8011846",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 시니어 운영 프로세스 개선 분석가 (Catalog Ops Improvement)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8011846",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7975742",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 사내변호사(ICT부문/Data, Privacy & AI Legal팀)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975742",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7992128",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] Senior HR Analytics (HR Insights)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7992128",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7994867",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] Eats 세일즈 전략 & 데이터 분석 매니저",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7994867",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8040797",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] CS 데이터 분석 담당자 ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8040797",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8002103",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[Coupang] Principal Legal Counsel (AI & Product Legal)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8002103",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7814016",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[Coupang] Business Analyst",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7814016",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8009469",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[Coupang Eats] Senior, Business analyst",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8009469",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7975485",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CPLB] Senior, Data Engineer (Compliance Ops-Data)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975485",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8011869",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CPLB] Data Analyst (계약직: 1년)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8011869",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7856487",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CLS] First & Middlemile Data Scientist (Operation Research)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7856487",
+   "tags": [],
+   "categories": [
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7927970",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "UX Research Operator (계약직)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7927970",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7920145",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff~Sr.Staff Data Scientist (Coupang Eats)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7920145",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7927865",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff, Machine Learning Engineer - Coupang Play",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7927865",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7849625",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff UCC Application Engineer (Operations, Governance, AI-enabled productivity)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7849625",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7956912",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Machine Learning Engineer (Coupang Eats)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7956912",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7896545",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Machine Learning Engineer (Ads Relevance)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7896545",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7061468",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Data Analyst - Fintech",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7061468",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7896826",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Data Analyst (Coupang Logistics Service) ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7896826",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7965456",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff CX Researcher (Customer Experience)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7965456",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7919211",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Backend Engineer (Streaming & AI Infrastructure)",
+   "team": "",
+   "location": "Seoul, South Korea; z-Test & Templates Only",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919211",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7358575",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr~Staff Data Analyst (Coupang Eats)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7358575",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8012236",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr. Staff, Machine Learning Engineer (Ads Engineering)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8012236",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7994883",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr. Staff - AI Data Center Architect ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7994883",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7964989",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr. Manager, Business Analyst (Rocket Fresh)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7964989",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8027805",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr. Data Analyst (Post Purchase Experience Analytics)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8027805",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7975547",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior, Machine Learning Engineer (Eats Search and Discovery)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975547",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8029811",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Staff, Data Scientist (Incrementality and Attribution)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8029811",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7962231",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Director, Robotics & Computer Vision (Global Operations Technology) ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962231",
+   "tags": [],
+   "categories": [
+    "vision",
+    "robotics"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7962502",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Data Analyst (Delivery Experience Analytics)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962502",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7919225",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Data Analyst (Catalog)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919225",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8020073",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Business Analyst (Pricing Data Analysis)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8020073",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7988178",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Principal, Business Analysis (Retail Sourcing & Acquisition Excellence)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7988178",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:7971603",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Machine Learning Engineer (Eats Search and Discovery)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7971603",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8009235",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Lead AI Design Technologist (Staff Product Designer)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8009235",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "coupang:8034833",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Director and Head of CRM Analytics and Science",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8034833",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "naver:30005096",
+   "source": "naver",
+   "company": "SNOW",
+   "title": "[SNOW] 서비스 데이터 분석가",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005096",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-04"
+  },
+  {
+   "id": "naver:30005057",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 프랑스어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-05",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005057",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-04"
+  },
+  {
+   "id": "naver:30005092",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-12",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005092",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-04"
+  },
+  {
+   "id": "naver:30005056",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-06",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005056",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-07-04"
+  },
+  {
+   "id": "naver:30005067",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud] LINE WORKS Speech/Vision/NLP 시니어 리서치 엔지니어 (경력)",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-15",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005067",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "llm",
+    "speech"
+   ],
+   "first_seen": "2026-07-04"
+  },
+  {
+   "id": "naver:30005081",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] 헬스케어 AI 서비스 기획 (프로덕트 매니저) (경력)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-13",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005081",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-04"
+  }
+ ]
+}
