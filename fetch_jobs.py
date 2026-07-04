@@ -63,7 +63,7 @@ CATEGORIES = [
         "ranking", "개인화", "personaliz"], "word": ["search"]},  # "search" as word: avoid "reSEARCHer"
     {"id": "robotics", "name": "로보틱스/자율주행", "substr": [
         "로보틱스", "로봇", "robotics", "slam", "자율주행", "autonomous",
-        "제어", "control engineer", "모빌리티"], "word": []},
+        "control engineer", "manipulator"], "word": []},  # "모빌리티"/"제어" dropped: too broad (mobility-domain false positives)
     {"id": "speech", "name": "음성/오디오", "substr": [
         "음성", "speech", "asr", "tts", "오디오", "audio"], "word": []},
 ]
@@ -337,10 +337,26 @@ def main():
             errors.append(f"{name}: {e}")
             print(f"[{name}] ERROR: {e}", file=sys.stderr)
 
+    # merge browser-fetched sources (Samsung/Hyundai/SK via Playwright), if present.
+    # fetch_browser.py writes data/jobs_browser.json in a prior workflow step; if it is
+    # absent or blocked this contributes nothing and the static feed stands on its own.
+    browser_ok = []
+    bpath = DATA / "jobs_browser.json"
+    if not only and bpath.exists():
+        try:
+            bdata = json.loads(bpath.read_text(encoding="utf-8"))
+            for j in bdata.get("jobs", []):
+                j["first_seen"] = prev.get(j["id"]) or today
+                all_jobs.append(j)
+            browser_ok = bdata.get("sources_ok", [])
+            print(f"[browser] merged {len(bdata.get('jobs', []))} jobs from {browser_ok}")
+        except Exception as e:
+            print(f"[browser] merge skipped: {e}", file=sys.stderr)
+
     all_jobs.sort(key=lambda j: (j["first_seen"], j["company"], j["title"]), reverse=True)
     out = {
         "generated": today,
-        "sources_ok": [n for n in SOURCES if not only or n == only],
+        "sources_ok": [n for n in SOURCES if not only or n == only] + browser_ok,
         "errors": errors,
         "jobs": all_jobs,
     }

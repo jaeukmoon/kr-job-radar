@@ -18,7 +18,19 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Fetch job postings
+      - name: Install Playwright (for Samsung/Hyundai/SK)
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      # Browser sources sit behind bot-protection (SK WAF, Hyundai NetFunnel queue,
+      # Samsung SPA). continue-on-error so a block never fails the whole run — the
+      # static feed below still updates, and jobs_browser.json keeps its last-good data.
+      - name: Fetch browser sources (Samsung/Hyundai/SK)
+        continue-on-error: true
+        run: python fetch_browser.py
+
+      - name: Fetch static sources + merge browser sources
         run: python fetch_jobs.py
 
       - name: Commit & push if changed
