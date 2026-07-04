@@ -1,14 +1,393 @@
 {
- "generated": "2026-07-04",
+ "generated": "2026-07-05",
  "sources_ok": [
   "naver",
   "kakao",
   "woowahan",
+  "toss",
   "lgairesearch",
   "coupang"
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7746700003",
+   "source": "toss",
+   "company": "토스플레이스",
+   "title": "Applied AI Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7746700003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6333084003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "ML Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6333084003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7569841003",
+   "source": "toss",
+   "company": "토스인사이트",
+   "title": "Strategy Analyst",
+   "team": "R&D",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7569841003",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7675099003",
+   "source": "toss",
+   "company": "토스인사이트",
+   "title": "Digital Finance Researcher",
+   "team": "R&D",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7675099003",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7757642003",
+   "source": "toss",
+   "company": "토스씨엑스",
+   "title": "토스쇼핑 음성 데이터 검수 스태프 (팀원)",
+   "team": "Customer",
+   "location": "부산",
+   "employment_type": "단기계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7757642003",
+   "tags": [],
+   "categories": [
+    "speech"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7507321003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "ML Platform Team Leader",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7507321003",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6600650003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "ML Backend Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6600650003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6434513003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Finance Data System Developer",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6434513003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6085018003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Scientist ",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6085018003",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6603749003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Platform Engineer (Streaming)",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6603749003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7782783003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Analytics Specialist",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7782783003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7775866003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "AI Product Team Leader",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7775866003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7686276003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Search Engineer (Retrieval)",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7686276003",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7668934003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Product Owner [Search]",
+   "team": "Product Ownership",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7668934003",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:4770769003",
+   "source": "toss",
+   "company": "토스",
+   "title": "ML Engineer [전문연구요원]",
+   "team": "병역특례",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=4770769003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6543801003",
+   "source": "toss",
+   "company": "토스",
+   "title": "ML Engineer [Commerce]",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6543801003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:4071103003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Engineer ",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=4071103003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:5960616003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Analytics Engineer ",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=5960616003",
+   "tags": [],
+   "categories": [
+    "data-analysis",
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7720519003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Analyst ",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7720519003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:4071131003",
+   "source": "toss",
+   "company": "토스",
+   "title": "DBA",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=4071131003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:6279876003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Business Analyst",
+   "team": "Sales Support",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6279876003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "id": "toss:7786567003",
+   "source": "toss",
+   "company": "토스",
+   "title": "AI Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7786567003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05"
+  },
   {
    "id": "kakao:S-4689",
    "source": "kakao",
@@ -74,7 +453,6 @@
    "tags": [],
    "categories": [
     "research",
-    "recsys",
     "robotics"
    ],
    "first_seen": "2026-07-05"
@@ -216,7 +594,6 @@
    "categories": [
     "ml",
     "research",
-    "recsys",
     "robotics"
    ],
    "first_seen": "2026-07-05"
@@ -252,7 +629,6 @@
    "tags": [],
    "categories": [
     "research",
-    "recsys",
     "robotics"
    ],
    "first_seen": "2026-07-05"
@@ -288,8 +664,7 @@
    "tags": [],
    "categories": [
     "research",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -325,8 +700,7 @@
    "tags": [],
    "categories": [
     "research",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -514,8 +888,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -533,8 +906,7 @@
    "tags": [],
    "categories": [
     "research",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -552,8 +924,7 @@
    "tags": [],
    "categories": [
     "research",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -570,8 +941,7 @@
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4179238005",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -589,8 +959,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -608,8 +977,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -627,8 +995,7 @@
    "tags": [],
    "categories": [
     "research",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -645,8 +1012,7 @@
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708013005",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -665,8 +1031,7 @@
    "categories": [
     "ml",
     "research",
-    "llm",
-    "recsys"
+    "llm"
    ],
    "first_seen": "2026-07-05"
   },
@@ -683,8 +1048,7 @@
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4709362005",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -702,8 +1066,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -720,8 +1083,7 @@
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080978005",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -739,8 +1101,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -757,8 +1118,7 @@
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4603031005",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -881,8 +1241,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -1003,8 +1362,7 @@
    "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4325674005",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -1276,25 +1634,7 @@
    "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7856487",
    "tags": [],
    "categories": [
-    "research",
-    "recsys"
-   ],
-   "first_seen": "2026-07-05"
-  },
-  {
-   "id": "coupang:7927970",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "UX Research Operator (계약직)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7927970",
-   "tags": [],
-   "categories": [
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-05"
   },
@@ -1414,23 +1754,6 @@
    "tags": [],
    "categories": [
     "data-analysis"
-   ],
-   "first_seen": "2026-07-05"
-  },
-  {
-   "id": "coupang:7965456",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff CX Researcher (Customer Experience)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7965456",
-   "tags": [],
-   "categories": [
-    "recsys"
    ],
    "first_seen": "2026-07-05"
   },
@@ -1774,8 +2097,7 @@
    "tags": [],
    "categories": [
     "ml",
-    "research",
-    "recsys"
+    "research"
    ],
    "first_seen": "2026-07-04"
   },

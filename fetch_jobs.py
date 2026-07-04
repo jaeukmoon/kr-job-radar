@@ -59,8 +59,8 @@ CATEGORIES = [
         "serving", "inference", "추론 최적화", "ai 플랫폼", "ai platform",
         "kubeflow", "mlflow"], "word": []},
     {"id": "recsys", "name": "추천/검색", "substr": [
-        "추천", "recommendation", "recsys", "검색", "search", "retrieval",
-        "ranking", "개인화", "personaliz"], "word": []},
+        "추천", "recommendation", "recsys", "검색", "retrieval",
+        "ranking", "개인화", "personaliz"], "word": ["search"]},  # "search" as word: avoid "reSEARCHer"
     {"id": "robotics", "name": "로보틱스/자율주행", "substr": [
         "로보틱스", "로봇", "robotics", "slam", "자율주행", "autonomous",
         "제어", "control engineer", "모빌리티"], "word": []},
@@ -298,12 +298,13 @@ SOURCES = {
     "naver": fetch_naver,
     "kakao": fetch_kakao,
     "woowahan": fetch_woowahan,
+    "toss": fetch_toss,
     "lgairesearch": lambda: fetch_greenhouse("lgairesearch", "LG AI연구원"),
     "coupang": lambda: fetch_greenhouse("coupang", "쿠팡", korea_only=True),
 }
 
 # v2 candidates (blocked or needs deeper reverse-engineering; see README):
-#   samsung, sk(hynix), lg-electronics, hyundai, kt, line, toss, kakaobank
+#   samsung, sk(hynix), lg-electronics, hyundai, kt, line, kakaobank
 
 
 # ------------------------------------------------------------------ main --
