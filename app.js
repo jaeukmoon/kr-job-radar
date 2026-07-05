@@ -219,7 +219,7 @@ function loadPdfJs() {
 function apiConfig() {
   return {
     key: localStorage.getItem("kjr_api_key") || "",
-    model: localStorage.getItem("kjr_api_model") || "claude-sonnet-5",
+    model: localStorage.getItem("kjr_api_model") || "claude-sonnet-4-6",
   };
 }
 
