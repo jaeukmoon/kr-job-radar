@@ -354,4 +354,77 @@ document.getElementById("themeToggle").addEventListener("click", () => {
 });
 if (localStorage.getItem("kjr_theme") === "dark") document.documentElement.dataset.theme = "dark";
 
+/* -------------------------------------------------------- issues tab -- */
+/* Backend-free reporting: a submission opens a prefilled GitHub "new issue"
+   page (uses the visitor's own GitHub session, no token needed); the list is
+   read back from the public GitHub REST API and filtered by the [제보] title. */
+const REPO = "jaeukmoon/kr-job-radar";
+let issuesLoaded = false;
+
+function switchView(view) {
+  document.querySelectorAll(".tab").forEach(t =>
+    t.classList.toggle("active", t.dataset.view === view));
+  document.getElementById("jobsView").hidden = view !== "jobs";
+  document.getElementById("issuesView").hidden = view !== "issues";
+  if (view === "issues" && !issuesLoaded) loadIssues();
+}
+
+function submitIssue() {
+  const type = document.getElementById("issueType").value;
+  const title = document.getElementById("issueTitle").value.trim();
+  const ref = document.getElementById("issueRef").value.trim();
+  const body = document.getElementById("issueBody").value.trim();
+  if (!title) { alert("제목을 입력하세요."); return; }
+  const fullTitle = `[제보] [${type}] ${title}`;
+  const fullBody =
+    `**유형**: ${type}\n` +
+    (ref ? `**관련 회사/링크**: ${ref}\n` : "") +
+    `\n${body || "(내용 없음)"}\n\n---\nKR Job Radar 제보 폼에서 작성됨`;
+  const url = `https://github.com/${REPO}/issues/new` +
+    `?title=${encodeURIComponent(fullTitle)}` +
+    `&body=${encodeURIComponent(fullBody)}`;
+  window.open(url, "_blank", "noopener");
+}
+
+async function loadIssues() {
+  const box = document.getElementById("issueList");
+  box.innerHTML = '<div class="empty">불러오는 중...</div>';
+  try {
+    const res = await fetch(
+      `https://api.github.com/repos/${REPO}/issues?state=all&per_page=50&sort=created&direction=desc`,
+      { headers: { Accept: "application/vnd.github+json" } });
+    if (!res.ok) throw new Error(`GitHub API ${res.status}`);
+    const all = await res.json();
+    const reports = all.filter(i => !i.pull_request && (i.title || "").startsWith("[제보]"));
+    issuesLoaded = true;
+    if (!reports.length) {
+      box.innerHTML = '<div class="empty">아직 접수된 제보가 없습니다. 첫 제보를 남겨주세요.</div>';
+      return;
+    }
+    box.innerHTML = reports.map(i => {
+      const open = i.state === "open";
+      const date = (i.created_at || "").slice(0, 10);
+      const title = i.title.replace(/^\[제보\]\s*/, "");
+      return `<div class="issue">
+        <div class="row1">
+          <span class="badge ${open ? "st-open" : "st-closed"}">${open ? "접수" : "처리완료"}</span>
+          <span class="issue-date">${esc(date)}</span>
+          ${i.comments ? `<span class="issue-cmt">💬 ${i.comments}</span>` : ""}
+        </div>
+        <h3><a href="${esc(i.html_url)}" target="_blank" rel="noopener">${esc(title)}</a></h3>
+        <div class="meta">by ${esc(i.user && i.user.login || "?")}</div>
+      </div>`;
+    }).join("");
+  } catch (e) {
+    box.innerHTML =
+      `<div class="empty">제보 목록을 불러오지 못했습니다 (${esc(e.message)}).<br>` +
+      `GitHub API 시간당 요청 한도(60회)일 수 있습니다. 잠시 후 새로고침하세요.</div>`;
+  }
+}
+
+document.querySelectorAll(".tab").forEach(t =>
+  t.addEventListener("click", () => switchView(t.dataset.view)));
+document.getElementById("issueSubmit").addEventListener("click", submitIssue);
+document.getElementById("issueRefresh").addEventListener("click", () => { issuesLoaded = false; loadIssues(); });
+
 init();

@@ -131,6 +131,52 @@ header .spacer { flex: 1; }
 .spin { display: inline-block; animation: spin 1s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
+/* tabs */
+.tabs { display: flex; gap: 4px; margin-bottom: 16px; border-bottom: 1px solid var(--border); }
+.tab {
+  border: none; background: none; color: var(--muted); cursor: pointer;
+  font-size: 0.92rem; padding: 8px 15px; border-bottom: 2px solid transparent; margin-bottom: -1px;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+
+/* issues tab */
+.issue-intro h2 { font-size: 1.05rem; margin-bottom: 4px; }
+.issue-intro .hint { color: var(--muted); font-size: 0.83rem; margin-bottom: 16px; max-width: 640px; }
+.issue-form {
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 16px; margin-bottom: 22px; max-width: 640px;
+}
+.issue-form label { display: block; font-size: 0.82rem; margin: 10px 0 4px; color: var(--muted); }
+.issue-form label:first-child { margin-top: 0; }
+.issue-form input, .issue-form select, .issue-form textarea {
+  width: 100%; padding: 8px 10px; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--bg); color: var(--text); font-size: 0.88rem; font-family: inherit;
+}
+.issue-form textarea { height: 110px; resize: vertical; }
+.issue-form .btnrow { display: flex; gap: 8px; margin-top: 12px; }
+.iconbtn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.iconbtn.primary:hover { background: var(--accent); opacity: 0.9; }
+.issue-form .privacy { margin-top: 10px; }
+
+.issue-list-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+.issue-list-head h3 { font-size: 0.95rem; }
+.issue {
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 12px 16px; margin-bottom: 10px;
+}
+.issue .row1 { display: flex; align-items: center; gap: 8px; }
+.issue .badge {
+  font-size: 0.7rem; padding: 1px 8px; border-radius: 999px; font-weight: 700;
+}
+.badge.st-open { background: var(--green-soft); color: var(--green); }
+.badge.st-closed { background: var(--accent-soft); color: var(--accent); }
+.issue-date, .issue-cmt { color: var(--muted); font-size: 0.76rem; }
+.issue h3 { font-size: 0.95rem; margin: 4px 0 3px; }
+.issue h3 a { text-decoration: none; }
+.issue h3 a:hover { text-decoration: underline; }
+.issue .meta { color: var(--muted); font-size: 0.78rem; }
+
 .empty { color: var(--muted); text-align: center; padding: 50px 0; }
 footer { text-align: center; color: var(--muted); font-size: 0.75rem; padding: 26px 16px; }
 footer a { color: var(--accent); }
