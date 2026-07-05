@@ -32,7 +32,15 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-234",
@@ -51,7 +59,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-230",
@@ -70,7 +82,13 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2025-N2-399",
@@ -87,7 +105,23 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "linux"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "linux"
+   ]
   },
   {
    "id": "hyundai:2026-N2-207",
@@ -106,7 +140,13 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N5-138",
@@ -123,7 +163,11 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-155",
@@ -142,7 +186,36 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "sql",
+    "kafka",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "spring",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "javascript",
+    "sql",
+    "kafka",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "spring",
+    "git"
+   ]
   },
   {
    "id": "hyundai:2026-N2-99",
@@ -159,7 +232,23 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "timeseries"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "go"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "java",
+    "scala",
+    "go"
+   ]
   },
   {
    "id": "hyundai:2026-N2-98",
@@ -176,7 +265,32 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "go",
+    "spark",
+    "flink",
+    "k8s",
+    "gcp"
+   ],
+   "pref_domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "spark",
+    "flink",
+    "k8s",
+    "gcp"
+   ]
   },
   {
    "id": "hyundai:2026-N2-209",
@@ -193,7 +307,14 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-250",
@@ -212,7 +333,11 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-228",
@@ -231,7 +356,11 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "sk:R261420",
@@ -248,7 +377,16 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "nlp",
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "speech"
+   ],
+   "pref_skills": []
   },
   {
    "id": "toss:7746700003",
@@ -265,7 +403,22 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "langchain"
+   ]
   },
   {
    "id": "toss:6333084003",
@@ -282,7 +435,27 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "recsys",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "hadoop",
+    "kafka",
+    "k8s"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys",
+    "mlops"
+   ],
+   "pref_skills": []
   },
   {
    "id": "toss:7569841003",
@@ -299,7 +472,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:7675099003",
@@ -316,7 +493,16 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "nlp",
+    "data-analysis"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:7757642003",
@@ -333,7 +519,13 @@
    "categories": [
     "speech"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:7507321003",
@@ -351,7 +543,18 @@
     "ml",
     "mlops"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:6600650003",
@@ -368,7 +571,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "python",
+    "go",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:6434513003",
@@ -385,7 +596,22 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "spark",
+    "hadoop",
+    "kafka"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:6085018003",
@@ -403,7 +629,30 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "hadoop",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
   },
   {
    "id": "toss:6603749003",
@@ -420,7 +669,24 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "java",
+    "sql",
+    "hadoop",
+    "kafka",
+    "flink",
+    "spring"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "kafka"
+   ]
   },
   {
    "id": "toss:7782783003",
@@ -437,7 +703,15 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:7775866003",
@@ -454,7 +728,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:7686276003",
@@ -472,7 +754,17 @@
     "ml",
     "recsys"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "kafka",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "kafka",
+    "k8s"
+   ]
   },
   {
    "id": "toss:7668934003",
@@ -489,7 +781,14 @@
    "categories": [
     "recsys"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:4770769003",
@@ -506,7 +805,30 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "recsys",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "hadoop",
+    "kafka",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:6543801003",
@@ -523,7 +845,16 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "recsys",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:4071103003",
@@ -540,7 +871,27 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "spark",
+    "hadoop",
+    "kafka",
+    "flink",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "java",
+    "scala"
+   ]
   },
   {
    "id": "toss:5960616003",
@@ -558,7 +909,28 @@
     "data-analysis",
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "spark",
+    "hadoop",
+    "kafka",
+    "airflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql",
+    "hadoop",
+    "airflow"
+   ]
   },
   {
    "id": "toss:7720519003",
@@ -575,7 +947,20 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
   },
   {
    "id": "toss:4071131003",
@@ -592,7 +977,20 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
   },
   {
    "id": "toss:6279876003",
@@ -609,7 +1007,16 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "toss:7786567003",
@@ -626,7 +1033,26 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "mlops"
+   ],
+   "skills": [
+    "vllm",
+    "rag",
+    "huggingface"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "vllm",
+    "rag"
+   ]
   },
   {
    "id": "kakao:S-4689",
@@ -643,7 +1069,26 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "hadoop",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "spark",
+    "hadoop",
+    "aws",
+    "gcp"
+   ]
   },
   {
    "id": "kakao:S-4699",
@@ -660,7 +1105,14 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "kakao:S-4706",
@@ -677,7 +1129,16 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": []
   },
   {
    "id": "kakao:S-4661",
@@ -694,7 +1155,18 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": []
   },
   {
    "id": "kakao:S-4718",
@@ -711,7 +1183,27 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "cpp",
+    "java",
+    "go",
+    "sql",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "cpp",
+    "go",
+    "aws",
+    "gcp"
+   ]
   },
   {
    "id": "kakao:S-4717",
@@ -728,7 +1220,19 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
   },
   {
    "id": "kakao:S-4681",
@@ -745,7 +1249,22 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
   },
   {
    "id": "kakao:S-4680",
@@ -763,7 +1282,27 @@
     "ml",
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "vision",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "cuda",
+    "vllm"
+   ],
+   "pref_domains": [
+    "vision"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "cuda",
+    "vllm"
+   ]
   },
   {
    "id": "kakao:S-4725",
@@ -782,7 +1321,22 @@
     "vision",
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "vision",
+    "robotics",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "cuda",
+    "vllm"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "kakao:S-4306",
@@ -800,7 +1354,24 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "pref_skills": []
   },
   {
    "id": "kakao:S-4651",
@@ -818,7 +1389,16 @@
     "research",
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "kakao:P-14402",
@@ -836,7 +1416,25 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "speech",
+    "multimodal",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "tensorflow",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm",
+    "multimodal"
+   ],
+   "pref_skills": []
   },
   {
    "id": "kakao:P-14318",
@@ -854,7 +1452,35 @@
     "ml",
     "recsys"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "nlp",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "hadoop",
+    "kafka",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "hadoop",
+    "kafka",
+    "k8s",
+    "rag"
+   ]
   },
   {
    "id": "kakao:P-14476",
@@ -872,7 +1498,21 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "cuda",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "cuda",
+    "distributed"
+   ]
   },
   {
    "id": "kakao:P-14324",
@@ -889,7 +1529,34 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "nlp",
+    "recsys",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "hadoop",
+    "airflow",
+    "k8s"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys",
+    "mlops",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "airflow",
+    "k8s"
+   ]
   },
   {
    "id": "kakao:P-14276",
@@ -906,7 +1573,19 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "hadoop",
+    "airflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "hadoop"
+   ]
   },
   {
    "id": "kakao:P-14472",
@@ -923,7 +1602,23 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "cuda",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "k8s",
+    "cuda"
+   ]
   },
   {
    "id": "woowahan:25113",
@@ -940,7 +1635,16 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
   },
   {
    "id": "woowahan:24907",
@@ -957,7 +1661,18 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "cpp",
+    "git"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
   },
   {
    "id": "woowahan:25247",
@@ -974,7 +1689,32 @@
    "categories": [
     "mlops"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "aws",
+    "git"
+   ]
   },
   {
    "id": "woowahan:25246",
@@ -991,7 +1731,29 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "aws",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "airflow",
+    "aws",
+    "tableau"
+   ]
   },
   {
    "id": "woowahan:24698",
@@ -1008,7 +1770,22 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "airflow",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql",
+    "tableau"
+   ]
   },
   {
    "id": "woowahan:25245",
@@ -1025,7 +1802,18 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql"
+   ]
   },
   {
    "id": "woowahan:24250",
@@ -1042,7 +1830,23 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "vision",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "airflow",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql",
+    "tableau"
+   ]
   },
   {
    "id": "samsung:22599",
@@ -1059,7 +1863,30 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "robotics",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "agent",
+    "robotics",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "powerbi"
+   ]
   },
   {
    "id": "lg:1001506",
@@ -1076,7 +1903,32 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "airflow",
+    "k8s",
+    "langchain",
+    "rag",
+    "fastapi",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "java",
+    "javascript",
+    "airflow",
+    "k8s",
+    "git"
+   ]
   },
   {
    "id": "naver:30005096",
@@ -1093,7 +1945,19 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "tableau"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "pref_skills": []
   },
   {
    "id": "sk:R261426",
@@ -1112,7 +1976,13 @@
     "data-analysis",
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "sk:R261491",
@@ -1129,7 +1999,11 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "sk:R261245",
@@ -1146,7 +2020,31 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "aws",
+    "gcp",
+    "azure",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "aws",
+    "gcp",
+    "azure",
+    "tableau",
+    "powerbi"
+   ]
   },
   {
    "id": "sk:R261425",
@@ -1163,7 +2061,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "sk:R261386",
@@ -1180,7 +2082,11 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "sk:R261473",
@@ -1197,7 +2103,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "naver:30005057",
@@ -1214,7 +2124,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "naver:30005092",
@@ -1231,7 +2145,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "naver:30005056",
@@ -1249,7 +2167,19 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "naver:30005067",
@@ -1269,7 +2199,28 @@
     "llm",
     "speech"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "vision",
+    "nlp",
+    "speech",
+    "recsys",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "pytorch",
+    "tensorflow",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "speech",
+    "mlops"
+   ],
+   "pref_skills": []
   },
   {
    "id": "naver:30005081",
@@ -1286,7 +2237,17 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lg:1001822",
@@ -1304,7 +2265,19 @@
     "ml",
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "robotics"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lg:1001821",
@@ -1321,7 +2294,17 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
   },
   {
    "id": "lg:1001907",
@@ -1338,7 +2321,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "lg:1001889",
@@ -1355,7 +2346,13 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lg:1001400",
@@ -1372,7 +2369,17 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "aws",
+    "gcp",
+    "azure"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lg:1001432",
@@ -1389,7 +2396,20 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "k8s",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lg:1001807",
@@ -1406,7 +2426,36 @@
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "distributed",
+    "vllm",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops"
+   ],
+   "pref_skills": [
+    "distributed",
+    "vllm",
+    "git"
+   ]
   },
   {
    "id": "lgairesearch:4708922005",
@@ -1424,7 +2473,19 @@
     "ml",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4708027005",
@@ -1442,7 +2503,18 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "pytorch",
+    "tensorflow"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4012547005",
@@ -1460,7 +2532,16 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "nlp"
+   ],
+   "skills": [
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4179238005",
@@ -1477,7 +2558,16 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4706754005",
@@ -1495,7 +2585,17 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4638356005",
@@ -1513,7 +2613,29 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "nlp",
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "k8s",
+    "vllm"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries"
+   ],
+   "pref_skills": [
+    "k8s",
+    "vllm"
+   ]
   },
   {
    "id": "lgairesearch:4693138005",
@@ -1531,7 +2653,17 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4708013005",
@@ -1548,7 +2680,24 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp",
+    "multimodal",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "pytorch"
+   ],
+   "pref_domains": [
+    "llm",
+    "multimodal",
+    "mlops"
+   ],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4708924005",
@@ -1567,7 +2716,26 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [
+    "pytorch",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm",
+    "robotics",
+    "multimodal"
+   ],
+   "pref_skills": [
+    "distributed"
+   ]
   },
   {
    "id": "lgairesearch:4709362005",
@@ -1584,7 +2752,14 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "pytorch",
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4080869005",
@@ -1602,7 +2777,16 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4080978005",
@@ -1619,7 +2803,16 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "timeseries",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4080871005",
@@ -1637,7 +2830,16 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4603031005",
@@ -1654,7 +2856,14 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "pytorch",
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4083477005",
@@ -1672,7 +2881,23 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "nlp",
+    "speech",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "tensorflow",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4024293005",
@@ -1689,7 +2914,16 @@
    "categories": [
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "nlp"
+   ],
+   "skills": [
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4012564005",
@@ -1706,7 +2940,21 @@
    "categories": [
     "mlops"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "go",
+    "k8s",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4180455005",
@@ -1724,7 +2972,24 @@
     "research",
     "llm"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "gcp",
+    "distributed",
+    "huggingface",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "gcp",
+    "distributed"
+   ]
   },
   {
    "id": "lgairesearch:4607350005",
@@ -1742,7 +3007,29 @@
     "llm",
     "mlops"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "cuda",
+    "vllm"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "cuda"
+   ]
   },
   {
    "id": "lgairesearch:4710118005",
@@ -1759,7 +3046,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4130830005",
@@ -1777,7 +3072,16 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4711938005",
@@ -1794,7 +3098,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4608205005",
@@ -1811,7 +3123,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "vision"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "vision"
+   ],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4520326005",
@@ -1828,7 +3148,13 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4709731005",
@@ -1846,7 +3172,28 @@
     "ml",
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "k8s",
+    "rag",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "k8s",
+    "rag"
+   ]
   },
   {
    "id": "lgairesearch:4223874005",
@@ -1864,7 +3211,29 @@
     "ml",
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "spark",
+    "flink",
+    "k8s",
+    "gcp",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "flink",
+    "git"
+   ]
   },
   {
    "id": "lgairesearch:4666089005",
@@ -1881,7 +3250,11 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "lgairesearch:4325674005",
@@ -1898,7 +3271,16 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "nlp"
+   ],
+   "skills": [
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "kt:258107",
@@ -1915,7 +3297,11 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "kt:258054",
@@ -1933,7 +3319,49 @@
     "ml",
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "distributed",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "aws",
+    "gcp",
+    "azure",
+    "distributed",
+    "git"
+   ]
   },
   {
    "id": "kt:257745",
@@ -1950,7 +3378,28 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "skills": [
+    "sql",
+    "aws",
+    "gcp",
+    "azure",
+    "rag"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": [
+    "sql",
+    "aws",
+    "gcp",
+    "azure"
+   ]
   },
   {
    "id": "kt:258711",
@@ -1967,7 +3416,18 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s"
+   ]
   },
   {
    "id": "coupang:7920685",
@@ -1984,7 +3444,17 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "robotics",
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:8025544",
@@ -2001,7 +3471,18 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "powerbi"
+   ]
   },
   {
    "id": "coupang:7912198",
@@ -2018,7 +3499,15 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:8027856",
@@ -2035,7 +3524,24 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "tableau",
+    "powerbi"
+   ]
   },
   {
    "id": "coupang:7957055",
@@ -2052,7 +3558,16 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:8011846",
@@ -2069,7 +3584,15 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7975742",
@@ -2086,7 +3609,11 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:7992128",
@@ -2103,7 +3630,20 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7994867",
@@ -2120,7 +3660,19 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:8040797",
@@ -2137,7 +3689,24 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
   },
   {
    "id": "coupang:8002103",
@@ -2154,7 +3723,15 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "coupang:7814016",
@@ -2171,7 +3748,21 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
   },
   {
    "id": "coupang:8009469",
@@ -2188,7 +3779,23 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7975485",
@@ -2205,7 +3812,26 @@
    "categories": [
     "data-eng"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "k8s",
+    "langchain",
+    "rag",
+    "fastapi"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:8011869",
@@ -2222,7 +3848,27 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "timeseries",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "tableau"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "airflow"
+   ]
   },
   {
    "id": "coupang:7856487",
@@ -2239,7 +3885,14 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:7920145",
@@ -2256,7 +3909,17 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "go",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:7927865",
@@ -2273,7 +3936,27 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "recsys",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "spark",
+    "airflow",
+    "k8s"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys",
+    "multimodal"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7849625",
@@ -2290,7 +3973,16 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:7956912",
@@ -2307,7 +3999,19 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "coupang:7896545",
@@ -2324,7 +4028,21 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys"
+   ],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [
+    "recsys"
+   ],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "coupang:7061468",
@@ -2341,7 +4059,23 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python"
+   ]
   },
   {
    "id": "coupang:7896826",
@@ -2358,7 +4092,32 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "airflow",
+    "aws",
+    "azure",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "airflow",
+    "aws",
+    "azure"
+   ]
   },
   {
    "id": "coupang:7919211",
@@ -2375,7 +4134,21 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "recsys",
+    "timeseries",
+    "data-eng"
+   ],
+   "skills": [
+    "java",
+    "kafka",
+    "aws"
+   ],
+   "pref_domains": [
+    "timeseries"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7358575",
@@ -2392,7 +4165,26 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "vision",
+    "recsys",
+    "timeseries",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "vision",
+    "timeseries",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
   },
   {
    "id": "coupang:8012236",
@@ -2409,7 +4201,28 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "recsys",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "langchain"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "mlops",
+    "data-analysis"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7994883",
@@ -2426,7 +4239,19 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "recsys"
+   ],
+   "skills": [
+    "javascript",
+    "airflow",
+    "aws"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "coupang:7964989",
@@ -2443,7 +4268,23 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
   },
   {
    "id": "coupang:8027805",
@@ -2460,7 +4301,27 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
   },
   {
    "id": "coupang:7975547",
@@ -2478,7 +4339,21 @@
     "ml",
     "recsys"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "aws"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "coupang:8029811",
@@ -2495,7 +4370,16 @@
    "categories": [
     "research"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:7962231",
@@ -2513,7 +4397,25 @@
     "vision",
     "robotics"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "robotics",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "go"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "robotics",
+    "data-eng"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:7962502",
@@ -2530,7 +4432,28 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "airflow",
+    "tableau",
+    "git"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "spark",
+    "airflow",
+    "tableau",
+    "git"
+   ]
   },
   {
    "id": "coupang:7919225",
@@ -2547,7 +4470,19 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:8020073",
@@ -2564,7 +4499,28 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "hadoop",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "agent",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "airflow"
+   ]
   },
   {
    "id": "coupang:7988178",
@@ -2581,7 +4537,19 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql"
+   ]
   },
   {
    "id": "coupang:7971603",
@@ -2599,7 +4567,19 @@
     "ml",
     "recsys"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
   },
   {
    "id": "coupang:8009235",
@@ -2616,7 +4596,22 @@
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "javascript"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "python",
+    "javascript",
+    "aws"
+   ]
   },
   {
    "id": "coupang:8034833",
@@ -2633,7 +4628,65 @@
    "categories": [
     "data-analysis"
    ],
-   "first_seen": "2026-07-05"
+   "first_seen": "2026-07-05",
+   "domains": [
+    "vision",
+    "nlp",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   }
- ]
+ ],
+ "taxonomy": {
+  "domains": {
+   "llm": "LLM/생성형",
+   "agent": "Agent/에이전트",
+   "rl": "강화학습",
+   "vision": "컴퓨터비전",
+   "nlp": "자연어처리(NLP)",
+   "speech": "음성/오디오",
+   "recsys": "추천/랭킹",
+   "robotics": "로보틱스/자율주행",
+   "timeseries": "시계열/예측",
+   "multimodal": "멀티모달",
+   "mlops": "MLOps/서빙",
+   "data-eng": "데이터 엔지니어링",
+   "data-analysis": "데이터 분석"
+  },
+  "skills": {
+   "python": "Python",
+   "cpp": "C++",
+   "java": "Java",
+   "javascript": "JS/TS",
+   "scala": "Scala",
+   "go": "Go",
+   "sql": "SQL",
+   "pytorch": "PyTorch",
+   "tensorflow": "TF/JAX",
+   "spark": "Spark",
+   "hadoop": "Hadoop",
+   "kafka": "Kafka",
+   "airflow": "Airflow",
+   "flink": "Flink",
+   "k8s": "K8s/Docker",
+   "aws": "AWS",
+   "gcp": "GCP",
+   "azure": "Azure",
+   "cuda": "CUDA",
+   "distributed": "분산학습",
+   "vllm": "vLLM/추론엔진",
+   "langchain": "LangChain",
+   "rag": "RAG",
+   "huggingface": "HuggingFace",
+   "tableau": "Tableau",
+   "powerbi": "Power BI",
+   "spring": "Spring",
+   "fastapi": "FastAPI/Django",
+   "git": "Git",
+   "linux": "Linux"
+  }
+ }
 }

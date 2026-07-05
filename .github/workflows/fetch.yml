@@ -33,6 +33,12 @@ jobs:
       - name: Fetch static sources + merge browser sources
         run: python fetch_jobs.py
 
+      # Mine each posting's minimum/preferred qualifications (자격요건/우대사항) over
+      # plain HTTP and tag domain/skill keywords onto jobs.json. Cached by job id in
+      # data/quals_cache.json so only newly-seen postings are fetched each day.
+      - name: Enrich with JD skill/domain keywords
+        run: python fetch_details.py
+
       - name: Commit & push if changed
         run: |
           git config user.name "github-actions[bot]"

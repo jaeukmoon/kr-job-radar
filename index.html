@@ -24,6 +24,30 @@
   </div>
 
   <div id="jobsView">
+  <section class="trend" id="trend" data-scope="pref" hidden>
+    <div class="trend-head">
+      <div>
+        <h2>📊 채용 트렌드</h2>
+        <div class="trend-sub" id="trendSub"></div>
+      </div>
+      <div class="seg" role="tablist" aria-label="집계 기준">
+        <button type="button" data-scope="pref" class="active">우대사항 🔥</button>
+        <button type="button" data-scope="all">전체 요구</button>
+      </div>
+    </div>
+    <div class="trend-body">
+      <div>
+        <div class="trend-label">분야 <em id="domScope"></em></div>
+        <div class="bars" id="domBars"></div>
+      </div>
+      <div>
+        <div class="trend-label">스킬 · 키워드 <em id="skScope"></em></div>
+        <div class="tags" id="skillTags"></div>
+      </div>
+    </div>
+    <div class="trend-foot" id="trendFoot"></div>
+  </section>
+
   <div class="filters" id="companyChips"></div>
   <div class="filters">
     <button class="chip" id="newOnly">NEW만</button>

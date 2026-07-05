@@ -10,6 +10,7 @@
   --amber: #b45309;
   --amber-soft: #fef3c7;
   --border: #e5e7eb;
+  --track: #eceef2;
 }
 [data-theme="dark"] {
   --bg: #101318;
@@ -23,6 +24,7 @@
   --amber: #fbbf24;
   --amber-soft: #3d2f10;
   --border: #2b303a;
+  --track: #232833;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -185,3 +187,82 @@ footer a { color: var(--accent); }
   .layout { flex-direction: column-reverse; }
   #cvPanel { position: static; flex: none; width: 100%; }
 }
+
+/* ---------------------------------------------------- 채용 트렌드 패널 -- */
+.trend {
+  background: var(--card); border: 1px solid var(--border); border-radius: 12px;
+  padding: 16px 18px; margin-bottom: 16px;
+}
+.trend-head {
+  display: flex; justify-content: space-between; align-items: flex-start;
+  gap: 12px; flex-wrap: wrap; margin-bottom: 15px;
+}
+.trend-head h2 { font-size: 1rem; display: flex; align-items: center; gap: 7px; }
+.trend-sub { color: var(--muted); font-size: 0.78rem; margin-top: 3px; }
+.trend-sub b { color: var(--text); }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 999px; overflow: hidden; }
+.seg button {
+  border: none; background: var(--card); color: var(--muted);
+  padding: 6px 15px; font-size: 0.82rem; cursor: pointer; white-space: nowrap;
+}
+.seg button.active { color: #fff; font-weight: 600; }
+.trend[data-scope="pref"] .seg button.active { background: var(--amber); }
+.trend[data-scope="all"] .seg button.active { background: var(--accent); }
+
+.trend-body { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 26px; }
+.trend-label {
+  font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--muted); font-weight: 700; margin-bottom: 11px;
+}
+.trend-label em { font-style: normal; color: var(--amber); margin-left: 5px; }
+
+.bars { display: flex; flex-direction: column; gap: 7px; }
+.bar {
+  display: grid; grid-template-columns: 104px 1fr 30px; align-items: center; gap: 10px;
+  background: none; border: none; cursor: pointer; padding: 2px 0; text-align: left;
+  color: var(--text); font-size: 0.83rem;
+}
+.bar-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bar-track { height: 10px; background: var(--track); border-radius: 999px; overflow: hidden; }
+.bar-fill { display: block; height: 100%; border-radius: 999px; background: var(--accent); transition: width 0.35s ease; }
+.trend[data-scope="pref"] .bar-fill { background: var(--amber); }
+.bar-n { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); font-size: 0.78rem; }
+.bar:hover .bar-name { color: var(--accent); }
+.bar.sel .bar-name { color: var(--accent); font-weight: 700; }
+.bar.sel .bar-track { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.tags { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+.tag {
+  border: 1px solid var(--border); background: var(--card); color: var(--text);
+  border-radius: 999px; padding: 4px 11px; cursor: pointer; line-height: 1.25;
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.tag .tn { color: var(--muted); font-size: 0.72rem; font-variant-numeric: tabular-nums; }
+.trend[data-scope="pref"] .tag { border-color: var(--amber-soft); }
+.tag:hover { border-color: var(--accent); }
+.tag.sel { background: var(--accent); border-color: var(--accent); color: #fff; }
+.tag.sel .tn { color: #dbe7ff; }
+
+.trend-foot {
+  margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--border);
+  font-size: 0.79rem; color: var(--muted); display: flex; gap: 10px; align-items: center;
+  flex-wrap: wrap; min-height: 1.4em;
+}
+.trend-foot .clear {
+  color: var(--accent); cursor: pointer; border: none; background: none;
+  font-size: 0.79rem; padding: 0; text-decoration: underline;
+}
+
+/* per-card mined domain/skill chips */
+.job .jtags { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+.job .jtags .jd {
+  font-size: 0.72rem; background: var(--accent-soft); color: var(--accent);
+  padding: 1px 8px; border-radius: 999px; font-weight: 600;
+}
+.job .jtags .js {
+  font-size: 0.72rem; background: var(--track); color: var(--muted);
+  padding: 1px 8px; border-radius: 999px;
+}
+.job .jtags .js.jp { background: var(--amber-soft); color: var(--amber); }
+
+@media (max-width: 760px) { .trend-body { grid-template-columns: 1fr; gap: 20px; } }
