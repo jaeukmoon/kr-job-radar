@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-05",
+ "generated": "2026-07-06",
  "sources_ok": [
   "naver",
   "kakao",
@@ -2099,27 +2099,6 @@
    "career_type": "경력",
    "deadline": "2026-07-15",
    "url": "https://www.skcareers.com/Recruit/Detail/R261473",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005057",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 프랑스어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-05",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005057",
    "tags": [],
    "categories": [
     "research"
