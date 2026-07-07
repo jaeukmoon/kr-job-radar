@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-06",
+ "generated": "2026-07-07",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,163 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7668948003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Product Owner [Search]",
+   "team": "Product Ownership",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7668948003",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-07-07",
+   "domains": [
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25370",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "Business Analyst(타임세일)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25370/detail",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-07",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "airflow",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql",
+    "tableau"
+   ]
+  },
+  {
+   "id": "woowahan:25372",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "Business Analyst(간편픽업)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25372/detail",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-07",
+   "domains": [
+    "vision",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "airflow",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql",
+    "tableau"
+   ]
+  },
+  {
+   "id": "lg:1001920",
+   "source": "lg",
+   "company": "로보스타",
+   "title": "[로보스타] 연구/개발 경력사원 모집",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-07-19",
+   "url": "https://careers.lg.com/apply/detail?id=1001920",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-07",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "javascript",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005115",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 한국어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005115",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-07",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005116",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 일본어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005116",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-07",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N2-27",
    "source": "hyundai",
@@ -132,7 +289,7 @@
    "location": "의왕",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-07-07",
+   "deadline": "2026-07-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=207",
    "tags": [
     "6월 경력 채용"
@@ -144,27 +301,6 @@
    "domains": [
     "robotics"
    ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N5-138",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=138",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
@@ -765,30 +901,6 @@
     "kafka",
     "k8s"
    ]
-  },
-  {
-   "id": "toss:7668934003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Product Owner [Search]",
-   "team": "Product Ownership",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7668934003",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:4770769003",
@@ -1756,38 +1868,6 @@
    ]
   },
   {
-   "id": "woowahan:24698",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "Business Analyst(타임세일)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/24698/detail",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "airflow",
-    "tableau"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql",
-    "tableau"
-   ]
-  },
-  {
    "id": "woowahan:25245",
    "source": "woowahan",
    "company": "우아한형제들",
@@ -1813,39 +1893,6 @@
    "pref_domains": [],
    "pref_skills": [
     "sql"
-   ]
-  },
-  {
-   "id": "woowahan:24250",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "Business Analyst(간편픽업)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/24250/detail",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "vision",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "airflow",
-    "tableau"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql",
-    "tableau"
    ]
   },
   {
@@ -1960,31 +2007,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261426",
-   "source": "sk",
-   "company": "SK하이닉스",
-   "title": "[6월] 월간 hy-way(경력)",
-   "team": "IT/CAD Engineering,보안기획/분석,구축/운영/최적화 • Tech R&D/회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Digital Design(SoC Design),HBM Digital Design(검증),HBM Foundry PI,NAND 설계,SoC Design,SoC Design Verification,Digital IP Design,Analog IP Design,Logical Implementation,Interface Design,회로 설계,Interface 설계,Analog 설계,배치설계,설계검증,SI/PI,선행 System Architecture,Diffusion 공정,Data Science,AI/Data Engineering,AI/DT,Process Integration,Application HW 개발,Application TEST,Photo 공정,소자,Data 분석/개발 • 구매/물류,자재관리 • 사업개발/사업개발 • 안전보건/SHE(안전),SHE(보건),안전관리 • 전략기획/경영기획 • 제조/양산기술,Digital Factory,제조혁신,Utility 기술,품질보증,소재기술 • 건설/플랜트/시공(플랜트-건축),시공(플랜트-설비),시공(플랜트-전기),시공(플랜트-배관),시공(플랜트-기계),설계(플랜트-설계관리),사업관리(플랜트)",
-   "location": "경기/인천,충청,서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261426",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-analysis",
-    "data-eng"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261491",
    "source": "sk",
    "company": "SK텔레콤",
@@ -1992,7 +2014,7 @@
    "team": "사무/행정지원/기타(사무/행정지원)",
    "location": "대구",
    "employment_type": "계약",
-   "career_type": "신입",
+   "career_type": "무관",
    "deadline": "2026-07-08",
    "url": "https://www.skcareers.com/Recruit/Detail/R261491",
    "tags": [],
@@ -2004,47 +2026,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R261245",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
-   "team": "Tech R&D/Solution SW",
-   "location": "경기/인천,서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261245",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "aws",
-    "gcp",
-    "azure",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "llm",
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "aws",
-    "gcp",
-    "azure",
-    "tableau",
-    "powerbi"
-   ]
   },
   {
    "id": "sk:R261425",
@@ -2127,36 +2108,6 @@
    "first_seen": "2026-07-05",
    "domains": [],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005056",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005056",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "vision",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "cpp"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -2309,29 +2260,6 @@
    "pref_skills": [
     "aws"
    ]
-  },
-  {
-   "id": "lg:1001889",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[정보보안센터] AI보안 담당자 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://careers.lg.com/apply/detail?id=1001889",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "agent"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lg:1001400",

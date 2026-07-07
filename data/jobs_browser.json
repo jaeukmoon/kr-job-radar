@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-06",
+ "generated": "2026-07-07",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,40 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261426",
-   "source": "sk",
-   "company": "SK하이닉스",
-   "title": "[6월] 월간 hy-way(경력)",
-   "team": "IT/CAD Engineering,보안기획/분석,구축/운영/최적화 • Tech R&D/회로설계(HBM),HBM Digital Design(RTL design),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Digital Design(SoC Design),HBM Digital Design(검증),HBM Foundry PI,NAND 설계,SoC Design,SoC Design Verification,Digital IP Design,Analog IP Design,Logical Implementation,Interface Design,회로 설계,Interface 설계,Analog 설계,배치설계,설계검증,SI/PI,선행 System Architecture,Diffusion 공정,Data Science,AI/Data Engineering,AI/DT,Process Integration,Application HW 개발,Application TEST,Photo 공정,소자,Data 분석/개발 • 구매/물류,자재관리 • 사업개발/사업개발 • 안전보건/SHE(안전),SHE(보건),안전관리 • 전략기획/경영기획 • 제조/양산기술,Digital Factory,제조혁신,Utility 기술,품질보증,소재기술 • 건설/플랜트/시공(플랜트-건축),시공(플랜트-설비),시공(플랜트-전기),시공(플랜트-배관),시공(플랜트-기계),설계(플랜트-설계관리),사업관리(플랜트)",
-   "location": "경기/인천,충청,서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261426",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-analysis",
-    "data-eng"
-   ]
-  },
-  {
-   "id": "sk:R261245",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
-   "team": "Tech R&D/Solution SW",
-   "location": "경기/인천,서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261245",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R261425",
    "source": "sk",
@@ -65,7 +31,7 @@
    "team": "사무/행정지원/기타(사무/행정지원)",
    "location": "대구",
    "employment_type": "계약",
-   "career_type": "신입",
+   "career_type": "무관",
    "deadline": "2026-07-08",
    "url": "https://www.skcareers.com/Recruit/Detail/R261491",
    "tags": [],
@@ -122,22 +88,6 @@
    ]
   },
   {
-   "id": "hyundai:2026-N5-138",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=138",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
    "id": "hyundai:2026-N2-234",
    "source": "hyundai",
    "company": "현대자동차",
@@ -153,24 +103,6 @@
    ],
    "categories": [
     "research"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-207",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[로보틱스랩] 로보틱스 브랜드 전략 수립",
-   "team": "사업/기획 · 홍보/마케팅",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=207",
-   "tags": [
-    "6월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
    ]
   },
   {
@@ -225,6 +157,24 @@
    ],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-207",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 로보틱스 브랜드 전략 수립",
+   "team": "사업/기획 · 홍보/마케팅",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-07-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=207",
+   "tags": [
+    "6월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
    ]
   },
   {
