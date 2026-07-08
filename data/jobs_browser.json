@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-07",
+ "generated": "2026-07-08",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -72,6 +72,23 @@
    ]
   },
   {
+   "id": "sk:R261517",
+   "source": "sk",
+   "company": "SK실트론",
+   "title": "SK실트론 Generative AI Engineer 경력직 채용",
+   "team": "Tech R&D/AI/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-19",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261517",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ]
+  },
+  {
    "id": "sk:R261420",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -83,60 +100,6 @@
    "deadline": "2026-12-31",
    "url": "https://www.skcareers.com/Recruit/Detail/R261420",
    "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-234",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "수소 충전 인프라 솔루션 연구 개발",
-   "team": "생산/제조 · 구매/부품개발",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=234",
-   "tags": [
-    "6월 경력 채용"
-   ],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-250",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "GBC 부동산 재무분석 및 지원업무",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=250",
-   "tags": [
-    "6월 경력 채용"
-   ],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-228",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "AI 데이터센터 사업개발",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=228",
-   "tags": [
-    "6월 경력 채용"
-   ],
    "categories": [
     "ml"
    ]
