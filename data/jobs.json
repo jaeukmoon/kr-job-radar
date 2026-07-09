@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-08",
+ "generated": "2026-07-09",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,91 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261524",
+   "source": "sk",
+   "company": "SK키파운드리",
+   "title": "SK키파운드리 AI 분야 경력(리더급) 채용",
+   "team": "DT",
+   "location": "충청",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261524",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-09",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8052813",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8052813",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-09",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8037268",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Business Analyst (Rocket Growth)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8037268",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-09",
+   "domains": [
+    "timeseries",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "tableau"
+   ],
+   "pref_domains": [
+    "timeseries",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "airflow"
+   ]
+  },
   {
    "id": "sk:R261517",
    "source": "sk",
@@ -2023,32 +2108,11 @@
    "location": "대구",
    "employment_type": "계약",
    "career_type": "무관",
-   "deadline": "2026-07-08",
+   "deadline": "2026-07-13",
    "url": "https://www.skcareers.com/Recruit/Detail/R261491",
    "tags": [],
    "categories": [
     "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261425",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "전력망 운영 시스템 연구원 채용",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261425",
-   "tags": [],
-   "categories": [
-    "research"
    ],
    "first_seen": "2026-07-05",
    "domains": [],

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-08",
+ "generated": "2026-07-09",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,38 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261425",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "전력망 운영 시스템 연구원 채용",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261425",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261491",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 및 서무 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "대구",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261491",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R261386",
    "source": "sk",
@@ -53,6 +21,22 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261491",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 및 서무 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "대구",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-13",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261491",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
@@ -86,6 +70,22 @@
    "categories": [
     "ml",
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261524",
+   "source": "sk",
+   "company": "SK키파운드리",
+   "title": "SK키파운드리 AI 분야 경력(리더급) 채용",
+   "team": "DT",
+   "location": "충청",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261524",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {
