@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-09",
+ "generated": "2026-07-10",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,95 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "kakao:S-4707",
+   "source": "kakao",
+   "company": "카카오페이",
+   "title": "[공동체] 카카오페이 프로덕트 엔지니어 - 전사 주요 프로젝트 지원 및 AI 기반 업무 생산성 향상",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4707",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-10",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005126",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Embodied AI Research Engineer (VLA, World Models & E2E Navigation)",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-23",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005126",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-10",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "recsys",
+    "robotics",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "vllm"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8050377",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Network Engineer (Fulfillment and Logistics Network Engineering)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8050377",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-07-10",
+   "domains": [
+    "llm",
+    "robotics"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "sk:R261524",
    "source": "sk",
@@ -3340,44 +3429,6 @@
     "azure",
     "distributed",
     "git"
-   ]
-  },
-  {
-   "id": "kt:257745",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용 (AI 프로젝트 제안/이행 PM)",
-   "team": "제안/이행-AI 프로젝트 제안/이행 PM-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-07",
-   "url": "https://kt.recruiter.co.kr/career/jobs/119589",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "data-eng"
-   ],
-   "skills": [
-    "sql",
-    "aws",
-    "gcp",
-    "azure",
-    "rag"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": [
-    "sql",
-    "aws",
-    "gcp",
-    "azure"
    ]
   },
   {
