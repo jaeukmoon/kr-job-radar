@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10",
+ "generated": "2026-07-11",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -86,6 +86,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261542",
+   "source": "sk",
+   "company": "SK키파운드리",
+   "title": "SK키파운드리 AI Platform 경력 채용",
+   "team": "DT",
+   "location": "충청",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261542",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
    ]
   },
   {

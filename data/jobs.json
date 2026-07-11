@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-10",
+ "generated": "2026-07-11",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,75 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "woowahan:25443",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로보틱스 S/W 엔지니어링(SLAM 개발)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25443/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-11",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "cpp",
+    "git"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261542",
+   "source": "sk",
+   "company": "SK키파운드리",
+   "title": "SK키파운드리 AI Platform 경력 채용",
+   "team": "DT",
+   "location": "충청",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261542",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-11",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "airflow",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "airflow",
+    "k8s",
+    "rag"
+   ]
+  },
   {
    "id": "kakao:S-4707",
    "source": "kakao",
@@ -1935,34 +2004,6 @@
     "data-analysis"
    ],
    "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:24907",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "로보틱스 S/W 엔지니어링(SLAM 개발)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/24907/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "cpp",
-    "git"
-   ],
    "pref_domains": [
     "robotics"
    ],
