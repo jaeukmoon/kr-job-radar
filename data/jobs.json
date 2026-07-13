@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12",
+ "generated": "2026-07-13",
  "sources_ok": [
   "naver",
   "kakao",
@@ -2251,27 +2251,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261386",
-   "source": "sk",
-   "company": "SK에코플랜트",
-   "title": "AI/DC사업 경력직 채용(공사, 공무, 견적, 구매)",
-   "team": "구매/구매 • 건설/공사(전기),공사(설비),공사(건축),공무(PJT관리),견적",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261386",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261473",
    "source": "sk",
    "company": "SK바이오팜",
@@ -2282,27 +2261,6 @@
    "career_type": "경력",
    "deadline": "2026-07-15",
    "url": "https://www.skcareers.com/Recruit/Detail/R261473",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005092",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-12",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005092",
    "tags": [],
    "categories": [
     "research"
@@ -2353,115 +2311,6 @@
     "mlops"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "naver:30005081",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 헬스케어 AI 서비스 기획 (프로덕트 매니저) (경력)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-13",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005081",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001822",
-   "source": "lg",
-   "company": "LG전자",
-   "title": "[생산기술원] 로봇 AI/비전 AI/AI Agent 솔루션 개발 및 확산",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://careers.lg.com/apply/detail?id=1001822",
-   "tags": [],
-   "categories": [
-    "ml",
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "vision",
-    "robotics"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001821",
-   "source": "lg",
-   "company": "LG전자",
-   "title": "[생산기술원] Digital Twin 솔루션 프로젝트 리딩 (AI/3D/시뮬레이션) ",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://careers.lg.com/apply/detail?id=1001821",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "agent"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python"
-   ]
-  },
-  {
-   "id": "lg:1001907",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[정보보안센터] 클라우드 및 AI 보안 아키텍쳐 설계 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://careers.lg.com/apply/detail?id=1001907",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [
-    "aws"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "aws"
-   ]
   },
   {
    "id": "lg:1001400",
@@ -2519,52 +2368,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "lg:1001807",
-   "source": "lg",
-   "company": "LG CNS",
-   "title": "[LG CNS] Robotics 분야 모집(경력)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://careers.lg.com/apply/detail?id=1001807",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "rl",
-    "robotics",
-    "multimodal",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "pytorch",
-    "tensorflow",
-    "distributed",
-    "vllm",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "rl",
-    "robotics",
-    "multimodal",
-    "mlops"
-   ],
-   "pref_skills": [
-    "distributed",
-    "vllm",
-    "git"
-   ]
   },
   {
    "id": "lgairesearch:4708922005",
@@ -3865,42 +3668,6 @@
     "llm",
     "agent",
     "data-analysis"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7975485",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[CPLB] Senior, Data Engineer (Compliance Ops-Data)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975485",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "k8s",
-    "langchain",
-    "rag",
-    "fastapi"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "data-eng"
    ],
    "pref_skills": []
   },

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-12",
+ "generated": "2026-07-13",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261386",
-   "source": "sk",
-   "company": "SK에코플랜트",
-   "title": "AI/DC사업 경력직 채용(공사, 공무, 견적, 구매)",
-   "team": "구매/구매 • 건설/공사(전기),공사(설비),공사(건축),공무(PJT관리),견적",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261386",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R261491",
    "source": "sk",
