@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-13",
+ "generated": "2026-07-14",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261491",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 및 서무 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "대구",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-13",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261491",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R261473",
    "source": "sk",
@@ -87,6 +71,22 @@
    "categories": [
     "ml",
     "mlops"
+   ]
+  },
+  {
+   "id": "sk:R261559",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] 정수기 진동,소음 분석/설계 경력 인재 채용",
+   "team": "Tech R&D",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261559",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
@@ -157,6 +157,22 @@
    ],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "hyundai:2025-N2-266",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[통합보안] 보안점검(분석)",
+   "team": "IT · Information Security Management",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=266",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
