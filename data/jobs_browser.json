@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14",
+ "generated": "2026-07-15",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -106,38 +106,39 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-230",
+   "id": "hyundai:2026-N2-270",
    "source": "hyundai",
    "company": "현대자동차",
-   "title": "산업 및 기업 정책연구 ",
-   "team": "사업/기획 · 경영전략",
+   "title": "로보틱스 부품 구매 개발 (배터리, 엑츄에이터, 로봇핸드)",
+   "team": "생산/제조 · 구매/부품개발",
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-07-14",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=230",
+   "deadline": "2026-07-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=270",
    "tags": [
-    "6월 경력 채용"
+    "7월 경력 채용"
    ],
    "categories": [
-    "research"
+    "robotics"
    ]
   },
   {
-   "id": "hyundai:2026-N2-207",
+   "id": "hyundai:2026-N2-268",
    "source": "hyundai",
    "company": "현대자동차",
-   "title": "[로보틱스랩] 로보틱스 브랜드 전략 수립",
-   "team": "사업/기획 · 홍보/마케팅",
-   "location": "의왕",
+   "title": "[제조로보틱스] 로보틱스 데이터 엔지니어",
+   "team": "생산/제조 · 스마트제조",
+   "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-07-14",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=207",
+   "deadline": "2026-07-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=268",
    "tags": [
-    "6월 경력 채용"
+    "7월 경력 채용"
    ],
    "categories": [
+    "data-eng",
     "robotics"
    ]
   },

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-14",
+ "generated": "2026-07-15",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,226 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "hyundai:2026-N2-270",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "로보틱스 부품 구매 개발 (배터리, 엑츄에이터, 로봇핸드)",
+   "team": "생산/제조 · 구매/부품개발",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-07-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=270",
+   "tags": [
+    "7월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-268",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 로보틱스 데이터 엔지니어",
+   "team": "생산/제조 · 스마트제조",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-07-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=268",
+   "tags": [
+    "7월 경력 채용"
+   ],
+   "categories": [
+    "data-eng",
+    "robotics"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "robotics",
+    "multimodal",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "robotics",
+    "multimodal",
+    "data-eng"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7804051003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "Product Owner (AI User Journey)",
+   "team": "Product Ownership",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7804051003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "llm",
+    "recsys",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260214",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Quality Engineer)",
+   "team": "AX사업-AI Quality Engineering-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122079",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "javascript"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260176",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
+   "team": "AX사업-AI Platform Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "java"
+   ],
+   "pref_domains": [
+    "rl",
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260209",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
+   "team": "AX사업-AI Agent Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "mlops"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8054981",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] SLA 분석 및 개선 담당자(CX SLA) (경력 3년이상)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8054981",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-15",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "powerbi"
+   ]
+  },
   {
    "id": "hyundai:2025-N2-266",
    "source": "hyundai",
@@ -392,32 +612,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8052813",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8052813",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-09",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8037268",
    "source": "coupang",
    "company": "Coupang",
@@ -717,31 +911,6 @@
    "pref_skills": []
   },
   {
-   "id": "hyundai:2026-N2-230",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "산업 및 기업 정책연구 ",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-14",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=230",
-   "tags": [
-    "6월 경력 채용"
-   ],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "hyundai:2025-N2-399",
    "source": "hyundai",
    "company": "현대자동차",
@@ -773,31 +942,6 @@
     "cpp",
     "linux"
    ]
-  },
-  {
-   "id": "hyundai:2026-N2-207",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[로보틱스랩] 로보틱스 브랜드 전략 수립",
-   "team": "사업/기획 · 홍보/마케팅",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-14",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=207",
-   "tags": [
-    "6월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-155",
@@ -2377,35 +2521,6 @@
    ]
   },
   {
-   "id": "naver:30005096",
-   "source": "naver",
-   "company": "SNOW",
-   "title": "[SNOW] 서비스 데이터 분석가",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-14",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005096",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [
-    "tableau"
-   ],
-   "pref_domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261473",
    "source": "sk",
    "company": "SK바이오팜",
@@ -3576,7 +3691,7 @@
    "id": "coupang:7957055",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡] 카탈로그 데이터 분석 및 운영",
+   "title": "[쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
