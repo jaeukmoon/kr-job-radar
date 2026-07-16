@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-15",
+ "generated": "2026-07-16",
  "sources_ok": [
   "naver",
   "kakao",
@@ -10,11 +10,143 @@
   "lgairesearch",
   "coupang",
   "sk",
-  "hyundai",
-  "samsung"
+  "hyundai"
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "kakao:S-4730",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 HW 테크니션",
+   "team": "",
+   "location": "",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4730",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-16",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:P-14469",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "AI Platform 추론 최적화 Engineer(경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14469",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-16",
+   "domains": [
+    "llm",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "go",
+    "pytorch",
+    "k8s",
+    "cuda",
+    "vllm",
+    "huggingface"
+   ],
+   "pref_domains": [
+    "llm",
+    "mlops"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "go",
+    "pytorch",
+    "cuda",
+    "vllm",
+    "huggingface"
+   ]
+  },
+  {
+   "id": "sk:R261569",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-21",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261569",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-07-16",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005166",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-02",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005166",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-16",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005167",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 영어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-02",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005167",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-16",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N2-270",
    "source": "hyundai",
@@ -2411,34 +2543,6 @@
    ]
   },
   {
-   "id": "woowahan:25245",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "Business Analyst(커머스딜리버리)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25245/detail",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "sql"
-   ]
-  },
-  {
    "id": "samsung:22599",
    "source": "samsung",
    "company": "삼성E&A",
@@ -2519,68 +2623,6 @@
     "k8s",
     "git"
    ]
-  },
-  {
-   "id": "sk:R261473",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": " CNS Research Center 의약화학 합성연구원 경력 구성원 영입 (추가 모집)",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-15",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261473",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005067",
-   "source": "naver",
-   "company": "NAVER Cloud",
-   "title": "[NAVER Cloud] LINE WORKS Speech/Vision/NLP 시니어 리서치 엔지니어 (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-15",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005067",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "llm",
-    "speech"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "vision",
-    "nlp",
-    "speech",
-    "recsys",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "pytorch",
-    "tensorflow",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "vision",
-    "speech",
-    "mlops"
-   ],
-   "pref_skills": []
   },
   {
    "id": "lg:1001400",
@@ -3627,31 +3669,6 @@
    "pref_skills": [
     "powerbi"
    ]
-  },
-  {
-   "id": "coupang:7912198",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 프로그램 매니저 - 광고 운영 및 분석 (쿠팡이츠)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7912198",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8027856",

@@ -1,28 +1,13 @@
 {
- "generated": "2026-07-15",
+ "generated": "2026-07-16",
  "sources_ok": [
   "sk",
-  "hyundai",
-  "samsung"
+  "hyundai"
  ],
- "errors": [],
+ "errors": [
+  "samsung: 0 jobs returned"
+ ],
  "jobs": [
-  {
-   "id": "sk:R261473",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": " CNS Research Center 의약화학 합성연구원 경력 구성원 영입 (추가 모집)",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-15",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261473",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261517",
    "source": "sk",
@@ -38,6 +23,22 @@
    "categories": [
     "ml",
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261569",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-07-21",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261569",
+   "tags": [],
+   "categories": [
+    "llm"
    ]
   },
   {
