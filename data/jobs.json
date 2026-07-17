@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-16",
+ "generated": "2026-07-17",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,171 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7737048003",
+   "source": "toss",
+   "company": "토스",
+   "title": "음성 기록 Assistant",
+   "team": "All",
+   "location": "Seoul",
+   "employment_type": "단기계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7737048003",
+   "tags": [],
+   "categories": [
+    "speech"
+   ],
+   "first_seen": "2026-07-17",
+   "domains": [
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25492",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "운영지원(로봇배달사업)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25492/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-17",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25491",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로보틱스 S/W 엔지니어링(자율주행 ML/팀장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25491/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-07-17",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "robotics"
+   ],
+   "skills": [
+    "pytorch",
+    "tensorflow",
+    "airflow",
+    "k8s",
+    "git"
+   ],
+   "pref_domains": [
+    "agent",
+    "vision"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow",
+    "airflow",
+    "k8s",
+    "git"
+   ]
+  },
+  {
+   "id": "sk:R261591",
+   "source": "sk",
+   "company": "SK에어코어",
+   "title": "[SK에어코어] 품질 관리 및 분석 설비 지원 담당(계약직)",
+   "team": "제조/품질기술",
+   "location": "충청",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261591",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-17",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261594",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
+   "team": "제조/생산관리",
+   "location": "경상",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-07-22",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261594",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-17",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001649",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] 자동화 물류/로봇 전 직무 분야 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://careers.lg.com/apply/detail?id=1001649",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-17",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "java",
+    "javascript"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "java",
+    "javascript"
+   ]
+  },
   {
    "id": "kakao:S-4730",
    "source": "kakao",
@@ -601,7 +766,7 @@
    "location": "충청",
    "employment_type": "정규",
    "career_type": "경력",
-   "deadline": "2026-07-26",
+   "deadline": "2026-07-29",
    "url": "https://www.skcareers.com/Recruit/Detail/R261542",
    "tags": [],
    "categories": [
@@ -637,7 +802,7 @@
    "id": "kakao:S-4707",
    "source": "kakao",
    "company": "카카오페이",
-   "title": "[공동체] 카카오페이 프로덕트 엔지니어 - 전사 주요 프로젝트 지원 및 AI 기반 업무 생산성 향상",
+   "title": "[공동체] 카카오페이 FDE - 전사 주요 프로젝트 지원 및 AI 기반 업무 생산성 향상",
    "team": "",
    "location": "",
    "employment_type": "정규직",
@@ -731,7 +896,7 @@
    "location": "충청",
    "employment_type": "정규",
    "career_type": "경력",
-   "deadline": "2026-07-26",
+   "deadline": "2026-07-29",
    "url": "https://www.skcareers.com/Recruit/Detail/R261524",
    "tags": [],
    "categories": [
@@ -3957,43 +4122,6 @@
     "data-analysis"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8011869",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[CPLB] Data Analyst (계약직: 1년)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8011869",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "timeseries",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "airflow",
-    "tableau"
-   ],
-   "pref_domains": [
-    "llm",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "airflow"
-   ]
   },
   {
    "id": "coupang:7856487",
