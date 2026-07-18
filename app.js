@@ -472,7 +472,10 @@ function switchView(view) {
     t.classList.toggle("active", t.dataset.view === view));
   document.getElementById("jobsView").hidden = view !== "jobs";
   document.getElementById("issuesView").hidden = view !== "issues";
+  const gv = document.getElementById("globalView");
+  if (gv) gv.hidden = view !== "global";
   if (view === "issues" && !issuesLoaded) loadIssues();
+  if (view === "global" && window.__globalInit) window.__globalInit();
 }
 
 function submitIssue() {

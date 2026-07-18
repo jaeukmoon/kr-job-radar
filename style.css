@@ -266,3 +266,22 @@ footer a { color: var(--accent); }
 .job .jtags .js.jp { background: var(--amber-soft); color: var(--amber); }
 
 @media (max-width: 760px) { .trend-body { grid-template-columns: 1fr; gap: 20px; } }
+
+/* ===== 🔒 글로벌·퀀트 잠금 탭 ===== */
+.gm-lock { display: flex; justify-content: center; padding: 48px 0; }
+.gm-lock[hidden] { display: none; }   /* display:flex 가 [hidden] 을 덮지 않도록 */
+.gm-box {
+  max-width: 420px; width: 100%; display: flex; flex-direction: column; gap: 10px;
+  padding: 26px 28px; border: 1px solid var(--border); border-radius: 14px; background: var(--card);
+}
+.gm-box h2 { margin: 0; font-size: 1.15rem; }
+.gm-box input[type=password] {
+  padding: 10px 12px; border: 1px solid var(--border); border-radius: 8px;
+  font-size: 14px; background: var(--bg); color: var(--text);
+}
+.gm-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+.gm-bar #gmInfo { margin-right: auto; }
+#gmFrame {
+  width: 100%; height: calc(100vh - 210px); min-height: 520px;
+  border: 1px solid var(--border); border-radius: 10px; background: #fff;
+}
