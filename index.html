@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>주인장 개인페이지</title>
-<meta name="description" content="개인 대시보드">
+<title>Job Monitor — 국내 AI·ML·데이터 채용</title>
+<meta name="description" content="국내 대기업 AI·ML·데이터 채용 공고 모음 + 브라우저 내 CV 매칭">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-  <h1>주인장 개인페이지</h1>
-  <span class="sub"><span id="genDate"></span> 갱신</span>
+  <h1>Job Monitor</h1>
+  <span class="sub">국내 AI/ML/데이터 채용 · <span id="genDate"></span> 갱신</span>
   <span class="spacer"></span>
   <input id="search" type="search" placeholder="공고 검색...">
   <button class="iconbtn" id="settingsBtn" title="Claude API 설정">⚙ AI 설정</button>
@@ -20,7 +20,7 @@
 <div class="wrap">
   <div class="tabs">
     <button class="tab active" data-view="jobs">국내 공고</button>
-    <button class="tab" data-view="global">🔒 글로벌·퀀트</button>
+    <button class="tab" data-view="global">🔒 주인장 개인페이지</button>
     <button class="tab" data-view="issues">제보·이슈</button>
   </div>
 
@@ -113,8 +113,8 @@
   <div id="globalView" hidden>
     <div id="gm-locked" class="gm-lock">
       <div class="gm-box">
-        <h2>🔒 글로벌 · 퀀트 채용</h2>
-        <p class="hint">빅테크·퀀트 채용 대시보드(개인 적합도 렌즈 포함)입니다. 암호화되어 있으며 패스프레이즈를 입력해야 열립니다.</p>
+        <h2>🔒 주인장 개인페이지</h2>
+        <p class="hint">주인장 개인 페이지입니다. 암호화되어 있으며 패스프레이즈를 입력해야 열립니다.</p>
         <input type="password" id="gmPass" placeholder="passphrase" autocomplete="current-password">
         <label class="hint"><input type="checkbox" id="gmRemember"> 이 기기에서 기억</label>
         <div class="btnrow"><button class="iconbtn primary" id="gmUnlock">열기</button></div>
@@ -126,7 +126,7 @@
         <span id="gmInfo" class="hint"></span>
         <button class="iconbtn" id="gmLock">🔒 잠그기</button>
       </div>
-      <iframe id="gmFrame" title="글로벌·퀀트 채용 대시보드"></iframe>
+      <iframe id="gmFrame" title="주인장 개인페이지"></iframe>
     </div>
   </div>
 </div>
@@ -172,7 +172,7 @@
 <script src="data/jobs.js"></script>
 <script src="app.js"></script>
 <script>
-/* 🔒 글로벌·퀀트 잠금 탭 — jobmon.enc.json(AES-256-GCM) 를 WebCrypto로 복호화해 iframe 렌더 */
+/* 🔒 주인장 개인페이지 잠금 탭 — jobmon.enc.json(AES-256-GCM) 을 WebCrypto로 복호화해 iframe 렌더 */
 (function () {
   let opened = false;
   const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
