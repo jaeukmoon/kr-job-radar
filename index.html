@@ -176,6 +176,16 @@
 (function () {
   let opened = false;
   const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+  function syncFrameTheme() {
+    try {
+      const doc = document.getElementById("gmFrame").contentDocument;
+      if (!doc) return;
+      if (document.documentElement.dataset.theme === "dark") doc.documentElement.dataset.theme = "dark";
+      else delete doc.documentElement.dataset.theme;
+    } catch (e) { /* iframe not ready */ }
+  }
+  new MutationObserver(syncFrameTheme).observe(
+    document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
   async function unlock(auto) {
     const pass = document.getElementById("gmPass").value;
     const msg = document.getElementById("gmMsg");
@@ -190,7 +200,9 @@
       const pt = await crypto.subtle.decrypt({ name: "AES-GCM", iv: b64(enc.nonce) }, key, b64(enc.ct));
       const data = JSON.parse(new TextDecoder().decode(pt));
       (document.getElementById("gmRemember").checked ? localStorage : sessionStorage).setItem("gmpass", pass);
-      document.getElementById("gmFrame").srcdoc = data.html;
+      const frame = document.getElementById("gmFrame");
+      frame.onload = syncFrameTheme;   // 잠금 대시보드 테마를 허브와 동기화
+      frame.srcdoc = data.html;
       document.getElementById("gmInfo").textContent =
         `${data.n_jobs} 공고 · 스냅샷 ${data.source_generated || data.generated_at}`;
       document.getElementById("gm-locked").hidden = true;
