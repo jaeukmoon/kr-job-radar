@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18",
+ "generated": "2026-07-19",
  "sources_ok": [
   "naver",
   "kakao",
@@ -12,7 +12,9 @@
   "sk",
   "hyundai"
  ],
- "errors": [],
+ "errors": [
+  "kt: HTTP Error 403: Forbidden"
+ ],
  "jobs": [
   {
    "id": "toss:7737048003",
@@ -400,103 +402,6 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260214",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Quality Engineer)",
-   "team": "AX사업-AI Quality Engineering-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122079",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-15",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "javascript"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260176",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
-   "team": "AX사업-AI Platform Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-07-15",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "robotics",
-    "multimodal",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "java"
-   ],
-   "pref_domains": [
-    "rl",
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260209",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
-   "team": "AX사업-AI Agent Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-15",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "mlops"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
    "pref_skills": []
   },
   {
@@ -988,40 +893,6 @@
     "azure",
     "rag"
    ]
-  },
-  {
-   "id": "kt:259124",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2027년도 봄학기 KT AI석사과정 신입생 모집(채용연계형 계약학과)",
-   "team": "코어·서비스 AI 연구개발-KAIST · 코어·서비스 AI 연구개발-POSTECH · 데이터 AX 연구개발-KAIST · 데이터 AX 연구개발-POSTECH",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입",
-   "deadline": "2026-07-20",
-   "url": "https://kt.recruiter.co.kr/career/jobs/120971",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-08",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "speech",
-    "robotics",
-    "timeseries",
-    "multimodal",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7668948003",
@@ -3670,115 +3541,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "kt:258107",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
-   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면동)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-14",
-   "url": "https://kt.recruiter.co.kr/career/jobs/119954",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:258054",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용 (AX기술연구 및 개발)",
-   "team": "AI Foundation 모델 개발 · Data Governance · AI Engineering",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://kt.recruiter.co.kr/career/jobs/119898",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "timeseries",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "javascript",
-    "sql",
-    "pytorch",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "distributed",
-    "git",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "rl",
-    "timeseries",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "java",
-    "javascript",
-    "sql",
-    "pytorch",
-    "aws",
-    "gcp",
-    "azure",
-    "distributed",
-    "git"
-   ]
-  },
-  {
-   "id": "kt:258711",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
-   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-14",
-   "url": "https://kt.recruiter.co.kr/career/jobs/120562",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "k8s"
-   ]
   },
   {
    "id": "coupang:7920685",
