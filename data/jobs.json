@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-19",
+ "generated": "2026-07-20",
  "sources_ok": [
   "naver",
   "kakao",
@@ -12,10 +12,308 @@
   "sk",
   "hyundai"
  ],
- "errors": [
-  "kt: HTTP Error 403: Forbidden"
- ],
+ "errors": [],
  "jobs": [
+  {
+   "id": "naver:30005146",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud] AX·AI 신사업 전략 기획 (경력)",
+   "team": "Service & Business · Business Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-05",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005146",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "aws",
+    "gcp",
+    "azure"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws",
+    "gcp",
+    "azure"
+   ]
+  },
+  {
+   "id": "lg:1001974",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS 중국법인] Robotics Lab 리더 모집(이메일 지원)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://careers.lg.com/apply/detail?id=1001974",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:259124",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2027년도 봄학기 KT AI석사과정 신입생 모집(채용연계형 계약학과)",
+   "team": "코어·서비스 AI 연구개발-KAIST · 코어·서비스 AI 연구개발-POSTECH · 데이터 AX 연구개발-KAIST · 데이터 AX 연구개발-POSTECH",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "신입",
+   "deadline": "2026-07-20",
+   "url": "https://kt.recruiter.co.kr/career/jobs/120971",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "speech",
+    "robotics",
+    "timeseries",
+    "multimodal",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:258107",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
+   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면동)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119954",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260214",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Quality Engineer)",
+   "team": "AX사업-AI Quality Engineering-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122079",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "javascript"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260176",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
+   "team": "AX사업-AI Platform Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "java"
+   ],
+   "pref_domains": [
+    "rl",
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260209",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
+   "team": "AX사업-AI Agent Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "mlops"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:258054",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용 (AX기술연구 및 개발)",
+   "team": "AI Foundation 모델 개발 · Data Governance · AI Engineering",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119898",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "distributed",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "aws",
+    "gcp",
+    "azure",
+    "distributed",
+    "git"
+   ]
+  },
+  {
+   "id": "kt:258711",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
+   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://kt.recruiter.co.kr/career/jobs/120562",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-20",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
   {
    "id": "toss:7737048003",
    "source": "toss",
@@ -852,49 +1150,6 @@
    ]
   },
   {
-   "id": "sk:R261517",
-   "source": "sk",
-   "company": "SK실트론",
-   "title": "SK실트론 Generative AI Engineer 경력직 채용",
-   "team": "Tech R&D/AI/Data Engineering",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-19",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261517",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-07-08",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "pytorch",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "langchain",
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "rag"
-   ]
-  },
-  {
    "id": "toss:7668948003",
    "source": "toss",
    "company": "토스",
@@ -982,32 +1237,6 @@
     "sql",
     "tableau"
    ]
-  },
-  {
-   "id": "lg:1001920",
-   "source": "lg",
-   "company": "로보스타",
-   "title": "[로보스타] 연구/개발 경력사원 모집",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-07-19",
-   "url": "https://careers.lg.com/apply/detail?id=1001920",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-07",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "javascript",
-    "linux"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "naver:30005115",
