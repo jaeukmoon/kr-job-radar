@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20",
+ "generated": "2026-07-21",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -54,6 +54,22 @@
    "tags": [],
    "categories": [
     "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R261607",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261607",
+   "tags": [],
+   "categories": [
+    "data-eng"
    ]
   },
   {
@@ -155,6 +171,22 @@
    ],
    "categories": [
     "data-eng",
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N3-72",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
+   "team": "연구개발 · 로보틱스",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-28",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
+   "tags": [],
+   "categories": [
     "robotics"
    ]
   },

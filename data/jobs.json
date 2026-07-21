@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20",
+ "generated": "2026-07-21",
  "sources_ok": [
   "naver",
   "kakao",
@@ -12,8 +12,302 @@
   "sk",
   "hyundai"
  ],
- "errors": [],
+ "errors": [
+  "kt: HTTP Error 403: Forbidden"
+ ],
  "jobs": [
+  {
+   "id": "hyundai:2026-N3-72",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
+   "team": "연구개발 · 로보틱스",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-28",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "git"
+   ]
+  },
+  {
+   "id": "toss:4695176003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Engineer ",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=4695176003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "spark",
+    "hadoop",
+    "airflow",
+    "k8s",
+    "aws",
+    "gcp",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7499044003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Financial Analyst",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7499044003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:S-4731",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 MLOps 엔지니어",
+   "team": "",
+   "location": "",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4731",
+   "tags": [],
+   "categories": [
+    "mlops"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "airflow",
+    "k8s",
+    "gcp"
+   ],
+   "pref_domains": [
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25494",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇프로덕트 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25494/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261607",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-07-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261607",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "spark",
+    "kafka",
+    "k8s"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "kafka"
+   ]
+  },
+  {
+   "id": "naver:30005176",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Generative AI Engineer (2D/3D)",
+   "team": "Tech · Graphics",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-03",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005176",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001976",
+   "source": "lg",
+   "company": "LG경영연구원",
+   "title": "2026년 하반기 AI 전문 RA(Research Assistant) 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "인턴",
+   "deadline": "2026-08-02",
+   "url": "https://careers.lg.com/apply/detail?id=1001976",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "langchain",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "langchain",
+    "git"
+   ]
+  },
+  {
+   "id": "coupang:8048146",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] 로켓설치 예산 수립, 비용 분석 담당자 (Rocket Install Analysis)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8048146",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [],
+   "skills": [
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8073834",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 셀렉션 데이터 분석 및 기획 (경력 3년 이상)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073834",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-21",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "naver:30005146",
    "source": "naver",
@@ -73,246 +367,6 @@
     "robotics"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "kt:259124",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2027년도 봄학기 KT AI석사과정 신입생 모집(채용연계형 계약학과)",
-   "team": "코어·서비스 AI 연구개발-KAIST · 코어·서비스 AI 연구개발-POSTECH · 데이터 AX 연구개발-KAIST · 데이터 AX 연구개발-POSTECH",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입",
-   "deadline": "2026-07-20",
-   "url": "https://kt.recruiter.co.kr/career/jobs/120971",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "speech",
-    "robotics",
-    "timeseries",
-    "multimodal",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:258107",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
-   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면동)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-14",
-   "url": "https://kt.recruiter.co.kr/career/jobs/119954",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260214",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Quality Engineer)",
-   "team": "AX사업-AI Quality Engineering-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122079",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "javascript"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260176",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
-   "team": "AX사업-AI Platform Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "robotics",
-    "multimodal",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "java"
-   ],
-   "pref_domains": [
-    "rl",
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260209",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
-   "team": "AX사업-AI Agent Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "mlops"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:258054",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용 (AX기술연구 및 개발)",
-   "team": "AI Foundation 모델 개발 · Data Governance · AI Engineering",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-12",
-   "url": "https://kt.recruiter.co.kr/career/jobs/119898",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "timeseries",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "javascript",
-    "sql",
-    "pytorch",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "distributed",
-    "git",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "rl",
-    "timeseries",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "java",
-    "javascript",
-    "sql",
-    "pytorch",
-    "aws",
-    "gcp",
-    "azure",
-    "distributed",
-    "git"
-   ]
-  },
-  {
-   "id": "kt:258711",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
-   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-14",
-   "url": "https://kt.recruiter.co.kr/career/jobs/120562",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "k8s"
-   ]
   },
   {
    "id": "toss:7737048003",
@@ -1721,7 +1775,7 @@
    "id": "toss:6085018003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "Data Scientist ",
+   "title": "Data Scientist",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -1935,43 +1989,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "toss:4071103003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Data Engineer ",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=4071103003",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "scala",
-    "spark",
-    "hadoop",
-    "kafka",
-    "flink",
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "java",
-    "scala"
-   ]
   },
   {
    "id": "toss:5960616003",
@@ -2671,7 +2688,7 @@
    "id": "kakao:P-14472",
    "source": "kakao",
    "company": "카카오",
-   "title": "AI 추론/학습 효율화 엔지니어 (경력)",
+   "title": "AI 추론/학습 효율화 Engineer (경력)",
    "team": "테크",
    "location": "판교",
    "employment_type": "정규직",
@@ -2699,32 +2716,6 @@
     "k8s",
     "cuda"
    ]
-  },
-  {
-   "id": "woowahan:25113",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "사업기획(로봇프로덕트 전략)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25113/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
   },
   {
    "id": "woowahan:25247",
