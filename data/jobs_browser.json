@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21",
+ "generated": "2026-07-22",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261569",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-21",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261569",
-   "tags": [],
-   "categories": [
-    "llm"
-   ]
-  },
   {
    "id": "sk:R261594",
    "source": "sk",

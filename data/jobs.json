@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-21",
+ "generated": "2026-07-22",
  "sources_ok": [
   "naver",
   "kakao",
@@ -12,10 +12,421 @@
   "sk",
   "hyundai"
  ],
- "errors": [
-  "kt: HTTP Error 403: Forbidden"
- ],
+ "errors": [],
  "jobs": [
+  {
+   "id": "naver:30005182",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 인도네시아어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-09",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005182",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005183",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 아랍어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-09",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005183",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005181",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 대만 번체 중국어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-09",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005181",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4012563005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist/Engineer - STT(Speech-To-Text)/TTS(Text-To-Speech)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4012563005",
+   "tags": [],
+   "categories": [
+    "research",
+    "speech"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent",
+    "speech"
+   ],
+   "skills": [
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:259124",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2027년도 봄학기 KT AI석사과정 신입생 모집(채용연계형 계약학과)",
+   "team": "코어·서비스 AI 연구개발-KAIST · 코어·서비스 AI 연구개발-POSTECH · 데이터 AX 연구개발-KAIST · 데이터 AX 연구개발-POSTECH",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "신입",
+   "deadline": "2026-07-20",
+   "url": "https://kt.recruiter.co.kr/career/jobs/120971",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "speech",
+    "robotics",
+    "timeseries",
+    "multimodal",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:258107",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
+   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면동)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119954",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260214",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Quality Engineer)",
+   "team": "AX사업-AI Quality Engineering-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122079",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "javascript"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260176",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
+   "team": "AX사업-AI Platform Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "java"
+   ],
+   "pref_domains": [
+    "rl",
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260209",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
+   "team": "AX사업-AI Agent Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "mlops"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:258054",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용 (AX기술연구 및 개발)",
+   "team": "AI Foundation 모델 개발 · Data Governance · AI Engineering",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-12",
+   "url": "https://kt.recruiter.co.kr/career/jobs/119898",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "distributed",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "timeseries",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "aws",
+    "gcp",
+    "azure",
+    "distributed",
+    "git"
+   ]
+  },
+  {
+   "id": "kt:258711",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
+   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-14",
+   "url": "https://kt.recruiter.co.kr/career/jobs/120562",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
+  {
+   "id": "kt:260492",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026 경력직 채용_TEST",
+   "team": "AX사업-AI Quality Engineering-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122357",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8073876",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Data Engineer (Coupang Pay)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073876",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "spark",
+    "flink",
+    "aws",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8063732",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Director of Data Analytics",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8063732",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-22",
+   "domains": [
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws"
+   ]
+  },
   {
    "id": "hyundai:2026-N3-72",
    "source": "hyundai",
@@ -604,27 +1015,6 @@
    ]
   },
   {
-   "id": "sk:R261569",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-21",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261569",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-07-16",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005166",
    "source": "naver",
    "company": "NAVER WEBTOON",
@@ -885,32 +1275,6 @@
    ],
    "skills": [
     "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005139",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 헬스케어 산업 리서치 (체험형 인턴)",
-   "team": "Service & Business · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-07-22",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005139",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-14",
-   "domains": [
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "aws"
    ],
    "pref_domains": [],
    "pref_skills": []
@@ -4194,32 +4558,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:7849625",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff UCC Application Engineer (Operations, Governance, AI-enabled productivity)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7849625",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [
-    "python",
-    "java",
-    "javascript",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:7956912",
    "source": "coupang",
    "company": "Coupang",
@@ -4386,42 +4724,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:7358575",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Sr~Staff Data Analyst (Coupang Eats)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7358575",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "vision",
-    "recsys",
-    "timeseries",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [
-    "vision",
-    "timeseries",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python"
-   ]
-  },
-  {
    "id": "coupang:8012236",
    "source": "coupang",
    "company": "Coupang",
@@ -4559,6 +4861,35 @@
    ]
   },
   {
+   "id": "coupang:7919225",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior~Staff, Data Analyst (Catalog)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919225",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-05",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
    "id": "coupang:7975547",
    "source": "coupang",
    "company": "Coupang",
@@ -4689,35 +5020,6 @@
     "tableau",
     "git"
    ]
-  },
-  {
-   "id": "coupang:7919225",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior Data Analyst (Catalog)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919225",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "aws",
-    "gcp"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8020073",
