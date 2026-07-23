@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-22",
+ "generated": "2026-07-23",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261594",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
-   "team": "제조/생산관리",
-   "location": "경상",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-22",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261594",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R261591",
    "source": "sk",
@@ -106,6 +90,22 @@
    ]
   },
   {
+   "id": "sk:R261594",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
+   "team": "제조/생산관리",
+   "location": "경상",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-05",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261594",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
    "id": "sk:R261420",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -156,6 +156,22 @@
    "categories": [
     "data-eng",
     "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N5-162",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
+   "team": "IT · Infra Engineering",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-03",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=162",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-22",
+ "generated": "2026-07-23",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,82 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "hyundai:2026-N5-162",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
+   "team": "IT · Infra Engineering",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-03",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=162",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-23",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:258531",
+   "source": "kt",
+   "company": "kt nasmedia",
+   "title": "[kt nasmedia] 2026년 7월 kt nasmedia 채용 (채용 시 마감)",
+   "team": "마케팅-미디어플래너 · 마케팅-SNS 사업 리더 · 마케팅-SNS 사업 PM · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "신입/경력",
+   "deadline": "2026-07-31",
+   "url": "https://kt.recruiter.co.kr/career/jobs/120381",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-23",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001983",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] MLOps Engineer 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-08-02",
+   "url": "https://careers.lg.com/apply/detail?id=1001983",
+   "tags": [],
+   "categories": [
+    "mlops"
+   ],
+   "first_seen": "2026-07-23",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "airflow",
+    "k8s",
+    "aws",
+    "distributed",
+    "langchain",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "naver:30005182",
    "source": "naver",
@@ -344,27 +420,6 @@
    "pref_skills": [
     "k8s"
    ]
-  },
-  {
-   "id": "kt:260492",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026 경력직 채용_TEST",
-   "team": "AX사업-AI Quality Engineering-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122357",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8073876",
@@ -780,29 +835,6 @@
    "pref_skills": []
   },
   {
-   "id": "toss:7737048003",
-   "source": "toss",
-   "company": "토스",
-   "title": "음성 기록 Assistant",
-   "team": "All",
-   "location": "Seoul",
-   "employment_type": "단기계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7737048003",
-   "tags": [],
-   "categories": [
-    "speech"
-   ],
-   "first_seen": "2026-07-17",
-   "domains": [
-    "speech"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "woowahan:25492",
    "source": "woowahan",
    "company": "우아한형제들",
@@ -901,7 +933,7 @@
    "location": "경상",
    "employment_type": "정규",
    "career_type": "경력",
-   "deadline": "2026-07-22",
+   "deadline": "2026-08-05",
    "url": "https://www.skcareers.com/Recruit/Detail/R261594",
    "tags": [],
    "categories": [
@@ -1930,38 +1962,6 @@
     "speech"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "toss:7746700003",
-   "source": "toss",
-   "company": "토스플레이스",
-   "title": "Applied AI Engineer",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7746700003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "langchain",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": [
-    "langchain"
-   ]
   },
   {
    "id": "toss:6333084003",
@@ -3299,36 +3299,6 @@
     "git"
    ],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4708922005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "[독자 AI 파운데이션 모델 개발] Reinforcement Learning Research/Engineering Internship",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708922005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "llm"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "robotics",
-    "multimodal"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
    "pref_skills": []
   },
   {
