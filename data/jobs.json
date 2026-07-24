@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23",
+ "generated": "2026-07-24",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,56 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "woowahan:25508",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇프로덕트 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25508/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-24",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005192",
+   "source": "naver",
+   "company": "SNOW",
+   "title": "[SNOW] AI 콘텐츠 디자이너 (계약직)",
+   "team": "Design · Visual Comm. & Brand Design",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-05",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005192",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-24",
+   "domains": [
+    "llm",
+    "vision"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N5-162",
    "source": "hyundai",
@@ -604,32 +654,6 @@
    "pref_domains": [
     "mlops",
     "data-eng"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25494",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "사업기획(로봇프로덕트 전략)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25494/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
    ],
    "pref_skills": []
   },
@@ -1474,40 +1498,6 @@
     "python",
     "java",
     "javascript"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005126",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Embodied AI Research Engineer (VLA, World Models & E2E Navigation)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-07-23",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005126",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-10",
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "recsys",
-    "robotics",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "vllm"
    ],
    "pref_domains": [],
    "pref_skills": []
@@ -3121,45 +3111,6 @@
     "flink",
     "aws",
     "git"
-   ]
-  },
-  {
-   "id": "woowahan:25246",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터분석(CX프로덕트)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25246/detail",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "agent",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "airflow",
-    "aws",
-    "tableau"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow",
-    "aws",
-    "tableau"
    ]
   },
   {
@@ -4952,44 +4903,6 @@
     "data-eng"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:7962502",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior Data Analyst (Delivery Experience Analytics)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962502",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "airflow",
-    "tableau",
-    "git"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "spark",
-    "airflow",
-    "tableau",
-    "git"
-   ]
   },
   {
    "id": "coupang:8020073",
