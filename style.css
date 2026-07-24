@@ -51,7 +51,7 @@ header .spacer { flex: 1; }
 }
 .iconbtn:hover { background: var(--accent-soft); }
 
-.wrap { max-width: 1200px; margin: 0 auto; padding: 18px 20px 60px; }
+.wrap { max-width: min(1720px, 96vw); margin: 0 auto; padding: 18px 20px 60px; }
 
 .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; align-items: center; }
 .chip {
@@ -62,7 +62,15 @@ header .spacer { flex: 1; }
 .chip .n { opacity: 0.65; font-size: 0.78rem; margin-left: 3px; }
 
 .layout { display: flex; gap: 18px; align-items: flex-start; }
-#jobList { flex: 1; min-width: 0; }
+/* wide viewports lay the job cards out as an as-many-as-fits grid so the
+   widened width is actually used instead of stretching one card per row. */
+#jobList {
+  flex: 1; min-width: 0;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 10px; align-content: start;
+}
+#jobList .job { margin-bottom: 0; }
+#jobList .empty { grid-column: 1 / -1; }
 
 .job {
   background: var(--card); border: 1px solid var(--border); border-radius: 12px;
