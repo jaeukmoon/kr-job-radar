@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24",
+ "generated": "2026-07-25",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,105 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261639",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "정제공정 연구보조 계약직 채용",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-08-05",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261639",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-25",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005208",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] byUs(AI 스토리챗 서비스) Growth Marketing Manager (경력)",
+   "team": "Service & Business · Content Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-03",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005208",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-25",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005204",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] byUs(AI 스토리챗 서비스) Contents Manager (경력)",
+   "team": "Service & Business · Content Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-02",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005204",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-25",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001597",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] Speech AI/음성 AI(STT,TTS,SR,V2V) 모델 개발 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-08-02",
+   "url": "https://careers.lg.com/apply/detail?id=1001597",
+   "tags": [],
+   "categories": [
+    "ml",
+    "speech"
+   ],
+   "first_seen": "2026-07-25",
+   "domains": [
+    "llm",
+    "speech",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "woowahan:25508",
    "source": "woowahan",
@@ -1173,33 +1272,6 @@
     "multimodal",
     "data-eng"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7804051003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "Product Owner (AI User Journey)",
-   "team": "Product Ownership",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7804051003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-15",
-   "domains": [
-    "llm",
-    "recsys",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
