@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26",
+ "generated": "2026-07-27",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,38 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261591",
-   "source": "sk",
-   "company": "SK에어코어",
-   "title": "[SK에어코어] 품질 관리 및 분석 설비 지원 담당(계약직)",
-   "team": "제조/품질기술",
-   "location": "충청",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-07-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261591",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "sk:R261607",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "Data Platform Engineer",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-07-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261607",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R261524",
    "source": "sk",
@@ -87,6 +55,22 @@
    "tags": [],
    "categories": [
     "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R261607",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261607",
+   "tags": [],
+   "categories": [
+    "data-eng"
    ]
   },
   {
@@ -188,6 +172,38 @@
    "tags": [],
    "categories": [
     "data-analysis"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N4-79",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약학과] 자율주행기술개발",
+   "team": "연구개발 · 자율주행",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-07",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=79",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N4-78",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약학과] 시스템 시험 및 검증",
+   "team": "연구개발 · 자율주행",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-07",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=78",
+   "tags": [],
+   "categories": [
+    "robotics"
    ]
   },
   {

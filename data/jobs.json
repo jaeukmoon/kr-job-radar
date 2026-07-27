@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26",
+ "generated": "2026-07-27",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,106 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "hyundai:2026-N4-79",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약학과] 자율주행기술개발",
+   "team": "연구개발 · 자율주행",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-07",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=79",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-27",
+   "domains": [
+    "robotics",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N4-78",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약학과] 시스템 시험 및 검증",
+   "team": "연구개발 · 자율주행",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-07",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=78",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-27",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005121",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Panoptic Segmentation Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-10",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005121",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "vision"
+   ],
+   "first_seen": "2026-07-27",
+   "domains": [
+    "vision",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005185",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드·AI 세일즈 담당자 (경력)",
+   "team": "Service & Business · 어카운트/세일즈",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-12",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005185",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-27",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "sk:R261639",
    "source": "sk",
@@ -765,7 +865,7 @@
    "location": "서울",
    "employment_type": "계약",
    "career_type": "경력",
-   "deadline": "2026-07-26",
+   "deadline": "2026-08-02",
    "url": "https://www.skcareers.com/Recruit/Detail/R261607",
    "tags": [],
    "categories": [
@@ -1025,27 +1125,6 @@
     "k8s",
     "git"
    ]
-  },
-  {
-   "id": "sk:R261591",
-   "source": "sk",
-   "company": "SK에어코어",
-   "title": "[SK에어코어] 품질 관리 및 분석 설비 지원 담당(계약직)",
-   "team": "제조/품질기술",
-   "location": "충청",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-07-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261591",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-17",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R261594",
@@ -1350,27 +1429,6 @@
    "tags": [],
    "categories": [
     "data-analysis"
-   ],
-   "first_seen": "2026-07-14",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005140",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 튀르키예어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-07-26",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005140",
-   "tags": [],
-   "categories": [
-    "research"
    ],
    "first_seen": "2026-07-14",
    "domains": [],
@@ -1749,48 +1807,6 @@
     "sql",
     "tableau"
    ]
-  },
-  {
-   "id": "naver:30005115",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 한국어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-07-26",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005115",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-07",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005116",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 일본어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-07-26",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005116",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-07",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-27",
