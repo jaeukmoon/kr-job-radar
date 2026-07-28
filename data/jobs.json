@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-27",
+ "generated": "2026-07-28",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,204 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7728018003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Analyst ",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7728018003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [
+    "recsys",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25524",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "운영지원(로봇배달사업)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25524/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25520",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇프로덕트 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25520/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261648",
+   "source": "sk",
+   "company": "SK온",
+   "title": "SK온 ESS 연구원 경력 채용",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-09",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261648",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
+  },
+  {
+   "id": "sk:R261647",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "RPT 의약화학 연구원 신입 구성원 영입",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-08-10",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261647",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261645",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "RPT 의약화학 연구원 경력 구성원 영입",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-10",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261645",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4591478005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Software Engineer Internship (Business Intelligence AI)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4591478005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-28",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp",
+    "timeseries",
+    "multimodal",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "airflow",
+    "k8s",
+    "distributed",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "nlp"
+   ],
+   "pref_skills": [
+    "airflow",
+    "k8s",
+    "distributed"
+   ]
+  },
   {
    "id": "hyundai:2026-N4-79",
    "source": "hyundai",
@@ -211,32 +409,6 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25508",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "사업기획(로봇프로덕트 전략)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25508/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-24",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
    "pref_skills": []
   },
   {
@@ -803,7 +975,7 @@
    "id": "toss:7499044003",
    "source": "toss",
    "company": "토스",
-   "title": "Financial Analyst",
+   "title": "Financial Data Analyst",
    "team": "Data Analysis",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -1050,32 +1222,6 @@
    "domains": [
     "llm",
     "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25492",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "운영지원(로봇배달사업)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25492/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-17",
-   "domains": [
-    "robotics",
-    "data-analysis"
    ],
    "skills": [],
    "pref_domains": [
@@ -2472,36 +2618,6 @@
    ]
   },
   {
-   "id": "toss:7720519003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Data Analyst ",
-   "team": "Data Analysis",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7720519003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql"
-   ]
-  },
-  {
    "id": "toss:4071131003",
    "source": "toss",
    "company": "토스",
@@ -2743,35 +2859,6 @@
     "aws",
     "gcp"
    ]
-  },
-  {
-   "id": "kakao:S-4717",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 자율주행 개발품질 평가 엔지니어",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/S-4717",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "cpp"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
   },
   {
    "id": "kakao:S-4681",
@@ -4294,36 +4381,6 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7992128",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] Senior HR Analytics (HR Insights)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7992128",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
    "pref_skills": []
   },
   {
