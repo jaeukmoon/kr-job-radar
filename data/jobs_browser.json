@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-28",
+ "generated": "2026-07-29",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -71,6 +71,22 @@
    "tags": [],
    "categories": [
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261629",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-03",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261629",
+   "tags": [],
+   "categories": [
+    "llm"
    ]
   },
   {
@@ -154,6 +170,22 @@
    ]
   },
   {
+   "id": "sk:R261663",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Engineer 경력 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-11",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261663",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "sk:R261420",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -170,6 +202,22 @@
    ]
   },
   {
+   "id": "hyundai:2026-N5-162",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
+   "team": "IT · Infra Engineering",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-03",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=162",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
    "id": "hyundai:2026-N2-270",
    "source": "hyundai",
    "company": "현대자동차",
@@ -178,7 +226,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-07-29",
+   "deadline": "2026-08-05",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=270",
    "tags": [
     "7월 경력 채용"
@@ -196,7 +244,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-07-29",
+   "deadline": "2026-08-05",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=268",
    "tags": [
     "7월 경력 채용"
@@ -204,22 +252,6 @@
    "categories": [
     "data-eng",
     "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N5-162",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-03",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=162",
-   "tags": [],
-   "categories": [
-    "data-analysis"
    ]
   },
   {
