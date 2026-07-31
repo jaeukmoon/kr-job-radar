@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-30",
+ "generated": "2026-07-31",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,238 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7821116003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Search Quality Operations Team Leader",
+   "team": "Product Operations",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7821116003",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7821118003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Search Quality Operations Manager",
+   "team": "Product Operations",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7821118003",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25548",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로보틱스 S/W 엔지니어링(자율주행 ML/팀장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25548/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "robotics"
+   ],
+   "skills": [
+    "pytorch",
+    "tensorflow",
+    "airflow",
+    "k8s",
+    "git"
+   ],
+   "pref_domains": [
+    "agent",
+    "vision"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow",
+    "airflow",
+    "k8s",
+    "git"
+   ]
+  },
+  {
+   "id": "sk:R261675",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입  ",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261675",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261676",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261676",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "rag"
+   ],
+   "pref_domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005246",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] 로봇 구동팩/냉각 시스템 개발 (인턴십)",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-08-13",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005246",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "recsys",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005215",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] 3D Vision Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-10",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005215",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "vision"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005220",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] AI 에이전트 엔지니어 (경력)",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-11",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005220",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-31",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "langchain",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "kakao:S-4737",
    "source": "kakao",
@@ -1357,49 +1589,6 @@
    "pref_skills": []
   },
   {
-   "id": "woowahan:25491",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "로보틱스 S/W 엔지니어링(자율주행 ML/팀장급)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25491/detail",
-   "tags": [],
-   "categories": [
-    "ml",
-    "robotics"
-   ],
-   "first_seen": "2026-07-17",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "vision",
-    "robotics"
-   ],
-   "skills": [
-    "pytorch",
-    "tensorflow",
-    "airflow",
-    "k8s",
-    "git"
-   ],
-   "pref_domains": [
-    "agent",
-    "vision"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "airflow",
-    "k8s",
-    "git"
-   ]
-  },
-  {
    "id": "sk:R261594",
    "source": "sk",
    "company": "SK바이오사이언스",
@@ -2550,34 +2739,6 @@
    "pref_skills": []
   },
   {
-   "id": "toss:7686276003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Search Engineer (Retrieval)",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7686276003",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [
-    "kafka",
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "kafka",
-    "k8s"
-   ]
-  },
-  {
    "id": "toss:4770769003",
    "source": "toss",
    "company": "토스",
@@ -2711,32 +2872,6 @@
     "python",
     "sql"
    ]
-  },
-  {
-   "id": "toss:6279876003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Business Analyst",
-   "team": "Sales Support",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=6279876003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "agent",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7786567003",
@@ -3402,7 +3537,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-07-31",
+   "deadline": "2026-10-31",
    "url": "https://careers.lg.com/apply/detail?id=1001506",
    "tags": [],
    "categories": [
@@ -3444,7 +3579,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-07-31",
+   "deadline": "2026-08-31",
    "url": "https://careers.lg.com/apply/detail?id=1001400",
    "tags": [],
    "categories": [
@@ -3471,7 +3606,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-07-31",
+   "deadline": "2026-08-31",
    "url": "https://careers.lg.com/apply/detail?id=1001432",
    "tags": [],
    "categories": [
@@ -3767,30 +3902,6 @@
    "pref_skills": [
     "distributed"
    ]
-  },
-  {
-   "id": "lgairesearch:4709362005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist - Drug Discovery",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4709362005",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [
-    "pytorch",
-    "tensorflow"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4080869005",
@@ -4276,68 +4387,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8025544",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡로지스틱스서비스] Water Flex 라스트마일 데이터 분석 및 운영 개선 담당자",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8025544",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "powerbi"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "powerbi"
-   ]
-  },
-  {
-   "id": "coupang:8027856",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 쿠팡이츠 머천트 전략 기획 / 데이터 분석 담당자",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8027856",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "tableau",
-    "powerbi"
-   ]
-  },
-  {
    "id": "coupang:7957055",
    "source": "coupang",
    "company": "Coupang",
@@ -4584,6 +4633,44 @@
    "pref_skills": []
   },
   {
+   "id": "coupang:8012236",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff~Sr. Staff, Machine Learning Engineer (Ads Engineering)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8012236",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "recsys",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "langchain"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "mlops",
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
    "id": "coupang:7927865",
    "source": "coupang",
    "company": "Coupang",
@@ -4681,39 +4768,6 @@
    ]
   },
   {
-   "id": "coupang:7061468",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Data Analyst - Fintech",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7061468",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python"
-   ]
-  },
-  {
    "id": "coupang:7896826",
    "source": "coupang",
    "company": "Coupang",
@@ -4783,44 +4837,6 @@
    ],
    "pref_domains": [
     "timeseries"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:8012236",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Sr. Staff, Machine Learning Engineer (Ads Engineering)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8012236",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "recsys",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "javascript",
-    "langchain"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "rl",
-    "mlops",
-    "data-analysis"
    ],
    "pref_skills": []
   },

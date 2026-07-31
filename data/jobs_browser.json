@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-30",
+ "generated": "2026-07-31",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -147,6 +147,39 @@
    "career_type": "경력",
    "deadline": "2026-08-11",
    "url": "https://www.skcareers.com/Recruit/Detail/R261663",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261675",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입  ",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261675",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ]
+  },
+  {
+   "id": "sk:R261676",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 기반 MES 자동화·고도화 분야 전문가 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261676",
    "tags": [],
    "categories": [
     "ml"
