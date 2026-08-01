@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-31",
+ "generated": "2026-08-01",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,36 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261708",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+   "team": "IT/구축/운영/최적화",
+   "location": "울산",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261708",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-01",
+   "domains": [],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "spring"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "java",
+    "javascript"
+   ]
+  },
   {
    "id": "toss:7821116003",
    "source": "toss",
