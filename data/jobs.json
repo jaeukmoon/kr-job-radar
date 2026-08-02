@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01",
+ "generated": "2026-08-02",
  "sources_ok": [
   "naver",
   "kakao",
@@ -1906,27 +1906,6 @@
    "pref_skills": [
     "linux"
    ]
-  },
-  {
-   "id": "sk:R261559",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 정수기 진동,소음 분석/설계 경력 인재 채용",
-   "team": "Tech R&D",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261559",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-14",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "naver:30005138",
