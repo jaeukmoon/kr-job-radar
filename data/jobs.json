@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02",
+ "generated": "2026-08-03",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,75 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "kt:261964",
+   "source": "kt",
+   "company": "kt nasmedia",
+   "title": "[kt nasmedia] 2026년 8월 kt nasmedia 채용 (채용 시 마감)",
+   "team": "마케팅-미디어플래너 · 마케팅-SNS 사업 리더 · 마케팅-SNS 사업 PM · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "신입/경력",
+   "deadline": "2026-08-31",
+   "url": "https://kt.recruiter.co.kr/career/jobs/123838",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-03",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261674",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 기반 제조 에너지 최적화 솔루션 PM/PL 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261674",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-03",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "k8s",
+    "aws",
+    "langchain",
+    "rag",
+    "spring",
+    "fastapi"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "k8s",
+    "aws",
+    "langchain",
+    "rag",
+    "spring",
+    "fastapi"
+   ]
+  },
   {
    "id": "sk:R261708",
    "source": "sk",
@@ -858,58 +927,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005204",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] byUs(AI 스토리챗 서비스) Contents Manager (경력)",
-   "team": "Service & Business · Content Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005204",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-25",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001597",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] Speech AI/음성 AI(STT,TTS,SR,V2V) 모델 개발 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://careers.lg.com/apply/detail?id=1001597",
-   "tags": [],
-   "categories": [
-    "ml",
-    "speech"
-   ],
-   "first_seen": "2026-07-25",
-   "domains": [
-    "llm",
-    "speech",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "pytorch",
-    "tensorflow"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005192",
    "source": "naver",
    "company": "SNOW",
@@ -972,40 +989,6 @@
    "first_seen": "2026-07-23",
    "domains": [],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001983",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] MLOps Engineer 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://careers.lg.com/apply/detail?id=1001983",
-   "tags": [],
-   "categories": [
-    "mlops"
-   ],
-   "first_seen": "2026-07-23",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "airflow",
-    "k8s",
-    "aws",
-    "distributed",
-    "langchain",
-    "git"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -1418,38 +1401,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261607",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "Data Platform Engineer",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261607",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "spark",
-    "kafka",
-    "k8s"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "spark",
-    "kafka"
-   ]
-  },
-  {
    "id": "naver:30005176",
    "source": "naver",
    "company": "NAVER LABS",
@@ -1473,36 +1424,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "lg:1001976",
-   "source": "lg",
-   "company": "LG경영연구원",
-   "title": "2026년 하반기 AI 전문 RA(Research Assistant) 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "인턴",
-   "deadline": "2026-08-02",
-   "url": "https://careers.lg.com/apply/detail?id=1001976",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "python",
-    "langchain",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "langchain",
-    "git"
-   ]
   },
   {
    "id": "coupang:8048146",
@@ -1739,48 +1660,6 @@
     "vllm",
     "huggingface"
    ]
-  },
-  {
-   "id": "naver:30005166",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 태국어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-08-02",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005166",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-16",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005167",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 영어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005167",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-16",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-270",
@@ -4976,38 +4855,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:7975547",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior, Machine Learning Engineer (Eats Search and Discovery)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975547",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "aws"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "aws"
-   ]
   },
   {
    "id": "coupang:8029811",

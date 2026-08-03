@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-02",
+ "generated": "2026-08-03",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261607",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "Data Platform Engineer",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261607",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R261629",
    "source": "sk",
@@ -151,6 +135,22 @@
    "categories": [
     "ml",
     "mlops"
+   ]
+  },
+  {
+   "id": "sk:R261674",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 기반 제조 에너지 최적화 솔루션 PM/PL 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261674",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {
