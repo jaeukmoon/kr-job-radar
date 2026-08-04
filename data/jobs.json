@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-03",
+ "generated": "2026-08-04",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,50 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7609940003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "Product Operations Specialist (AI)",
+   "team": "Product Operations",
+   "location": "Seoul",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7609940003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-04",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7823859003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "Product Operations Specialist (AI Evaluation)",
+   "team": "Product Operations",
+   "location": "Seoul",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7823859003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-04",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "kt:261964",
    "source": "kt",
@@ -444,27 +488,6 @@
     "k8s",
     "fastapi"
    ]
-  },
-  {
-   "id": "sk:R261629",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-08-03",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261629",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-07-29",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R261663",
@@ -901,32 +924,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005208",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] byUs(AI 스토리챗 서비스) Growth Marketing Manager (경력)",
-   "team": "Service & Business · Content Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-03",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005208",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-25",
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005192",
    "source": "naver",
    "company": "SNOW",
@@ -946,27 +943,6 @@
     "llm",
     "vision"
    ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N5-162",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-03",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=162",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-23",
-   "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
@@ -1398,31 +1374,6 @@
     "mlops",
     "data-eng"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005176",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Generative AI Engineer (2D/3D)",
-   "team": "Tech · Graphics",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-03",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005176",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "llm",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -4619,37 +4570,6 @@
    ],
    "pref_domains": [
     "llm"
-   ],
-   "pref_skills": [
-    "aws"
-   ]
-  },
-  {
-   "id": "coupang:7896545",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Machine Learning Engineer (Ads Relevance)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7896545",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys"
-   ],
-   "skills": [
-    "aws"
-   ],
-   "pref_domains": [
-    "recsys"
    ],
    "pref_skills": [
     "aws"

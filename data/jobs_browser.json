@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-03",
+ "generated": "2026-08-04",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261629",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-08-03",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261629",
-   "tags": [],
-   "categories": [
-    "llm"
-   ]
-  },
   {
    "id": "sk:R261594",
    "source": "sk",
@@ -199,22 +183,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N5-162",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-03",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=162",
-   "tags": [],
-   "categories": [
-    "data-analysis"
    ]
   },
   {
