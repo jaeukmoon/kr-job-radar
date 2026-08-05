@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04",
+ "generated": "2026-08-05",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,59 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7825079003",
+   "source": "toss",
+   "company": "토스",
+   "title": "ML Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7825079003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-05",
+   "domains": [],
+   "skills": [
+    "python",
+    "scala",
+    "sql",
+    "spark",
+    "hadoop"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261722",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 애플리케이션/엔터프라이즈 아키텍트 분야 전문가 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천,서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261722",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-05",
+   "domains": [],
+   "skills": [
+    "java",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
   {
    "id": "toss:7609940003",
    "source": "toss",
@@ -1465,32 +1518,6 @@
    ]
   },
   {
-   "id": "lg:1001974",
-   "source": "lg",
-   "company": "LG CNS",
-   "title": "[LG CNS 중국법인] Robotics Lab 리더 모집(이메일 지원)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1001974",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-20",
-   "domains": [
-    "llm",
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261594",
    "source": "sk",
    "company": "SK바이오사이언스",
@@ -2255,69 +2282,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261420",
-   "source": "sk",
-   "company": "티맵모빌리티",
-   "title": "AI Agent SDK Engineer",
-   "team": "Tech R&D/Client 개발",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-12-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261420",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "nlp",
-    "speech"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "speech"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:6333084003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "ML Engineer",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=6333084003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "rl",
-    "recsys",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "hadoop",
-    "kafka",
-    "k8s"
-   ],
-   "pref_domains": [
-    "llm",
-    "recsys",
-    "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7675099003",
    "source": "toss",
    "company": "토스인사이트",
@@ -2340,29 +2304,6 @@
    "skills": [
     "python"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7757642003",
-   "source": "toss",
-   "company": "토스씨엑스",
-   "title": "토스쇼핑 음성 데이터 검수 스태프 (팀원)",
-   "team": "Customer",
-   "location": "부산",
-   "employment_type": "단기계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7757642003",
-   "tags": [],
-   "categories": [
-    "speech"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "speech"
-   ],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -2536,7 +2477,7 @@
    "location": "Seoul",
    "employment_type": "계약직",
    "career_type": "",
-   "deadline": "상시",
+   "deadline": "2026-08-10",
    "url": "https://toss.im/career/job-detail?gh_jid=7782783003",
    "tags": [],
    "categories": [
