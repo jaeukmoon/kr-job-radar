@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05",
+ "generated": "2026-08-06",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,38 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261594",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
-   "team": "제조/생산관리",
-   "location": "경상",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-05",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261594",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "sk:R261639",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "정제공정 연구보조 계약직 채용",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-08-05",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261639",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261648",
    "source": "sk",
@@ -183,43 +151,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-270",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "로보틱스 부품 구매 개발 (배터리, 엑츄에이터, 로봇핸드)",
-   "team": "생산/제조 · 구매/부품개발",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-05",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=270",
-   "tags": [
-    "7월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-268",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 로보틱스 데이터 엔지니어",
-   "team": "생산/제조 · 스마트제조",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-05",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=268",
-   "tags": [
-    "7월 경력 채용"
-   ],
-   "categories": [
-    "data-eng",
-    "robotics"
    ]
   },
   {
