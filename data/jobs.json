@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06",
+ "generated": "2026-08-07",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,157 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:4154060003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "Data Analyst ",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=4154060003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-07",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:P-14519",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "AI Research Engineer (Search & Agent) (경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14519",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-08-07",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "recsys",
+    "mlops"
+   ],
+   "skills": [
+    "distributed"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001889",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[정보보안센터] AI보안 담당자 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-08-17",
+   "url": "https://careers.lg.com/apply/detail?id=1001889",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-07",
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8104881",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] CXDX Junior PM (데이터 분석 PM)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104881",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-07",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ]
+  },
+  {
+   "id": "coupang:8073793",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Business Analyst (Retail PM Business Insights)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073793",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-07",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
+  },
   {
    "id": "naver:30005255",
    "source": "naver",
@@ -60,7 +211,7 @@
    "id": "naver:30005265",
    "source": "naver",
    "company": "NAVER WEBTOON",
-   "title": "[2026 하반기 채용연계형 인턴십] AI 애니메이션 제작 (AI animator)",
+   "title": "[2026 채용연계형 인턴십] AI 애니메이션 제작 (AI animator)",
    "team": "Service & Business · Product Development",
    "location": "",
    "employment_type": "정규",
@@ -570,37 +721,6 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005239",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Field Robotics Engineer (Hybrid RL Navigation & Safety)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-06",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005239",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-30",
-   "domains": [
-    "rl",
-    "recsys",
-    "robotics",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "vllm"
-   ],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -2982,52 +3102,6 @@
    "pref_skills": []
   },
   {
-   "id": "kakao:P-14318",
-   "source": "kakao",
-   "company": "카카오",
-   "title": "Machine Learning Engineer (Search) (경력)",
-   "team": "테크",
-   "location": "판교",
-   "employment_type": "정규직",
-   "career_type": "완전선택근무제",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/P-14318",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "nlp",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "tensorflow",
-    "spark",
-    "hadoop",
-    "kafka",
-    "k8s",
-    "rag"
-   ],
-   "pref_domains": [
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "spark",
-    "hadoop",
-    "kafka",
-    "k8s",
-    "rag"
-   ]
-  },
-  {
    "id": "kakao:P-14476",
    "source": "kakao",
    "company": "카카오",
@@ -3506,40 +3580,6 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4708013005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist - Structured data modeling",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708013005",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "multimodal",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [
-    "pytorch"
-   ],
-   "pref_domains": [
-    "llm",
-    "multimodal",
-    "mlops"
-   ],
    "pref_skills": []
   },
   {
