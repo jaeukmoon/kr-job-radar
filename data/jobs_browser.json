@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07",
+ "generated": "2026-08-08",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -70,6 +70,24 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261739",
+   "source": "sk",
+   "company": "SK에코플랜트",
+   "title": "IT/DT 경력직 (정규) 영입 (개인정보보안/ IT Infra/ AI/DT 기획, Data 분석/ Application/ Physical AI  Eng'r)",
+   "team": "IT/IT 보안,IT 기획 • Tech R&D/AI/DT,AI/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-16",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261739",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-analysis",
+    "data-eng"
    ]
   },
   {
@@ -151,38 +169,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N4-79",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약학과] 자율주행기술개발",
-   "team": "연구개발 · 자율주행",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=79",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N4-78",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약학과] 시스템 시험 및 검증",
-   "team": "연구개발 · 자율주행",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=78",
-   "tags": [],
-   "categories": [
-    "robotics"
    ]
   },
   {

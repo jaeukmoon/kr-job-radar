@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07",
+ "generated": "2026-08-08",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,158 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261739",
+   "source": "sk",
+   "company": "SK에코플랜트",
+   "title": "IT/DT 경력직 (정규) 영입 (개인정보보안/ IT Infra/ AI/DT 기획, Data 분석/ Application/ Physical AI  Eng'r)",
+   "team": "IT/IT 보안,IT 기획 • Tech R&D/AI/DT,AI/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-16",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261739",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-analysis",
+    "data-eng"
+   ],
+   "first_seen": "2026-08-08",
+   "domains": [
+    "llm",
+    "agent",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "aws",
+    "gcp",
+    "azure"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "robotics",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "aws",
+    "gcp",
+    "azure"
+   ]
+  },
+  {
+   "id": "naver:30005277",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 프랑스어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-30",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005277",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-08",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005266",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] AI 쇼핑 에이전트 기획 지원 (계약)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-18",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005266",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-08",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4722177005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI 사업개발 변호사(EXAONE Nexus)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4722177005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-08",
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8104736",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CLS] 물류 데이터 분석 및 운영 전략 담당자 (LSCI Inbound Solution)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104736",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-08",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "airflow"
+   ]
+  },
   {
    "id": "toss:4154060003",
    "source": "toss",
@@ -1076,54 +1228,6 @@
     "k8s",
     "distributed"
    ]
-  },
-  {
-   "id": "hyundai:2026-N4-79",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약학과] 자율주행기술개발",
-   "team": "연구개발 · 자율주행",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=79",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-27",
-   "domains": [
-    "robotics",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N4-78",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약학과] 시스템 시험 및 검증",
-   "team": "연구개발 · 자율주행",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-07",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N4&recuCls=78",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-27",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "naver:30005121",
@@ -3487,34 +3591,6 @@
    "pref_skills": []
   },
   {
-   "id": "lgairesearch:4706754005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist Internship-Physical AI 개발",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4706754005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "robotics",
-    "multimodal"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lgairesearch:4638356005",
    "source": "lgairesearch",
    "company": "LG AI Research",
@@ -4264,39 +4340,6 @@
     "python",
     "sql"
    ]
-  },
-  {
-   "id": "coupang:8009469",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[Coupang Eats] Senior, Business analyst",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8009469",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "data-analysis"
-   ],
-   "pref_skills": []
   },
   {
    "id": "coupang:7856487",
