@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09",
+ "generated": "2026-08-10",
  "sources_ok": [
   "naver",
   "kakao",
@@ -10,10 +10,137 @@
   "lgairesearch",
   "coupang",
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "samsung:22824",
+   "source": "samsung",
+   "company": "삼성화재",
+   "title": "경력사원 채용(마케팅, 데이터 플랫폼, 영업관리, 상품/계리, 언더라이팅, 글로벌사업, IT, 미디어, 의료심사)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-19",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-08-10",
+   "domains": [
+    "llm",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "airflow",
+    "aws",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "airflow",
+    "rag"
+   ]
+  },
+  {
+   "id": "samsung:22823",
+   "source": "samsung",
+   "company": "삼성웰스토리",
+   "title": "경력사원 채용(데이터 분석 엔지니어, 수주영업, 조리사, 보건관리, 제안서디자인, 글로벌 셰프)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-19",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-10",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "aws",
+    "rag"
+   ],
+   "pref_domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "aws"
+   ]
+  },
+  {
+   "id": "lg:1002047",
+   "source": "lg",
+   "company": "LG경영연구원",
+   "title": "2026년 신입연구원 채용(석사/학사) ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "신입",
+   "deadline": "2026-09-06",
+   "url": "https://careers.lg.com/apply/detail?id=1002047",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-10",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8118761",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118761",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-10",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "sk:R261739",
    "source": "sk",
@@ -1113,39 +1240,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261648",
-   "source": "sk",
-   "company": "SK온",
-   "title": "SK온 ESS 연구원 경력 채용",
-   "team": "Tech R&D/연구개발",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-09",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261648",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-28",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql"
-   ]
-  },
-  {
    "id": "sk:R261647",
    "source": "sk",
    "company": "SK바이오팜",
@@ -1297,69 +1391,6 @@
     "ml"
    ],
    "first_seen": "2026-07-23",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005182",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 인도네시아어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-09",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005182",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005183",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 아랍어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-09",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005183",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005181",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 대만 번체 중국어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-09",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005181",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-22",
    "domains": [],
    "skills": [],
    "pref_domains": [],
@@ -1926,35 +1957,6 @@
    "pref_skills": [
     "linux"
    ]
-  },
-  {
-   "id": "naver:30005138",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] 3D Vision Researcher",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-09",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005138",
-   "tags": [],
-   "categories": [
-    "ml",
-    "vision"
-   ],
-   "first_seen": "2026-07-14",
-   "domains": [
-    "vision",
-    "recsys",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4623079005",
@@ -2630,31 +2632,6 @@
    "pref_skills": [
     "kafka"
    ]
-  },
-  {
-   "id": "toss:7782783003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "Data Analytics Specialist",
-   "team": "Data Analysis",
-   "location": "Seoul",
-   "employment_type": "계약직",
-   "career_type": "",
-   "deadline": "2026-08-10",
-   "url": "https://toss.im/career/job-detail?gh_jid=7782783003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7775866003",
@@ -3341,46 +3318,6 @@
    "pref_skills": [
     "k8s",
     "cuda"
-   ]
-  },
-  {
-   "id": "samsung:22599",
-   "source": "samsung",
-   "company": "삼성E&A",
-   "title": "경력사원 채용(RM, Data분석, AI/Data Governance, PI, 모듈/배관Fab.관리, 전략기획, 특허, 보험, Cyber Security설계, 통신설계)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-07-15",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "robotics",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "agent",
-    "robotics",
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "powerbi"
    ]
   },
   {
@@ -4174,32 +4111,6 @@
     "data-analysis"
    ],
    "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7957055",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7957055",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
     "sql"
    ],
    "pref_domains": [],

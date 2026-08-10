@@ -1,29 +1,12 @@
 {
- "generated": "2026-08-09",
+ "generated": "2026-08-10",
  "sources_ok": [
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
- "errors": [
-  "samsung: 0 jobs returned"
- ],
+ "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261648",
-   "source": "sk",
-   "company": "SK온",
-   "title": "SK온 ESS 연구원 경력 채용",
-   "team": "Tech R&D/연구개발",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-09",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261648",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261645",
    "source": "sk",
@@ -304,19 +287,35 @@
    ]
   },
   {
-   "id": "samsung:22599",
+   "id": "samsung:22824",
    "source": "samsung",
-   "company": "삼성E&A",
-   "title": "경력사원 채용(RM, Data분석, AI/Data Governance, PI, 모듈/배관Fab.관리, 전략기획, 특허, 보험, Cyber Security설계, 통신설계)",
+   "company": "삼성화재",
+   "title": "경력사원 채용(마케팅, 데이터 플랫폼, 영업관리, 상품/계리, 언더라이팅, 글로벌사업, IT, 미디어, 의료심사)",
    "team": "",
    "location": "",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-07-15",
+   "deadline": "2026-08-19",
    "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [
-    "ml"
+    "data-eng"
+   ]
+  },
+  {
+   "id": "samsung:22823",
+   "source": "samsung",
+   "company": "삼성웰스토리",
+   "title": "경력사원 채용(데이터 분석 엔지니어, 수주영업, 조리사, 보건관리, 제안서디자인, 글로벌 셰프)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-19",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   }
  ]
