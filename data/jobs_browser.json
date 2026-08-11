@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10",
+ "generated": "2026-08-11",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,38 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261645",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "RPT 의약화학 연구원 경력 구성원 영입",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-10",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261645",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261647",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "RPT 의약화학 연구원 신입 구성원 영입",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-08-10",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261647",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261663",
    "source": "sk",
