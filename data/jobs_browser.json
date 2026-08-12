@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11",
+ "generated": "2026-08-12",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261663",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Engineer 경력 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-11",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261663",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R261739",
    "source": "sk",
@@ -39,6 +23,39 @@
     "ml",
     "data-analysis",
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261753",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Platform Engineering 구성원 영입",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261753",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ]
+  },
+  {
+   "id": "sk:R261754",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Engineer, AX 경력 구성원 영입",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261754",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {
@@ -249,6 +266,22 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=209",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "samsung:22828",
+   "source": "samsung",
+   "company": "삼성SDI",
+   "title": "경력사원 채용(생성형 AI Agent 및 Service Platform개발)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-19",
+   "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [
     "ml"
