@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12",
+ "generated": "2026-08-13",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,139 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261775",
+   "source": "sk",
+   "company": "SK케미칼(LS)",
+   "title": "[SK케미칼] 의약품 약리 및 독성평가 신입/경력 연구원 모집 ",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261775",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-13",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261767",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] AI Engineer(AI 서비스 개발) 경력 인재 채용",
+   "team": "Tech R&D/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261767",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-08-13",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002062",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] Speech AI 경력 채용 ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-08-18",
+   "url": "https://careers.lg.com/apply/detail?id=1002062",
+   "tags": [],
+   "categories": [
+    "ml",
+    "speech"
+   ],
+   "first_seen": "2026-08-13",
+   "domains": [
+    "llm",
+    "speech",
+    "multimodal",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002064",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "2026 US Fair 모집 (AI/Token Optimization)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "신입",
+   "deadline": "2026-08-31",
+   "url": "https://careers.lg.com/apply/detail?id=1002064",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-13",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "nlp",
+    "speech",
+    "multimodal",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "k8s",
+    "cuda",
+    "distributed",
+    "vllm",
+    "huggingface"
+   ],
+   "pref_domains": [
+    "llm",
+    "nlp",
+    "speech",
+    "multimodal",
+    "mlops"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow",
+    "k8s",
+    "cuda",
+    "distributed",
+    "vllm",
+    "huggingface"
+   ]
+  },
   {
    "id": "toss:7757642003",
    "source": "toss",
@@ -1509,27 +1642,6 @@
    ]
   },
   {
-   "id": "naver:30005185",
-   "source": "naver",
-   "company": "NAVER Cloud",
-   "title": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드·AI 세일즈 담당자 (경력)",
-   "team": "Service & Business · 어카운트/세일즈",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-12",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005185",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-27",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "kt:258531",
    "source": "kt",
    "company": "kt nasmedia",
@@ -1918,36 +2030,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8073834",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 셀렉션 데이터 분석 및 기획 (경력 3년 이상)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073834",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python"
-   ]
   },
   {
    "id": "lg:1001649",
@@ -2451,54 +2533,6 @@
     "python",
     "cpp",
     "linux"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-155",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[SDF] 제조 DX 솔루션/시스템 아키텍트",
-   "team": "생산/제조 · 스마트제조",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=155",
-   "tags": [
-    "제조SW/AI 경력채용"
-   ],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "javascript",
-    "sql",
-    "kafka",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "spring",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "javascript",
-    "sql",
-    "kafka",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "spring",
-    "git"
    ]
   },
   {
@@ -3096,43 +3130,6 @@
     "data-analysis"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "kakao:S-4718",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 자율주행 관제 플랫폼 백엔드 엔지니어",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/S-4718",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "cpp",
-    "java",
-    "go",
-    "sql",
-    "aws",
-    "gcp"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": [
-    "cpp",
-    "go",
-    "aws",
-    "gcp"
-   ]
   },
   {
    "id": "kakao:S-4681",

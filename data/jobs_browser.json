@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12",
+ "generated": "2026-08-13",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -56,6 +56,39 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261767",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] AI Engineer(AI 서비스 개발) 경력 인재 채용",
+   "team": "Tech R&D/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261767",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261775",
+   "source": "sk",
+   "company": "SK케미칼(LS)",
+   "title": "[SK케미칼] 의약품 약리 및 독성평가 신입/경력 연구원 모집 ",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261775",
+   "tags": [],
+   "categories": [
+    "research"
    ]
   },
   {
@@ -203,24 +236,6 @@
    "tags": [],
    "categories": [
     "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-155",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[SDF] 제조 DX 솔루션/시스템 아키텍트",
-   "team": "생산/제조 · 스마트제조",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=155",
-   "tags": [
-    "제조SW/AI 경력채용"
-   ],
-   "categories": [
-    "ml"
    ]
   },
   {
