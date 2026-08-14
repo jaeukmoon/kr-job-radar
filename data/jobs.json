@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-13",
+ "generated": "2026-08-14",
  "sources_ok": [
   "naver",
   "kakao",
@@ -102,7 +102,7 @@
    "team": "",
    "location": "",
    "employment_type": "",
-   "career_type": "신입",
+   "career_type": "신입/경력",
    "deadline": "2026-08-31",
    "url": "https://careers.lg.com/apply/detail?id=1002064",
    "tags": [],
@@ -1380,31 +1380,6 @@
     "data-eng",
     "data-analysis"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005246",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] 로봇 구동팩/냉각 시스템 개발 (인턴십)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-08-13",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005246",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-31",
-   "domains": [
-    "recsys",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -4329,33 +4304,6 @@
    "domains": [],
    "skills": [
     "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7920145",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff~Sr.Staff Data Scientist (Coupang Eats)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7920145",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "agent"
-   ],
-   "skills": [
-    "python",
-    "go",
     "sql"
    ],
    "pref_domains": [],
