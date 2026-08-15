@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-14",
+ "generated": "2026-08-15",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -170,6 +170,132 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-306",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=306",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-307",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조물류지능화] AMR 자율제어 Perception 시스템 개발",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=307",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "vision"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-312",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 휴머노이드 제조 애플리케이션 시스템 인터페이스 개발",
+   "team": "생산/제조 · 생산기술",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=312",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-316",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 로봇 작업 정책 학습 데이터 생성 파이프라인 개발",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-305",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[ICT] Database Administrator",
+   "team": "IT · Data Engineering",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=305",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "data-eng"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-315",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[ICT] Data Engineer",
+   "team": "IT · Data Engineering",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=315",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "data-eng"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-314",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[ICT] Data Architect",
+   "team": "IT · Data Engineering",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=314",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "data-eng"
    ]
   },
   {
