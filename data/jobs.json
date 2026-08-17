@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16",
+ "generated": "2026-08-17",
  "sources_ok": [
   "naver",
   "kakao",
@@ -949,57 +949,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R261739",
-   "source": "sk",
-   "company": "SK에코플랜트",
-   "title": "IT/DT 경력직 (정규) 영입 (개인정보보안/ IT Infra/ AI/DT 기획, Data 분석/ Application/ Physical AI  Eng'r)",
-   "team": "IT/IT 보안,IT 기획 • Tech R&D/AI/DT,AI/Data Engineering",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-16",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261739",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-analysis",
-    "data-eng"
-   ],
-   "first_seen": "2026-08-08",
-   "domains": [
-    "llm",
-    "agent",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "pytorch",
-    "tensorflow",
-    "spark",
-    "aws",
-    "gcp",
-    "azure"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "robotics",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "pytorch",
-    "tensorflow",
-    "spark",
-    "aws",
-    "gcp",
-    "azure"
-   ]
   },
   {
    "id": "naver:30005277",
