@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17",
+ "generated": "2026-08-18",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,32 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "woowahan:25694",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "운영지원(로봇배달사업)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25694/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-08-18",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N2-306",
    "source": "hyundai",
@@ -1110,29 +1136,6 @@
    "pref_skills": []
   },
   {
-   "id": "lg:1001889",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[정보보안센터] AI보안 담당자 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-17",
-   "url": "https://careers.lg.com/apply/detail?id=1001889",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-07",
-   "domains": [
-    "agent"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8104881",
    "source": "coupang",
    "company": "Coupang",
@@ -1783,32 +1786,6 @@
    ],
    "pref_domains": [
     "data-analysis"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25524",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "운영지원(로봇배달사업)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25524/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-28",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
    ],
    "pref_skills": []
   },
