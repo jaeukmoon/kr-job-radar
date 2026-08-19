@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18",
+ "generated": "2026-08-19",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -71,6 +71,71 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R261793",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "분산에너지 운영제어 솔루션 연구원 채용",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261793",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "sk:R261797",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "전력변환 및 계통연계 제어 연구원 채용",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261797",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "sk:R261798",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261798",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "sk:R261801",
+   "source": "sk",
+   "company": "SK실트론",
+   "title": "SK실트론 AI 플랫폼 개발자 경력직 수시 채용",
+   "team": "IT/Platform/Solution",
+   "location": "경상",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-09-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261801",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
    ]
   },
   {
@@ -149,6 +214,22 @@
    "career_type": "경력",
    "deadline": "2026-09-14",
    "url": "https://www.skcareers.com/Recruit/Detail/R261722",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261800",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "AI Agent TPM (Technical Project Manager)",
+   "team": "Tech R&D/Project Management",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261800",
    "tags": [],
    "categories": [
     "ml"

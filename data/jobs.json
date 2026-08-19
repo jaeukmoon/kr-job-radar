@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18",
+ "generated": "2026-08-19",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,317 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261800",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "AI Agent TPM (Technical Project Manager)",
+   "team": "Tech R&D/Project Management",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261800",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "llm",
+    "agent",
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "speech"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261797",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "전력변환 및 계통연계 제어 연구원 채용",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261797",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
+  },
+  {
+   "id": "sk:R261793",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "분산에너지 운영제어 솔루션 연구원 채용",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261793",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "sk:R261798",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-08-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261798",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
+  },
+  {
+   "id": "sk:R261801",
+   "source": "sk",
+   "company": "SK실트론",
+   "title": "SK실트론 AI 플랫폼 개발자 경력직 수시 채용",
+   "team": "IT/Platform/Solution",
+   "location": "경상",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-09-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261801",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [],
+   "skills": [
+    "python",
+    "java",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005300",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] 인공지능 기반 실시간 진료기록 생성 기술 연구 개발 (체험형 인턴)",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-08-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005300",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp",
+    "speech",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005299",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] 의료 도메인에서의 Agentic RAG 연구 및 개발 (체험형 인턴)",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-08-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005299",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "langchain",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4593631005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "독자AI파운데이션 모델 개발 Internship (World Best LLM)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4593631005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "llm"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "llm",
+    "rl"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "huggingface",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8130043",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff, Machine Learning Engineer (Search & Discovery)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8130043",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "llm",
+    "recsys"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": [
+    "aws",
+    "gcp"
+   ]
+  },
+  {
+   "id": "coupang:8130040",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr. Staff, Machine Learning Engineer (Search & Discovery)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8130040",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-08-19",
+   "domains": [
+    "llm",
+    "recsys"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": [
+    "aws",
+    "gcp"
+   ]
+  },
   {
    "id": "woowahan:25694",
    "source": "woowahan",
@@ -405,37 +716,6 @@
    "pref_skills": []
   },
   {
-   "id": "lg:1002062",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] Speech AI 경력 채용 ",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-18",
-   "url": "https://careers.lg.com/apply/detail?id=1002062",
-   "tags": [],
-   "categories": [
-    "ml",
-    "speech"
-   ],
-   "first_seen": "2026-08-13",
-   "domains": [
-    "llm",
-    "speech",
-    "multimodal",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lg:1002064",
    "source": "lg",
    "company": "LG유플러스",
@@ -693,7 +973,7 @@
    "id": "kakao:P-14403",
    "source": "kakao",
    "company": "카카오",
-   "title": "LLM Research Engineer (신입/경력)",
+   "title": "LLM Research Engineer (Post-training) (신입/경력)",
    "team": "테크",
    "location": "판교",
    "employment_type": "정규직",
@@ -736,34 +1016,6 @@
    ],
    "first_seen": "2026-08-11",
    "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001495",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] AI Scientist_음성인식/합성 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-18",
-   "url": "https://careers.lg.com/apply/detail?id=1001495",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "speech"
-   ],
-   "first_seen": "2026-08-11",
-   "domains": [
-    "llm",
-    "speech",
-    "multimodal",
     "data-analysis"
    ],
    "skills": [],
@@ -993,33 +1245,6 @@
    ],
    "first_seen": "2026-08-08",
    "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005266",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] AI 쇼핑 에이전트 기획 지원 (계약)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-08-18",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005266",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-08",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys",
-    "data-eng",
-    "data-analysis"
-   ],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
@@ -2346,39 +2571,6 @@
     "cuda",
     "vllm",
     "huggingface"
-   ]
-  },
-  {
-   "id": "coupang:8054981",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] SLA 분석 및 개선 담당자(CX SLA) (경력 3년이상)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8054981",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-15",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "powerbi"
    ]
   },
   {
@@ -4735,43 +4927,6 @@
    ],
    "pref_skills": [
     "sql"
-   ]
-  },
-  {
-   "id": "coupang:8027805",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Sr. Data Analyst (Post Purchase Experience Analytics)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8027805",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "airflow",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "llm",
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python"
    ]
   },
   {
