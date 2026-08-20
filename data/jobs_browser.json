@@ -1,11 +1,12 @@
 {
- "generated": "2026-08-19",
+ "generated": "2026-08-20",
  "sources_ok": [
   "sk",
-  "hyundai",
-  "samsung"
+  "hyundai"
  ],
- "errors": [],
+ "errors": [
+  "samsung: 0 jobs returned"
+ ],
  "jobs": [
   {
    "id": "sk:R261753",
@@ -359,6 +360,22 @@
    ],
    "categories": [
     "data-eng"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N5-183",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
+   "team": "IT · Infra Engineering",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-08-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=183",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
