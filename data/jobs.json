@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20",
+ "generated": "2026-08-21",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,148 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "lg:1001987",
+   "source": "lg",
+   "company": "LG전자",
+   "title": "[생산기술원] 로봇 / AMR HW Platform 개발",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-10",
+   "url": "https://careers.lg.com/apply/detail?id=1001987",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-08-21",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4725958005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Internship - Physical AI",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4725958005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-21",
+   "domains": [
+    "llm",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4725957005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Data Engineer Internship - Physical AI",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4725957005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-08-21",
+   "domains": [
+    "llm",
+    "vision",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:7896545",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Machine Learning Engineer (Ads Relevance)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7896545",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-21",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys"
+   ],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [
+    "recsys"
+   ],
+   "pref_skills": [
+    "aws"
+   ]
+  },
+  {
+   "id": "coupang:8146344",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Staff, Machine Learning Engineer (Coupang Eats Search)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8146344",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-08-21",
+   "domains": [
+    "llm",
+    "nlp"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm",
+    "nlp"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N5-183",
    "source": "hyundai",
@@ -1247,32 +1389,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8118761",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118761",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-10",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005277",
    "source": "naver",
    "company": "NAVER WEBTOON",
@@ -1373,42 +1489,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8104881",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] CXDX Junior PM (데이터 분석 PM)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104881",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-07",
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ]
   },
   {
    "id": "coupang:8073793",
@@ -1621,34 +1701,11 @@
    "pref_skills": []
   },
   {
-   "id": "toss:7823859003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "Product Operations Specialist (AI Evaluation)",
-   "team": "Product Operations",
-   "location": "Seoul",
-   "employment_type": "계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7823859003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-04",
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "kt:261964",
    "source": "kt",
    "company": "kt nasmedia",
    "title": "[kt nasmedia] 2026년 8월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-SNS 사업 리더 · 마케팅-SNS 사업 PM · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
+   "team": "마케팅-미디어플래너 · 마케팅-SNS 사업 리더 · 마케팅-SNS 사업 PM · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
    "location": "",
    "employment_type": "일반채용",
    "career_type": "신입/경력",
@@ -2095,27 +2152,6 @@
     "k8s",
     "distributed"
    ]
-  },
-  {
-   "id": "kt:258531",
-   "source": "kt",
-   "company": "kt nasmedia",
-   "title": "[kt nasmedia] 2026년 7월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-SNS 사업 리더 · 마케팅-SNS 사업 PM · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입/경력",
-   "deadline": "2026-07-31",
-   "url": "https://kt.recruiter.co.kr/career/jobs/120381",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-23",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4012563005",
@@ -4080,34 +4116,6 @@
    ]
   },
   {
-   "id": "lgairesearch:4693138005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist Internship - Robot Foundation Model",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4693138005",
-   "tags": [],
-   "categories": [
-    "research",
-    "llm"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "robotics",
-    "multimodal"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lgairesearch:4708924005",
    "source": "lgairesearch",
    "company": "LG AI Research",
@@ -4166,6 +4174,33 @@
     "llm",
     "rl",
     "vision",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4693138005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Internship - Robot Foundation Model",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4693138005",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-07-05",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "robotics",
     "multimodal"
    ],
    "skills": [],
@@ -4854,39 +4889,6 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
-  },
-  {
-   "id": "coupang:7964989",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Sr. Manager, Business Analyst (Rocket Fresh)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7964989",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "airflow",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql"
    ]
   },
   {
