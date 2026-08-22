@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21",
+ "generated": "2026-08-22",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -137,6 +137,72 @@
    "categories": [
     "ml",
     "mlops"
+   ]
+  },
+  {
+   "id": "sk:R261827",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Scientist 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261827",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ]
+  },
+  {
+   "id": "sk:R261828",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "Agentic AI Platform Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261828",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ]
+  },
+  {
+   "id": "sk:R261829",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "Biomedical Data Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261829",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261830",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "LLM Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261830",
+   "tags": [],
+   "categories": [
+    "llm"
    ]
   },
   {

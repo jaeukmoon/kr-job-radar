@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21",
+ "generated": "2026-08-22",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,221 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "kt:259303",
+   "source": "kt",
+   "company": "kt netcore",
+   "title": "[kt netcore] 경력직 상시 인재풀(선로운용/선로설계/Biz서비스운영/IT정보보안/AI서비스개발)",
+   "team": "선로운용-서울 · 선로운용-강원 · 선로운용-경기 북부 · 선로운용-경기 남부 · 선로운용-경기 서부 · 선로운용-인천 · 선로운용-충북 · 선로운용-대전/충남 · 선로운용-대구/경북 · 선로운용-부산/경남 · 선로운용-전북 · 선로운용-광주/전남 · 선로운용-제주 · 선로설계-서울 · 선로설계-강원 · 선로설계-경기 북부 · 선로설계-경기 남부 · 선로설계-경기 서부 · 선로설계-인천 · 선로설계-충북 · 선로설계-대전/충남 · 선로설계-대구/경북 · 선로설계-부산/경남 · 선로설계-전북 · 선로설계-광주/전남 · 선로설계-제주 · Biz서비스운영-서울 · Biz서비스운영-강원 · Biz서비스운영-경기 북부 · Biz서비스운영-경기 남부 · Biz서비스운영-경기 서부 · Biz서비스운영-인천 · Biz서비스운영-충북 · Biz서비스운영-대전/충남 · Biz서비스운영-대구/경북 · Biz서비스운영-부산/경남 · Biz서비스운영-전북 · Biz서비스운영-광주/전남 · Biz서비스운영-제주 · IT/정보보안-서울(수서) · AI서비스개발-서울(수서)",
+   "location": "",
+   "employment_type": "상시",
+   "career_type": "경력",
+   "deadline": "2027-12-31",
+   "url": "https://kt.recruiter.co.kr/career/jobs/121154",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261830",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "LLM Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261830",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261829",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "Biomedical Data Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261829",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [
+    "llm",
+    "multimodal",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "aws"
+   ],
+   "pref_domains": [
+    "llm",
+    "multimodal"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261828",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "Agentic AI Platform Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261828",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "langchain"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
+  {
+   "id": "sk:R261827",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Scientist 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261827",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002065",
+   "source": "lg",
+   "company": "LG전자",
+   "title": "[CTO부문] 로봇 전문가 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-01",
+   "url": "https://careers.lg.com/apply/detail?id=1002065",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "nlp",
+    "speech",
+    "recsys",
+    "robotics",
+    "timeseries",
+    "multimodal"
+   ],
+   "skills": [
+    "javascript",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "rl",
+    "vision",
+    "robotics",
+    "timeseries"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow"
+   ]
+  },
+  {
+   "id": "coupang:8146619",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] CS 지식관리 시스템(KMS) 운영 및 AI 자동화 담당자",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8146619",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-22",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "lg:1001987",
    "source": "lg",
@@ -4788,48 +5003,6 @@
     "multimodal"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:7896826",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Data Analyst (Coupang Logistics Service) ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7896826",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "airflow",
-    "aws",
-    "azure",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": [
-    "airflow",
-    "aws",
-    "azure"
-   ]
   },
   {
    "id": "coupang:7919211",
