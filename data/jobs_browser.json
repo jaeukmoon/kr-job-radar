@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23",
+ "generated": "2026-08-24",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -56,6 +56,22 @@
    "categories": [
     "ml",
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261841",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": " 2026 Junior Talent 채용 - Tech 직군",
+   "team": "Tech R&D/SW 개발,AI Model",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261841",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {
@@ -284,6 +300,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261847",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI · Data 분야 (생성형 AI & Data Lake DevOps) 전문가 영입 (계약직)",
+   "team": "Tech R&D/Data 분석/개발",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-12",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261847",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-analysis"
    ]
   },
   {

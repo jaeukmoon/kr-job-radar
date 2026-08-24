@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23",
+ "generated": "2026-08-24",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,111 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261841",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": " 2026 Junior Talent 채용 - Tech 직군",
+   "team": "Tech R&D/SW 개발,AI Model",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261841",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-08-24",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "speech",
+    "timeseries",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "java",
+    "javascript",
+    "sql",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "timeseries",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "spark",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R261847",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI · Data 분야 (생성형 AI & Data Lake DevOps) 전문가 영입 (계약직)",
+   "team": "Tech R&D/Data 분석/개발",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-12",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261847",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-24",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "spark",
+    "kafka",
+    "airflow",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "kafka",
+    "airflow",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure"
+   ]
+  },
   {
    "id": "kt:259303",
    "source": "kt",
@@ -1738,73 +1843,6 @@
    "pref_skills": [
     "sql"
    ]
-  },
-  {
-   "id": "naver:30005255",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Applied AI Backend Engineer (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-23",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005255",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-06",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "pytorch",
-    "tensorflow",
-    "k8s",
-    "vllm"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "k8s",
-    "vllm"
-   ]
-  },
-  {
-   "id": "naver:30005265",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[2026 채용연계형 인턴십] AI 애니메이션 제작 (AI animator)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-08-23",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005265",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-06",
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
   },
   {
    "id": "coupang:8102535",
