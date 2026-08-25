@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24",
+ "generated": "2026-08-25",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -88,6 +88,38 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R261846",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "유선상품 통계 및 정산 지원 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261846",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R261849",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261849",
+   "tags": [],
+   "categories": [
+    "data-eng"
    ]
   },
   {

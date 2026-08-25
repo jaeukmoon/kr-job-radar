@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24",
+ "generated": "2026-08-25",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,125 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:6279876003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Business Analyst",
+   "team": "Sales Support",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6279876003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-25",
+   "domains": [
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261846",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "유선상품 통계 및 정산 지원 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261846",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-25",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261849",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-08-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261849",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-08-25",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "spark",
+    "kafka",
+    "k8s"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "kafka",
+    "k8s"
+   ]
+  },
+  {
+   "id": "coupang:8152613",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 비즈니스 분석가(Business Analyst_Retail Finance)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8152613",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-25",
+   "domains": [
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "hadoop",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "agent",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "airflow"
+   ]
+  },
   {
    "id": "sk:R261841",
    "source": "sk",
@@ -1139,7 +1258,7 @@
    "id": "lg:1002072",
    "source": "lg",
    "company": "비즈테크아이",
-   "title": "[비즈테크아이] 금융 분석•설계•개발자  PM/PL 모집(경력)",
+   "title": "[비즈테크아이] 금융 PM/PL, 금융 분석/설계/개발, 금융영업 모집(경력)",
    "team": "",
    "location": "",
    "employment_type": "",
@@ -2268,48 +2387,6 @@
    ]
   },
   {
-   "id": "coupang:8066622",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Data Analyst (Pricing&Retail)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8066622",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-29",
-   "domains": [
-    "recsys",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "airflow",
-    "aws",
-    "tableau",
-    "git"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "airflow",
-    "aws",
-    "tableau",
-    "git"
-   ]
-  },
-  {
    "id": "toss:7728018003",
    "source": "toss",
    "company": "토스",
@@ -2938,45 +3015,6 @@
    ]
   },
   {
-   "id": "coupang:8059306",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 비즈니스 분석가(Business Analyst_Retail Finance)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8059306",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-14",
-   "domains": [
-    "agent",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "hadoop",
-    "airflow",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "agent",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow"
-   ]
-  },
-  {
    "id": "woowahan:25443",
    "source": "woowahan",
    "company": "우아한형제들",
@@ -3002,33 +3040,6 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "kakao:S-4707",
-   "source": "kakao",
-   "company": "카카오페이",
-   "title": "[공동체] 카카오페이 FDE - 전사 주요 프로젝트 지원 및 AI 기반 업무 생산성 향상",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/S-4707",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-10",
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "javascript"
-   ],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
