@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26",
+ "generated": "2026-08-27",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,90 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7977764003",
+   "source": "toss",
+   "company": "토스페이먼츠",
+   "title": "토스페이먼츠 데이터 엔지니어 공개채용 (7년 이하) (~9/10)",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "2026-09-16",
+   "url": "https://toss.im/career/job-detail?gh_jid=7977764003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-08-27",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002123",
+   "source": "lg",
+   "company": "로보스타",
+   "title": "[로보스타] 로봇/물류 자동화 장비 기구설계 경력사원 모집",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-22",
+   "url": "https://careers.lg.com/apply/detail?id=1002123",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-08-27",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002126",
+   "source": "lg",
+   "company": "로보스타",
+   "title": "[로보스타] 로봇 SW 개발 경력사원 모집",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-22",
+   "url": "https://careers.lg.com/apply/detail?id=1002126",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-08-27",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "javascript",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "woowahan:25722",
    "source": "woowahan",
@@ -827,71 +911,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005300",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 인공지능 기반 실시간 진료기록 생성 기술 연구 개발 (체험형 인턴)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-08-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005300",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-08-19",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "speech",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005299",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 의료 도메인에서의 Agentic RAG 연구 및 개발 (체험형 인턴)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-08-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005299",
-   "tags": [],
-   "categories": [
-    "research",
-    "llm"
-   ],
-   "first_seen": "2026-08-19",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "langchain",
-    "rag",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lgairesearch:4593631005",
    "source": "lgairesearch",
    "company": "LG AI Research",
@@ -1328,33 +1347,6 @@
    "first_seen": "2026-08-13",
    "domains": [],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261767",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] AI Engineer(AI 서비스 개발) 경력 인재 채용",
-   "team": "Tech R&D/Data Engineering",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261767",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-08-13",
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [
-    "python"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },

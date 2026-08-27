@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26",
+ "generated": "2026-08-27",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,23 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261767",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] AI Engineer(AI 서비스 개발) 경력 인재 채용",
-   "team": "Tech R&D/Data Engineering",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261767",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R261841",
    "source": "sk",
