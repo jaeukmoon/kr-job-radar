@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27",
+ "generated": "2026-08-28",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -204,6 +204,38 @@
    ]
   },
   {
+   "id": "sk:R261876",
+   "source": "sk",
+   "company": "SK플라즈마",
+   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-09",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261876",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "sk:R261877",
+   "source": "sk",
+   "company": "SK플라즈마",
+   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-09",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261877",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
    "id": "sk:R261675",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -318,75 +350,19 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-306",
+   "id": "hyundai:2026-N5-183",
    "source": "hyundai",
    "company": "현대자동차",
-   "title": "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
-   "team": "생산/제조 · 스마트제조",
-   "location": "의왕연구소",
+   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
+   "team": "IT · Infra Engineering",
+   "location": "남양연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=306",
-   "tags": [
-    "8월 경력 채용"
-   ],
+   "deadline": "2026-08-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=183",
+   "tags": [],
    "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-307",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조물류지능화] AMR 자율제어 Perception 시스템 개발",
-   "team": "생산/제조 · 스마트제조",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=307",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "vision"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-312",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 휴머노이드 제조 애플리케이션 시스템 인터페이스 개발",
-   "team": "생산/제조 · 생산기술",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=312",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-316",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 로봇 작업 정책 학습 데이터 생성 파이프라인 개발",
-   "team": "생산/제조 · 스마트제조",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
+    "data-analysis"
    ]
   },
   {
@@ -398,7 +374,7 @@
    "location": "서울",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=305",
    "tags": [
     "8월 경력 채용"
@@ -416,7 +392,7 @@
    "location": "서울",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=315",
    "tags": [
     "8월 경력 채용"
@@ -434,7 +410,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=314",
    "tags": [
     "8월 경력 채용"
@@ -444,19 +420,75 @@
    ]
   },
   {
-   "id": "hyundai:2026-N5-183",
+   "id": "hyundai:2026-N2-306",
    "source": "hyundai",
    "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
+   "title": "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=183",
-   "tags": [],
+   "deadline": "2026-09-13",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=306",
+   "tags": [
+    "8월 경력 채용"
+   ],
    "categories": [
-    "data-analysis"
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-307",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조물류지능화] AMR 자율제어 Perception 시스템 개발",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-13",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=307",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "vision"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-312",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 휴머노이드 제조 애플리케이션 시스템 인터페이스 개발",
+   "team": "생산/제조 · 생산기술",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-13",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=312",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-316",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 로봇 작업 정책 학습 데이터 생성 파이프라인 개발",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-13",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
+   "tags": [
+    "8월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
    ]
   },
   {
@@ -507,22 +539,6 @@
    "tags": [],
    "categories": [
     "data-analysis"
-   ]
-  },
-  {
-   "id": "hyundai:2025-N2-399",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[로보틱스랩] 학습 기반 Bi-Manipulator 제어",
-   "team": "연구개발 · 로보틱스",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=399",
-   "tags": [],
-   "categories": [
-    "robotics"
    ]
   },
   {

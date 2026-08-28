@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27",
+ "generated": "2026-08-28",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,143 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R261877",
+   "source": "sk",
+   "company": "SK플라즈마",
+   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-09",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261877",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-28",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261876",
+   "source": "sk",
+   "company": "SK플라즈마",
+   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-09",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261876",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-08-28",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8163517",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 프로그램 매니저 - 쿠팡이츠 광고 운영 및 분석 ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163517",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-28",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8163586",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] Junior Business Analyst (신입 채용, Catalog Quality Insights)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163586",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-28",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "tableau",
+    "powerbi"
+   ]
+  },
+  {
+   "id": "coupang:8042925",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[Coupang Fulfillment Services] Principal, Facility Designer",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8042925",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-08-28",
+   "domains": [
+    "llm",
+    "speech",
+    "recsys",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "powerbi"
+   ]
+  },
   {
    "id": "toss:7977764003",
    "source": "toss",
@@ -644,37 +781,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:7896545",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Machine Learning Engineer (Ads Relevance)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7896545",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-21",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys"
-   ],
-   "skills": [
-    "aws"
-   ],
-   "pref_domains": [
-    "recsys"
-   ],
-   "pref_skills": [
-    "aws"
-   ]
-  },
-  {
    "id": "coupang:8146344",
    "source": "coupang",
    "company": "Coupang",
@@ -716,27 +822,6 @@
    "tags": [],
    "categories": [
     "data-analysis"
-   ],
-   "first_seen": "2026-08-20",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7892725003",
-   "source": "toss",
-   "company": "토스씨엑스",
-   "title": "셀러 대상 상담원 (AI 풀필먼트 회사 입출고, 배송문의)",
-   "team": "Customer",
-   "location": "Seoul",
-   "employment_type": "단기계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7892725003",
-   "tags": [],
-   "categories": [
-    "ml"
    ],
    "first_seen": "2026-08-20",
    "domains": [],
@@ -1023,7 +1108,7 @@
    "location": "의왕연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=306",
    "tags": [
     "8월 경력 채용"
@@ -1058,7 +1143,7 @@
    "location": "의왕연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=307",
    "tags": [
     "8월 경력 채용"
@@ -1099,7 +1184,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=312",
    "tags": [
     "8월 경력 채용"
@@ -1132,7 +1217,7 @@
    "location": "의왕연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
    "tags": [
     "8월 경력 채용"
@@ -1166,7 +1251,7 @@
    "location": "서울",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=305",
    "tags": [
     "8월 경력 채용"
@@ -1196,7 +1281,7 @@
    "location": "서울",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=315",
    "tags": [
     "8월 경력 채용"
@@ -1231,7 +1316,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-30",
+   "deadline": "2026-09-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=314",
    "tags": [
     "8월 경력 채용"
@@ -1819,40 +1904,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8073793",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior Business Analyst (Retail PM Business Insights)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073793",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-07",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "airflow",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql"
-   ]
   },
   {
    "id": "coupang:8102535",
@@ -3116,39 +3167,6 @@
    "pref_skills": []
   },
   {
-   "id": "hyundai:2025-N2-399",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[로보틱스랩] 학습 기반 Bi-Manipulator 제어",
-   "team": "연구개발 · 로보틱스",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=399",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "linux"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": [
-    "python",
-    "cpp",
-    "linux"
-   ]
-  },
-  {
    "id": "hyundai:2026-N2-99",
    "source": "hyundai",
    "company": "현대자동차",
@@ -3329,47 +3347,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "toss:6085018003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "Data Scientist",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=6085018003",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "pytorch",
-    "tensorflow",
-    "spark",
-    "hadoop",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": [
-    "rag"
-   ]
   },
   {
    "id": "toss:6603749003",
@@ -5094,44 +5071,6 @@
     "data-eng"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8020073",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior Business Analyst (Pricing Data Analysis)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8020073",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "agent",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "hadoop",
-    "airflow",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "agent",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow"
-   ]
   },
   {
    "id": "coupang:8034833",
