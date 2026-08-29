@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28",
+ "generated": "2026-08-29",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,38 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "coupang:8163846",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CES] Business Analyst (푸드 딜리버리 운영)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163846",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-08-29",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
+  },
   {
    "id": "sk:R261877",
    "source": "sk",
