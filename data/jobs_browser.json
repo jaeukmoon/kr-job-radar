@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30",
+ "generated": "2026-08-31",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,70 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261841",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": " 2026 Junior Talent 채용 - Tech 직군",
-   "team": "Tech R&D/SW 개발,AI Model",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-08-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261841",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "sk:R261775",
-   "source": "sk",
-   "company": "SK케미칼(LS)",
-   "title": "[SK케미칼] 의약품 약리 및 독성평가 신입/경력 연구원 모집 ",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-08-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261775",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261846",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "유선상품 통계 및 정산 지원 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-08-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261846",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "sk:R261849",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "Data Platform Engineer",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-08-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261849",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R261793",
    "source": "sk",
@@ -496,7 +432,7 @@
    "source": "hyundai",
    "company": "현대자동차",
    "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
-   "team": "연구개발 · 로보틱스",
+   "team": "연구개발 · 로보틱스개발",
    "location": "의왕",
    "employment_type": "",
    "career_type": "",
