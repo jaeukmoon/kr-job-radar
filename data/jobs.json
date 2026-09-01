@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31",
+ "generated": "2026-09-01",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,32 +15,719 @@
  "errors": [],
  "jobs": [
   {
-   "id": "lg:1001974",
-   "source": "lg",
-   "company": "LG CNS",
-   "title": "[LG CNS 중국법인] Robotics Lab 리더 모집(이메일 지원)",
-   "team": "",
-   "location": "",
+   "id": "hyundai:2026-N1-156",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "자율주행/자율주차 설계 및 시스템 개발",
+   "team": "연구개발 · 자율주행",
+   "location": "판교",
    "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1001974",
-   "tags": [],
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=156",
+   "tags": [
+    "9월 신입채용"
+   ],
    "categories": [
     "robotics"
    ],
-   "first_seen": "2026-08-31",
+   "first_seen": "2026-09-01",
    "domains": [
-    "llm",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-175",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "자율주행 검증",
+   "team": "연구개발 · 자율주행",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=175",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-172",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "소재 및 공정기술 연구개발",
+   "team": "연구개발 · 소재개발",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=172",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-158",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "로보틱스 기술 및 사업 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=158",
+   "tags": [
+    "9월 신입채용,로봇 설계"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "vision",
+    "speech",
     "robotics",
-    "data-eng"
+    "timeseries",
+    "multimodal"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [
+    "speech",
+    "robotics",
+    "multimodal"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-95",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "경영연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=95",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-323",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 모바일로봇 전장 시스템 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=323",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "git"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "git"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-328",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 모바일로봇 위치 추정 및 주행 제어",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=328",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "cpp"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-320",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 로봇 SW 품질 관리",
+   "team": "사업/기획 · 경영전략",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
    ],
    "skills": [],
    "pref_domains": [
-    "robotics",
-    "data-eng"
+    "robotics"
    ],
    "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-325",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 회로 설계",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=325",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-331",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 양산개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=331",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-326",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 시스템 SW 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=326",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "rl",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "linux"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-329",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 기구설계 및 메커니즘 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=329",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-324",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 SW 검증/평가",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=324",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-322",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] Perceptive AI 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=322",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "vision",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "vllm",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "vllm"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-327",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] Bi-manipulator 제어",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=327",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "rl",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "linux"
+   ],
+   "pref_domains": [
+    "rl",
+    "robotics"
+   ],
+   "pref_skills": [
+    "cpp",
+    "linux"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-162",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "AI 반도체 (NPU) 개발",
+   "team": "연구개발 · 반도체",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=162",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-321",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": " [로보틱스랩] 학습 기반 Bi-manipulation 모델 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=321",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "rl",
+    "robotics",
+    "multimodal"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "git"
+   ],
+   "pref_domains": [
+    "rl",
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "hyundai:2026-N2-330",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "  [로보틱스랩] 관절로봇 HW 검증/평가",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=330",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7825510003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "AI Engineer (WM) ",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7825510003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "hadoop",
+    "kafka",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:265110",
+   "source": "kt",
+   "company": "kt nasmedia",
+   "title": "[kt nasmedia] 2026년 9월 kt nasmedia 채용 (채용 시 마감)",
+   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "신입/경력",
+   "deadline": "2026-09-30",
+   "url": "https://kt.recruiter.co.kr/career/jobs/127010",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261890",
+   "source": "sk",
+   "company": "SK케미칼(LS)",
+   "title": "[SK케미칼] 의약품 연구 보조 담당자 신입 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261890",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261892",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": " [SK인텔릭스] Data Scientist(데이터 분석/AI 모델링) 경력 인재 채용",
+   "team": "DT",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-13",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261892",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R261895",
+   "source": "sk",
+   "company": "SK에코플랜트",
+   "title": "AI/DC사업 공사(전기/설비) 경력직 채용",
+   "team": "건설/플랜트/공사(전기),공사(설비)",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-15",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261895",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8163774",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Security Engineer (AI GRC)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163774",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-01",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "aws"
+   ]
   },
   {
    "id": "coupang:8163846",
@@ -140,40 +827,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8163586",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] Junior Business Analyst (신입 채용, Catalog Quality Insights)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163586",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-28",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "tableau",
-    "powerbi"
-   ]
   },
   {
    "id": "coupang:8042925",
@@ -754,27 +1407,6 @@
    "pref_skills": []
   },
   {
-   "id": "hyundai:2026-N5-183",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=183",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-20",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8129711",
    "source": "coupang",
    "company": "Coupang",
@@ -826,93 +1458,6 @@
     "speech"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R261797",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "전력변환 및 계통연계 제어 연구원 채용",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261797",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-08-19",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": [
-    "python",
-    "cpp"
-   ]
-  },
-  {
-   "id": "sk:R261793",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "분산에너지 운영제어 솔루션 연구원 채용",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261793",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-08-19",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": [
-    "python"
-   ]
-  },
-  {
-   "id": "sk:R261798",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261798",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-19",
-   "domains": [],
-   "skills": [
-    "python",
-    "cpp"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "cpp"
-   ]
   },
   {
    "id": "sk:R261801",
@@ -1304,7 +1849,7 @@
    "id": "lg:1002072",
    "source": "lg",
    "company": "비즈테크아이",
-   "title": "[비즈테크아이] 금융 분석•설계•개발자  PM/PL 모집(경력)",
+   "title": "[비즈테크아이] 금융IT PM/PL, 분석•설계•개발자 모집(경력)",
    "team": "",
    "location": "",
    "employment_type": "",
@@ -1360,60 +1905,6 @@
    "pref_skills": []
   },
   {
-   "id": "lg:1002064",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "2026 US Fair 모집 (AI/Token Optimization)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "신입/경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1002064",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-13",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "nlp",
-    "speech",
-    "multimodal",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "pytorch",
-    "tensorflow",
-    "k8s",
-    "cuda",
-    "distributed",
-    "vllm",
-    "huggingface"
-   ],
-   "pref_domains": [
-    "llm",
-    "nlp",
-    "speech",
-    "multimodal",
-    "mlops"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "k8s",
-    "cuda",
-    "distributed",
-    "vllm",
-    "huggingface"
-   ]
-  },
-  {
    "id": "toss:7757642003",
    "source": "toss",
    "company": "토스씨엑스",
@@ -1466,50 +1957,6 @@
    "pref_skills": [
     "rag"
    ]
-  },
-  {
-   "id": "lg:1002059",
-   "source": "lg",
-   "company": "로보스타",
-   "title": "[로보스타] 연구 개발 총괄(Ledaer급) 모집",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1002059",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-08-12",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005286",
-   "source": "naver",
-   "company": "SNOW",
-   "title": "[SNOW] AI 캐릭터 채팅 서비스 기획/운영 담당 (계약직)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-08-31",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005286",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-12",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8048155",
@@ -2391,103 +2838,6 @@
    "pref_skills": []
   },
   {
-   "id": "kt:260214",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Quality Engineer)",
-   "team": "AX사업-AI Quality Engineering-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122079",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "javascript"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260176",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
-   "team": "AX사업-AI Platform Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "robotics",
-    "multimodal",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "java"
-   ],
-   "pref_domains": [
-    "rl",
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260209",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
-   "team": "AX사업-AI Agent Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "mlops"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8073876",
    "source": "coupang",
    "company": "Coupang",
@@ -2639,70 +2989,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "kakao:S-4731",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 MLOps 엔지니어",
-   "team": "",
-   "location": "",
-   "employment_type": "계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/S-4731",
-   "tags": [],
-   "categories": [
-    "mlops"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "airflow",
-    "k8s",
-    "gcp"
-   ],
-   "pref_domains": [
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001649",
-   "source": "lg",
-   "company": "LG CNS",
-   "title": "[LG CNS] 자동화 물류/로봇 전 직무 분야 모집(경력)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1001649",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-17",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "java",
-    "javascript"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": [
-    "java",
-    "javascript"
-   ]
   },
   {
    "id": "kakao:S-4730",
@@ -3920,63 +4206,6 @@
     "k8s",
     "git"
    ]
-  },
-  {
-   "id": "lg:1001400",
-   "source": "lg",
-   "company": "LG CNS",
-   "title": "[LG CNS] 의료/Bio AI Sales/Presales 담당자 모집(경력)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1001400",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "aws",
-    "gcp",
-    "azure"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001432",
-   "source": "lg",
-   "company": "LG CNS",
-   "title": "[LG CNS] 어플리케이션 아키텍트/AI 아키텍트 모집(경력)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://careers.lg.com/apply/detail?id=1001432",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "k8s",
-    "rag",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4708027005",

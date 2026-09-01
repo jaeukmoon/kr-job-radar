@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31",
+ "generated": "2026-09-01",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,54 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261793",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "분산에너지 운영제어 솔루션 연구원 채용",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261793",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261797",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "전력변환 및 계통연계 제어 연구원 채용",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261797",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261798",
-   "source": "sk",
-   "company": "SK이노베이션",
-   "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
-   "team": "Tech R&D/기술연구",
-   "location": "대전",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-08-31",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261798",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ]
-  },
   {
    "id": "sk:R261801",
    "source": "sk",
@@ -140,6 +92,22 @@
    ]
   },
   {
+   "id": "sk:R261890",
+   "source": "sk",
+   "company": "SK케미칼(LS)",
+   "title": "[SK케미칼] 의약품 연구 보조 담당자 신입 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-09-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261890",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
    "id": "sk:R261876",
    "source": "sk",
    "company": "SK플라즈마",
@@ -169,6 +137,24 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R261892",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": " [SK인텔릭스] Data Scientist(데이터 분석/AI 모델링) 경력 인재 채용",
+   "team": "DT",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-13",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261892",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "data-analysis"
    ]
   },
   {
@@ -253,6 +239,22 @@
    ]
   },
   {
+   "id": "sk:R261895",
+   "source": "sk",
+   "company": "SK에코플랜트",
+   "title": "AI/DC사업 공사(전기/설비) 경력직 채용",
+   "team": "건설/플랜트/공사(전기),공사(설비)",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-15",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261895",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "sk:R261847",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -283,22 +285,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N5-183",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 차량 시험/분석용 단말기 탈장착 및 관리",
-   "team": "IT · Infra Engineering",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=183",
-   "tags": [],
-   "categories": [
-    "data-analysis"
    ]
   },
   {
@@ -428,6 +414,114 @@
    ]
   },
   {
+   "id": "hyundai:2026-N1-156",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "자율주행/자율주차 설계 및 시스템 개발",
+   "team": "연구개발 · 자율주행",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=156",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-175",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "자율주행 검증",
+   "team": "연구개발 · 자율주행",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=175",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-172",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "소재 및 공정기술 연구개발",
+   "team": "연구개발 · 소재개발",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=172",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-158",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "로보틱스 기술 및 사업 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=158",
+   "tags": [
+    "9월 신입채용,로봇 설계"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-95",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "경영연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=95",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N1-162",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "AI 반도체 (NPU) 개발",
+   "team": "연구개발 · 반도체",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=162",
+   "tags": [
+    "9월 신입채용"
+   ],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "hyundai:2026-N3-72",
    "source": "hyundai",
    "company": "현대자동차",
@@ -478,6 +572,187 @@
    ]
   },
   {
+   "id": "hyundai:2026-N2-323",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 모바일로봇 전장 시스템 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=323",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-328",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 모바일로봇 위치 추정 및 주행 제어",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=328",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-320",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 로봇 SW 품질 관리",
+   "team": "사업/기획 · 경영전략",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-325",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 회로 설계",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=325",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-331",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 양산개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=331",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-326",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 시스템 SW 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=326",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-329",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 기구설계 및 메커니즘 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=329",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-324",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 관절로봇 SW 검증/평가",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=324",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-322",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] Perceptive AI 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=322",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "ml",
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-327",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] Bi-manipulator 제어",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=327",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
    "id": "hyundai:2026-N2-99",
    "source": "hyundai",
    "company": "현대자동차",
@@ -523,6 +798,43 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-321",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": " [로보틱스랩] 학습 기반 Bi-manipulation 모델 개발",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=321",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "ml",
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-330",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "  [로보틱스랩] 관절로봇 HW 검증/평가",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=330",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
    ]
   },
   {
