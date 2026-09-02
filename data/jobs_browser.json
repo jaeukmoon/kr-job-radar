@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01",
+ "generated": "2026-09-02",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -479,9 +479,10 @@
    "deadline": "2026-09-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=158",
    "tags": [
-    "9월 신입채용,로봇 설계"
+    "9월 신입채용,로봇 설계,로봇 제어,로봇 SW,로봇 지능,Physical AI,사업 개발,제품 디자인,UX 디자인"
    ],
    "categories": [
+    "ml",
     "robotics"
    ]
   },

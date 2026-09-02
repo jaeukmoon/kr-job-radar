@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01",
+ "generated": "2026-09-02",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,108 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7892725003",
+   "source": "toss",
+   "company": "토스씨엑스",
+   "title": "셀러 대상 상담원 (AI 풀필먼트 회사 입출고, 배송문의)",
+   "team": "Customer",
+   "location": "Seoul",
+   "employment_type": "단기계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7892725003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-02",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002143",
+   "source": "lg",
+   "company": "LG경영연구원",
+   "title": "노동정책 · 노사관계 연구 및 인사관리 컨설팅",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-14",
+   "url": "https://careers.lg.com/apply/detail?id=1002143",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-02",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001432",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] 어플리케이션 아키텍트/AI 아키텍트 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-30",
+   "url": "https://careers.lg.com/apply/detail?id=1001432",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-02",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "k8s",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:7474295",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior, Data Analyst (Audit Automation & Data Analytics)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7474295",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-02",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "sql",
+    "aws"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws"
+   ]
+  },
   {
    "id": "hyundai:2026-N1-156",
    "source": "hyundai",
@@ -123,9 +225,10 @@
    "deadline": "2026-09-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N1&recuCls=158",
    "tags": [
-    "9월 신입채용,로봇 설계"
+    "9월 신입채용,로봇 설계,로봇 제어,로봇 SW,로봇 지능,Physical AI,사업 개발,제품 디자인,UX 디자인"
    ],
    "categories": [
+    "ml",
     "robotics"
    ],
    "first_seen": "2026-09-01",
@@ -1227,50 +1330,6 @@
    "pref_skills": []
   },
   {
-   "id": "lg:1002065",
-   "source": "lg",
-   "company": "LG전자",
-   "title": "[CTO부문] 로봇 전문가 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-09-01",
-   "url": "https://careers.lg.com/apply/detail?id=1002065",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-22",
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "nlp",
-    "speech",
-    "recsys",
-    "robotics",
-    "timeseries",
-    "multimodal"
-   ],
-   "skills": [
-    "javascript",
-    "k8s",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "rl",
-    "vision",
-    "robotics",
-    "timeseries"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow"
-   ]
-  },
-  {
    "id": "coupang:8146619",
    "source": "coupang",
    "company": "Coupang",
@@ -2342,27 +2401,6 @@
    "pref_skills": [
     "k8s"
    ]
-  },
-  {
-   "id": "toss:7609940003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "Product Operations Specialist (AI)",
-   "team": "Product Operations",
-   "location": "Seoul",
-   "employment_type": "계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7609940003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-04",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "kt:261964",
