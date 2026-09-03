@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02",
+ "generated": "2026-09-03",
  "sources_ok": [
   "naver",
   "kakao",
@@ -10,30 +10,153 @@
   "lgairesearch",
   "coupang",
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
  "errors": [],
  "jobs": [
   {
-   "id": "toss:7892725003",
-   "source": "toss",
-   "company": "토스씨엑스",
-   "title": "셀러 대상 상담원 (AI 풀필먼트 회사 입출고, 배송문의)",
-   "team": "Customer",
-   "location": "Seoul",
-   "employment_type": "단기계약직",
+   "id": "samsung:22945",
+   "source": "samsung",
+   "company": "삼성전기",
+   "title": "경력사원 채용(인덕터ㆍ탄탈ㆍSi-Cap 개발, 생성형 AI 부문)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
    "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7892725003",
+   "deadline": "2026-09-07",
+   "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [
     "ml"
    ],
-   "first_seen": "2026-09-02",
+   "first_seen": "2026-09-03",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261901",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "GEO & 브랜드 검색광고 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-09-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-09-03",
    "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
+  },
+  {
+   "id": "naver:30005334",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud] 네이버 클라우드 플랫폼(NCP) IaaS/AI Factory 상품 기획 (경력)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-18",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005334",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-03",
+   "domains": [
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "aws"
+   ]
+  },
+  {
+   "id": "kt:265302",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI 프로젝트 제안/이행 PM/PL)",
+   "team": "제안/이행-AI 프로젝트 제안/이행 PM/PL-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-09-16",
+   "url": "https://kt.recruiter.co.kr/career/jobs/127210",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-03",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "skills": [
+    "sql",
+    "aws",
+    "gcp",
+    "azure",
+    "rag"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": [
+    "sql",
+    "aws",
+    "gcp",
+    "azure"
+   ]
+  },
+  {
+   "id": "coupang:8104736",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CLS] 물류 데이터 분석 및 운영 전략 담당자 (LSCI Inbound Solution)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104736",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-03",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "airflow"
+   ]
   },
   {
    "id": "lg:1002143",
@@ -1519,32 +1642,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261801",
-   "source": "sk",
-   "company": "SK실트론",
-   "title": "SK실트론 AI 플랫폼 개발자 경력직 수시 채용",
-   "team": "IT/Platform/Solution",
-   "location": "경상",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-09-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261801",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-08-19",
-   "domains": [],
-   "skills": [
-    "python",
-    "java",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lgairesearch:4593631005",
    "source": "lgairesearch",
    "company": "LG AI Research",
@@ -1987,37 +2084,6 @@
    "pref_skills": []
   },
   {
-   "id": "samsung:22828",
-   "source": "samsung",
-   "company": "삼성SDI",
-   "title": "경력사원 채용(생성형 AI Agent 및 Service Platform개발)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-19",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-12",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp"
-   ],
-   "skills": [
-    "rag"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": [
-    "rag"
-   ]
-  },
-  {
    "id": "coupang:8048155",
    "source": "coupang",
    "company": "Coupang",
@@ -2131,85 +2197,6 @@
     "python",
     "k8s",
     "linux"
-   ]
-  },
-  {
-   "id": "samsung:22824",
-   "source": "samsung",
-   "company": "삼성화재",
-   "title": "경력사원 채용(마케팅, 데이터 플랫폼, 영업관리, 상품/계리, 언더라이팅, 글로벌사업, IT, 미디어, 의료심사)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-19",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-08-10",
-   "domains": [
-    "llm",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "airflow",
-    "aws",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow",
-    "rag"
-   ]
-  },
-  {
-   "id": "samsung:22823",
-   "source": "samsung",
-   "company": "삼성웰스토리",
-   "title": "경력사원 채용(데이터 분석 엔지니어, 수주영업, 조리사, 보건관리, 제안서디자인, 글로벌 셰프)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-19",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-10",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "aws",
-    "rag"
-   ],
-   "pref_domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "aws"
    ]
   },
   {

@@ -1,30 +1,12 @@
 {
- "generated": "2026-09-02",
+ "generated": "2026-09-03",
  "sources_ok": [
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
- "errors": [
-  "samsung: 0 jobs returned"
- ],
+ "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261801",
-   "source": "sk",
-   "company": "SK실트론",
-   "title": "SK실트론 AI 플랫폼 개발자 경력직 수시 채용",
-   "team": "IT/Platform/Solution",
-   "location": "경상",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-09-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261801",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ]
-  },
   {
    "id": "sk:R261827",
    "source": "sk",
@@ -105,6 +87,22 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R261901",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "GEO & 브랜드 검색광고 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-09-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
+   "tags": [],
+   "categories": [
+    "recsys"
    ]
   },
   {
@@ -839,51 +837,19 @@
    ]
   },
   {
-   "id": "samsung:22828",
+   "id": "samsung:22945",
    "source": "samsung",
-   "company": "삼성SDI",
-   "title": "경력사원 채용(생성형 AI Agent 및 Service Platform개발)",
+   "company": "삼성전기",
+   "title": "경력사원 채용(인덕터ㆍ탄탈ㆍSi-Cap 개발, 생성형 AI 부문)",
    "team": "",
    "location": "",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-08-19",
+   "deadline": "2026-09-07",
    "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "samsung:22824",
-   "source": "samsung",
-   "company": "삼성화재",
-   "title": "경력사원 채용(마케팅, 데이터 플랫폼, 영업관리, 상품/계리, 언더라이팅, 글로벌사업, IT, 미디어, 의료심사)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-19",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ]
-  },
-  {
-   "id": "samsung:22823",
-   "source": "samsung",
-   "company": "삼성웰스토리",
-   "title": "경력사원 채용(데이터 분석 엔지니어, 수주영업, 조리사, 보건관리, 제안서디자인, 글로벌 셰프)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-08-19",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "data-analysis"
    ]
   }
  ]
