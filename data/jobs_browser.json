@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03",
+ "generated": "2026-09-04",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -250,6 +250,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261898",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "보안침해위협 분석/대응 및 AI 기반 탐지 고도화 전문가",
+   "team": "IT/IT 보안",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261898",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-analysis"
    ]
   },
   {

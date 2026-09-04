@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03",
+ "generated": "2026-09-04",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,229 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7782783003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Analytics Specialist",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7782783003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7985134003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Accounting Business Analyst",
+   "team": "Finance",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7985134003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [],
+   "skills": [
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:S-4750",
+   "source": "kakao",
+   "company": "카카오페이",
+   "title": "[공동체] 카카오페이 서버 개발자 - 데이터 플랫폼",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4750",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "sql",
+    "kafka",
+    "k8s",
+    "spring"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "sql",
+    "kafka",
+    "k8s"
+   ]
+  },
+  {
+   "id": "sk:R261898",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "보안침해위협 분석/대응 및 AI 기반 탐지 고도화 전문가",
+   "team": "IT/IT 보안",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261898",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [
+    "llm",
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "k8s",
+    "rag"
+   ]
+  },
+  {
+   "id": "naver:30005402",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Search Intelligence Engineer (경력)",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005402",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "go",
+    "kafka",
+    "airflow",
+    "k8s",
+    "vllm",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "kafka",
+    "airflow",
+    "k8s",
+    "vllm",
+    "rag"
+   ]
+  },
+  {
+   "id": "lg:1001495",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] AI Scientist_음성인식/합성 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-13",
+   "url": "https://careers.lg.com/apply/detail?id=1001495",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "speech"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [
+    "llm",
+    "speech",
+    "multimodal",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8171509",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Network Engineer (Fulfillment and Logistics Network Engineering)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8171509",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-09-04",
+   "domains": [
+    "llm",
+    "robotics"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "samsung:22945",
    "source": "samsung",
@@ -3200,44 +3423,6 @@
    "pref_domains": [],
    "pref_skills": [
     "python"
-   ]
-  },
-  {
-   "id": "coupang:8037268",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior Business Analyst (Rocket Growth)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8037268",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-09",
-   "domains": [
-    "timeseries",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "airflow",
-    "tableau"
-   ],
-   "pref_domains": [
-    "timeseries",
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow"
    ]
   },
   {
