@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04",
+ "generated": "2026-09-05",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -250,6 +250,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261913",
+   "source": "sk",
+   "company": "SK실트론",
+   "title": "SK실트론 Generative AI Engineer 경력직 채용",
+   "team": "Tech R&D/AI/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-16",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261913",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
    ]
   },
   {

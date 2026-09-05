@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04",
+ "generated": "2026-09-05",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,229 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7503655003",
+   "source": "toss",
+   "company": "토스",
+   "title": "AI Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7503655003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-05",
+   "domains": [
+    "llm",
+    "agent",
+    "speech",
+    "multimodal",
+    "data-analysis"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "speech",
+    "multimodal",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
+  },
+  {
+   "id": "woowahan:25745",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25745/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-05",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "sk:R261913",
+   "source": "sk",
+   "company": "SK실트론",
+   "title": "SK실트론 Generative AI Engineer 경력직 채용",
+   "team": "Tech R&D/AI/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-16",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261913",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-09-05",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "pytorch",
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s",
+    "aws",
+    "gcp",
+    "azure",
+    "rag"
+   ]
+  },
+  {
+   "id": "naver:30005392",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] N배송 WMS(Warehouse Management System) 기획 (경력)",
+   "team": "Service & Business · Business Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-16",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005392",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-09-05",
+   "domains": [
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8172516",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡풀필먼트센터] Business Analyst (Fresh FC Fp&A)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8172516",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-05",
+   "domains": [
+    "llm",
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "coupang:8166208",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[Coupang Logistics Service] 채용 오퍼레이션 분석가 ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8166208",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-05",
+   "domains": [
+    "agent",
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
+  },
   {
    "id": "toss:7782783003",
    "source": "toss",
@@ -3086,38 +3309,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8073876",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Data Engineer (Coupang Pay)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8073876",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "scala",
-    "sql",
-    "spark",
-    "flink",
-    "aws",
-    "tableau"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8063732",
    "source": "coupang",
    "company": "Coupang",
@@ -3921,7 +4112,7 @@
    "id": "toss:7786567003",
    "source": "toss",
    "company": "토스",
-   "title": "AI Engineer",
+   "title": "AI Platform Engineer",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3930,7 +4121,8 @@
    "url": "https://toss.im/career/job-detail?gh_jid=7786567003",
    "tags": [],
    "categories": [
-    "ml"
+    "ml",
+    "mlops"
    ],
    "first_seen": "2026-07-05",
    "domains": [
