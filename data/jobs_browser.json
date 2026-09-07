@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06",
+ "generated": "2026-09-07",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,88 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261827",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Scientist 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261827",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261828",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "Agentic AI Platform Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261828",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ]
-  },
-  {
-   "id": "sk:R261829",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "Biomedical Data Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261829",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ]
-  },
-  {
-   "id": "sk:R261830",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "LLM Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261830",
-   "tags": [],
-   "categories": [
-    "llm"
-   ]
-  },
-  {
-   "id": "sk:R261890",
-   "source": "sk",
-   "company": "SK케미칼(LS)",
-   "title": "[SK케미칼] 의약품 연구 보조 담당자 신입 모집",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261890",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261901",
    "source": "sk",
@@ -317,60 +235,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-305",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[ICT] Database Administrator",
-   "team": "IT · Data Engineering",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=305",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "data-eng"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-315",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[ICT] Data Engineer",
-   "team": "IT · Data Engineering",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=315",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "data-eng"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-314",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[ICT] Data Architect",
-   "team": "IT · Data Engineering",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=314",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "data-eng"
    ]
   },
   {

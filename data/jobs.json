@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06",
+ "generated": "2026-09-07",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,79 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "naver:30005407",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud] 대외정책대응 및 분석개발 담당자 (경력)",
+   "team": "Corporate · Strategic Communication",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-23",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005407",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-07",
+   "domains": [
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002176",
+   "source": "lg",
+   "company": "LG에너지솔루션",
+   "title": "[CDO] AI/빅데이터 경력 상시 모집",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2027-03-31",
+   "url": "https://careers.lg.com/apply/detail?id=1002176",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-07",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "nlp",
+    "robotics",
+    "timeseries",
+    "multimodal",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "langchain",
+    "rag",
+    "fastapi"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "vision",
+    "timeseries",
+    "multimodal"
+   ],
+   "pref_skills": [
+    "cpp",
+    "pytorch",
+    "langchain"
+   ]
+  },
   {
    "id": "toss:7503655003",
    "source": "toss",
@@ -1295,27 +1368,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261890",
-   "source": "sk",
-   "company": "SK케미칼(LS)",
-   "title": "[SK케미칼] 의약품 연구 보조 담당자 신입 모집",
-   "team": "Tech R&D/연구개발",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261890",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-01",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261892",
    "source": "sk",
    "company": "SK인텔릭스",
@@ -1774,131 +1826,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261830",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "LLM Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261830",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-08-22",
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "distributed"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261829",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "Biomedical Data Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261829",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-08-22",
-   "domains": [
-    "llm",
-    "multimodal",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "aws"
-   ],
-   "pref_domains": [
-    "llm",
-    "multimodal"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261828",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "Agentic AI Platform Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261828",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-08-22",
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "python",
-    "k8s",
-    "langchain"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": [
-    "k8s"
-   ]
-  },
-  {
-   "id": "sk:R261827",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Scientist 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261827",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-08-22",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8146619",
    "source": "coupang",
    "company": "Coupang",
@@ -2335,98 +2262,6 @@
    "pref_skills": []
   },
   {
-   "id": "hyundai:2026-N2-305",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[ICT] Database Administrator",
-   "team": "IT · Data Engineering",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=305",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "timeseries"
-   ],
-   "skills": [
-    "python",
-    "go",
-    "sql",
-    "aws"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N2-315",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[ICT] Data Engineer",
-   "team": "IT · Data Engineering",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=315",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "sql",
-    "spark",
-    "airflow",
-    "flink",
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "sql"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-314",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[ICT] Data Architect",
-   "team": "IT · Data Engineering",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=314",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "sql"
-   ]
-  },
-  {
    "id": "toss:7827198003",
    "source": "toss",
    "company": "토스",
@@ -2644,27 +2479,6 @@
     "k8s",
     "linux"
    ]
-  },
-  {
-   "id": "lg:1002047",
-   "source": "lg",
-   "company": "LG경영연구원",
-   "title": "2026년 신입연구원 채용(석사/학사) ",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "신입",
-   "deadline": "2026-09-06",
-   "url": "https://careers.lg.com/apply/detail?id=1002047",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-08-10",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4722177005",
