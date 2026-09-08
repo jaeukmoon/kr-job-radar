@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07",
+ "generated": "2026-09-08",
  "sources_ok": [
   "naver",
   "kakao",
@@ -10,11 +10,190 @@
   "lgairesearch",
   "coupang",
   "sk",
-  "hyundai",
-  "samsung"
+  "hyundai"
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7864347003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Scientist",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7864347003",
+   "tags": [],
+   "categories": [
+    "data-analysis",
+    "research"
+   ],
+   "first_seen": "2026-09-08",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7742346003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Analyst ",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7742346003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-08",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:265764",
+   "source": "kt",
+   "company": "kt alpha",
+   "title": "[kt alpha] kt알파 쇼핑 ​Data Analyst(DA) / Data Engineer(DE) 채용",
+   "team": "​Data Analyst(DA) · Data Engineer(DE)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "신입/경력",
+   "deadline": "2026-10-06",
+   "url": "https://kt.recruiter.co.kr/career/jobs/127681",
+   "tags": [],
+   "categories": [
+    "data-analysis",
+    "data-eng"
+   ],
+   "first_seen": "2026-09-08",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005408",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Data Product Engineer (경력)",
+   "team": "Tech · Data Engineering",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005408",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-09-08",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "airflow"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "airflow"
+   ]
+  },
+  {
+   "id": "lg:1002179",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[Enterprise부문] AI 사업 이행 PM 계약직 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-09-13",
+   "url": "https://careers.lg.com/apply/detail?id=1002179",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-08",
+   "domains": [
+    "llm",
+    "nlp",
+    "speech"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8178862",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Principal Data Analyst (Retail Inventory)",
+   "team": "",
+   "location": "Seoul, South Korea; Shanghai, China",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8178862",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-08",
+   "domains": [
+    "recsys",
+    "robotics",
+    "timeseries",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "airflow",
+    "aws",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "airflow",
+    "aws",
+    "tableau",
+    "powerbi"
+   ]
+  },
   {
    "id": "naver:30005407",
    "source": "naver",
@@ -252,7 +431,7 @@
    "id": "coupang:8172516",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡풀필먼트센터] Business Analyst (Fresh FC Fp&A)",
+   "title": "[쿠팡풀필먼트서비스] Business Analyst (Fresh FC Fp&A)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
@@ -2964,35 +3143,6 @@
    ]
   },
   {
-   "id": "toss:7728018003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Data Analyst ",
-   "team": "Data Analysis",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7728018003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-28",
-   "domains": [
-    "recsys",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "woowahan:25520",
    "source": "woowahan",
    "company": "우아한형제들",
@@ -4042,34 +4192,6 @@
    "skills": [],
    "pref_domains": [
     "data-eng"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kakao:S-4661",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 측위(Localization/Positioning) research scientist (R&D)",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/S-4661",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "cpp"
-   ],
-   "pref_domains": [
-    "data-analysis"
    ],
    "pref_skills": []
   },

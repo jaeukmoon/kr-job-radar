@@ -1,11 +1,12 @@
 {
- "generated": "2026-09-07",
+ "generated": "2026-09-08",
  "sources_ok": [
   "sk",
-  "hyundai",
-  "samsung"
+  "hyundai"
  ],
- "errors": [],
+ "errors": [
+  "samsung: 0 jobs returned"
+ ],
  "jobs": [
   {
    "id": "sk:R261901",
