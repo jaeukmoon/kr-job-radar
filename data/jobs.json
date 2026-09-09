@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08",
+ "generated": "2026-09-09",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,144 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "woowahan:25753",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25753/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-09",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "sk:R261927",
+   "source": "sk",
+   "company": "애커튼파트너스",
+   "title": "제조 AI 컨설턴트 (경력)",
+   "team": "DT/Digital 컨설팅",
+   "location": "서울,경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-04",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261927",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-09",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005420",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] AI 서비스 기획 (체험형 인턴)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-09-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005420",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-09",
+   "domains": [
+    "llm",
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8184177",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] Principal, Business Analyst (OPEX)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8184177",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-09",
+   "domains": [
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
+  },
   {
    "id": "toss:7864347003",
    "source": "toss",
@@ -155,7 +293,7 @@
    "id": "coupang:8178862",
    "source": "coupang",
    "company": "Coupang",
-   "title": "Principal Data Analyst (Retail Inventory)",
+   "title": "Staff Data Analyst (Category Analytics)",
    "team": "",
    "location": "Seoul, South Korea; Shanghai, China",
    "employment_type": "",
@@ -305,62 +443,6 @@
    ]
   },
   {
-   "id": "woowahan:25745",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25745/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-05",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ]
-  },
-  {
    "id": "sk:R261913",
    "source": "sk",
    "company": "SK실트론",
@@ -460,37 +542,6 @@
    ]
   },
   {
-   "id": "coupang:8166208",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[Coupang Logistics Service] 채용 오퍼레이션 분석가 ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8166208",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-05",
-   "domains": [
-    "agent",
-    "timeseries",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "sql"
-   ]
-  },
-  {
    "id": "toss:7782783003",
    "source": "toss",
    "company": "토스뱅크",
@@ -519,7 +570,7 @@
    "id": "toss:7985134003",
    "source": "toss",
    "company": "토스",
-   "title": "Accounting Business Analyst",
+   "title": "Financial Data Analyst(Accounting)",
    "team": "Finance",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -735,27 +786,6 @@
     "vision",
     "multimodal"
    ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261901",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "GEO & 브랜드 검색광고 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-09-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-09-03",
-   "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
@@ -3791,32 +3821,6 @@
    "skills": [
     "python",
     "cpp"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7675099003",
-   "source": "toss",
-   "company": "토스인사이트",
-   "title": "Digital Finance Researcher",
-   "team": "R&D",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7675099003",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "nlp",
-    "data-analysis"
-   ],
-   "skills": [
-    "python"
    ],
    "pref_domains": [],
    "pref_skills": []

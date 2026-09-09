@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08",
+ "generated": "2026-09-09",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261901",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "GEO & 브랜드 검색광고 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-09-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ]
-  },
   {
    "id": "sk:R261876",
    "source": "sk",
@@ -203,6 +187,22 @@
    "categories": [
     "ml",
     "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R261927",
+   "source": "sk",
+   "company": "애커튼파트너스",
+   "title": "제조 AI 컨설턴트 (경력)",
+   "team": "DT/Digital 컨설팅",
+   "location": "서울,경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-04",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261927",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {
