@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09",
+ "generated": "2026-09-10",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,38 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261876",
-   "source": "sk",
-   "company": "SK플라즈마",
-   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-09",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261876",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R261877",
-   "source": "sk",
-   "company": "SK플라즈마",
-   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-09",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261877",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261892",
    "source": "sk",
@@ -153,6 +121,22 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R261901",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "GEO & 브랜드 검색광고 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-09-15",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
+   "tags": [],
+   "categories": [
+    "recsys"
    ]
   },
   {

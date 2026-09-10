@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09",
+ "generated": "2026-09-10",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,162 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7629259003",
+   "source": "toss",
+   "company": "토스씨엑스",
+   "title": "Business Analyst",
+   "team": "Strategy",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7629259003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-10",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7987773003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Engineer (Global)",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7987773003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-09-10",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "spark",
+    "hadoop",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7990802003",
+   "source": "toss",
+   "company": "토스",
+   "title": "AI Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7990802003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-10",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "nlp",
+    "timeseries",
+    "multimodal"
+   ],
+   "skills": [
+    "rag",
+    "huggingface"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261901",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "GEO & 브랜드 검색광고 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-09-15",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-09-10",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8188042",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff, Security Data Platform Engineer ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8188042",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-09-10",
+   "domains": [
+    "llm",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "kafka",
+    "airflow",
+    "k8s",
+    "aws",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "airflow",
+    "k8s"
+   ]
+  },
   {
    "id": "woowahan:25753",
    "source": "woowahan",
@@ -406,43 +562,6 @@
    ]
   },
   {
-   "id": "toss:7503655003",
-   "source": "toss",
-   "company": "토스",
-   "title": "AI Engineer",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7503655003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-05",
-   "domains": [
-    "llm",
-    "agent",
-    "speech",
-    "multimodal",
-    "data-analysis"
-   ],
-   "skills": [
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "speech",
-    "multimodal",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "rag"
-   ]
-  },
-  {
    "id": "sk:R261913",
    "source": "sk",
    "company": "SK실트론",
@@ -570,7 +689,7 @@
    "id": "toss:7985134003",
    "source": "toss",
    "company": "토스",
-   "title": "Financial Data Analyst(Accounting)",
+   "title": "Financial Data Analyst (Accounting)",
    "team": "Finance",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -1693,48 +1812,6 @@
    "pref_skills": [
     "sql"
    ]
-  },
-  {
-   "id": "sk:R261877",
-   "source": "sk",
-   "company": "SK플라즈마",
-   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (주니어)",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-09",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261877",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-08-28",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261876",
-   "source": "sk",
-   "company": "SK플라즈마",
-   "title": "SK플라즈마 공정개선 및 연구 MSAT 경력 구성원 모집 (시니어)",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-09",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261876",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-08-28",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8163517",
@@ -3403,7 +3480,7 @@
    "id": "toss:7499044003",
    "source": "toss",
    "company": "토스",
-   "title": "Financial Data Analyst",
+   "title": "Financial Data Analyst (FP&A)",
    "team": "Data Analysis",
    "location": "Seoul",
    "employment_type": "정규직",
