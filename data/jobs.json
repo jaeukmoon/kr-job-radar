@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10",
+ "generated": "2026-09-11",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,49 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "lg:1002199",
+   "source": "lg",
+   "company": "비즈테크아이",
+   "title": "[비즈테크아이] AI 엔지니어 모집 (경력) ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://careers.lg.com/apply/detail?id=1002199",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-11",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "k8s",
+    "langchain",
+    "rag",
+    "fastapi",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [
+    "agent",
+    "multimodal"
+   ],
+   "pref_skills": [
+    "java",
+    "javascript",
+    "langchain",
+    "rag"
+   ]
+  },
   {
    "id": "toss:7629259003",
    "source": "toss",
@@ -42,42 +85,6 @@
     "data-eng",
     "data-analysis"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7987773003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Data Engineer (Global)",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7987773003",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-09-10",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "scala",
-    "spark",
-    "hadoop",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "git"
-   ],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -1679,7 +1686,7 @@
    "source": "kt",
    "company": "kt nasmedia",
    "title": "[kt nasmedia] 2026년 9월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
+   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · 마케팅-OTT 캠페인  운영 및 관리 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
    "location": "",
    "employment_type": "일반채용",
    "career_type": "신입/경력",
@@ -1812,31 +1819,6 @@
    "pref_skills": [
     "sql"
    ]
-  },
-  {
-   "id": "coupang:8163517",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 프로그램 매니저 - 쿠팡이츠 광고 운영 및 분석 ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163517",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-28",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8042925",
@@ -2133,31 +2115,6 @@
    "skills": [],
    "pref_domains": [
     "llm"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001987",
-   "source": "lg",
-   "company": "LG전자",
-   "title": "[생산기술원] 로봇 / AMR HW Platform 개발",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-09-10",
-   "url": "https://careers.lg.com/apply/detail?id=1001987",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-21",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
    ],
    "pref_skills": []
   },
@@ -2572,7 +2529,7 @@
    "id": "lg:1002072",
    "source": "lg",
    "company": "비즈테크아이",
-   "title": "[비즈테크아이] 금융IT PM/PL, 분석•설계•개발자 모집(경력)",
+   "title": "[비즈테크아이] 금융IT PM/PL, 분석•설계•개발, 사업관리 담당자 모집(경력)",
    "team": "",
    "location": "",
    "employment_type": "",
@@ -2708,33 +2665,6 @@
    "pref_skills": []
   },
   {
-   "id": "lgairesearch:4722545005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Superintelligence Lab — AI-Native Engineering Project",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4722545005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-11",
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8108131",
    "source": "coupang",
    "company": "Coupang",
@@ -2786,33 +2716,6 @@
     "agent"
    ],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:4154060003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "Data Analyst ",
-   "team": "Data Analysis",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=4154060003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-07",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -2934,27 +2837,6 @@
    "pref_skills": [
     "k8s"
    ]
-  },
-  {
-   "id": "kt:261964",
-   "source": "kt",
-   "company": "kt nasmedia",
-   "title": "[kt nasmedia] 2026년 8월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-SNS 사업 리더 · 마케팅-SNS 사업 PM · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입/경력",
-   "deadline": "2026-08-31",
-   "url": "https://kt.recruiter.co.kr/career/jobs/123838",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-03",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R261674",
@@ -3658,34 +3540,6 @@
     "robotics"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8050377",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Network Engineer (Fulfillment and Logistics Network Engineering)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8050377",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-07-10",
-   "domains": [
-    "llm",
-    "robotics"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python"
-   ]
   },
   {
    "id": "toss:7668948003",
@@ -4549,39 +4403,6 @@
    "pref_domains": [],
    "pref_skills": [
     "hadoop"
-   ]
-  },
-  {
-   "id": "kakao:P-14472",
-   "source": "kakao",
-   "company": "카카오",
-   "title": "AI 추론/학습 효율화 Engineer (경력)",
-   "team": "테크",
-   "location": "판교",
-   "employment_type": "정규직",
-   "career_type": "완전선택근무제",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/P-14472",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "python",
-    "k8s",
-    "cuda",
-    "distributed"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "k8s",
-    "cuda"
    ]
   },
   {
