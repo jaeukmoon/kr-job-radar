@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11",
+ "generated": "2026-09-12",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -204,6 +204,87 @@
    "categories": [
     "ml",
     "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R261936",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Agent 엔지니어 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261936",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261937",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Data 엔지니어 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261937",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261938",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Model 엔지니어 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261938",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261939",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Agent 개발자 전문가 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261939",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261940",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 플랫폼 아키텍트 전문가 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261940",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
    ]
   },
   {

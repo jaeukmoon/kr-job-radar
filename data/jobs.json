@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11",
+ "generated": "2026-09-12",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,256 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7992223003",
+   "source": "toss",
+   "company": "토스",
+   "title": "ML Engineer [Commerce]",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7992223003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261940",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 플랫폼 아키텍트 전문가 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261940",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "sk:R261938",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Model 엔지니어 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261938",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "multimodal"
+   ],
+   "skills": [
+    "pytorch",
+    "k8s"
+   ],
+   "pref_domains": [
+    "rl",
+    "vision",
+    "multimodal"
+   ],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
+  {
+   "id": "sk:R261937",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Data 엔지니어 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261937",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "nlp",
+    "data-eng"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "nlp"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
+  },
+  {
+   "id": "sk:R261936",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Agent 엔지니어 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261936",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "k8s",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R261939",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Agent 개발자 전문가 영입",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261939",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "k8s",
+    "langchain",
+    "rag"
+   ]
+  },
+  {
+   "id": "naver:30005448",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] 3D Vision Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-28",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005448",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "vision"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005427",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] 신사업 전략 및 국내외 주요 산업 리서치 (체험형 인턴)",
+   "team": "Service & Business · 공통",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-09-21",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005427",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-12",
+   "domains": [
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "lg:1002199",
    "source": "lg",
@@ -1990,45 +2240,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8152613",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 비즈니스 분석가(Business Analyst_Retail Finance)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8152613",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-25",
-   "domains": [
-    "agent",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "hadoop",
-    "airflow",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "agent",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow"
-   ]
-  },
-  {
    "id": "sk:R261847",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -3909,32 +4120,6 @@
     "k8s",
     "rag"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:6543801003",
-   "source": "toss",
-   "company": "토스",
-   "title": "ML Engineer [Commerce]",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=6543801003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "recsys",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
