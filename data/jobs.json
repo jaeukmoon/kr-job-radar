@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13",
+ "generated": "2026-09-14",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,32 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "naver:30005442",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-09-21",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005442",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-09-14",
+   "domains": [
+    "vision",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "toss:7992223003",
    "source": "toss",
@@ -676,33 +702,6 @@
    ]
   },
   {
-   "id": "lg:1002179",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[Enterprise부문] AI 사업 이행 PM 계약직 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-09-13",
-   "url": "https://careers.lg.com/apply/detail?id=1002179",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-08",
-   "domains": [
-    "llm",
-    "nlp",
-    "speech"
-   ],
-   "skills": [
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8178862",
    "source": "coupang",
    "company": "Coupang",
@@ -1083,34 +1082,6 @@
     "vllm",
     "rag"
    ]
-  },
-  {
-   "id": "lg:1001495",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] AI Scientist_음성인식/합성 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-09-13",
-   "url": "https://careers.lg.com/apply/detail?id=1001495",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "speech"
-   ],
-   "first_seen": "2026-09-04",
-   "domains": [
-    "llm",
-    "speech",
-    "multimodal",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8171509",
@@ -1953,42 +1924,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261892",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": " [SK인텔릭스] Data Scientist(데이터 분석/AI 모델링) 경력 인재 채용",
-   "team": "DT",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-13",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261892",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-01",
-   "domains": [
-    "llm",
-    "agent",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": [
-    "rag"
-   ]
-  },
-  {
    "id": "sk:R261895",
    "source": "sk",
    "company": "SK에코플랜트",
@@ -2573,149 +2508,6 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-306",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
-   "team": "생산/제조 · 스마트제조",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=306",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "recsys",
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "linux"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": [
-    "python",
-    "cpp"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-307",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조물류지능화] AMR 자율제어 Perception 시스템 개발",
-   "team": "생산/제조 · 스마트제조",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=307",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "vision"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "vision",
-    "robotics",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "pytorch",
-    "tensorflow",
-    "cuda",
-    "vllm"
-   ],
-   "pref_domains": [
-    "vision",
-    "robotics",
-    "mlops"
-   ],
-   "pref_skills": [
-    "vllm"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-312",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 휴머노이드 제조 애플리케이션 시스템 인터페이스 개발",
-   "team": "생산/제조 · 생산기술",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=312",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "java",
-    "go",
-    "git"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N2-316",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 로봇 작업 정책 학습 데이터 생성 파이프라인 개발",
-   "team": "생산/제조 · 스마트제조",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=316",
-   "tags": [
-    "8월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "rl",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "cuda"
-   ],
-   "pref_domains": [
-    "rl",
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7827198003",
    "source": "toss",
    "company": "토스",
@@ -3128,29 +2920,6 @@
    ]
   },
   {
-   "id": "toss:7821116003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Search Quality Operations Team Leader",
-   "team": "Product Operations",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7821116003",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-07-31",
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7821118003",
    "source": "toss",
    "company": "토스",
@@ -3215,30 +2984,6 @@
     "k8s",
     "git"
    ]
-  },
-  {
-   "id": "sk:R261675",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입  ",
-   "team": "IT/Platform/Solution",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-14",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261675",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-07-31",
-   "domains": [],
-   "skills": [
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R261676",
