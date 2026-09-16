@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15",
+ "generated": "2026-09-16",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,277 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "hyundai:2026-N2-345",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
+   "team": "연구개발 · 기술경영",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
+   "tags": [
+    "9월 경력 채용"
+   ],
+   "categories": [
+    "data-analysis",
+    "robotics"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [
+    "agent",
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25837",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25837/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "sk:R261986",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "k8s Engineer PL 영입 (계약직)",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261986",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [],
+   "skills": [
+    "spark",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
+  {
+   "id": "sk:R261987",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Data Platform 개발.운영 PL (계약직)",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261987",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "javascript",
+    "k8s",
+    "spring"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "javascript",
+    "k8s",
+    "spring"
+   ]
+  },
+  {
+   "id": "naver:30005461",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-09-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005461",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001807",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] Robotics 분야 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-10-31",
+   "url": "https://careers.lg.com/apply/detail?id=1001807",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [
+    "llm",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "distributed",
+    "vllm",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops"
+   ],
+   "pref_skills": [
+    "distributed",
+    "vllm",
+    "git"
+   ]
+  },
+  {
+   "id": "kt:266637",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
+   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-09-29",
+   "url": "https://kt.recruiter.co.kr/career/jobs/128563",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8203172",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff AI Engineer (Security)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8203172",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-16",
+   "domains": [
+    "llm",
+    "agent",
+    "timeseries",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
+  },
   {
    "id": "hyundai:2026-N2-347",
    "source": "hyundai",
@@ -640,27 +911,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261901",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "GEO & 브랜드 검색광고 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-09-15",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-09-10",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8188042",
    "source": "coupang",
    "company": "Coupang",
@@ -695,62 +945,6 @@
    "pref_skills": [
     "airflow",
     "k8s"
-   ]
-  },
-  {
-   "id": "woowahan:25753",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25753/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-09",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
    ]
   },
   {
@@ -1951,27 +2145,6 @@
    "career_type": "신입/경력",
    "deadline": "2026-09-30",
    "url": "https://kt.recruiter.co.kr/career/jobs/127010",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-01",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261895",
-   "source": "sk",
-   "company": "SK에코플랜트",
-   "title": "AI/DC사업 공사(전기/설비) 경력직 채용",
-   "team": "건설/플랜트/공사(전기),공사(설비)",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-15",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261895",
    "tags": [],
    "categories": [
     "ml"
@@ -3377,71 +3550,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "woowahan:25370",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "Business Analyst(타임세일)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25370/detail",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-07",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "airflow",
-    "tableau"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql",
-    "tableau"
-   ]
-  },
-  {
-   "id": "woowahan:25372",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "Business Analyst(간편픽업)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25372/detail",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-07",
-   "domains": [
-    "vision",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "airflow",
-    "tableau"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql",
-    "tableau"
-   ]
   },
   {
    "id": "hyundai:2026-N2-27",

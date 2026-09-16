@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15",
+ "generated": "2026-09-16",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,38 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261895",
-   "source": "sk",
-   "company": "SK에코플랜트",
-   "title": "AI/DC사업 공사(전기/설비) 경력직 채용",
-   "team": "건설/플랜트/공사(전기),공사(설비)",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-15",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261895",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "sk:R261901",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "GEO & 브랜드 검색광고 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-09-15",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261901",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ]
-  },
   {
    "id": "sk:R261913",
    "source": "sk",
@@ -117,6 +85,39 @@
    "career_type": "경력",
    "deadline": "2026-10-26",
    "url": "https://www.skcareers.com/Recruit/Detail/R261994",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R261986",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "k8s Engineer PL 영입 (계약직)",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261986",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R261987",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI Data Platform 개발.운영 PL (계약직)",
+   "team": "Tech R&D/AI/DT",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R261987",
    "tags": [],
    "categories": [
     "ml",
@@ -218,6 +219,25 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-345",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
+   "team": "연구개발 · 기술경영",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-09-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
+   "tags": [
+    "9월 경력 채용"
+   ],
+   "categories": [
+    "data-analysis",
+    "robotics"
    ]
   },
   {
