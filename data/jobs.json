@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16",
+ "generated": "2026-09-17",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,157 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R262015",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "LLMOps Engineer",
+   "team": "Tech R&D/ML/DL 개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262015",
+   "tags": [],
+   "categories": [
+    "ml",
+    "llm"
+   ],
+   "first_seen": "2026-09-17",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "sql",
+    "aws",
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "aws",
+    "langchain"
+   ]
+  },
+  {
+   "id": "sk:R262019",
+   "source": "sk",
+   "company": "애커튼파트너스",
+   "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+   "team": "DT/Digital 컨설팅",
+   "location": "서울,경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262019",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-17",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
+  },
+  {
+   "id": "lgairesearch:4734450005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist - Ontology & Knowledge Graph",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4734450005",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-17",
+   "domains": [
+    "llm",
+    "nlp",
+    "mlops",
+    "data-analysis"
+   ],
+   "skills": [
+    "pytorch",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "nlp",
+    "mlops"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:266609",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(영상코덱 표준기술 연구개발)",
+   "team": "영상코덱 표준기술 연구개발",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-09-30",
+   "url": "https://kt.recruiter.co.kr/career/jobs/128532",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-17",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8172658",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Sr.Data Analyst (PPE/Fraud)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8172658",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-17",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N2-345",
    "source": "hyundai",
@@ -1256,73 +1407,6 @@
    ]
   },
   {
-   "id": "sk:R261913",
-   "source": "sk",
-   "company": "SK실트론",
-   "title": "SK실트론 Generative AI Engineer 경력직 채용",
-   "team": "Tech R&D/AI/Data Engineering",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-16",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261913",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-09-05",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "pytorch",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "langchain",
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "rag"
-   ]
-  },
-  {
-   "id": "naver:30005392",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] N배송 WMS(Warehouse Management System) 기획 (경력)",
-   "team": "Service & Business · Business Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-16",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005392",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-09-05",
-   "domains": [
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8172516",
    "source": "coupang",
    "company": "Coupang",
@@ -2139,7 +2223,7 @@
    "source": "kt",
    "company": "kt nasmedia",
    "title": "[kt nasmedia] 2026년 9월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · 마케팅-OTT 캠페인  운영 및 관리 · AI-서비스기획 · 경영기획-경영기획 · 채권-채권 관리",
+   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · 마케팅-OTT 캠페인  운영 및 관리 · AI-서비스기획 · 경영기획-경영기획 · 경영기획-IR/공시 · 채권-채권 관리",
    "location": "",
    "employment_type": "일반채용",
    "career_type": "신입/경력",
@@ -2251,39 +2335,6 @@
     "sql",
     "powerbi"
    ]
-  },
-  {
-   "id": "toss:7977764003",
-   "source": "toss",
-   "company": "토스페이먼츠",
-   "title": "토스페이먼츠 데이터 엔지니어 공개채용 (7년 이하) (~9/10)",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "2026-09-16",
-   "url": "https://toss.im/career/job-detail?gh_jid=7977764003",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-08-27",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lg:1002123",
@@ -3349,7 +3400,7 @@
    "source": "toss",
    "company": "토스",
    "title": "Financial Data Analyst (FP&A)",
-   "team": "Data Analysis",
+   "team": "Finance",
    "location": "Seoul",
    "employment_type": "정규직",
    "career_type": "",

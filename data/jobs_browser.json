@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16",
+ "generated": "2026-09-17",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,23 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261913",
-   "source": "sk",
-   "company": "SK실트론",
-   "title": "SK실트론 Generative AI Engineer 경력직 채용",
-   "team": "Tech R&D/AI/Data Engineering",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-16",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261913",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R261982",
    "source": "sk",
@@ -69,6 +52,22 @@
    "career_type": "경력",
    "deadline": "2026-10-04",
    "url": "https://www.skcareers.com/Recruit/Detail/R261927",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262019",
+   "source": "sk",
+   "company": "애커튼파트너스",
+   "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
+   "team": "DT/Digital 컨설팅",
+   "location": "서울,경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262019",
    "tags": [],
    "categories": [
     "ml"
@@ -219,6 +218,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262015",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "LLMOps Engineer",
+   "team": "Tech R&D/ML/DL 개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262015",
+   "tags": [],
+   "categories": [
+    "ml",
+    "llm"
    ]
   },
   {
