@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17",
+ "generated": "2026-09-18",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,226 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7998884003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Analyst (7년 이상)",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7998884003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-18",
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7997231003",
+   "source": "toss",
+   "company": "토스",
+   "title": "ML Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7997231003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-18",
+   "domains": [
+    "llm",
+    "timeseries",
+    "mlops"
+   ],
+   "skills": [
+    "sql",
+    "pytorch",
+    "spark",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "mlops"
+   ],
+   "pref_skills": [
+    "sql",
+    "spark",
+    "git"
+   ]
+  },
+  {
+   "id": "woowahan:25843",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25843/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-18",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "kt:266841",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Quality Engineering)",
+   "team": "AX사업-AI Quality Engineering-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-10-05",
+   "url": "https://kt.recruiter.co.kr/career/jobs/128769",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-18",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "k8s"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260176",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
+   "team": "AX사업-AI Platform Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-09-18",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "robotics",
+    "multimodal",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "java"
+   ],
+   "pref_domains": [
+    "rl",
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:260209",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
+   "team": "AX사업-AI Agent Engineer-서울(광화문)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-07-28",
+   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-18",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "mlops"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "sk:R262015",
    "source": "sk",
@@ -193,62 +413,6 @@
     "robotics"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "woowahan:25837",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25837/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-16",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ]
   },
   {
    "id": "sk:R261986",
@@ -1000,36 +1164,6 @@
    ]
   },
   {
-   "id": "toss:7629259003",
-   "source": "toss",
-   "company": "토스씨엑스",
-   "title": "Business Analyst",
-   "team": "Strategy",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7629259003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-10",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "tableau"
-   ],
-   "pref_domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7990802003",
    "source": "toss",
    "company": "토스",
@@ -1442,7 +1576,7 @@
    "id": "toss:7782783003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "Data Analytics Specialist",
+   "title": "Data Analytics Specialist (2년 이하)",
    "team": "Data Analysis",
    "location": "Seoul",
    "employment_type": "계약직",
@@ -1685,44 +1819,6 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
-  },
-  {
-   "id": "kt:265302",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI 프로젝트 제안/이행 PM/PL)",
-   "team": "제안/이행-AI 프로젝트 제안/이행 PM/PL-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-09-16",
-   "url": "https://kt.recruiter.co.kr/career/jobs/127210",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-03",
-   "domains": [
-    "llm",
-    "agent",
-    "data-eng"
-   ],
-   "skills": [
-    "sql",
-    "aws",
-    "gcp",
-    "azure",
-    "rag"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": [
-    "sql",
-    "aws",
-    "gcp",
-    "azure"
    ]
   },
   {
@@ -2183,39 +2279,6 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7825510003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "AI Engineer (WM) ",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7825510003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-01",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "hadoop",
-    "kafka",
-    "k8s",
-    "rag"
-   ],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -2729,7 +2792,7 @@
    "id": "toss:7827198003",
    "source": "toss",
    "company": "토스",
-   "title": "AI Manager",
+   "title": "AI MAnager",
    "team": "Data Managing",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3005,33 +3068,6 @@
     "python",
     "java"
    ]
-  },
-  {
-   "id": "toss:7825079003",
-   "source": "toss",
-   "company": "토스",
-   "title": "ML Engineer",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7825079003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-05",
-   "domains": [],
-   "skills": [
-    "python",
-    "scala",
-    "sql",
-    "spark",
-    "hadoop"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7821118003",
