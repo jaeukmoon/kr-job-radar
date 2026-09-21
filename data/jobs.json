@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20",
+ "generated": "2026-09-21",
  "sources_ok": [
   "naver",
   "kakao",
@@ -14,6 +14,39 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "coupang:8219620",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] AI CS 품질 관리 담당자",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219620",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-21",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "tableau",
+    "powerbi"
+   ]
+  },
   {
    "id": "lgairesearch:4736109005",
    "source": "lgairesearch",
@@ -205,71 +238,6 @@
     "llm",
     "agent",
     "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260176",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Platform Engineer)",
-   "team": "AX사업-AI Platform Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122038",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-09-18",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "robotics",
-    "multimodal",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "java"
-   ],
-   "pref_domains": [
-    "rl",
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:260209",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Agent Engineer)",
-   "team": "AX사업-AI Agent Engineer-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-07-28",
-   "url": "https://kt.recruiter.co.kr/career/jobs/122074",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-18",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "mlops"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "agent"
    ],
    "pref_skills": []
   },
@@ -733,27 +701,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261982",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "AI사업 운영 지원 담당자",
-   "team": "사무/행정지원/영업/마케팅 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-09-20",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261982",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-15",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261994",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -1130,32 +1077,6 @@
     "data-eng"
    ],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005427",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 신사업 전략 및 국내외 주요 산업 리서치 (체험형 인턴)",
-   "team": "Service & Business · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-09-21",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005427",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-12",
-   "domains": [
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "aws"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },
