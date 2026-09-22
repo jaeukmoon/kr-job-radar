@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21",
+ "generated": "2026-09-22",
  "sources_ok": [
   "naver",
   "kakao",
@@ -10,10 +10,362 @@
   "lgairesearch",
   "coupang",
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "hyundai:2026-N2-366",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "달 탐사 모빌리티 자율주행 소프트웨어 엔지니어",
+   "team": "연구개발 · 자율주행",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "vision",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow",
+    "cuda",
+    "vllm",
+    "linux"
+   ],
+   "pref_domains": [
+    "vision",
+    "robotics"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow",
+    "cuda",
+    "vllm"
+   ]
+  },
+  {
+   "id": "lg:1002218",
+   "source": "lg",
+   "company": "하이텔레서비스",
+   "title": "[하이텔레서비스] LLM/RAG 기반 상담지원 서비스 기획 및 고도화 업무 담당자 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-10-05",
+   "url": "https://careers.lg.com/apply/detail?id=1002218",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "llm",
+    "agent",
+    "nlp",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "rag"
+   ]
+  },
+  {
+   "id": "toss:6025151003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "ML Data Assistant",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "단기계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6025151003",
+   "tags": [],
+   "categories": [
+    "data-eng",
+    "ml"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "vision",
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7999125003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Search Quality Operations Assistant ",
+   "team": "Product Operations",
+   "location": "Seoul",
+   "employment_type": "단기계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7999125003",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7996773003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Forward Deployed Engineer ",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7996773003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "llm",
+    "agent",
+    "speech",
+    "mlops"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:8000575003",
+   "source": "toss",
+   "company": "토스",
+   "title": "AI Solution Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8000575003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "llm",
+    "agent",
+    "speech",
+    "mlops"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:S-4758",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 Research Engineer (Ph.D)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "2026-09-28",
+   "url": "https://careers.kakao.com/jobs/S-4758",
+   "tags": [],
+   "categories": [
+    "research",
+    "robotics"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:S-4759",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 Research Engineer (MS)",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "2026-09-28",
+   "url": "https://careers.kakao.com/jobs/S-4759",
+   "tags": [],
+   "categories": [
+    "research",
+    "robotics"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:S-4760",
+   "source": "kakao",
+   "company": "카카오모빌리티",
+   "title": "[공동체] 카카오모빌리티 자율주행 Research Engineer (Internship)",
+   "team": "",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "",
+   "deadline": "2026-09-28",
+   "url": "https://careers.kakao.com/jobs/S-4760",
+   "tags": [],
+   "categories": [
+    "research",
+    "robotics"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "robotics",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "samsung:23215",
+   "source": "samsung",
+   "company": "삼성글로벌리서치",
+   "title": "분야별 연구원 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-12",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262042",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-09-27",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262042",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "spark",
+    "kafka",
+    "k8s"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "spark",
+    "kafka",
+    "k8s"
+   ]
+  },
+  {
+   "id": "coupang:8219716",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CES] CS 운영 및 기획/개선 담당자 (일본어 가능자) (Customer Service & Data Analytics)",
+   "team": "",
+   "location": "South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219716",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-22",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "coupang:8219620",
    "source": "coupang",
@@ -829,32 +1181,6 @@
    "pref_skills": [
     "aws"
    ]
-  },
-  {
-   "id": "naver:30005442",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Large-scale Full 3D Mesh Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-21",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005442",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-09-14",
-   "domains": [
-    "vision",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7992223003",
@@ -1728,32 +2054,6 @@
    ]
   },
   {
-   "id": "samsung:22945",
-   "source": "samsung",
-   "company": "삼성전기",
-   "title": "경력사원 채용(인덕터ㆍ탄탈ㆍSi-Cap 개발, 생성형 AI 부문)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-07",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-03",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "multimodal"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8104736",
    "source": "coupang",
    "company": "Coupang",
@@ -2218,7 +2518,7 @@
    "source": "kt",
    "company": "kt nasmedia",
    "title": "[kt nasmedia] 2026년 9월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · 마케팅-OTT 캠페인  운영 및 관리 · AI-서비스기획 · 경영기획-경영기획 · 경영기획-IR/공시 · 채권-채권 관리",
+   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · 마케팅-OTT 캠페인  운영 및 관리 · 마케팅-옥외광고 영업 · AI-서비스기획 · 경영기획-경영기획 · 경영기획-IR/공시 · 채권-채권 관리",
    "location": "",
    "employment_type": "일반채용",
    "career_type": "신입/경력",
@@ -2724,7 +3024,7 @@
    "id": "toss:7827198003",
    "source": "toss",
    "company": "토스",
-   "title": "AI MAnager",
+   "title": "AI Manager",
    "team": "Data Managing",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -4468,46 +4768,6 @@
     "llm"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4638356005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist Internship(Agentic AI)",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4638356005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "nlp",
-    "timeseries",
-    "data-analysis"
-   ],
-   "skills": [
-    "k8s",
-    "vllm"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "rl",
-    "timeseries"
-   ],
-   "pref_skills": [
-    "k8s",
-    "vllm"
-   ]
   },
   {
    "id": "lgairesearch:4708924005",

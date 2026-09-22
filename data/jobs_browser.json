@@ -1,13 +1,28 @@
 {
- "generated": "2026-09-21",
+ "generated": "2026-09-22",
  "sources_ok": [
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
- "errors": [
-  "samsung: 0 jobs returned"
- ],
+ "errors": [],
  "jobs": [
+  {
+   "id": "sk:R262042",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "Data Platform Engineer",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-09-27",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262042",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ]
+  },
   {
    "id": "sk:R261898",
    "source": "sk",
@@ -345,6 +360,24 @@
    ]
   },
   {
+   "id": "hyundai:2026-N2-366",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "달 탐사 모빌리티 자율주행 소프트웨어 엔지니어",
+   "team": "연구개발 · 자율주행",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
    "id": "hyundai:2025-N2-266",
    "source": "hyundai",
    "company": "현대자동차",
@@ -627,19 +660,19 @@
    ]
   },
   {
-   "id": "samsung:22945",
+   "id": "samsung:23215",
    "source": "samsung",
-   "company": "삼성전기",
-   "title": "경력사원 채용(인덕터ㆍ탄탈ㆍSi-Cap 개발, 생성형 AI 부문)",
+   "company": "삼성글로벌리서치",
+   "title": "분야별 연구원 채용",
    "team": "",
    "location": "",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-07",
+   "deadline": "2026-10-12",
    "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [
-    "ml"
+    "research"
    ]
   }
  ]
