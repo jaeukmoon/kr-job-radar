@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22",
+ "generated": "2026-09-23",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -21,6 +21,22 @@
    "tags": [],
    "categories": [
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R262070",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-09-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+   "tags": [],
+   "categories": [
+    "llm"
    ]
   },
   {
@@ -261,7 +277,7 @@
    "location": "남양연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
    "tags": [
     "9월 경력 채용"
@@ -280,7 +296,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
    "tags": [
     "9월 경력 채용"
@@ -298,7 +314,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
    "tags": [
     "9월 경력 채용"
@@ -316,7 +332,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
    "tags": [
     "9월 경력 채용"

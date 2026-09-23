@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22",
+ "generated": "2026-09-23",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,316 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "woowahan:25856",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25856/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "sk:R262070",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-09-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262070",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005506",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 대만 번체 중국어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-10-18",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005506",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:267336",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(멀티모달 AI VLM 연구개발)",
+   "team": "멀티모달 AI(VLM) 연구개발",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://kt.recruiter.co.kr/career/jobs/129275",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "multimodal",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "vision",
+    "multimodal"
+   ],
+   "pref_skills": [
+    "distributed"
+   ]
+  },
+  {
+   "id": "kt:267330",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(Gen AI/APP 기술전략)",
+   "team": "Gen AI/APP 기술전략",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://kt.recruiter.co.kr/career/jobs/129269",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "llm",
+    "rl"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "aws",
+    "azure"
+   ],
+   "pref_domains": [
+    "rl"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "kt:267324",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI agent 플랫폼 개발)",
+   "team": "AI agent 플랫폼 개발",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://kt.recruiter.co.kr/career/jobs/129263",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "mlops"
+   ],
+   "skills": [
+    "javascript",
+    "go",
+    "k8s",
+    "aws",
+    "azure",
+    "vllm",
+    "langchain",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "recsys"
+   ],
+   "pref_skills": [
+    "javascript",
+    "go",
+    "aws",
+    "azure",
+    "vllm",
+    "langchain"
+   ]
+  },
+  {
+   "id": "kt:267327",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 경력채용(AI Foundation 모델 개발)",
+   "team": "AI Foundation 모델 개발",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://kt.recruiter.co.kr/career/jobs/129266",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "llm",
+    "rl"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "go",
+    "pytorch",
+    "k8s",
+    "distributed",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "rl"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "distributed"
+   ]
+  },
+  {
+   "id": "kt:266912",
+   "source": "kt",
+   "company": "KT",
+   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
+   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
+   "location": "",
+   "employment_type": "일반채용",
+   "career_type": "경력",
+   "deadline": "2026-10-06",
+   "url": "https://kt.recruiter.co.kr/career/jobs/128841",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "agent"
+   ],
+   "skills": [
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "rag"
+   ]
+  },
+  {
+   "id": "coupang:8224844",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff, AI Security Architect",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8224844",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-23",
+   "domains": [
+    "llm",
+    "agent",
+    "mlops"
+   ],
+   "skills": [
+    "aws",
+    "gcp",
+    "azure"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N2-366",
    "source": "hyundai",
@@ -353,7 +663,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219716",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8219716",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -503,62 +813,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "woowahan:25843",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25843/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-18",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ]
   },
   {
    "id": "kt:266841",
@@ -753,7 +1007,7 @@
    "location": "남양연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-06",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
    "tags": [
     "9월 경력 채용"
@@ -968,7 +1222,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
    "tags": [
     "9월 경력 채용"
@@ -999,7 +1253,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
    "tags": [
     "9월 경력 채용"
@@ -1026,7 +1280,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-09-29",
+   "deadline": "2026-10-13",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
    "tags": [
     "9월 경력 채용"
@@ -2123,7 +2377,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7474295",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7474295",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2630,57 +2884,6 @@
     "sql",
     "powerbi"
    ]
-  },
-  {
-   "id": "lg:1002123",
-   "source": "lg",
-   "company": "로보스타",
-   "title": "[로보스타] 로봇/물류 자동화 장비 기구설계 경력사원 모집",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-09-22",
-   "url": "https://careers.lg.com/apply/detail?id=1002123",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-27",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1002126",
-   "source": "lg",
-   "company": "로보스타",
-   "title": "[로보스타] 로봇 SW 개발 경력사원 모집",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-09-22",
-   "url": "https://careers.lg.com/apply/detail?id=1002126",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-08-27",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "javascript",
-    "linux"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "woowahan:25722",
@@ -5079,31 +5282,6 @@
    ]
   },
   {
-   "id": "lgairesearch:4710118005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI 사업개발 전문가(국방분야)",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4710118005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lgairesearch:4130830005",
    "source": "lgairesearch",
    "company": "LG AI Research",
@@ -5179,46 +5357,6 @@
     "vision"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4223874005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI Data Engineer",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4223874005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "spark",
-    "flink",
-    "k8s",
-    "gcp",
-    "git",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "spark",
-    "flink",
-    "git"
-   ]
   },
   {
    "id": "lgairesearch:4666089005",
@@ -5302,7 +5440,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975742",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7975742",
    "tags": [],
    "categories": [
     "ml"
@@ -5323,7 +5461,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7814016",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7814016",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -5354,7 +5492,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7856487",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7856487",
    "tags": [],
    "categories": [
     "research"
@@ -5416,7 +5554,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7927865",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7927865",
    "tags": [],
    "categories": [
     "ml"
@@ -5453,7 +5591,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919211",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7919211",
    "tags": [],
    "categories": [
     "ml"
@@ -5513,7 +5651,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919225",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7919225",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -5568,7 +5706,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962231",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/7962231",
    "tags": [],
    "categories": [
     "vision",
