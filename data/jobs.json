@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23",
+ "generated": "2026-09-24",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,181 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:7995370003",
+   "source": "toss",
+   "company": "토스",
+   "title": "DataOps Manager",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7995370003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-24",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25866",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇프로덕트 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25866/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-09-24",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:25872",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "개인화 마케팅 파트리더",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25872/detail",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-09-24",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262075",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] 데이터 분석 인턴 채용 ",
+   "team": "Tech R&D/Data Science",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-10-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262075",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-24",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262060",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Research Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262060",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-09-24",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "recsys"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "tensorflow",
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow",
+    "langchain",
+    "rag"
+   ]
+  },
+  {
+   "id": "coupang:8219658",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 검색 데이터 운영 담당자",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8219658",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-09-24",
+   "domains": [],
+   "skills": [
+    "sql",
+    "tableau"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql",
+    "tableau"
+   ]
+  },
   {
    "id": "woowahan:25856",
    "source": "woowahan",
@@ -1353,31 +1528,6 @@
    ]
   },
   {
-   "id": "naver:30005435",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] 로봇 구동팩/냉각 시스템 개발을 위한 임베디드 시스템 개발(인턴십)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-09-23",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005435",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-09-15",
-   "domains": [
-    "recsys",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005460",
    "source": "naver",
    "company": "NAVER LABS",
@@ -1829,7 +1979,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8184177",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8184177",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2006,30 +2156,6 @@
     "tableau",
     "powerbi"
    ]
-  },
-  {
-   "id": "naver:30005407",
-   "source": "naver",
-   "company": "NAVER Cloud",
-   "title": "[NAVER Cloud] 대외정책대응 및 분석개발 담당자 (경력)",
-   "team": "Corporate · Strategic Communication",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-23",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005407",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-07",
-   "domains": [
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lg:1002176",
@@ -3479,7 +3605,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8102535",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8102535",
    "tags": [],
    "categories": [
     "ml",
@@ -3638,32 +3764,6 @@
     "k8s",
     "fastapi"
    ]
-  },
-  {
-   "id": "woowahan:25520",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "사업기획(로봇프로덕트 전략)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25520/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-28",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4591478005",

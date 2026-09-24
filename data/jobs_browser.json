@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-23",
+ "generated": "2026-09-24",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -73,6 +73,22 @@
    ]
   },
   {
+   "id": "sk:R262075",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] 데이터 분석 인턴 채용 ",
+   "team": "Tech R&D/Data Science",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-10-06",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262075",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
    "id": "sk:R262039",
    "source": "sk",
    "company": "SK바이오사이언스",
@@ -102,6 +118,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262060",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Research Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262060",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
    ]
   },
   {
