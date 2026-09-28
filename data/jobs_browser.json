@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27",
+ "generated": "2026-09-28",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262042",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "Data Platform Engineer",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-09-27",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262042",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R262070",
    "source": "sk",
@@ -135,6 +119,22 @@
    "categories": [
     "ml",
     "research"
+   ]
+  },
+  {
+   "id": "sk:R262013",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "Pre-SKALA 모집",
+   "team": "IT/IT • Tech R&D/AI/DT",
+   "location": "전국",
+   "employment_type": "기타(교육생)",
+   "career_type": "무관",
+   "deadline": "2026-10-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {

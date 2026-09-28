@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27",
+ "generated": "2026-09-28",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,59 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R262013",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "Pre-SKALA 모집",
+   "team": "IT/IT • Tech R&D/AI/DT",
+   "location": "전국",
+   "employment_type": "기타(교육생)",
+   "career_type": "무관",
+   "deadline": "2026-10-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-28",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4722545005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Superintelligence Lab — AI-Native Engineering Project",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4722545005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-28",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "javascript",
+    "sql",
+    "git"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
+  },
   {
    "id": "toss:7995370003",
    "source": "toss",
@@ -689,90 +742,6 @@
    "pref_skills": []
   },
   {
-   "id": "kakao:S-4758",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 자율주행 Research Engineer (Ph.D)",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "2026-09-28",
-   "url": "https://careers.kakao.com/jobs/S-4758",
-   "tags": [],
-   "categories": [
-    "research",
-    "robotics"
-   ],
-   "first_seen": "2026-09-22",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kakao:S-4759",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 자율주행 Research Engineer (MS)",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "2026-09-28",
-   "url": "https://careers.kakao.com/jobs/S-4759",
-   "tags": [],
-   "categories": [
-    "research",
-    "robotics"
-   ],
-   "first_seen": "2026-09-22",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kakao:S-4760",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 자율주행 Research Engineer (Internship)",
-   "team": "",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "",
-   "deadline": "2026-09-28",
-   "url": "https://careers.kakao.com/jobs/S-4760",
-   "tags": [],
-   "categories": [
-    "research",
-    "robotics"
-   ],
-   "first_seen": "2026-09-22",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "samsung:23215",
    "source": "samsung",
    "company": "삼성글로벌리서치",
@@ -794,39 +763,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R262042",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "Data Platform Engineer",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-09-27",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262042",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-09-22",
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "spark",
-    "kafka",
-    "k8s"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "spark",
-    "kafka",
-    "k8s"
-   ]
   },
   {
    "id": "coupang:8219716",
@@ -1261,31 +1197,6 @@
     "k8s",
     "spring"
    ]
-  },
-  {
-   "id": "naver:30005461",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-09-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005461",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-16",
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
   },
   {
    "id": "lg:1001807",
@@ -1944,32 +1855,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005420",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] AI 서비스 기획 (체험형 인턴)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-09-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005420",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-09",
-   "domains": [
-    "llm",
-    "speech"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8184177",
    "source": "coupang",
    "company": "Coupang",
@@ -2078,43 +1963,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005408",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Data Product Engineer (경력)",
-   "team": "Tech · Data Engineering",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005408",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-09-08",
-   "domains": [
-    "llm",
-    "agent",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "airflow"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "spark",
-    "airflow"
-   ]
-  },
-  {
    "id": "coupang:8178862",
    "source": "coupang",
    "company": "Coupang",
@@ -2216,7 +2064,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8172516",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8172516",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2354,54 +2202,6 @@
    ],
    "pref_skills": [
     "k8s",
-    "rag"
-   ]
-  },
-  {
-   "id": "naver:30005402",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Search Intelligence Engineer (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005402",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-09-04",
-   "domains": [
-    "llm",
-    "vision",
-    "recsys",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "go",
-    "kafka",
-    "airflow",
-    "k8s",
-    "vllm",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "vision",
-    "recsys",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "kafka",
-    "airflow",
-    "k8s",
-    "vllm",
     "rag"
    ]
   },
