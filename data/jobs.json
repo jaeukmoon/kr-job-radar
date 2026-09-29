@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28",
+ "generated": "2026-09-29",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,11 +16,193 @@
  "errors": [],
  "jobs": [
   {
+   "id": "toss:8007436003",
+   "source": "toss",
+   "company": "토스",
+   "title": "AI Platform Engineer",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8007436003",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-09-29",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision"
+   ],
+   "skills": [
+    "python",
+    "go",
+    "k8s",
+    "aws",
+    "gcp",
+    "vllm",
+    "huggingface"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "k8s"
+   ]
+  },
+  {
+   "id": "woowahan:25874",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25874/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-09-29",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "woowahan:25873",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "AI 개인화 마케팅(파트장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25873/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-09-29",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4738301005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Research Scientist - Industrial Optimization",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4738301005",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-09-29",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4738783005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI for Chemistry Research Scientist Internship",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4738783005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-09-29",
+   "domains": [
+    "llm",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
    "id": "sk:R262013",
    "source": "sk",
    "company": "SK주식회사(AX)",
    "title": "Pre-SKALA 모집",
-   "team": "IT/IT • Tech R&D/AI/DT",
+   "team": "Tech R&D/AI/DT",
    "location": "전국",
    "employment_type": "기타(교육생)",
    "career_type": "무관",
@@ -46,7 +228,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4722545005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4722545005",
    "tags": [],
    "categories": [
     "ml"
@@ -118,36 +300,6 @@
    "skills": [],
    "pref_domains": [
     "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25872",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "개인화 마케팅 파트리더",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25872/detail",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-09-24",
-   "domains": [
-    "llm",
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "llm",
-    "recsys"
    ],
    "pref_skills": []
   },
@@ -241,62 +393,6 @@
    "pref_skills": [
     "sql",
     "tableau"
-   ]
-  },
-  {
-   "id": "woowahan:25856",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25856/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
    ]
   },
   {
@@ -830,7 +926,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4736109005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4736109005",
    "tags": [],
    "categories": [
     "research",
@@ -1038,7 +1134,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4734450005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4734450005",
    "tags": [],
    "categories": [
     "research"
@@ -1691,35 +1787,6 @@
     "langchain",
     "rag"
    ]
-  },
-  {
-   "id": "naver:30005448",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] 3D Vision Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-28",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005448",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "vision"
-   ],
-   "first_seen": "2026-09-12",
-   "domains": [
-    "llm",
-    "vision",
-    "recsys",
-    "robotics",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lg:1002199",
@@ -2916,7 +2983,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4725958005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4725958005",
    "tags": [],
    "categories": [
     "ml"
@@ -2930,38 +2997,6 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4725957005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Data Engineer Internship - Physical AI",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4725957005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-08-21",
-   "domains": [
-    "llm",
-    "vision",
-    "robotics",
-    "multimodal"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "llm",
-    "vision"
-   ],
    "pref_skills": []
   },
   {
@@ -3055,7 +3090,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4593631005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4593631005",
    "tags": [],
    "categories": [
     "ml",
@@ -3192,44 +3227,6 @@
    "pref_skills": []
   },
   {
-   "id": "lgairesearch:4724188005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI Software Engineer - Self-driving Laboratory",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4724188005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-15",
-   "domains": [
-    "llm",
-    "agent",
-    "robotics",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "javascript",
-    "go",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "robotics",
-    "data-eng"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7757642003",
    "source": "toss",
    "company": "토스씨엑스",
@@ -3280,36 +3277,6 @@
    "pref_skills": []
   },
   {
-   "id": "kakao:P-14403",
-   "source": "kakao",
-   "company": "카카오",
-   "title": "LLM Research Engineer (Post-training) (신입/경력)",
-   "team": "테크",
-   "location": "판교",
-   "employment_type": "정규직",
-   "career_type": "완전선택근무제",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/P-14403",
-   "tags": [],
-   "categories": [
-    "research",
-    "llm"
-   ],
-   "first_seen": "2026-08-11",
-   "domains": [
-    "llm",
-    "rl"
-   ],
-   "skills": [
-    "pytorch",
-    "distributed"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8108131",
    "source": "coupang",
    "company": "Coupang",
@@ -3351,7 +3318,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4722177005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4722177005",
    "tags": [],
    "categories": [
     "ml"
@@ -3534,7 +3501,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4719752005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4719752005",
    "tags": [],
    "categories": [
     "research"
@@ -3575,7 +3542,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4591478005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4591478005",
    "tags": [],
    "categories": [
     "ml"
@@ -3617,7 +3584,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4012563005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4012563005",
    "tags": [],
    "categories": [
     "research",
@@ -3696,37 +3663,6 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N3-72",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
-   "team": "연구개발 · 로보틱스개발",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-28",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-07-21",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "cpp",
-    "git"
    ]
   },
   {
@@ -3899,7 +3835,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4623079005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4623079005",
    "tags": [],
    "categories": [
     "ml",
@@ -4325,43 +4261,6 @@
    ]
   },
   {
-   "id": "toss:7786567003",
-   "source": "toss",
-   "company": "토스",
-   "title": "AI Platform Engineer",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7786567003",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "vision",
-    "mlops"
-   ],
-   "skills": [
-    "vllm",
-    "rag",
-    "huggingface"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "vllm",
-    "rag"
-   ]
-  },
-  {
    "id": "kakao:S-4689",
    "source": "kakao",
    "company": "카카오헬스케어",
@@ -4774,7 +4673,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708027005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4708027005",
    "tags": [],
    "categories": [
     "research",
@@ -4803,7 +4702,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080978005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4080978005",
    "tags": [],
    "categories": [
     "recsys"
@@ -4829,7 +4728,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4012547005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4012547005",
    "tags": [],
    "categories": [
     "research",
@@ -4856,7 +4755,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4179238005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4179238005",
    "tags": [],
    "categories": [
     "research"
@@ -4882,7 +4781,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4708924005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4708924005",
    "tags": [],
    "categories": [
     "ml",
@@ -4920,7 +4819,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080869005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4080869005",
    "tags": [],
    "categories": [
     "ml",
@@ -4947,7 +4846,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4693138005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4693138005",
    "tags": [],
    "categories": [
     "llm"
@@ -4974,7 +4873,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4080871005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4080871005",
    "tags": [],
    "categories": [
     "ml",
@@ -5001,7 +4900,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4603031005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4603031005",
    "tags": [],
    "categories": [
     "research"
@@ -5025,7 +4924,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4083477005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4083477005",
    "tags": [],
    "categories": [
     "research",
@@ -5059,7 +4958,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4024293005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4024293005",
    "tags": [],
    "categories": [
     "llm"
@@ -5085,7 +4984,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4012564005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4012564005",
    "tags": [],
    "categories": [
     "mlops"
@@ -5116,7 +5015,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4180455005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4180455005",
    "tags": [],
    "categories": [
     "research",
@@ -5151,7 +5050,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4607350005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4607350005",
    "tags": [],
    "categories": [
     "llm",
@@ -5191,7 +5090,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4130830005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4130830005",
    "tags": [],
    "categories": [
     "ml",
@@ -5218,7 +5117,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4711938005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4711938005",
    "tags": [],
    "categories": [
     "ml"
@@ -5243,7 +5142,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4608205005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4608205005",
    "tags": [],
    "categories": [
     "ml"
@@ -5268,7 +5167,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4666089005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4666089005",
    "tags": [],
    "categories": [
     "ml"
@@ -5289,7 +5188,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/lgairesearch/jobs/4325674005",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4325674005",
    "tags": [],
    "categories": [
     "research"

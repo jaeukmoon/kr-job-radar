@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28",
+ "generated": "2026-09-29",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -126,7 +126,7 @@
    "source": "sk",
    "company": "SK주식회사(AX)",
    "title": "Pre-SKALA 모집",
-   "team": "IT/IT • Tech R&D/AI/DT",
+   "team": "Tech R&D/AI/DT",
    "location": "전국",
    "employment_type": "기타(교육생)",
    "career_type": "무관",
@@ -372,22 +372,6 @@
    ],
    "categories": [
     "mlops"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N3-72",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
-   "team": "연구개발 · 로보틱스개발",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-09-28",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
-   "tags": [],
-   "categories": [
-    "robotics"
    ]
   },
   {
