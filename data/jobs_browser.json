@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29",
+ "generated": "2026-09-30",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262070",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-09-29",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262070",
-   "tags": [],
-   "categories": [
-    "llm"
-   ]
-  },
   {
    "id": "sk:R261898",
    "source": "sk",
@@ -119,6 +103,22 @@
    "categories": [
     "ml",
     "research"
+   ]
+  },
+  {
+   "id": "sk:R262088",
+   "source": "sk",
+   "company": "SK브로드밴드",
+   "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+   "team": "Tech R&D/Data Science,Data 분석/개발,Backend 개발",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-10-13",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262088",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
@@ -403,9 +403,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -437,9 +435,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=323",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -455,9 +451,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=328",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -473,9 +467,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -491,9 +483,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=325",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -509,9 +499,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=331",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -527,9 +515,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=326",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -545,9 +531,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=329",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -563,9 +547,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=324",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -581,9 +563,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=322",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "ml",
     "robotics"
@@ -600,9 +580,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=327",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]
@@ -666,9 +644,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=321",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "ml",
     "robotics"
@@ -685,9 +661,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=330",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ]

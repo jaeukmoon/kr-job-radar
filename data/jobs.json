@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29",
+ "generated": "2026-09-30",
  "sources_ok": [
   "naver",
   "kakao",
@@ -13,8 +13,80 @@
   "hyundai",
   "samsung"
  ],
- "errors": [],
+ "errors": [
+  "kt: HTTP Error 500: Internal Server Error"
+ ],
  "jobs": [
+  {
+   "id": "woowahan:25885",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "AI 개인화 마케팅(파트장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/25885/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-09-30",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262088",
+   "source": "sk",
+   "company": "SK브로드밴드",
+   "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
+   "team": "Tech R&D/Data Science,Data 분석/개발,Backend 개발",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-10-13",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262088",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-09-30",
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "pytorch"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "pytorch"
+   ]
+  },
   {
    "id": "toss:8007436003",
    "source": "toss",
@@ -109,37 +181,6 @@
     "fastapi",
     "git"
    ]
-  },
-  {
-   "id": "woowahan:25873",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "AI 개인화 마케팅(파트장급)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25873/detail",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-09-29",
-   "domains": [
-    "llm",
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "llm",
-    "recsys"
-   ],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4738301005",
@@ -396,27 +437,6 @@
    ]
   },
   {
-   "id": "sk:R262070",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-09-29",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262070",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005506",
    "source": "naver",
    "company": "NAVER WEBTOON",
@@ -436,189 +456,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "kt:267336",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(멀티모달 AI VLM 연구개발)",
-   "team": "멀티모달 AI(VLM) 연구개발",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://kt.recruiter.co.kr/career/jobs/129275",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "vision",
-    "multimodal",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "distributed"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "vision",
-    "multimodal"
-   ],
-   "pref_skills": [
-    "distributed"
-   ]
-  },
-  {
-   "id": "kt:267330",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(Gen AI/APP 기술전략)",
-   "team": "Gen AI/APP 기술전략",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://kt.recruiter.co.kr/career/jobs/129269",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [
-    "llm",
-    "rl"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "aws",
-    "azure"
-   ],
-   "pref_domains": [
-    "rl"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:267324",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI agent 플랫폼 개발)",
-   "team": "AI agent 플랫폼 개발",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://kt.recruiter.co.kr/career/jobs/129263",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys",
-    "mlops"
-   ],
-   "skills": [
-    "javascript",
-    "go",
-    "k8s",
-    "aws",
-    "azure",
-    "vllm",
-    "langchain",
-    "rag",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "recsys"
-   ],
-   "pref_skills": [
-    "javascript",
-    "go",
-    "aws",
-    "azure",
-    "vllm",
-    "langchain"
-   ]
-  },
-  {
-   "id": "kt:267327",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Foundation 모델 개발)",
-   "team": "AI Foundation 모델 개발",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://kt.recruiter.co.kr/career/jobs/129266",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [
-    "llm",
-    "rl"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "go",
-    "pytorch",
-    "k8s",
-    "distributed",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "rl"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "distributed"
-   ]
-  },
-  {
-   "id": "kt:266912",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 KT 경력채용(네트워크 보안기술 연구개발)",
-   "team": "네트워크기술연구-네트워크 보안기술 연구개발-서울(우면)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-10-06",
-   "url": "https://kt.recruiter.co.kr/career/jobs/128841",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-23",
-   "domains": [
-    "agent"
-   ],
-   "skills": [
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "rag"
-   ]
   },
   {
    "id": "coupang:8224844",
@@ -660,9 +497,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=366",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -750,27 +585,6 @@
     "vision",
     "speech"
    ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7999125003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Search Quality Operations Assistant ",
-   "team": "Product Operations",
-   "location": "Seoul",
-   "employment_type": "단기계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7999125003",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-09-22",
-   "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
@@ -1022,39 +836,6 @@
    "pref_skills": []
   },
   {
-   "id": "kt:266841",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(AI Quality Engineering)",
-   "team": "AX사업-AI Quality Engineering-서울(광화문)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-10-05",
-   "url": "https://kt.recruiter.co.kr/career/jobs/128769",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-18",
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [
-    "python",
-    "javascript",
-    "k8s"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R262015",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -1155,27 +936,6 @@
     "nlp",
     "mlops"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:266609",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(영상코덱 표준기술 연구개발)",
-   "team": "영상코덱 표준기술 연구개발",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-09-30",
-   "url": "https://kt.recruiter.co.kr/career/jobs/128532",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-17",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -1341,27 +1101,6 @@
    ]
   },
   {
-   "id": "kt:266637",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2026년 경력채용(데이터센터 네트워크 기술 연구)",
-   "team": "네트워크기술연구-데이터센터 네트워크 기술 연구-서울(우면)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "경력",
-   "deadline": "2026-09-29",
-   "url": "https://kt.recruiter.co.kr/career/jobs/128563",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-16",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8203172",
    "source": "coupang",
    "company": "Coupang",
@@ -1371,7 +1110,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8203172",
+   "url": "https://job-boards.greenhouse.io/coupang/jobs/8203172",
    "tags": [],
    "categories": [
     "ml"
@@ -1533,31 +1272,6 @@
     "azure",
     "rag"
    ]
-  },
-  {
-   "id": "naver:30005460",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Generative AI Engineer (2D/3D)",
-   "team": "Tech · Graphics",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-09-29",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005460",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-15",
-   "domains": [
-    "llm",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "naver:30005449",
@@ -2008,28 +1722,6 @@
    "pref_skills": []
   },
   {
-   "id": "kt:265764",
-   "source": "kt",
-   "company": "kt alpha",
-   "title": "[kt alpha] kt알파 쇼핑 ​Data Analyst(DA) / Data Engineer(DE) 채용",
-   "team": "​Data Analyst(DA) · Data Engineer(DE)",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입/경력",
-   "deadline": "2026-10-06",
-   "url": "https://kt.recruiter.co.kr/career/jobs/127681",
-   "tags": [],
-   "categories": [
-    "data-analysis",
-    "data-eng"
-   ],
-   "first_seen": "2026-09-08",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8178862",
    "source": "coupang",
    "company": "Coupang",
@@ -2401,9 +2093,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=323",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2436,9 +2126,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=328",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2467,9 +2155,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2494,9 +2180,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=325",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2521,9 +2205,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=331",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2548,9 +2230,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=326",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2582,9 +2262,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=329",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2609,9 +2287,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=324",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2637,9 +2313,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=322",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "ml",
     "robotics"
@@ -2672,9 +2346,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=327",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2708,9 +2380,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=321",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "ml",
     "robotics"
@@ -2744,9 +2414,7 @@
    "career_type": "",
    "deadline": "2026-12-31",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=330",
-   "tags": [
-    "집중 상시 채용"
-   ],
+   "tags": [],
    "categories": [
     "robotics"
    ],
@@ -2758,27 +2426,6 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:265110",
-   "source": "kt",
-   "company": "kt nasmedia",
-   "title": "[kt nasmedia] 2026년 9월 kt nasmedia 채용 (채용 시 마감)",
-   "team": "마케팅-미디어플래너 · 마케팅-아마존 광고대행 및 이커머스전문가(팀장급) · 마케팅-아마존 광고대행 및 이커머스전문가(팀원) · 마케팅-옥외 매체 관리 및 운영 · 마케팅-매체관리 · 마케팅-OTT 캠페인  운영 및 관리 · 마케팅-옥외광고 영업 · AI-서비스기획 · 경영기획-경영기획 · 경영기획-IR/공시 · 채권-채권 관리",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입/경력",
-   "deadline": "2026-09-30",
-   "url": "https://kt.recruiter.co.kr/career/jobs/127010",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-01",
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -2924,27 +2571,6 @@
    "skills": [
     "sql"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:259303",
-   "source": "kt",
-   "company": "kt netcore",
-   "title": "[kt netcore] 경력직 상시 인재풀(선로운용/선로설계/Biz서비스운영/IT정보보안/AI서비스개발)",
-   "team": "선로운용-서울 · 선로운용-강원 · 선로운용-경기 북부 · 선로운용-경기 남부 · 선로운용-경기 서부 · 선로운용-인천 · 선로운용-충북 · 선로운용-대전/충남 · 선로운용-대구/경북 · 선로운용-부산/경남 · 선로운용-전북 · 선로운용-광주/전남 · 선로운용-제주 · 선로설계-서울 · 선로설계-강원 · 선로설계-경기 북부 · 선로설계-경기 남부 · 선로설계-경기 서부 · 선로설계-인천 · 선로설계-충북 · 선로설계-대전/충남 · 선로설계-대구/경북 · 선로설계-부산/경남 · 선로설계-전북 · 선로설계-광주/전남 · 선로설계-제주 · Biz서비스운영-서울 · Biz서비스운영-강원 · Biz서비스운영-경기 북부 · Biz서비스운영-경기 남부 · Biz서비스운영-경기 서부 · Biz서비스운영-인천 · Biz서비스운영-충북 · Biz서비스운영-대전/충남 · Biz서비스운영-대구/경북 · Biz서비스운영-부산/경남 · Biz서비스운영-전북 · Biz서비스운영-광주/전남 · Biz서비스운영-제주 · IT/정보보안-서울(수서) · AI서비스개발-서울(수서)",
-   "location": "",
-   "employment_type": "상시",
-   "career_type": "경력",
-   "deadline": "2027-12-31",
-   "url": "https://kt.recruiter.co.kr/career/jobs/121154",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-22",
-   "domains": [],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -3598,40 +3224,6 @@
    ],
    "skills": [
     "tensorflow"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:259124",
-   "source": "kt",
-   "company": "KT",
-   "title": "[KT] 2027년도 봄학기 KT AI석사과정 신입생 모집(채용연계형 계약학과)",
-   "team": "코어·서비스 AI 연구개발-KAIST · 코어·서비스 AI 연구개발-POSTECH · 데이터 AX 연구개발-KAIST · 데이터 AX 연구개발-POSTECH",
-   "location": "",
-   "employment_type": "일반채용",
-   "career_type": "신입",
-   "deadline": "2026-07-20",
-   "url": "https://kt.recruiter.co.kr/career/jobs/120971",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-07-22",
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "speech",
-    "robotics",
-    "timeseries",
-    "multimodal",
-    "mlops",
-    "data-analysis"
-   ],
-   "skills": [
-    "rag"
    ],
    "pref_domains": [],
    "pref_skills": []
