@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01",
+ "generated": "2026-10-02",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,129 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "toss:8011144003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Commerce Fulfillment Planning Lead",
+   "team": "All",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8011144003",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-10-02",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:P-14559",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "LLM Research Engineer (Pre-training) (신입/경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14559",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm"
+   ],
+   "first_seen": "2026-10-02",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "cuda",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "cuda",
+    "distributed"
+   ]
+  },
+  {
+   "id": "lg:1002062",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] Speech AI 경력 채용 ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-10-11",
+   "url": "https://careers.lg.com/apply/detail?id=1002062",
+   "tags": [],
+   "categories": [
+    "ml",
+    "speech"
+   ],
+   "first_seen": "2026-10-02",
+   "domains": [
+    "llm",
+    "speech",
+    "multimodal"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8242506",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 비즈니스 분석가 (Business Analyst_Compliance Analytics)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8242506",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-02",
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "hadoop",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "hadoop",
+    "airflow"
+   ]
+  },
   {
    "id": "woowahan:25916",
    "source": "woowahan",
@@ -377,7 +500,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8175787",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8175787",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -690,7 +813,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8219658",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219658",
    "tags": [],
    "categories": [
     "recsys"
@@ -738,7 +861,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8224844",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8224844",
    "tags": [],
    "categories": [
     "ml"
@@ -955,7 +1078,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8219716",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219716",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -978,7 +1101,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8219620",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219620",
    "tags": [],
    "categories": [
     "ml"
@@ -1210,33 +1333,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8172658",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Sr.Data Analyst (PPE/Fraud)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8172658",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-17",
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "hyundai:2026-N2-345",
    "source": "hyundai",
    "company": "현대자동차",
@@ -1381,7 +1477,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8203172",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8203172",
    "tags": [],
    "categories": [
     "ml"
@@ -1824,7 +1920,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8188042",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8188042",
    "tags": [],
    "categories": [
     "data-eng"
@@ -1882,7 +1978,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8184177",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8184177",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -1968,7 +2064,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8178862",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8178862",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2060,7 +2156,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8172516",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8172516",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2166,42 +2262,6 @@
    ]
   },
   {
-   "id": "sk:R261898",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "보안침해위협 분석/대응 및 AI 기반 탐지 고도화 전문가",
-   "team": "IT/IT 보안",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-01",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261898",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-04",
-   "domains": [
-    "llm",
-    "timeseries",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "k8s",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "k8s",
-    "rag"
-   ]
-  },
-  {
    "id": "coupang:8171509",
    "source": "coupang",
    "company": "Coupang",
@@ -2211,7 +2271,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8171509",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8171509",
    "tags": [],
    "categories": [
     "llm"
@@ -2233,13 +2293,13 @@
    "id": "coupang:8104736",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[CLS] 물류 데이터 분석 및 운영 전략 담당자 (LSCI Inbound Solution)",
+   "title": "[쿠팡로지스틱스서비스] 물류 데이터 분석 및 운영 전략 담당자 (LSCI Inbound Solution)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8104736",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104736",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2299,7 +2359,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7474295",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7474295",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2675,7 +2735,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8163774",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163774",
    "tags": [],
    "categories": [
     "ml"
@@ -2704,7 +2764,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8042925",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8042925",
    "tags": [],
    "categories": [
     "llm"
@@ -2792,7 +2852,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8146344",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8146344",
    "tags": [],
    "categories": [
     "ml",
@@ -2820,7 +2880,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8129711",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8129711",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -2905,7 +2965,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8130043",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8130043",
    "tags": [],
    "categories": [
     "ml",
@@ -2941,7 +3001,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8130040",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8130040",
    "tags": [],
    "categories": [
     "ml",
@@ -3010,29 +3070,6 @@
    "pref_skills": []
   },
   {
-   "id": "toss:7757642003",
-   "source": "toss",
-   "company": "토스씨엑스",
-   "title": "토스쇼핑 음성 데이터 검수 스태프 (팀원)",
-   "team": "Customer",
-   "location": "부산",
-   "employment_type": "단기계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7757642003",
-   "tags": [],
-   "categories": [
-    "speech"
-   ],
-   "first_seen": "2026-08-12",
-   "domains": [
-    "speech"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8048155",
    "source": "coupang",
    "company": "Coupang",
@@ -3042,7 +3079,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8048155",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8048155",
    "tags": [],
    "categories": [
     "research"
@@ -3069,7 +3106,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8108131",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8108131",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -3155,7 +3192,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8102535",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8102535",
    "tags": [],
    "categories": [
     "ml",
@@ -3471,35 +3508,6 @@
     "cuda",
     "vllm",
     "huggingface"
-   ]
-  },
-  {
-   "id": "hyundai:2025-N2-266",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[통합보안] 보안점검(분석)",
-   "team": "IT · Information Security Management",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2025&recuType=N2&recuCls=266",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-14",
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "linux"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "linux"
    ]
   },
   {
@@ -4863,7 +4871,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8011846",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8011846",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -4888,7 +4896,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7975742",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975742",
    "tags": [],
    "categories": [
     "ml"
@@ -4909,7 +4917,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7814016",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7814016",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -4940,7 +4948,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7856487",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7856487",
    "tags": [],
    "categories": [
     "research"
@@ -4964,7 +4972,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8012236",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8012236",
    "tags": [],
    "categories": [
     "ml"
@@ -5002,7 +5010,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7927865",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7927865",
    "tags": [],
    "categories": [
     "ml"
@@ -5039,7 +5047,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7919211",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919211",
    "tags": [],
    "categories": [
     "ml"
@@ -5070,7 +5078,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7994883",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7994883",
    "tags": [],
    "categories": [
     "ml"
@@ -5099,7 +5107,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7919225",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919225",
    "tags": [],
    "categories": [
     "data-analysis"
@@ -5128,7 +5136,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8029811",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8029811",
    "tags": [],
    "categories": [
     "research"
@@ -5154,7 +5162,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/7962231",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962231",
    "tags": [],
    "categories": [
     "vision",
@@ -5190,7 +5198,7 @@
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
-   "url": "https://job-boards.greenhouse.io/coupang/jobs/8034833",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8034833",
    "tags": [],
    "categories": [
     "data-analysis"
