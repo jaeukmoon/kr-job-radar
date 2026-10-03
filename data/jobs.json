@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02",
+ "generated": "2026-10-03",
  "sources_ok": [
   "naver",
   "kakao",
@@ -18,11 +18,41 @@
  ],
  "jobs": [
   {
+   "id": "kakao:P-14558",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "LLM Research Engineer (Post-training) (신입/경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14558",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm"
+   ],
+   "first_seen": "2026-10-03",
+   "domains": [
+    "llm",
+    "rl"
+   ],
+   "skills": [
+    "pytorch",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
    "id": "toss:8011144003",
    "source": "toss",
    "company": "토스",
    "title": "Commerce Fulfillment Planning Lead",
-   "team": "All",
+   "team": "Strategy",
    "location": "Seoul",
    "employment_type": "정규직",
    "career_type": "",
@@ -4906,37 +4936,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:7814016",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[Coupang] Business Analyst",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7814016",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "sql"
-   ]
   },
   {
    "id": "coupang:7856487",
