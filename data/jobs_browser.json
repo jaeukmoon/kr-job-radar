@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04",
+ "generated": "2026-10-05",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261927",
-   "source": "sk",
-   "company": "애커튼파트너스",
-   "title": "제조 AI 컨설턴트 (경력)",
-   "team": "DT/Digital 컨설팅",
-   "location": "서울,경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-04",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261927",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262075",
    "source": "sk",
