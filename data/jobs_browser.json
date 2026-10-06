@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05",
+ "generated": "2026-10-06",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -70,6 +70,22 @@
    "categories": [
     "ml",
     "research"
+   ]
+  },
+  {
+   "id": "sk:R262145",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "AI사업 운영 지원 담당자",
+   "team": "사무/행정지원/영업/마케팅 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-10-12",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262145",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {

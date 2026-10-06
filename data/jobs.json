@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05",
+ "generated": "2026-10-06",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,59 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262145",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "AI사업 운영 지원 담당자",
+   "team": "사무/행정지원/영업/마케팅 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-10-12",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262145",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-06",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8245005",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "AI Security Architect",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8245005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-06",
+   "domains": [
+    "llm",
+    "vision"
+   ],
+   "skills": [
+    "k8s",
+    "aws"
+   ],
+   "pref_domains": [
+    "vision"
+   ],
+   "pref_skills": [
+    "k8s",
+    "aws"
+   ]
+  },
   {
    "id": "kakao:P-14558",
    "source": "kakao",
@@ -948,44 +1001,6 @@
     "tensorflow",
     "cuda",
     "vllm"
-   ]
-  },
-  {
-   "id": "lg:1002218",
-   "source": "lg",
-   "company": "하이텔레서비스",
-   "title": "[하이텔레서비스] LLM/RAG 기반 상담지원 서비스 기획 및 고도화 업무 담당자 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-10-05",
-   "url": "https://careers.lg.com/apply/detail?id=1002218",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-09-22",
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "rag"
    ]
   },
   {
