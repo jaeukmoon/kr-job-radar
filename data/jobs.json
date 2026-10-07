@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06",
+ "generated": "2026-10-07",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,324 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "woowahan:26033",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇사업 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26033/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:26011",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "리서치 오퍼레이터",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26011/detail",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:26032",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로보틱스 S/W 엔지니어링(자율주행 ML/팀장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26032/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "robotics"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "vision",
+    "robotics"
+   ],
+   "skills": [
+    "pytorch",
+    "tensorflow",
+    "airflow",
+    "k8s",
+    "git"
+   ],
+   "pref_domains": [
+    "agent",
+    "vision"
+   ],
+   "pref_skills": [
+    "pytorch",
+    "tensorflow",
+    "airflow",
+    "k8s",
+    "git"
+   ]
+  },
+  {
+   "id": "woowahan:26035",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로보틱스 S/W 엔지니어링(SLAM 개발)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26035/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "cpp",
+    "git"
+   ],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:26031",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26031/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "woowahan:26004",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "AI 개인화 마케팅(파트장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26004/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262159",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+   "team": "IT/구축/운영/최적화",
+   "location": "울산",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-24",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "spring"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "java",
+    "javascript"
+   ]
+  },
+  {
+   "id": "sk:R262152",
+   "source": "sk",
+   "company": "SK브로드밴드",
+   "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+   "team": "건설/플랜트/시공(플랜트-기계),설계(플랜트-기계),Utility기술(공조/배기, 배관)",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-21",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262152",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4693142005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "Robotics Evaluation & Benchmark Internship ",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4693142005",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "llm",
+    "vision",
+    "robotics",
+    "multimodal",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8207192",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Director of Engineering, Fulfillment Optimization (Global Operations Technology) ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8207192",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-10-07",
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "kafka"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "sk:R262145",
    "source": "sk",
@@ -37,38 +355,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8245005",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "AI Security Architect",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8245005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-06",
-   "domains": [
-    "llm",
-    "vision"
-   ],
-   "skills": [
-    "k8s",
-    "aws"
-   ],
-   "pref_domains": [
-    "vision"
-   ],
-   "pref_skills": [
-    "k8s",
-    "aws"
-   ]
   },
   {
    "id": "kakao:P-14558",
@@ -222,213 +508,6 @@
     "hadoop",
     "airflow"
    ]
-  },
-  {
-   "id": "woowahan:25916",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "사업기획(로봇프로덕트 전략)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25916/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25949",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "리서치 오퍼레이터",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25949/detail",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25913",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "로보틱스 S/W 엔지니어링(자율주행 ML/팀장급)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25913/detail",
-   "tags": [],
-   "categories": [
-    "ml",
-    "robotics"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "vision",
-    "robotics"
-   ],
-   "skills": [
-    "pytorch",
-    "tensorflow",
-    "airflow",
-    "k8s",
-    "git"
-   ],
-   "pref_domains": [
-    "agent",
-    "vision"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "airflow",
-    "k8s",
-    "git"
-   ]
-  },
-  {
-   "id": "woowahan:25922",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "로보틱스 S/W 엔지니어링(SLAM 개발)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25922/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "cpp",
-    "git"
-   ],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:25910",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25910/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ]
-  },
-  {
-   "id": "woowahan:25914",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "AI 개인화 마케팅(파트장급)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/25914/detail",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "llm",
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "llm",
-    "recsys"
-   ],
-   "pref_skills": []
   },
   {
    "id": "naver:30005520",
@@ -818,29 +897,6 @@
     "sql",
     "tableau"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262075",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 데이터 분석 인턴 채용 ",
-   "team": "Tech R&D/Data Science",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-10-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262075",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-24",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -1374,35 +1430,6 @@
     "llm",
     "nlp",
     "mlops"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N2-345",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
-   "team": "연구개발 · 기술경영",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
-   "tags": [
-    "9월 경력 채용"
-   ],
-   "categories": [
-    "data-analysis",
-    "robotics"
-   ],
-   "first_seen": "2026-09-16",
-   "domains": [
-    "agent",
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
    ],
    "pref_skills": []
   },
@@ -5027,37 +5054,6 @@
     "llm",
     "recsys",
     "multimodal"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7919211",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Backend Engineer (Streaming & AI Infrastructure)",
-   "team": "",
-   "location": "Seoul, South Korea; z-Test & Templates Only",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919211",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "recsys",
-    "timeseries",
-    "data-eng"
-   ],
-   "skills": [
-    "java",
-    "kafka",
-    "aws"
-   ],
-   "pref_domains": [
-    "timeseries"
    ],
    "pref_skills": []
   },

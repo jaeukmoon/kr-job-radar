@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06",
+ "generated": "2026-10-07",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262075",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 데이터 분석 인턴 채용 ",
-   "team": "Tech R&D/Data Science",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-10-06",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262075",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R262039",
    "source": "sk",
@@ -115,6 +99,22 @@
    "career_type": "무관",
    "deadline": "2026-10-14",
    "url": "https://www.skcareers.com/Recruit/Detail/R262013",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262152",
+   "source": "sk",
+   "company": "SK브로드밴드",
+   "title": "AI DC(데이터센터) 구축 전문가 (기계)",
+   "team": "건설/플랜트/시공(플랜트-기계),설계(플랜트-기계),Utility기술(공조/배기, 배관)",
+   "location": "전국",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-21",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262152",
    "tags": [],
    "categories": [
     "ml"
@@ -252,6 +252,22 @@
    ]
   },
   {
+   "id": "sk:R262159",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
+   "team": "IT/구축/운영/최적화",
+   "location": "울산",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-24",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "sk:R261800",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -282,25 +298,6 @@
    "categories": [
     "ml",
     "llm"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-345",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "자율주행 관련 글로벌 규제 분석 및 대응 전략 수립",
-   "team": "연구개발 · 기술경영",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-06",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=345",
-   "tags": [
-    "9월 경력 채용"
-   ],
-   "categories": [
-    "data-analysis",
-    "robotics"
    ]
   },
   {
