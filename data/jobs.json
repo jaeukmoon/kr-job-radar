@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07",
+ "generated": "2026-10-08",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,98 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262169",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "Data Analytics (리더)",
+   "team": "Tech R&D/Data 분석/개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262169",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-08",
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "scala",
+    "sql"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7728018003",
+   "source": "toss",
+   "company": "토스",
+   "title": "Data Scientist",
+   "team": "Data Analysis",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7728018003",
+   "tags": [],
+   "categories": [
+    "data-analysis",
+    "research"
+   ],
+   "first_seen": "2026-10-08",
+   "domains": [
+    "recsys",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "spark"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "woowahan:26055",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "AI 개인화 마케팅(파트장급)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26055/detail",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-10-08",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "woowahan:26033",
    "source": "woowahan",
@@ -192,37 +284,6 @@
     "fastapi",
     "git"
    ]
-  },
-  {
-   "id": "woowahan:26004",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "AI 개인화 마케팅(파트장급)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/26004/detail",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-10-07",
-   "domains": [
-    "llm",
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "llm",
-    "recsys"
-   ],
-   "pref_skills": []
   },
   {
    "id": "sk:R262159",
@@ -2055,32 +2116,6 @@
    ]
   },
   {
-   "id": "toss:7864347003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Data Scientist",
-   "team": "Data Analysis",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7864347003",
-   "tags": [],
-   "categories": [
-    "data-analysis",
-    "research"
-   ],
-   "first_seen": "2026-09-08",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7742346003",
    "source": "toss",
    "company": "토스",
@@ -2104,49 +2139,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8178862",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Data Analyst (Category Analytics)",
-   "team": "",
-   "location": "Seoul, South Korea; Shanghai, China",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8178862",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-08",
-   "domains": [
-    "recsys",
-    "robotics",
-    "timeseries",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "airflow",
-    "aws",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "spark",
-    "airflow",
-    "aws",
-    "tableau",
-    "powerbi"
-   ]
   },
   {
    "id": "lg:1002176",
@@ -2803,42 +2795,6 @@
    ],
    "pref_skills": [
     "aws"
-   ]
-  },
-  {
-   "id": "coupang:8042925",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[Coupang Fulfillment Services] Principal, Facility Automation Designer",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8042925",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-08-28",
-   "domains": [
-    "llm",
-    "speech",
-    "recsys",
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "powerbi"
    ]
   },
   {
@@ -4955,30 +4911,6 @@
    "first_seen": "2026-07-05",
    "domains": [],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7856487",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[CLS] Operation Research Scientist (First & Middlemile)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7856487",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [],
-   "skills": [
-    "python",
-    "sql"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07",
+ "generated": "2026-10-08",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -298,6 +298,22 @@
    "categories": [
     "ml",
     "llm"
+   ]
+  },
+  {
+   "id": "sk:R262169",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "Data Analytics (리더)",
+   "team": "Tech R&D/Data 분석/개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262169",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
