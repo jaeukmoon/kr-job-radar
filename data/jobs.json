@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08",
+ "generated": "2026-10-09",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,81 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "hyundai:2026-N3-72",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
+   "team": "연구개발 · 로보틱스개발",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-10-09",
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "git"
+   ]
+  },
+  {
+   "id": "woowahan:26079",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "리서치 오퍼레이터",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26079/detail",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-10-09",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8245169",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] Principal, HR Advanced Analytics Analyst",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8245169",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-09",
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "sk:R262169",
    "source": "sk",
@@ -133,29 +208,6 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:26011",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "리서치 오퍼레이터",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/26011/detail",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-07",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -1367,27 +1419,6 @@
     "spark",
     "hadoop"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262039",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "Management Accounting(관리회계/경영분석) 경력사원 채용",
-   "team": "재무/재무",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262039",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-19",
-   "domains": [],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
