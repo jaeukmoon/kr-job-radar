@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09",
+ "generated": "2026-10-10",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,29 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "coupang:8187626",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 검색 품질 데이터 운영 및 평가 담당자 (개발 조직 협업)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8187626",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-10-10",
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N3-72",
    "source": "hyundai",
