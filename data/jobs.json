@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11",
+ "generated": "2026-10-12",
  "sources_ok": [
   "naver",
   "kakao",
@@ -18,6 +18,230 @@
  ],
  "jobs": [
   {
+   "id": "sk:R262196",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "AI Agent Engineer",
+   "team": "Tech R&D/Software",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262196",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "llm",
+    "agent",
+    "speech"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "go",
+    "aws",
+    "gcp",
+    "azure",
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "speech"
+   ],
+   "pref_skills": [
+    "langchain",
+    "rag"
+   ]
+  },
+  {
+   "id": "toss:8000716003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "토스증권 Data Engineer 직군 집중채용 (~10/25) ",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "2026-10-25",
+   "url": "https://toss.im/career/job-detail?gh_jid=8000716003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "agent",
+    "recsys",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "hadoop",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262180",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-10-18",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262180",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
+  },
+  {
+   "id": "lg:1001889",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[정보보안센터] AI보안 담당자 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-10-25",
+   "url": "https://careers.lg.com/apply/detail?id=1001889",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8258122",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 시니어 콘텐츠 에디터 (AI 콘텐츠 제작 경험 우대)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8258122",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8248619",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 리테일 운영기획 매니저 (프로세스 개선 및 AI 활용)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8248619",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql"
+   ]
+  },
+  {
+   "id": "coupang:8260755",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Principle Data Analyst",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8260755",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-12",
+   "domains": [
+    "llm",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "airflow",
+    "aws",
+    "tableau"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "airflow",
+    "aws"
+   ]
+  },
+  {
    "id": "coupang:8187626",
    "source": "coupang",
    "company": "Coupang",
@@ -33,60 +257,6 @@
     "recsys"
    ],
    "first_seen": "2026-10-10",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "hyundai:2026-N3-72",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
-   "team": "연구개발 · 로보틱스개발",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-10-09",
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "cpp",
-    "git"
-   ]
-  },
-  {
-   "id": "woowahan:26079",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "리서치 오퍼레이터",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/26079/detail",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-09",
    "domains": [
     "data-analysis"
    ],
@@ -578,36 +748,6 @@
    ]
   },
   {
-   "id": "lg:1002062",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] Speech AI 경력 채용 ",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://careers.lg.com/apply/detail?id=1002062",
-   "tags": [],
-   "categories": [
-    "ml",
-    "speech"
-   ],
-   "first_seen": "2026-10-02",
-   "domains": [
-    "llm",
-    "speech",
-    "multimodal"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8242506",
    "source": "coupang",
    "company": "Coupang",
@@ -670,38 +810,6 @@
    ],
    "skills": [
     "python"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005508",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] AI 에이전트 엔지니어 (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-12",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005508",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-01",
-   "domains": [
-    "llm",
-    "agent",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "langchain",
-    "rag",
-    "git"
    ],
    "pref_domains": [],
    "pref_skills": []
@@ -1035,48 +1143,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R262060",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Research Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262060",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ],
-   "first_seen": "2026-09-24",
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "recsys"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "tensorflow",
-    "langchain",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "rl"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "langchain",
-    "rag"
-   ]
   },
   {
    "id": "coupang:8219658",
@@ -1482,37 +1548,6 @@
    "pref_skills": [
     "aws",
     "langchain"
-   ]
-  },
-  {
-   "id": "sk:R262019",
-   "source": "sk",
-   "company": "애커튼파트너스",
-   "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
-   "team": "DT/Digital 컨설팅",
-   "location": "서울,경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262019",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-17",
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "python",
-    "sql"
    ]
   },
   {
@@ -2828,7 +2863,7 @@
    "company": "Coupang",
    "title": "Staff Security Engineer (AI GRC)",
    "team": "",
-   "location": "Seoul, South Korea",
+   "location": "Mountain View, USA; Seoul, South Korea",
    "employment_type": "",
    "career_type": "",
    "deadline": "상시",
@@ -4847,31 +4882,6 @@
    "skills": [],
    "pref_domains": [
     "agent"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4608205005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI R&D 전략·정부과제 기획 담당자",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4608205005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "domains": [
-    "vision"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "vision"
    ],
    "pref_skills": []
   },

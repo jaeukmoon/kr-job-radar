@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11",
+ "generated": "2026-10-12",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,39 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262019",
-   "source": "sk",
-   "company": "애커튼파트너스",
-   "title": "AI 기반 제조 운영 개선(OI) 컨설턴트 (경력)",
-   "team": "DT/Digital 컨설팅",
-   "location": "서울,경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262019",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "sk:R262060",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Research Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-11",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262060",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research"
-   ]
-  },
   {
    "id": "sk:R262145",
    "source": "sk",
@@ -86,6 +53,22 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262180",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-10-18",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262180",
+   "tags": [],
+   "categories": [
+    "llm"
    ]
   },
   {
@@ -301,6 +284,22 @@
    ]
   },
   {
+   "id": "sk:R262196",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "AI Agent Engineer",
+   "team": "Tech R&D/Software",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262196",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "hyundai:2026-N2-347",
    "source": "hyundai",
    "company": "현대자동차",
@@ -352,22 +351,6 @@
    ],
    "categories": [
     "mlops"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N3-72",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "현대자동차 글로벌 채용전환형 인턴십 (로보틱스랩)",
-   "team": "연구개발 · 로보틱스개발",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N3&recuCls=72",
-   "tags": [],
-   "categories": [
-    "robotics"
    ]
   },
   {
