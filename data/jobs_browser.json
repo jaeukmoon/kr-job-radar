@@ -1,28 +1,13 @@
 {
- "generated": "2026-10-12",
+ "generated": "2026-10-13",
  "sources_ok": [
   "sk",
-  "hyundai",
-  "samsung"
+  "hyundai"
  ],
- "errors": [],
+ "errors": [
+  "samsung: 0 jobs returned"
+ ],
  "jobs": [
-  {
-   "id": "sk:R262145",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "AI사업 운영 지원 담당자",
-   "team": "사무/행정지원/영업/마케팅 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-10-12",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262145",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262088",
    "source": "sk",
@@ -72,6 +57,22 @@
    ]
   },
   {
+   "id": "sk:R262193",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "AI 에이전트 평가 및 사용성 개선 담당자",
+   "team": "기술/현장지원/IT 개발/운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-18",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262193",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "sk:R262152",
    "source": "sk",
    "company": "SK브로드밴드",
@@ -85,6 +86,22 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262200",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "GEO & 브랜드 검색광고 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262200",
+   "tags": [],
+   "categories": [
+    "recsys"
    ]
   },
   {
