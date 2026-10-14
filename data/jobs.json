@@ -39,7 +39,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "sk:R262231",
@@ -60,7 +65,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "sk:R262216",
@@ -81,7 +91,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "sk:R262226",
@@ -102,7 +117,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "coupang:8280199",
@@ -134,7 +154,12 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "coupang:8274118",
@@ -155,7 +180,8 @@
    "first_seen": "2026-10-14",
    "domains": [
     "llm",
-    "agent"
+    "agent",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -169,7 +195,12 @@
    "pref_skills": [
     "python",
     "java"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "coupang:8275940",
@@ -195,7 +226,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   }
   },
   {
    "id": "lg:1002288",
@@ -222,7 +258,12 @@
    "pref_skills": [
     "javascript",
     "spring"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-13"
+   }
   },
   {
    "id": "sk:R262200",
@@ -243,7 +284,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-13"
+   }
   },
   {
    "id": "sk:R262193",
@@ -263,14 +309,21 @@
    "first_seen": "2026-10-13",
    "domains": [
     "agent",
-    "nlp"
+    "nlp",
+    "evaluation"
    ],
    "skills": [],
    "pref_domains": [
     "agent",
-    "nlp"
+    "nlp",
+    "evaluation"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-13"
+   }
   },
   {
    "id": "naver:30005553",
@@ -292,7 +345,8 @@
     "llm",
     "agent",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -305,14 +359,20 @@
    "pref_domains": [
     "llm",
     "agent",
-    "mlops"
+    "mlops",
+    "efficient-inference"
    ],
    "pref_skills": [
     "pytorch",
     "tensorflow",
     "k8s",
     "vllm"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-13"
+   }
   },
   {
    "id": "coupang:8239021",
@@ -342,7 +402,12 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-13"
+   }
   },
   {
    "id": "sk:R262196",
@@ -363,7 +428,8 @@
    "domains": [
     "llm",
     "agent",
-    "speech"
+    "speech",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -379,12 +445,18 @@
    "pref_domains": [
     "llm",
     "agent",
-    "speech"
+    "speech",
+    "retrieval"
    ],
    "pref_skills": [
     "langchain",
     "rag"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "toss:8000716003",
@@ -417,7 +489,12 @@
     "k8s"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "sk:R262180",
@@ -450,7 +527,12 @@
    "pref_skills": [
     "python",
     "sql"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "lg:1001889",
@@ -473,7 +555,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "coupang:8258122",
@@ -496,7 +583,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "coupang:8248619",
@@ -527,7 +619,12 @@
    ],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "coupang:8260755",
@@ -566,7 +663,12 @@
     "spark",
     "airflow",
     "aws"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   }
   },
   {
    "id": "coupang:8187626",
@@ -589,7 +691,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-10"
+   }
   },
   {
    "id": "coupang:8245169",
@@ -610,7 +717,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-09"
+   }
   },
   {
    "id": "sk:R262169",
@@ -640,7 +752,12 @@
    "pref_domains": [
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-08"
+   }
   },
   {
    "id": "toss:7728018003",
@@ -671,7 +788,12 @@
    "pref_domains": [
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-08"
+   }
   },
   {
    "id": "woowahan:26055",
@@ -702,7 +824,12 @@
     "llm",
     "recsys"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-08"
+   }
   },
   {
    "id": "woowahan:26033",
@@ -728,7 +855,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "woowahan:26032",
@@ -752,7 +884,8 @@
     "agent",
     "rl",
     "vision",
-    "robotics"
+    "robotics",
+    "world-model"
    ],
    "skills": [
     "pytorch",
@@ -771,7 +904,12 @@
     "airflow",
     "k8s",
     "git"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "woowahan:26031",
@@ -795,7 +933,8 @@
     "multimodal",
     "mlops",
     "data-eng",
-    "data-analysis"
+    "data-analysis",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -814,7 +953,8 @@
     "llm",
     "agent",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "retrieval"
    ],
    "pref_skills": [
     "python",
@@ -827,7 +967,12 @@
     "rag",
     "fastapi",
     "git"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "sk:R262159",
@@ -857,7 +1002,12 @@
     "python",
     "java",
     "javascript"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "sk:R262152",
@@ -878,7 +1028,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "lgairesearch:4693142005",
@@ -901,13 +1056,19 @@
     "vision",
     "robotics",
     "multimodal",
-    "data-analysis"
+    "data-analysis",
+    "world-model"
    ],
    "skills": [],
    "pref_domains": [
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "coupang:8207192",
@@ -938,7 +1099,12 @@
     "agent",
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-07"
+   }
   },
   {
    "id": "kakao:P-14558",
@@ -959,16 +1125,23 @@
    "first_seen": "2026-10-03",
    "domains": [
     "llm",
-    "rl"
+    "rl",
+    "posttraining"
    ],
    "skills": [
     "pytorch",
     "distributed"
    ],
    "pref_domains": [
-    "llm"
+    "llm",
+    "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-03"
+   }
   },
   {
    "id": "toss:8011144003",
@@ -991,7 +1164,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-02"
+   }
   },
   {
    "id": "kakao:P-14559",
@@ -1011,19 +1189,26 @@
    ],
    "first_seen": "2026-10-02",
    "domains": [
-    "llm"
+    "llm",
+    "efficient-inference"
    ],
    "skills": [
     "cuda",
     "distributed"
    ],
    "pref_domains": [
-    "llm"
+    "llm",
+    "efficient-inference"
    ],
    "pref_skills": [
     "cuda",
     "distributed"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-02"
+   }
   },
   {
    "id": "coupang:8242506",
@@ -1061,7 +1246,12 @@
    "pref_skills": [
     "hadoop",
     "airflow"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-02"
+   }
   },
   {
    "id": "naver:30005520",
@@ -1084,13 +1274,19 @@
     "agent",
     "rl",
     "recsys",
-    "data-eng"
+    "data-eng",
+    "evaluation"
    ],
    "skills": [
     "python"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-01"
+   }
   },
   {
    "id": "lgairesearch:4739196005",
@@ -1133,7 +1329,12 @@
    "pref_skills": [
     "k8s",
     "git"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-01"
+   }
   },
   {
    "id": "lgairesearch:4709731005",
@@ -1155,7 +1356,8 @@
    "domains": [
     "llm",
     "agent",
-    "nlp"
+    "nlp",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -1167,12 +1369,18 @@
    ],
    "pref_domains": [
     "llm",
-    "agent"
+    "agent",
+    "retrieval"
    ],
    "pref_skills": [
     "k8s",
     "rag"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-01"
+   }
   },
   {
    "id": "coupang:8175787",
@@ -1206,7 +1414,12 @@
    "pref_skills": [
     "tableau",
     "powerbi"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-01"
+   }
   },
   {
    "id": "toss:8007436003",
@@ -1229,7 +1442,9 @@
     "llm",
     "agent",
     "rl",
-    "vision"
+    "vision",
+    "posttraining",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -1245,7 +1460,12 @@
    ],
    "pref_skills": [
     "k8s"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-29"
+   }
   },
   {
    "id": "lgairesearch:4738301005",
@@ -1274,7 +1494,12 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-29"
+   }
   },
   {
    "id": "lgairesearch:4738783005",
@@ -1295,13 +1520,20 @@
    "first_seen": "2026-09-29",
    "domains": [
     "llm",
-    "multimodal"
+    "multimodal",
+    "posttraining"
    ],
    "skills": [],
    "pref_domains": [
-    "llm"
+    "llm",
+    "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-29"
+   }
   },
   {
    "id": "lgairesearch:4722545005",
@@ -1333,7 +1565,12 @@
    ],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-28"
+   }
   },
   {
    "id": "toss:7995370003",
@@ -1360,7 +1597,12 @@
     "tableau"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-24"
+   }
   },
   {
    "id": "coupang:8219658",
@@ -1387,7 +1629,12 @@
    "pref_skills": [
     "sql",
     "tableau"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-24"
+   }
   },
   {
    "id": "naver:30005506",
@@ -1408,7 +1655,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-23"
+   }
   },
   {
    "id": "coupang:8224844",
@@ -1437,7 +1689,12 @@
     "azure"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-23"
+   }
   },
   {
    "id": "hyundai:2026-N2-366",
@@ -1457,7 +1714,8 @@
    "first_seen": "2026-09-22",
    "domains": [
     "vision",
-    "robotics"
+    "robotics",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -1470,14 +1728,20 @@
    ],
    "pref_domains": [
     "vision",
-    "robotics"
+    "robotics",
+    "efficient-inference"
    ],
    "pref_skills": [
     "pytorch",
     "tensorflow",
     "cuda",
     "vllm"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-22"
+   }
   },
   {
    "id": "toss:6025151003",
@@ -1502,7 +1766,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-22"
+   }
   },
   {
    "id": "toss:7996773003",
@@ -1524,7 +1793,8 @@
     "llm",
     "agent",
     "speech",
-    "mlops"
+    "mlops",
+    "retrieval"
    ],
    "skills": [
     "rag"
@@ -1533,7 +1803,12 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-22"
+   }
   },
   {
    "id": "toss:8000575003",
@@ -1555,7 +1830,8 @@
     "llm",
     "agent",
     "speech",
-    "mlops"
+    "mlops",
+    "retrieval"
    ],
    "skills": [
     "rag"
@@ -1564,7 +1840,12 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-22"
+   }
   },
   {
    "id": "samsung:23215",
@@ -1587,7 +1868,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-22"
+   }
   },
   {
    "id": "coupang:8219716",
@@ -1610,7 +1896,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-22"
+   }
   },
   {
    "id": "coupang:8219620",
@@ -1643,7 +1934,12 @@
    "pref_skills": [
     "tableau",
     "powerbi"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-21"
+   }
   },
   {
    "id": "lgairesearch:4736109005",
@@ -1670,7 +1966,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-20"
+   }
   },
   {
    "id": "toss:7998953003",
@@ -1693,14 +1994,21 @@
     "agent",
     "rl",
     "vision",
-    "multimodal"
+    "multimodal",
+    "posttraining",
+    "retrieval"
    ],
    "skills": [
     "rag",
     "huggingface"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-19"
+   }
   },
   {
    "id": "toss:7825079003",
@@ -1727,7 +2035,12 @@
     "hadoop"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-19"
+   }
   },
   {
    "id": "sk:R262015",
@@ -1750,7 +2063,9 @@
     "llm",
     "agent",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "retrieval",
+    "evaluation"
    ],
    "skills": [
     "sql",
@@ -1766,7 +2081,12 @@
    "pref_skills": [
     "aws",
     "langchain"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-17"
+   }
   },
   {
    "id": "lgairesearch:4734450005",
@@ -1788,7 +2108,10 @@
     "llm",
     "nlp",
     "mlops",
-    "data-analysis"
+    "data-analysis",
+    "posttraining",
+    "retrieval",
+    "evaluation"
    ],
    "skills": [
     "pytorch",
@@ -1797,9 +2120,16 @@
    "pref_domains": [
     "llm",
     "nlp",
-    "mlops"
+    "mlops",
+    "posttraining",
+    "evaluation"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-17"
+   }
   },
   {
    "id": "sk:R261986",
@@ -1825,7 +2155,12 @@
    "pref_domains": [],
    "pref_skills": [
     "k8s"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-16"
+   }
   },
   {
    "id": "sk:R261987",
@@ -1859,7 +2194,12 @@
     "javascript",
     "k8s",
     "spring"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-16"
+   }
   },
   {
    "id": "lg:1001807",
@@ -1883,7 +2223,8 @@
     "robotics",
     "multimodal",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -1899,13 +2240,19 @@
     "rl",
     "robotics",
     "multimodal",
-    "mlops"
+    "mlops",
+    "efficient-inference"
    ],
    "pref_skills": [
     "distributed",
     "vllm",
     "git"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-16"
+   }
   },
   {
    "id": "coupang:8203172",
@@ -1927,7 +2274,8 @@
     "llm",
     "agent",
     "timeseries",
-    "data-eng"
+    "data-eng",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -1935,11 +2283,17 @@
    ],
    "pref_domains": [
     "llm",
-    "agent"
+    "agent",
+    "retrieval"
    ],
    "pref_skills": [
     "rag"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-16"
+   }
   },
   {
    "id": "sk:R261994",
@@ -1962,7 +2316,8 @@
     "llm",
     "agent",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -1978,14 +2333,20 @@
     "llm",
     "agent",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "retrieval"
    ],
    "pref_skills": [
     "aws",
     "gcp",
     "azure",
     "rag"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-15"
+   }
   },
   {
    "id": "toss:7992223003",
@@ -2007,11 +2368,18 @@
     "llm",
     "mlops",
     "data-eng",
-    "data-analysis"
+    "data-analysis",
+    "retrieval",
+    "efficient-inference"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-12"
+   }
   },
   {
    "id": "sk:R261940",
@@ -2032,7 +2400,8 @@
    "first_seen": "2026-09-12",
    "domains": [
     "llm",
-    "agent"
+    "agent",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -2045,7 +2414,12 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-12"
+   }
   },
   {
    "id": "sk:R261938",
@@ -2067,7 +2441,8 @@
     "llm",
     "rl",
     "vision",
-    "multimodal"
+    "multimodal",
+    "posttraining"
    ],
    "skills": [
     "pytorch",
@@ -2080,7 +2455,12 @@
    ],
    "pref_skills": [
     "k8s"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-12"
+   }
   },
   {
    "id": "sk:R261937",
@@ -2111,7 +2491,12 @@
    ],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-12"
+   }
   },
   {
    "id": "sk:R261936",
@@ -2131,7 +2516,8 @@
    "first_seen": "2026-09-12",
    "domains": [
     "llm",
-    "agent"
+    "agent",
+    "retrieval"
    ],
    "skills": [
     "k8s",
@@ -2142,7 +2528,12 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-12"
+   }
   },
   {
    "id": "sk:R261939",
@@ -2163,7 +2554,8 @@
    "domains": [
     "llm",
     "agent",
-    "data-eng"
+    "data-eng",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -2174,13 +2566,19 @@
    "pref_domains": [
     "llm",
     "agent",
-    "data-eng"
+    "data-eng",
+    "retrieval"
    ],
    "pref_skills": [
     "k8s",
     "langchain",
     "rag"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-12"
+   }
   },
   {
    "id": "lg:1002199",
@@ -2201,7 +2599,8 @@
    "domains": [
     "llm",
     "agent",
-    "multimodal"
+    "multimodal",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -2216,14 +2615,20 @@
    ],
    "pref_domains": [
     "agent",
-    "multimodal"
+    "multimodal",
+    "retrieval"
    ],
    "pref_skills": [
     "java",
     "javascript",
     "langchain",
     "rag"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-11"
+   }
   },
   {
    "id": "toss:7990802003",
@@ -2248,14 +2653,21 @@
     "vision",
     "nlp",
     "timeseries",
-    "multimodal"
+    "multimodal",
+    "posttraining",
+    "retrieval"
    ],
    "skills": [
     "rag",
     "huggingface"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-10"
+   }
   },
   {
    "id": "coupang:8188042",
@@ -2292,7 +2704,12 @@
    "pref_skills": [
     "airflow",
     "k8s"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-10"
+   }
   },
   {
    "id": "toss:7742346003",
@@ -2317,7 +2734,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-08"
+   }
   },
   {
    "id": "lg:1002176",
@@ -2344,7 +2766,9 @@
     "timeseries",
     "multimodal",
     "data-eng",
-    "data-analysis"
+    "data-analysis",
+    "posttraining",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -2360,13 +2784,19 @@
     "agent",
     "vision",
     "timeseries",
-    "multimodal"
+    "multimodal",
+    "posttraining"
    ],
    "pref_skills": [
     "cpp",
     "pytorch",
     "langchain"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-07"
+   }
   },
   {
    "id": "coupang:8172516",
@@ -2398,7 +2828,12 @@
    "pref_domains": [],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-05"
+   }
   },
   {
    "id": "toss:7782783003",
@@ -2423,7 +2858,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-04"
+   }
   },
   {
    "id": "toss:7985134003",
@@ -2447,7 +2887,12 @@
     "tableau"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-09-04"
+   }
   },
   {
    "id": "kakao:S-4750",
@@ -2481,7 +2926,12 @@
     "sql",
     "kafka",
     "k8s"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-04"
+   }
   },
   {
    "id": "coupang:8171509",
@@ -2509,7 +2959,12 @@
    "pref_domains": [],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-04"
+   }
   },
   {
    "id": "lg:1001432",
@@ -2529,7 +2984,8 @@
    "first_seen": "2026-09-02",
    "domains": [
     "llm",
-    "agent"
+    "agent",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -2539,7 +2995,12 @@
     "git"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-02"
+   }
   },
   {
    "id": "coupang:7474295",
@@ -2569,7 +3030,12 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-02"
+   }
   },
   {
    "id": "hyundai:2026-N2-323",
@@ -2602,7 +3068,12 @@
     "python",
     "cpp",
     "git"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-328",
@@ -2631,7 +3102,12 @@
    "pref_skills": [
     "python",
     "cpp"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-320",
@@ -2656,7 +3132,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-325",
@@ -2681,7 +3162,12 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-331",
@@ -2706,7 +3192,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-326",
@@ -2726,7 +3217,8 @@
    "first_seen": "2026-09-01",
    "domains": [
     "rl",
-    "robotics"
+    "robotics",
+    "world-model"
    ],
    "skills": [
     "python",
@@ -2738,7 +3230,12 @@
     "python",
     "cpp",
     "linux"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-329",
@@ -2763,7 +3260,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-324",
@@ -2789,7 +3291,12 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-322",
@@ -2810,7 +3317,8 @@
    "first_seen": "2026-09-01",
    "domains": [
     "vision",
-    "robotics"
+    "robotics",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -2819,10 +3327,17 @@
     "vllm",
     "git"
    ],
-   "pref_domains": [],
+   "pref_domains": [
+    "efficient-inference"
+   ],
    "pref_skills": [
     "vllm"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-327",
@@ -2842,7 +3357,8 @@
    "first_seen": "2026-09-01",
    "domains": [
     "rl",
-    "robotics"
+    "robotics",
+    "world-model"
    ],
    "skills": [
     "python",
@@ -2851,12 +3367,18 @@
    ],
    "pref_domains": [
     "rl",
-    "robotics"
+    "robotics",
+    "world-model"
    ],
    "pref_skills": [
     "cpp",
     "linux"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-321",
@@ -2878,7 +3400,8 @@
    "domains": [
     "rl",
     "robotics",
-    "multimodal"
+    "multimodal",
+    "world-model"
    ],
    "skills": [
     "python",
@@ -2888,9 +3411,15 @@
    ],
    "pref_domains": [
     "rl",
-    "robotics"
+    "robotics",
+    "world-model"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "hyundai:2026-N2-330",
@@ -2915,7 +3444,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "coupang:8163774",
@@ -2944,7 +3478,12 @@
    ],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-09-01"
+   }
   },
   {
    "id": "toss:6279876003",
@@ -2970,7 +3509,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-08-25"
+   }
   },
   {
    "id": "lgairesearch:4725958005",
@@ -2992,11 +3536,17 @@
     "llm",
     "vision",
     "robotics",
-    "multimodal"
+    "multimodal",
+    "world-model"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-21"
+   }
   },
   {
    "id": "coupang:8146344",
@@ -3024,7 +3574,12 @@
     "llm",
     "nlp"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-21"
+   }
   },
   {
    "id": "coupang:8129711",
@@ -3048,7 +3603,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-20"
+   }
   },
   {
    "id": "sk:R261800",
@@ -3077,7 +3637,12 @@
     "agent",
     "speech"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-19"
+   }
   },
   {
    "id": "lgairesearch:4593631005",
@@ -3098,7 +3663,9 @@
    "first_seen": "2026-08-19",
    "domains": [
     "llm",
-    "rl"
+    "rl",
+    "pretraining",
+    "posttraining"
    ],
    "skills": [
     "python",
@@ -3107,9 +3674,15 @@
     "linux"
    ],
    "pref_domains": [
-    "llm"
+    "llm",
+    "pretraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-19"
+   }
   },
   {
    "id": "coupang:8130043",
@@ -3145,7 +3718,12 @@
    "pref_skills": [
     "aws",
     "gcp"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-19"
+   }
   },
   {
    "id": "coupang:8130040",
@@ -3181,7 +3759,12 @@
    "pref_skills": [
     "aws",
     "gcp"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-19"
+   }
   },
   {
    "id": "toss:7827198003",
@@ -3202,7 +3785,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-08-15"
+   }
   },
   {
    "id": "lg:1002072",
@@ -3223,7 +3811,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-15"
+   }
   },
   {
    "id": "coupang:8048155",
@@ -3250,7 +3843,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-08-12"
+   }
   },
   {
    "id": "coupang:8108131",
@@ -3282,7 +3880,12 @@
     "python",
     "k8s",
     "linux"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-11"
+   }
   },
   {
    "id": "lgairesearch:4722177005",
@@ -3305,7 +3908,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-08"
+   }
   },
   {
    "id": "kakao:P-14519",
@@ -3330,13 +3938,21 @@
     "agent",
     "rl",
     "recsys",
-    "mlops"
+    "mlops",
+    "posttraining",
+    "evaluation",
+    "efficient-inference"
    ],
    "skills": [
     "distributed"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-08-07"
+   }
   },
   {
    "id": "toss:7821118003",
@@ -3359,7 +3975,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-31"
+   }
   },
   {
    "id": "kakao:S-4737",
@@ -3387,7 +4008,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-30"
+   }
   },
   {
    "id": "lgairesearch:4719752005",
@@ -3410,7 +4036,8 @@
     "agent",
     "nlp",
     "speech",
-    "recsys"
+    "recsys",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -3428,7 +4055,12 @@
    "pref_skills": [
     "k8s",
     "fastapi"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-30"
+   }
   },
   {
    "id": "lgairesearch:4591478005",
@@ -3452,7 +4084,8 @@
     "nlp",
     "timeseries",
     "multimodal",
-    "data-analysis"
+    "data-analysis",
+    "posttraining"
    ],
    "skills": [
     "python",
@@ -3464,13 +4097,19 @@
    ],
    "pref_domains": [
     "llm",
-    "nlp"
+    "nlp",
+    "posttraining"
    ],
    "pref_skills": [
     "airflow",
     "k8s",
     "distributed"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-28"
+   }
   },
   {
    "id": "lgairesearch:4012563005",
@@ -3498,7 +4137,12 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-22"
+   }
   },
   {
    "id": "toss:4695176003",
@@ -3535,7 +4179,12 @@
     "tableau"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-21"
+   }
   },
   {
    "id": "toss:7499044003",
@@ -3559,7 +4208,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-21"
+   }
   },
   {
    "id": "kakao:S-4730",
@@ -3584,7 +4238,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-16"
+   }
   },
   {
    "id": "kakao:P-14469",
@@ -3605,7 +4264,8 @@
    "first_seen": "2026-07-16",
    "domains": [
     "llm",
-    "mlops"
+    "mlops",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -3619,7 +4279,8 @@
    ],
    "pref_domains": [
     "llm",
-    "mlops"
+    "mlops",
+    "efficient-inference"
    ],
    "pref_skills": [
     "python",
@@ -3629,7 +4290,12 @@
     "cuda",
     "vllm",
     "huggingface"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-16"
+   }
   },
   {
    "id": "lgairesearch:4623079005",
@@ -3652,7 +4318,8 @@
     "llm",
     "agent",
     "rl",
-    "multimodal"
+    "multimodal",
+    "posttraining"
    ],
    "skills": [
     "javascript",
@@ -3661,7 +4328,12 @@
    "pref_domains": [],
    "pref_skills": [
     "pytorch"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-14"
+   }
   },
   {
    "id": "toss:7668948003",
@@ -3685,7 +4357,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-07"
+   }
   },
   {
    "id": "hyundai:2026-N2-27",
@@ -3712,7 +4389,12 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "hyundai:2026-N2-99",
@@ -3745,7 +4427,12 @@
     "java",
     "scala",
     "go"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "hyundai:2026-N2-98",
@@ -3787,7 +4474,12 @@
     "flink",
     "k8s",
     "gcp"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "hyundai:2026-N2-209",
@@ -3811,7 +4503,12 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:6600650003",
@@ -3836,7 +4533,12 @@
     "k8s"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:6434513003",
@@ -3868,7 +4570,12 @@
     "kafka"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:6603749003",
@@ -3902,7 +4609,12 @@
    ],
    "pref_skills": [
     "kafka"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:7775866003",
@@ -3927,7 +4639,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:4770769003",
@@ -3951,7 +4668,8 @@
     "multimodal",
     "mlops",
     "data-eng",
-    "data-analysis"
+    "data-analysis",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -3967,7 +4685,12 @@
     "rag"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:5960616003",
@@ -4006,7 +4729,12 @@
     "sql",
     "hadoop",
     "airflow"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "toss:4071131003",
@@ -4036,7 +4764,12 @@
    "pref_skills": [
     "python",
     "sql"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4689",
@@ -4072,7 +4805,12 @@
     "hadoop",
     "aws",
     "gcp"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4699",
@@ -4096,7 +4834,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4706",
@@ -4122,7 +4865,12 @@
    "pref_domains": [
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4681",
@@ -4154,7 +4902,12 @@
    "pref_skills": [
     "python",
     "cpp"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4680",
@@ -4176,7 +4929,9 @@
    "domains": [
     "vision",
     "robotics",
-    "data-eng"
+    "data-eng",
+    "world-model",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -4185,14 +4940,21 @@
     "vllm"
    ],
    "pref_domains": [
-    "vision"
+    "vision",
+    "world-model",
+    "efficient-inference"
    ],
    "pref_skills": [
     "python",
     "cpp",
     "cuda",
     "vllm"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4725",
@@ -4216,7 +4978,8 @@
     "vision",
     "robotics",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -4226,7 +4989,12 @@
     "vllm"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4306",
@@ -4261,7 +5029,12 @@
     "robotics",
     "multimodal"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:S-4651",
@@ -4288,7 +5061,12 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:P-14402",
@@ -4312,7 +5090,9 @@
     "rl",
     "speech",
     "multimodal",
-    "data-analysis"
+    "data-analysis",
+    "posttraining",
+    "evaluation"
    ],
    "skills": [
     "python",
@@ -4324,7 +5104,12 @@
     "llm",
     "multimodal"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:P-14324",
@@ -4368,7 +5153,12 @@
    "pref_skills": [
     "airflow",
     "k8s"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "kakao:P-14276",
@@ -4397,7 +5187,12 @@
    "pref_domains": [],
    "pref_skills": [
     "hadoop"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lg:1001506",
@@ -4418,7 +5213,8 @@
    "domains": [
     "llm",
     "agent",
-    "nlp"
+    "nlp",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -4439,7 +5235,12 @@
     "airflow",
     "k8s",
     "git"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4708027005",
@@ -4468,7 +5269,12 @@
    "pref_domains": [
     "llm"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4080978005",
@@ -4490,11 +5296,18 @@
     "llm",
     "rl",
     "timeseries",
-    "multimodal"
+    "multimodal",
+    "evaluation",
+    "world-model"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4012547005",
@@ -4521,7 +5334,12 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4179238005",
@@ -4541,13 +5359,22 @@
    "first_seen": "2026-07-05",
    "domains": [
     "llm",
-    "multimodal"
+    "multimodal",
+    "pretraining",
+    "posttraining"
    ],
    "skills": [],
    "pref_domains": [
-    "llm"
+    "llm",
+    "pretraining",
+    "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4708924005",
@@ -4572,7 +5399,10 @@
     "rl",
     "vision",
     "robotics",
-    "multimodal"
+    "multimodal",
+    "pretraining",
+    "posttraining",
+    "world-model"
    ],
    "skills": [
     "pytorch",
@@ -4581,11 +5411,17 @@
    "pref_domains": [
     "llm",
     "robotics",
-    "multimodal"
+    "multimodal",
+    "pretraining"
    ],
    "pref_skills": [
     "distributed"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4080869005",
@@ -4608,11 +5444,17 @@
     "llm",
     "rl",
     "vision",
-    "multimodal"
+    "multimodal",
+    "world-model"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4693138005",
@@ -4635,11 +5477,21 @@
     "rl",
     "vision",
     "robotics",
-    "multimodal"
+    "multimodal",
+    "pretraining",
+    "posttraining",
+    "world-model"
    ],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
+   "pref_domains": [
+    "world-model"
+   ],
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4080871005",
@@ -4662,11 +5514,17 @@
     "llm",
     "rl",
     "vision",
-    "multimodal"
+    "multimodal",
+    "world-model"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4603031005",
@@ -4690,7 +5548,12 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4083477005",
@@ -4715,7 +5578,9 @@
     "rl",
     "nlp",
     "speech",
-    "data-analysis"
+    "data-analysis",
+    "posttraining",
+    "retrieval"
    ],
    "skills": [
     "python",
@@ -4724,7 +5589,12 @@
     "rag"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4024293005",
@@ -4750,7 +5620,12 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4012564005",
@@ -4781,7 +5656,12 @@
     "git"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4180455005",
@@ -4802,7 +5682,9 @@
    "first_seen": "2026-07-05",
    "domains": [
     "llm",
-    "rl"
+    "rl",
+    "pretraining",
+    "posttraining"
    ],
    "skills": [
     "python",
@@ -4812,11 +5694,18 @@
     "huggingface",
     "linux"
    ],
-   "pref_domains": [],
+   "pref_domains": [
+    "pretraining"
+   ],
    "pref_skills": [
     "gcp",
     "distributed"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4607350005",
@@ -4837,7 +5726,8 @@
    "first_seen": "2026-07-05",
    "domains": [
     "llm",
-    "mlops"
+    "mlops",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -4856,7 +5746,12 @@
     "pytorch",
     "tensorflow",
     "cuda"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4130830005",
@@ -4879,11 +5774,17 @@
     "llm",
     "rl",
     "vision",
-    "multimodal"
+    "multimodal",
+    "world-model"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4711938005",
@@ -4902,13 +5803,20 @@
    ],
    "first_seen": "2026-07-05",
    "domains": [
-    "agent"
+    "agent",
+    "evaluation"
    ],
    "skills": [],
    "pref_domains": [
-    "agent"
+    "agent",
+    "evaluation"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4666089005",
@@ -4929,7 +5837,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "lgairesearch:4325674005",
@@ -4955,7 +5868,12 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:8011846",
@@ -4980,7 +5898,12 @@
    "pref_domains": [
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:7975742",
@@ -5001,7 +5924,12 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:8012236",
@@ -5025,7 +5953,9 @@
     "rl",
     "recsys",
     "mlops",
-    "data-analysis"
+    "data-analysis",
+    "posttraining",
+    "efficient-inference"
    ],
    "skills": [
     "python",
@@ -5037,9 +5967,16 @@
     "agent",
     "rl",
     "mlops",
-    "data-analysis"
+    "data-analysis",
+    "posttraining",
+    "efficient-inference"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:7927865",
@@ -5062,7 +5999,8 @@
     "recsys",
     "multimodal",
     "mlops",
-    "data-eng"
+    "data-eng",
+    "posttraining"
    ],
    "skills": [
     "python",
@@ -5074,9 +6012,15 @@
    "pref_domains": [
     "llm",
     "recsys",
-    "multimodal"
+    "multimodal",
+    "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:7994883",
@@ -5105,7 +6049,12 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:7919225",
@@ -5134,7 +6083,12 @@
     "gcp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:8029811",
@@ -5160,7 +6114,12 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:7962231",
@@ -5196,7 +6155,12 @@
     "robotics",
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   }
   },
   {
    "id": "coupang:8034833",
@@ -5222,7 +6186,12 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-07-05"
+   }
   }
  ],
  "taxonomy": {
@@ -5239,7 +6208,13 @@
    "multimodal": "멀티모달",
    "mlops": "MLOps/서빙",
    "data-eng": "데이터 엔지니어링",
-   "data-analysis": "데이터 분석"
+   "data-analysis": "데이터 분석",
+   "pretraining": "사전학습 / Foundation Model",
+   "posttraining": "Post-training / Alignment",
+   "retrieval": "RAG / 검색",
+   "evaluation": "모델 평가 / 안전성",
+   "world-model": "World Model / 로봇 정책",
+   "efficient-inference": "추론 최적화 / 경량화"
   },
   "skills": {
    "python": "Python",

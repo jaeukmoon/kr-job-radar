@@ -293,3 +293,54 @@ footer a { color: var(--accent); }
   width: 100%; height: calc(100vh - 210px); min-height: 520px;
   border: 1px solid var(--border); border-radius: 10px; background: #fff;
 }
+
+/* Mobile installation, filters and transparent distribution details. */
+[hidden] { display: none !important; }
+button, input, select, summary { touch-action: manipulation; }
+button:focus-visible, summary:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.notice { padding: 10px 14px; margin-bottom: 12px; border-radius: 8px; color: var(--amber); background: var(--amber-soft); font-size: .85rem; }
+.overview-filters label { font-size: .83rem; color: var(--muted); }
+.overview-filters select { border: 1px solid var(--border); background: var(--card); color: var(--text); border-radius: 8px; padding: 8px; }
+#resultCount { margin-left: auto; font-size: .82rem; color: var(--muted); }
+.bar { grid-template-columns: minmax(105px, 1fr) 1fr 75px; min-height: 34px; }
+.bar-name { white-space: normal; }
+.trend-details { margin-top: 18px; border-top: 1px solid var(--border); padding-top: 12px; }
+summary { cursor: pointer; font-size: .9rem; font-weight: 600; padding: 8px 0; }
+.hint { font-size: .8rem; color: var(--muted); }
+.table-scroll { overflow-x: auto; max-height: 420px; margin-top: 10px; }
+.trend-details table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+.trend-details th, .trend-details td { text-align: right; padding: 8px; border-bottom: 1px solid var(--border); }
+.trend-details th:first-child, .trend-details td:first-child { text-align: left; }
+.trend-details th { position: sticky; top: 0; background: var(--card); }
+.trend-item { border: 0; color: var(--accent); background: transparent; cursor: pointer; text-align: left; }
+.job .actions { flex-wrap: wrap; }
+.save-job[aria-pressed="true"] { color: var(--accent); background: var(--accent-soft); }
+.install-dialog { margin: auto; width: min(520px, 92vw); max-height: 85dvh; overflow: auto; border: 1px solid var(--border); border-radius: 14px; padding: 24px; background: var(--card); color: var(--text); }
+.install-dialog::backdrop { background: rgba(0,0,0,.5); }
+.install-dialog h2 { font-size: 1.15rem; }
+.install-dialog h3 { font-size: .95rem; margin-top: 20px; }
+.install-dialog p { margin: 10px 0; }
+.install-dialog ol { padding-left: 22px; font-size: .9rem; }
+.install-dialog li { margin: 7px 0; }
+@media (max-width: 900px) {
+  #jobList { width: 100%; grid-template-columns: minmax(0, 1fr); }
+  .layout { flex-direction: column; }
+  #cvPanel { order: -1; }
+}
+@media (max-width: 600px) {
+  header { padding: 10px 12px; gap: 8px; }
+  header .sub { order: 5; width: 100%; }
+  #search { order: 6; width: 100%; font-size: 16px; }
+  .wrap { padding: 12px 10px 36px; max-width: 100%; }
+  .tabs { gap: 0; }
+  .tab { padding: 10px 8px; font-size: .82rem; }
+  .trend { padding: 14px 12px; }
+  .chip, .iconbtn, .seg button { min-height: 40px; }
+  #companyChips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 7px; }
+  #companyChips .chip { flex-shrink: 0; }
+  .overview-filters select { max-width: 100%; }
+  #resultCount { width: 100%; margin-left: 0; }
+  .gm-box { padding: 20px 16px; }
+  .gm-bar { flex-wrap: wrap; font-size: .8rem; }
+  #gmFrame { height: 75dvh; min-height: 400px; }
+}

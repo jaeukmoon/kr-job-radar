@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Job Monitor — 국내 AI·ML·데이터 채용</title>
 <meta name="description" content="국내 대기업 AI·ML·데이터 채용 공고 모음 + 브라우저 내 CV 매칭">
+<meta name="theme-color" content="#2563eb">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Job Monitor">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,12 +18,15 @@
   <h1>Job Monitor</h1>
   <span class="sub">국내 AI/ML/데이터 채용 · <span id="genDate"></span> 갱신</span>
   <span class="spacer"></span>
-  <input id="search" type="search" placeholder="공고 검색...">
+  <input id="search" type="search" placeholder="직무·기술·회사 검색..." aria-label="공고 검색">
+  <button class="iconbtn" id="installBtn">앱 받기</button>
   <button class="iconbtn" id="settingsBtn" title="Claude API 설정">⚙ AI 설정</button>
   <button class="iconbtn" id="themeToggle" title="테마 전환">◐</button>
 </header>
 
 <div class="wrap">
+  <p id="offlineNotice" class="notice" role="status" hidden></p>
+  <p id="freshnessNotice" class="notice" role="status" hidden></p>
   <div class="tabs">
     <button class="tab active" data-view="jobs">국내 공고</button>
     <button class="tab" data-view="global">🔒 주인장 개인페이지</button>
@@ -25,15 +34,22 @@
   </div>
 
   <div id="jobsView">
+  <div class="filters overview-filters">
+    <label>등록확인 기간 <select id="periodFilter"><option value="all">전체</option><option value="7">최근 7일</option><option value="30">최근 30일</option></select></label>
+    <label>공고 상태 <select id="deadlineFilter"><option value="open">마감일이 지나지 않은 공고</option><option value="all">마감 포함 전체</option></select></label>
+    <button class="chip" id="savedOnly" aria-pressed="false">관심 공고</button>
+    <button class="iconbtn" id="resetFilters">필터 초기화</button>
+    <span id="resultCount" role="status"></span>
+  </div>
   <section class="trend" id="trend" data-scope="pref" hidden>
     <div class="trend-head">
       <div>
-        <h2>📊 채용 트렌드</h2>
+        <h2>채용 트렌드</h2>
         <div class="trend-sub" id="trendSub"></div>
       </div>
-      <div class="seg" role="tablist" aria-label="집계 기준">
-        <button type="button" data-scope="pref" class="active">우대사항 🔥</button>
-        <button type="button" data-scope="all">전체 요구</button>
+      <div class="seg" role="group" aria-label="집계 기준">
+        <button type="button" data-scope="pref" class="active" aria-pressed="true">우대사항</button>
+        <button type="button" data-scope="all" aria-pressed="false">본문 전체</button>
       </div>
     </div>
     <div class="trend-body">
@@ -46,6 +62,11 @@
         <div class="tags" id="skillTags"></div>
       </div>
     </div>
+    <details class="trend-details">
+      <summary>세부 분야 · 기술별 공고 수, 비율, 채용 회사 보기</summary>
+      <p class="hint">기간·회사·검색 조건을 반영합니다. 한 공고가 여러 항목에 포함되므로 비율 합계는 100%를 넘을 수 있습니다.</p>
+      <div class="table-scroll"><table><thead><tr><th>분야 / 기술</th><th>공고</th><th>분석 공고 대비</th><th>회사</th></tr></thead><tbody id="trendTable"></tbody></table></div>
+    </details>
     <div class="trend-foot" id="trendFoot"></div>
   </section>
 
@@ -60,7 +81,7 @@
     <div id="jobList"><div class="empty">불러오는 중...</div></div>
 
     <aside id="cvPanel">
-      <h2>내 CV/이력서 매칭</h2>
+      <details><summary>내 CV/이력서 매칭</summary>
       <div class="hint">이력서 텍스트를 붙여넣거나 파일(.txt/.md/.pdf)을 올리면 <b>브라우저 안에서만</b> 분석해 공고별 매칭 점수를 보여줍니다. 서버로 전송되지 않습니다.</div>
       <textarea id="cvText" placeholder="이력서 내용을 여기에 붙여넣기..."></textarea>
       <div class="btnrow">
@@ -74,6 +95,7 @@
         🔒 CV·API 키는 이 브라우저(localStorage)에만 저장됩니다.<br>
         AI 기능 사용 시에만 본인 Claude API 키로 Anthropic에 직접 전송됩니다.
       </div>
+      </details>
     </aside>
   </div>
   </div><!-- /#jobsView -->
@@ -131,6 +153,19 @@
   </div>
 </div>
 
+<dialog id="installDialog" class="install-dialog" aria-labelledby="installTitle">
+  <h2 id="installTitle">Job Monitor 앱 받기</h2>
+  <p>홈 화면에 추가하면 앱처럼 바로 열 수 있습니다.</p>
+  <button id="installAction" class="iconbtn primary" hidden>이 기기에 설치</button>
+  <h3>iPhone · iPad</h3>
+  <ol><li>이 페이지를 Safari에서 엽니다.</li><li>공유 메뉴 → <b>홈 화면에 추가</b>를 누릅니다.</li><li>표시되는 경우 <b>웹 앱으로 열기</b>를 켜고 추가합니다.</li></ol>
+  <h3>Galaxy · Android</h3>
+  <ol><li>이 페이지를 Chrome 또는 Samsung Internet에서 엽니다.</li><li>설치 버튼이 표시되면 누릅니다. 또는 브라우저 메뉴에서 <b>앱 설치</b> / <b>홈 화면에 추가</b>를 선택합니다.</li><li>Samsung Internet에서는 <b>페이지 추가 → 홈 화면</b>으로 표시될 수 있습니다.</li></ol>
+  <p class="hint">카카오톡·네이버 등의 앱 안에서 열었다면 외부 브라우저로 열어 주세요. 메뉴 이름은 브라우저 버전에 따라 다를 수 있습니다. PC에서도 지원 브라우저의 주소창 설치 메뉴를 사용할 수 있습니다.</p>
+  <p id="installStatus" role="status"></p>
+  <button id="installClose" class="iconbtn">닫기</button>
+</dialog>
+
 <!-- settings modal -->
 <div class="modal-back" id="settingsModal">
   <div class="modal">
@@ -170,7 +205,9 @@
 </footer>
 
 <script src="data/jobs.js"></script>
+<script src="insights.js"></script>
 <script src="app.js"></script>
+<script src="install.js"></script>
 <script>
 /* 🔒 주인장 개인페이지 잠금 탭 — jobmon.enc.json(AES-256-GCM) 을 WebCrypto로 복호화해 iframe 렌더 */
 (function () {
@@ -192,7 +229,7 @@
     if (!pass) return;
     msg.textContent = "복호화 중… (최초 1회 다운로드, 잠시 걸릴 수 있어요)";
     try {
-      const enc = await fetch("data/jobmon.enc.json").then(r => { if (!r.ok) throw new Error("payload"); return r.json(); });
+      const enc = await fetch("data/jobmon.enc.json", {cache: "no-store"}).then(r => { if (!r.ok) throw new Error("payload"); return r.json(); });
       const km = await crypto.subtle.importKey("raw", new TextEncoder().encode(pass), "PBKDF2", false, ["deriveKey"]);
       const key = await crypto.subtle.deriveKey(
         { name: "PBKDF2", salt: b64(enc.salt), iterations: enc.iter, hash: "SHA-256" },
@@ -205,6 +242,10 @@
       frame.srcdoc = data.html;
       document.getElementById("gmInfo").textContent =
         `${data.n_jobs} 공고 · 스냅샷 ${data.source_generated || data.generated_at}`;
+      const snapshotDay = (data.source_generated || "").slice(0, 10);
+      const age = JobInsights.daysTo(snapshotDay);
+      if (age !== null && age < -2) document.getElementById("gmInfo").textContent +=
+        ` · ${-age}일 전 수집 자료입니다. 원문의 모집 상태를 확인하세요.`;
       document.getElementById("gm-locked").hidden = true;
       document.getElementById("gm-open").hidden = false;
       msg.textContent = "";
