@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13",
+ "generated": "2026-10-14",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,38 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R262088",
-   "source": "sk",
-   "company": "SK브로드밴드",
-   "title": "2026년 하반기 SK브로드밴드 Junior Talent 채용(AT/DT)",
-   "team": "Tech R&D/Data Science,Data 분석/개발,Backend 개발",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-10-13",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262088",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "sk:R262013",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "Pre-SKALA 모집",
-   "team": "Tech R&D/AI/DT",
-   "location": "전국",
-   "employment_type": "기타(교육생)",
-   "career_type": "무관",
-   "deadline": "2026-10-14",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262013",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262180",
    "source": "sk",
@@ -122,6 +90,38 @@
    ]
   },
   {
+   "id": "sk:R262216",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "연구 원자재 관리/운영 계약직 채용",
+   "team": "Tech R&D",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262216",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "sk:R262226",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "연구 원자재 관리 지원 계약직 채용",
+   "team": "Tech R&D",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262226",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
    "id": "sk:R261986",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -152,6 +152,22 @@
    "categories": [
     "ml",
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R262233",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
+   "team": "Tech R&D/설계",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262233",
+   "tags": [],
+   "categories": [
+    "robotics"
    ]
   },
   {
@@ -252,6 +268,22 @@
    ]
   },
   {
+   "id": "sk:R262231",
+   "source": "sk",
+   "company": "SK시그넷",
+   "title": "경영관리(예산·손익관리) 담당자 채용 (경력)",
+   "team": "재무/경영분석",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-14",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
    "id": "sk:R261800",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -314,60 +346,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-347",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 휴머노이드 로봇 운영 솔루션 개발",
-   "team": "생산/제조 · 스마트제조",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=347",
-   "tags": [
-    "9월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-348",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 로보틱스 구조 부품 DFM",
-   "team": "생산/제조 · 스마트제조",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=348",
-   "tags": [
-    "9월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-350",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[SDF] 제조 DX MLOps 아키텍트",
-   "team": "생산/제조 · 스마트제조",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-13",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=350",
-   "tags": [
-    "9월 경력 채용"
-   ],
-   "categories": [
-    "mlops"
    ]
   },
   {
