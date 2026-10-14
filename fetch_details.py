@@ -135,6 +135,16 @@ SKILLS = [
     {"id": "linux", "name": "Linux", "substr": ["linux", "리눅스", "unix"], "word": []},
 ]
 
+# Additional specializations are independent tags, not mutually exclusive roles.
+DOMAINS += [
+    {"id": "pretraining", "name": "사전학습 / Foundation Model", "substr": ["pre-training", "pretraining", "사전학습", "사전 학습"], "word": []},
+    {"id": "posttraining", "name": "Post-training / Alignment", "substr": ["post-training", "post training", "rlhf", "rlaif", "fine-tuning", "finetuning", "파인튜닝", "미세조정", "미세 조정"], "word": ["sft", "dpo", "grpo"]},
+    {"id": "retrieval", "name": "RAG / 검색", "substr": ["retrieval-augmented", "retrieval augmented", "검색 증강", "벡터 검색", "semantic search"], "word": ["rag"]},
+    {"id": "evaluation", "name": "모델 평가 / 안전성", "substr": ["model evaluation", "llm evaluation", "ai evaluation", "모델 평가", "에이전트 평가", "red teaming", "레드팀", "hallucination", "환각", "ai safety"], "word": []},
+    {"id": "world-model", "name": "World Model / 로봇 정책", "substr": ["world model", "월드 모델", "월드모델", "vision-language-action", "robot policy", "로봇 정책", "imitation learning", "모방학습"], "word": ["vla"]},
+    {"id": "efficient-inference", "name": "추론 최적화 / 경량화", "substr": ["quantization", "양자화", "distillation", "지식 증류", "inference optimization", "추론 최적화", "on-device", "온디바이스", "tensorrt", "vllm", "sglang"], "word": []},
+]
+
 for _tax in (DOMAINS, SKILLS):
     for _c in _tax:
         _c["_re"] = [re.compile(rf"(?<![a-z0-9]){re.escape(w)}(?![a-z0-9])")
@@ -347,9 +357,10 @@ def main():
             pass
 
     today = date.today().isoformat()
+    cached_only = "--cached-only" in sys.argv
     need_by_source = {}
     for j in jobs:
-        if j["id"] not in cache:
+        if not cached_only and not cache.get(j["id"], {}).get("full"):
             need_by_source.setdefault(j["source"], []).append(j)
 
     # bulk sources: one (or few) calls cover all their postings
@@ -382,6 +393,9 @@ def main():
     enriched = 0
     for j in jobs:
         c = cache.get(j["id"])
+        j["detail_quality"] = {"full": bool(c and c.get("full")),
+                               "preferred": bool(c and c.get("pref")),
+                               "fetched_at": c.get("d") if c else None}
         if not c:
             continue
         full, pref = c.get("full", ""), c.get("pref", "")

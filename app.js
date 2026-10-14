@@ -5,7 +5,9 @@
 let DATA = window.JOBS_DATA || null;
 let jobs = [];
 let state = { company: "all", newOnly: false, sort: "recent", search: "",
-              trendScope: "pref", trendFilter: null };
+              trendScope: "pref", trendFilter: null, period: "all", deadline: "open", savedOnly: false };
+let savedJobs = new Set();
+try { savedJobs = new Set(JSON.parse(localStorage.getItem("kjr_saved") || "[]")); } catch (_) {}
 let cvSkills = [];          // extracted skill ids from CV
 let matchScores = {};       // job id -> {score, hits[]}
 
@@ -20,6 +22,11 @@ async function init() {
   }
   jobs = DATA.jobs || [];
   document.getElementById("genDate").textContent = DATA.generated || "-";
+  const age = JobInsights.daysTo(DATA.generated);
+  const notice = document.getElementById("freshnessNotice");
+  notice.hidden = age !== null && age >= -2;
+  notice.textContent = age === null ? "국내 공고 수집 날짜를 확인할 수 없습니다." :
+    `국내 공고는 ${-age}일 전 수집 자료입니다. 최신 모집 상태는 원문을 확인해 주세요.`;
   renderChips();
   restoreCv();
   render();
@@ -43,9 +50,10 @@ function renderChips() {
 }
 
 /* -------------------------------------------------------- 채용 트렌드 -- */
-/* Aggregates the JD-mined domain/skill fields (data/fetch_details.py) over the
-   currently-scoped jobs. Two axes, two scopes: "pref" = 우대사항 only (the trend
-   headline — what companies wish for), "all" = 필수+우대. Clicking a bar/tag
+/* Aggregates the JD-mined domain/skill fields over the currently scoped jobs.
+   "pref" uses detected preferred sections; "all" uses the whole cached body.
+   This is a distribution of observed open postings, not a market growth rate.
+   Clicking a bar/tag
    filters the job list; the panel stays computed over baseJobs() so it doesn't
    collapse. Hidden gracefully if jobs.json predates enrichment. */
 const TREND_TOP_DOM = 8, TREND_TOP_SK = 16;
@@ -60,13 +68,11 @@ function trendField(kind) {
                            : (p ? "pref_skills" : "skills");
 }
 function trendCount(list, field) {
-  const c = {};
-  for (const j of list) for (const id of (j[field] || [])) c[id] = (c[id] || 0) + 1;
-  return Object.entries(c).sort((a, b) => b[1] - a[1]);
+  return JobInsights.rows(list, field).map(row => [row.id, row.count]);
 }
 function matchesTrend(j, f) {
-  const fields = f.type === "domain" ? ["domains", "pref_domains"] : ["skills", "pref_skills"];
-  return fields.some(fl => (j[fl] || []).includes(f.id));
+  return !!(state.trendScope === "pref" ? j.detail_quality?.preferred : j.detail_quality?.full)
+    && JobInsights.matches(j, f, state.trendScope);
 }
 
 function renderTrend() {
@@ -76,16 +82,15 @@ function renderTrend() {
   panel.hidden = false;
   panel.dataset.scope = state.trendScope;
 
-  const list = baseJobs();
+  const pool = baseJobs();
+  const list = pool.filter(j => state.trendScope === "pref" ? j.detail_quality?.preferred : j.detail_quality?.full);
   const who = state.company === "all" ? "전체" : state.company;
-  const scopeWord = state.trendScope === "pref" ? "우대사항 기준" : "전체 요구사항 기준";
+  const scopeWord = state.trendScope === "pref" ? "우대사항 기준" : "본문 전체 기준";
   document.getElementById("domScope").textContent = scopeWord;
   document.getElementById("skScope").textContent = scopeWord;
   document.getElementById("trendSub").innerHTML =
-    `<b>${esc(who)}</b> ${list.length}개 공고 · ` +
-    (state.trendScope === "pref"
-      ? "회사들이 <b>우대</b>하는(=지금 뜨는) 역량"
-      : "공고 전체에서 요구되는 역량");
+    `<b>${esc(who)}</b> ${pool.length}개 중 ${scopeWord} 분석 가능 <b>${list.length}개</b> · ` +
+    `미확인 ${pool.length - list.length}개 · 키워드가 언급된 공고의 분포`;
 
   const dom = trendCount(list, trendField("domain")).slice(0, TREND_TOP_DOM);
   const dmax = dom.length ? dom[0][1] : 1;
@@ -94,7 +99,7 @@ function renderTrend() {
     return `<button type="button" class="bar${sel ? " sel" : ""}" data-ttype="domain" data-tid="${esc(id)}">
       <span class="bar-name">${esc(taxName("domains", id))}</span>
       <span class="bar-track"><span class="bar-fill" style="width:${Math.round(100 * n / dmax)}%"></span></span>
-      <span class="bar-n">${n}</span></button>`;
+      <span class="bar-n">${n} · ${Math.round(100*n/list.length)}%</span></button>`;
   }).join("") || '<div class="empty" style="padding:14px 0">데이터 없음</div>';
 
   const sk = trendCount(list, trendField("skill")).slice(0, TREND_TOP_SK);
@@ -104,7 +109,7 @@ function renderTrend() {
     const size = (0.8 + t * 0.42).toFixed(2);
     const sel = state.trendFilter && state.trendFilter.type === "skill" && state.trendFilter.id === id;
     return `<button type="button" class="tag${sel ? " sel" : ""}" data-ttype="skill" data-tid="${esc(id)}"` +
-      ` style="font-size:${size}rem">${esc(taxName("skills", id))} <span class="tn">${n}</span></button>`;
+      ` style="font-size:${size}rem">${esc(taxName("skills", id))} <span class="tn">${n} · ${Math.round(100*n/list.length)}%</span></button>`;
   }).join("") || '<div class="empty" style="padding:14px 0">데이터 없음</div>';
 
   const foot = document.getElementById("trendFoot");
@@ -114,12 +119,14 @@ function renderTrend() {
       '<button type="button" class="clear" id="trendClear">필터 해제</button>';
     document.getElementById("trendClear").addEventListener("click", () => { state.trendFilter = null; render(); });
   } else {
-    foot.textContent = state.trendScope === "pref"
-      ? "🔥 우대사항 기준 = 회사들이 '있으면 좋다'고 명시한 역량. 필수요건보다 트렌드에 민감합니다."
-      : "전체 요구사항(필수+우대) 기준 분포입니다.";
+    foot.textContent = "수집된 현재 공고의 분포이며 채용시장 전체의 증가율이 아닙니다. 최근 기간은 게시일이 아닌 최초 등록확인일 기준입니다. 본문에는 회사 소개도 포함될 수 있습니다.";
   }
 
-  panel.querySelectorAll(".bar, .tag").forEach(el => el.addEventListener("click", () => {
+  document.getElementById("trendTable").innerHTML = ["domain", "skill"].flatMap(type =>
+    JobInsights.rows(list, trendField(type)).map(row => `<tr><td><button class="trend-item" data-ttype="${type}" data-tid="${esc(row.id)}">${esc(taxName(type === "domain" ? "domains" : "skills", row.id))}</button></td><td>${row.count}</td><td>${row.percent}%</td><td>${row.companies}</td></tr>`)
+  ).join("") || '<tr><td colspan="4">선택 조건에서 분석 가능한 항목이 없습니다.</td></tr>';
+
+  panel.querySelectorAll(".bar, .tag, .trend-item").forEach(el => el.addEventListener("click", () => {
     const f = { type: el.dataset.ttype, id: el.dataset.tid };
     state.trendFilter =
       (state.trendFilter && state.trendFilter.type === f.type && state.trendFilter.id === f.id) ? null : f;
@@ -133,8 +140,13 @@ function baseJobs() {
   const kw = state.search.toLowerCase();
   return jobs.filter(j =>
     (state.company === "all" || j.company === state.company) &&
+    (state.period === "all" || JobInsights.recent(j, Number(state.period))) &&
+    (state.deadline === "all" || daysTo(j.deadline) === null || daysTo(j.deadline) >= 0) &&
+    (!state.savedOnly || savedJobs.has(j.id)) &&
     (!state.newOnly || j.first_seen === DATA.generated) &&
-    (!kw || (j.title + " " + j.company + " " + (j.tags || []).join(" ")).toLowerCase().includes(kw))
+    (!kw || [j.title, j.company, j.location, j.team, ...(j.tags || []),
+      ...(j.domains || []).map(id => taxName("domains", id)),
+      ...(j.skills || []).map(id => taxName("skills", id))].join(" ").toLowerCase().includes(kw))
   );
 }
 
@@ -156,11 +168,12 @@ function visibleJobs() {
 function render() {
   renderTrend();
   const list = visibleJobs();
+  document.getElementById("resultCount").textContent = `${list.length}개 표시 / 수집 ${jobs.length}개`;
   const out = [];
   const today = DATA.generated;
   for (const j of list) {
     const isNew = j.first_seen === today;
-    const dueSoon = j.deadline !== "상시" && j.deadline && daysTo(j.deadline) <= 7 && daysTo(j.deadline) >= 0;
+    const dueSoon = daysTo(j.deadline) !== null && daysTo(j.deadline) <= 7 && daysTo(j.deadline) >= 0;
     const m = matchScores[j.id];
     const doms = (j.domains || []).map(id => `<span class="jd">${esc(taxName("domains", id))}</span>`).join("");
     const pset = new Set(j.pref_skills || []);
@@ -171,6 +184,7 @@ function render() {
         <span class="company">${esc(j.company)}</span>
         ${isNew ? '<span class="badge new">NEW</span>' : ""}
         ${dueSoon ? `<span class="badge due">마감 D-${daysTo(j.deadline)}</span>` : ""}
+        ${daysTo(j.deadline) !== null && daysTo(j.deadline) < 0 ? '<span class="badge due">마감일 경과</span>' : ""}
         ${m && m.score > 0 ? `<span class="badge match">매칭 ${m.score}%</span>` : ""}
       </div>
       <h3><a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a></h3>
@@ -184,6 +198,7 @@ function render() {
       ${m && m.hits.length ? `<div class="mk">${m.hits.map(h => `<span>${esc(h)}</span>`).join("")}</div>` : ""}
       ${(doms || sks) ? `<div class="jtags">${doms}${sks}</div>` : ""}
       <div class="actions">
+        <button class="iconbtn save-job" data-job-id="${esc(j.id)}" aria-pressed="${savedJobs.has(j.id)}">${savedJobs.has(j.id) ? "관심 해제" : "관심 저장"}</button>
         <button class="iconbtn" onclick="aiAnalyze('${esc(j.id)}')">AI 적합도 분석</button>
         <button class="iconbtn" onclick="aiTailor('${esc(j.id)}')">CV 맞춤 제안</button>
       </div>
@@ -193,7 +208,7 @@ function render() {
     out.join("") || '<div class="empty">조건에 맞는 공고가 없습니다.</div>';
 }
 
-function daysTo(d) { return Math.floor((new Date(d) - new Date(DATA.generated)) / 86400000); }
+function daysTo(d) { return JobInsights.daysTo(d); }
 function esc(s) {
   return String(s).replace(/[&<>"']/g, c =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -402,6 +417,30 @@ function setSort(mode) {
 }
 
 document.getElementById("search").addEventListener("input", e => { state.search = e.target.value; render(); });
+document.getElementById("periodFilter").addEventListener("change", e => { state.period = e.target.value; render(); });
+document.getElementById("deadlineFilter").addEventListener("change", e => { state.deadline = e.target.value; render(); });
+document.getElementById("savedOnly").addEventListener("click", e => {
+  state.savedOnly = !state.savedOnly;
+  e.target.setAttribute("aria-pressed", state.savedOnly);
+  e.target.classList.toggle("active", state.savedOnly); render();
+});
+document.getElementById("jobList").addEventListener("click", e => {
+  const button = e.target.closest(".save-job");
+  if (!button) return;
+  const id = button.dataset.jobId;
+  if (savedJobs.has(id)) savedJobs.delete(id); else savedJobs.add(id);
+  localStorage.setItem("kjr_saved", JSON.stringify([...savedJobs])); render();
+});
+document.getElementById("resetFilters").addEventListener("click", () => {
+  Object.assign(state, {company: "all", newOnly: false, period: "all", deadline: "open", savedOnly: false, search: "", trendFilter: null});
+  document.getElementById("search").value = "";
+  document.getElementById("periodFilter").value = "all";
+  document.getElementById("deadlineFilter").value = "open";
+  document.getElementById("newOnly").classList.remove("active");
+  document.getElementById("savedOnly").classList.remove("active");
+  document.getElementById("savedOnly").setAttribute("aria-pressed", "false");
+  renderChips(); setSort("recent");
+});
 document.getElementById("newOnly").addEventListener("click", e => {
   state.newOnly = !state.newOnly; e.target.classList.toggle("active", state.newOnly); render();
 });
@@ -413,7 +452,9 @@ document.getElementById("sortMatch").addEventListener("click", () =>
 document.querySelectorAll("#trend .seg button").forEach(b => b.addEventListener("click", () => {
   state.trendScope = b.dataset.scope;
   state.trendFilter = null;
-  document.querySelectorAll("#trend .seg button").forEach(x => x.classList.toggle("active", x === b));
+  document.querySelectorAll("#trend .seg button").forEach(x => {
+    x.classList.toggle("active", x === b); x.setAttribute("aria-pressed", x === b);
+  });
   render();
 }));
 
