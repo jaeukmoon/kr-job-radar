@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14",
+ "generated": "2026-10-15",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -122,6 +122,22 @@
    ]
   },
   {
+   "id": "sk:R262248",
+   "source": "sk",
+   "company": "아이에스시",
+   "title": "2026년 연구소/생산본부 수시 채용",
+   "team": "Tech R&D/연구개발,Solution 개발 • 제조/장비기술,공정기술",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-10-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262248",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
    "id": "sk:R261986",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -165,6 +181,22 @@
    "career_type": "경력",
    "deadline": "2026-11-01",
    "url": "https://www.skcareers.com/Recruit/Detail/R262233",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "sk:R262250",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] Robotics 탑재 App 개발 경력 인재 영입",
+   "team": "Tech R&D/SW 개발",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262250",
    "tags": [],
    "categories": [
     "robotics"
@@ -346,6 +378,115 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-383",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "미래 인재·조직 전략 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=383",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-371",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "미래 모빌리티 및 Physical AI 신사업 전략",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=371",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-380",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "로봇 기술/시장 동향 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=380",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "research",
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-372",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 모방학습/강화학습 개발",
+   "team": "생산/제조 · 생산기술",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=372",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-382",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조AI] 무선통신 자율 운영 시스템 개발",
+   "team": "생산/제조 · 생산기술",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=382",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-381",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "GBC 부동산 재무분석 및 지원업무",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-10-29",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=381",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
