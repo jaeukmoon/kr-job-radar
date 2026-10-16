@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15",
+ "generated": "2026-10-16",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,98 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262258",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "에이닷 음악 추천 서비스 운영 담당자",
+   "team": "사무/행정지원/서비스 운영 지원",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-22",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262258",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-10-16",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-16"
+   },
+   "domains": [
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "recsys"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262262",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "에이닷 검색 추천 서비스 운영 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-23",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262262",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-10-16",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-16"
+   },
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262252",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입",
+   "team": "IT/구축/운영/최적화 • Tech R&D/ML/DL 개발",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-27",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262252",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-16",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-16"
+   },
+   "domains": [
+    "vision"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N2-383",
    "source": "hyundai",
