@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16",
+ "generated": "2026-10-17",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -151,6 +151,22 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R262265",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
+   "team": "제조/생산관리",
+   "location": "경상",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262265",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
@@ -345,6 +361,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262266",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262266",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
    ]
   },
   {

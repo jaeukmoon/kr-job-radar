@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16",
+ "generated": "2026-10-17",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,105 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262266",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262266",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-10-17",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-17"
+   },
+   "domains": [],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262265",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
+   "team": "제조/생산관리",
+   "location": "경상",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-10-26",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262265",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-17",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-17"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4744424005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Engineer Internship - Agentic AI (Backend)",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4744424005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-17",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-17"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "go",
+    "sql",
+    "k8s",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "javascript",
+    "go",
+    "k8s"
+   ]
+  },
   {
    "id": "sk:R262258",
    "source": "sk",
@@ -6316,32 +6415,6 @@
    "pref_domains": [
     "data-analysis"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7975742",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 사내변호사(ICT부문/Data, Privacy & AI Legal팀)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7975742",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
