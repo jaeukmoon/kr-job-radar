@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17",
+ "generated": "2026-10-18",
  "sources_ok": [
   "naver",
   "kakao",
@@ -737,6 +737,37 @@
    ]
   },
   {
+   "id": "coupang:8275940",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] Senior Program Manager (카탈로그 품질 및 데이터 분석)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275940",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-14",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-14"
+   },
+   "domains": [
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
    "id": "coupang:8274118",
    "source": "coupang",
    "company": "Coupang",
@@ -776,37 +807,6 @@
     "python",
     "java"
    ]
-  },
-  {
-   "id": "coupang:8275940",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[Coupang] Senior Program Manager (Catalog Quality & Analytics)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275940",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-14",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-14"
-   },
-   "domains": [
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lg:1002288",
