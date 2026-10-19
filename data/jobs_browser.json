@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,38 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R262180",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-10-18",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262180",
-   "tags": [],
-   "categories": [
-    "llm"
-   ]
-  },
-  {
-   "id": "sk:R262193",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "AI 에이전트 평가 및 사용성 개선 담당자",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-18",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262193",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262152",
    "source": "sk",
@@ -568,6 +536,22 @@
    ],
    "categories": [
     "data-analysis"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N5-241",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
+   "team": "기타 · 장애인 제한경쟁",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-02",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
+   "tags": [],
+   "categories": [
+    "research"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18",
+ "generated": "2026-10-19",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,105 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "hyundai:2026-N5-241",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
+   "team": "기타 · 장애인 제한경쟁",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-02",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-10-19",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-19"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005587",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] AI/ML 추천시스템 모델링 연구 개발 (Data Scientist) (경력)",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-08",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005587",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "recsys"
+   ],
+   "first_seen": "2026-10-19",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-19"
+   },
+   "domains": [
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "tensorflow",
+    "spark",
+    "hadoop"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005564",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] World Models for Physical AI Research (체험형 인턴)",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-10-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005564",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-19",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-19"
+   },
+   "domains": [
+    "llm",
+    "recsys",
+    "mlops",
+    "data-eng",
+    "world-model"
+   ],
+   "skills": [
+    "cuda",
+    "huggingface",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "sk:R262266",
    "source": "sk",
@@ -867,40 +966,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R262193",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "AI 에이전트 평가 및 사용성 개선 담당자",
-   "team": "기술/현장지원/IT 개발/운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-18",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262193",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-13",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-13"
-   },
-   "domains": [
-    "agent",
-    "nlp",
-    "evaluation"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "agent",
-    "nlp",
-    "evaluation"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005553",
    "source": "naver",
    "company": "NAVER WEBTOON",
@@ -1070,44 +1135,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R262180",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-10-18",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262180",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-10-12",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-12"
-   },
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": [
-    "python",
-    "sql"
-   ]
   },
   {
    "id": "lg:1001889",
@@ -2177,32 +2204,6 @@
    ]
   },
   {
-   "id": "naver:30005506",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Localization Specialist – 대만 번체 중국어 번역 품질 연구개발 (계약직)",
-   "team": "Corporate · 통번역",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-10-18",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005506",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-23",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-23"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8224844",
    "source": "coupang",
    "company": "Coupang",
@@ -3129,7 +3130,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-31",
    "url": "https://careers.lg.com/apply/detail?id=1002199",
    "tags": [],
    "categories": [
@@ -4341,7 +4342,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-10-31",
+   "deadline": "2026-12-31",
    "url": "https://careers.lg.com/apply/detail?id=1002072",
    "tags": [],
    "categories": [
@@ -5715,7 +5716,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-10-31",
+   "deadline": "2026-12-31",
    "url": "https://careers.lg.com/apply/detail?id=1001506",
    "tags": [],
    "categories": [
