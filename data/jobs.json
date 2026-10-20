@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19",
+ "generated": "2026-10-20",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,74 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "woowahan:26173",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "사업기획(로봇사업 전략)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26173/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-10-20",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-20"
+   },
+   "domains": [
+    "robotics",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002062",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] Speech AI 경력 채용 ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-01",
+   "url": "https://careers.lg.com/apply/detail?id=1002062",
+   "tags": [],
+   "categories": [
+    "ml",
+    "speech"
+   ],
+   "first_seen": "2026-10-20",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-20"
+   },
+   "domains": [
+    "llm",
+    "speech",
+    "multimodal",
+    "posttraining",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N5-241",
    "source": "hyundai",
@@ -1430,37 +1498,6 @@
    "pref_domains": [
     "llm",
     "recsys"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "woowahan:26033",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "사업기획(로봇사업 전략)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/26033/detail",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-10-07",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-07"
-   },
-   "domains": [
-    "robotics",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
    ],
    "pref_skills": []
   },
@@ -3991,40 +4028,6 @@
     "robotics"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8163774",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff Security Engineer (AI GRC)",
-   "team": "",
-   "location": "Mountain View, USA; Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8163774",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-01",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-01"
-   },
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "aws"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "aws"
-   ]
   },
   {
    "id": "toss:6279876003",
