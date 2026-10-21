@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20",
+ "generated": "2026-10-21",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,58 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "hyundai:2026-N5-244",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
+   "team": "기타 · 행정사무지원",
+   "location": "경주캠퍼스",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-03",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-21",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-21"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262304",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
+   "team": "기타",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262304",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-21",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-21"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "woowahan:26173",
    "source": "woowahan",
