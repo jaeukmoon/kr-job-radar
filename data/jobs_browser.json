@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21",
+ "generated": "2026-10-22",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R262152",
-   "source": "sk",
-   "company": "SK브로드밴드",
-   "title": "AI DC(데이터센터) 구축 전문가 (기계)",
-   "team": "건설/플랜트/시공(플랜트-기계),설계(플랜트-기계),Utility기술(공조/배기, 배관)",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-21",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262152",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262258",
    "source": "sk",
@@ -362,6 +346,38 @@
    "categories": [
     "ml",
     "mlops"
+   ]
+  },
+  {
+   "id": "sk:R262275",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AX/AI 프로젝트 PM/PL 영입 (계약직)",
+   "team": "IT/구축/운영/최적화",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-12-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262275",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262283",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AX/AI 프로젝트 PM/PL 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262283",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {

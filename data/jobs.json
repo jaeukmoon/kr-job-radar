@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21",
+ "generated": "2026-10-22",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,178 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "toss:8039958003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Data Engineering Specialist",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8039958003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-22"
+   },
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "hadoop",
+    "kafka",
+    "airflow",
+    "flink"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262275",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AX/AI 프로젝트 PM/PL 영입 (계약직)",
+   "team": "IT/구축/운영/최적화",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-12-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262275",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-22"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "sql",
+    "k8s",
+    "aws",
+    "azure",
+    "langchain",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "sql",
+    "k8s",
+    "aws",
+    "azure",
+    "langchain",
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262283",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AX/AI 프로젝트 PM/PL 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-01",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262283",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-22"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "sql",
+    "k8s",
+    "aws",
+    "azure",
+    "langchain",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "sql",
+    "k8s",
+    "aws",
+    "azure",
+    "langchain",
+    "rag"
+   ]
+  },
+  {
+   "id": "naver:30005583",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] AI 콘텐츠 제작 및 UX 기획 (계약)",
+   "team": "Design · Visual Comm. & Brand Design",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-10-27",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005583",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-22",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-22"
+   },
+   "domains": [
+    "llm",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "hyundai:2026-N5-244",
    "source": "hyundai",
@@ -1086,55 +1258,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005553",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] Applied AI Backend Engineer (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-21",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005553",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-13",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-13"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng",
-    "efficient-inference"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "pytorch",
-    "tensorflow",
-    "k8s",
-    "vllm"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "efficient-inference"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "k8s",
-    "vllm"
-   ]
-  },
-  {
    "id": "coupang:8239021",
    "source": "coupang",
    "company": "Coupang",
@@ -1699,32 +1822,6 @@
     "java",
     "javascript"
    ]
-  },
-  {
-   "id": "sk:R262152",
-   "source": "sk",
-   "company": "SK브로드밴드",
-   "title": "AI DC(데이터센터) 구축 전문가 (기계)",
-   "team": "건설/플랜트/시공(플랜트-기계),설계(플랜트-기계),Utility기술(공조/배기, 배관)",
-   "location": "전국",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-21",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262152",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-07",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-07"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lgairesearch:4693142005",
@@ -3464,36 +3561,6 @@
    "pref_skills": [
     "python"
    ]
-  },
-  {
-   "id": "toss:7782783003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "Data Analytics Specialist (2년 이하)",
-   "team": "Data Analysis",
-   "location": "Seoul",
-   "employment_type": "계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7782783003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-04",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-09-04"
-   },
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7985134003",
