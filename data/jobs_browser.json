@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R262258",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "에이닷 음악 추천 서비스 운영 담당자",
-   "team": "사무/행정지원/서비스 운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-22",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262258",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ]
-  },
   {
    "id": "sk:R262262",
    "source": "sk",

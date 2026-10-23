@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,144 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "toss:8042384003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "Technical Product Owner (AI)",
+   "team": "Product Ownership",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8042384003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-23",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-23"
+   },
+   "domains": [
+    "agent",
+    "vision",
+    "speech",
+    "recsys",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005610",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-11-01",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005610",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-23",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-23"
+   },
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005558",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Robot Manipulation Data Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-11-01",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005558",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-10-23",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-23"
+   },
+   "domains": [
+    "llm",
+    "recsys",
+    "robotics",
+    "data-eng",
+    "world-model"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch",
+    "tensorflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002330",
+   "source": "lg",
+   "company": "LG전자",
+   "title": "[CTO부문] AI Security 전문가 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-04",
+   "url": "https://careers.lg.com/apply/detail?id=1002330",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-23",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-23"
+   },
+   "domains": [
+    "llm",
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "robotics"
+   ],
+   "pref_skills": [
+    "linux"
+   ]
+  },
   {
    "id": "toss:8039958003",
    "source": "toss",
@@ -505,37 +643,6 @@
     "go",
     "k8s"
    ]
-  },
-  {
-   "id": "sk:R262258",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "에이닷 음악 추천 서비스 운영 담당자",
-   "team": "사무/행정지원/서비스 운영 지원",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-22",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262258",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-10-16",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-16"
-   },
-   "domains": [
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "recsys"
-   ],
-   "pref_skills": []
   },
   {
    "id": "sk:R262262",
@@ -4245,35 +4352,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8129711",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] CS 기획 및 데이터 분석 담당자",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8129711",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-20",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-08-20"
-   },
-   "domains": [],
-   "skills": [
-    "python",
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R261800",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -4818,35 +4896,6 @@
     "gcp",
     "tableau"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7499044003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Financial Data Analyst (FP&A)",
-   "team": "Finance",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7499044003",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-21",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-07-21"
-   },
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
