@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23",
+ "generated": "2026-10-24",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,95 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "coupang:8316768",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] 물류 데이터 분석 담당자 (신입 가능)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8316768",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-24",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-24"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "sql",
+    "tableau",
+    "powerbi"
+   ]
+  },
+  {
+   "id": "coupang:8317663",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior Machine Learning Engineer (Operational Intelligence) ",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317663",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-24",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-24"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "nlp",
+    "multimodal",
+    "data-eng",
+    "posttraining",
+    "retrieval",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "javascript",
+    "sql",
+    "pytorch",
+    "spark",
+    "airflow",
+    "vllm",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "posttraining"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "toss:8042384003",
    "source": "toss",
@@ -643,37 +732,6 @@
     "go",
     "k8s"
    ]
-  },
-  {
-   "id": "sk:R262262",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "에이닷 검색 추천 서비스 운영 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-23",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262262",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-10-16",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-16"
-   },
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
   },
   {
    "id": "sk:R262252",
@@ -2736,44 +2794,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8219620",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] AI CS 품질 관리 담당자",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219620",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-21",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-21"
-   },
-   "domains": [
-    "llm",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "tableau",
-    "powerbi"
-   ]
   },
   {
    "id": "lgairesearch:4736109005",
@@ -5299,36 +5319,6 @@
    "pref_skills": [
     "kafka"
    ]
-  },
-  {
-   "id": "toss:7775866003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "AI Product Team Leader",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7775866003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:4770769003",
