@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-26",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,81 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262339",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "Data Platform Engineer",
+   "team": "Tech R&D/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262339",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-10-26",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-26"
+   },
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "java",
+    "sql",
+    "aws"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "aws"
+   ]
+  },
+  {
+   "id": "lgairesearch:4223874005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Data Engineer",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4223874005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-10-26",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-26"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "nlp",
+    "data-eng",
+    "posttraining",
+    "evaluation"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "rl",
+    "nlp",
+    "data-eng"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "coupang:8316768",
    "source": "coupang",
@@ -1397,32 +1472,6 @@
    ]
   },
   {
-   "id": "sk:R262200",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "GEO & 브랜드 검색광고 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-25",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262200",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-10-13",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-13"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8239021",
    "source": "coupang",
    "company": "Coupang",
@@ -1505,72 +1554,6 @@
     "langchain",
     "rag"
    ]
-  },
-  {
-   "id": "toss:8000716003",
-   "source": "toss",
-   "company": "토스증권",
-   "title": "토스증권 Data Engineer 직군 집중채용 (~10/25) ",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "2026-10-25",
-   "url": "https://toss.im/career/job-detail?gh_jid=8000716003",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-10-12",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-12"
-   },
-   "domains": [
-    "agent",
-    "recsys",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "hadoop",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1001889",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[정보보안센터] AI보안 담당자 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-10-25",
-   "url": "https://careers.lg.com/apply/detail?id=1001889",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-12",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-12"
-   },
-   "domains": [
-    "agent"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8258122",

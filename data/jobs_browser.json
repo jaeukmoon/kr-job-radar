@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25",
+ "generated": "2026-10-26",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,22 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R262200",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "GEO & 브랜드 검색광고 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-25",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262200",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ]
-  },
   {
    "id": "sk:R261994",
    "source": "sk",
@@ -427,6 +411,22 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262339",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "Data Platform Engineer",
+   "team": "Tech R&D/Data Engineering",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262339",
+   "tags": [],
+   "categories": [
+    "data-eng"
    ]
   },
   {
