@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "sources_ok": [
   "naver",
   "kakao",
@@ -16,6 +16,298 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "toss:7757642003",
+   "source": "toss",
+   "company": "토스씨엑스",
+   "title": "토스쇼핑 음성 데이터 검수 스태프 (팀원)",
+   "team": "Customer",
+   "location": "부산",
+   "employment_type": "단기계약직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7757642003",
+   "tags": [],
+   "categories": [
+    "speech"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "speech"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262354",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-11-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent"
+   ],
+   "pref_skills": [
+    "python",
+    "sql"
+   ]
+  },
+  {
+   "id": "sk:R262350",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 업무 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "광주",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-11-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005625",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] AI 애니메이션 제작 (AI animator) (신입)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "무관",
+   "deadline": "2026-10-30",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005625",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005566",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Panoptic Segmentation Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-08",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005566",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "vision"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "vision",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005567",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-08",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005567",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "vision"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "vision",
+    "recsys",
+    "data-eng"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8323832",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "재무기획 분야 Business Analyst (Retail FP&A)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8323832",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python",
+    "tableau",
+    "powerbi"
+   ]
+  },
+  {
+   "id": "coupang:8323929",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Robotics Hardware Engineer (Global Operations Technology)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8323929",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "recsys",
+    "robotics"
+   ],
+   "skills": [
+    "aws"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8323927",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Data Analyst (CRM FP&A)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8323927",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-27",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-27"
+   },
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql",
+    "spark",
+    "hadoop",
+    "airflow",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "sk:R262339",
    "source": "sk",
@@ -461,36 +753,6 @@
    ]
   },
   {
-   "id": "naver:30005583",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] AI 콘텐츠 제작 및 UX 기획 (계약)",
-   "team": "Design · Visual Comm. & Brand Design",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005583",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-22",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-22"
-   },
-   "domains": [
-    "llm",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "hyundai:2026-N5-244",
    "source": "hyundai",
    "company": "현대자동차",
@@ -735,32 +997,6 @@
    "skills": [
     "k8s"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262265",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
-   "team": "제조/생산관리",
-   "location": "경상",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262265",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-17",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-17"
-   },
-   "domains": [],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
@@ -1266,58 +1502,6 @@
    "tags": [],
    "categories": [
     "data-analysis"
-   ],
-   "first_seen": "2026-10-14",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-14"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262216",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "연구 원자재 관리/운영 계약직 채용",
-   "team": "Tech R&D",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262216",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-14",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-14"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262226",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "연구 원자재 관리 지원 계약직 채용",
-   "team": "Tech R&D",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262226",
-   "tags": [],
-   "categories": [
-    "research"
    ],
    "first_seen": "2026-10-14",
    "detail_quality": {
@@ -3133,59 +3317,6 @@
    ]
   },
   {
-   "id": "sk:R261994",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
-   "team": "Tech R&D/AI/Data Engineering",
-   "location": "서울,경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261994",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-09-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-15"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "javascript",
-    "aws",
-    "gcp",
-    "azure",
-    "langchain",
-    "rag",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng",
-    "retrieval"
-   ],
-   "pref_skills": [
-    "aws",
-    "gcp",
-    "azure",
-    "rag"
-   ]
-  },
-  {
    "id": "toss:7992223003",
    "source": "toss",
    "company": "토스",
@@ -3808,41 +3939,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:7474295",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior, Data Analyst (Audit Automation & Data Analytics)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7474295",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-02",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-02"
-   },
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "sql",
-    "aws"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "aws"
-   ]
   },
   {
    "id": "hyundai:2026-N2-323",
@@ -6719,47 +6815,6 @@
     "gcp"
    ],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:7962231",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior Director, Robotics & Computer Vision (Global Operations Technology) ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7962231",
-   "tags": [],
-   "categories": [
-    "vision",
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "llm",
-    "vision",
-    "recsys",
-    "robotics",
-    "mlops",
-    "data-eng"
-   ],
-   "skills": [
-    "go"
-   ],
-   "pref_domains": [
-    "llm",
-    "vision",
-    "robotics",
-    "data-eng"
-   ],
    "pref_skills": []
   },
   {

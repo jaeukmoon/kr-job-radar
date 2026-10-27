@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "sources_ok": [
   "sk",
   "hyundai"
@@ -8,71 +8,6 @@
   "samsung: 0 jobs returned"
  ],
  "jobs": [
-  {
-   "id": "sk:R261994",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI 기반 Application 개발/설계 분야 전문가 영입",
-   "team": "Tech R&D/AI/Data Engineering",
-   "location": "서울,경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261994",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ]
-  },
-  {
-   "id": "sk:R262216",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "연구 원자재 관리/운영 계약직 채용",
-   "team": "Tech R&D",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262216",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R262226",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "연구 원자재 관리 지원 계약직 채용",
-   "team": "Tech R&D",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262226",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R262265",
-   "source": "sk",
-   "company": "SK바이오사이언스",
-   "title": "생산공정 데이터 분석 및 효율화(O/E) 경력사원 채용",
-   "team": "제조/생산관리",
-   "location": "경상",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-10-26",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262265",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R262248",
    "source": "sk",
@@ -152,6 +87,38 @@
    "tags": [],
    "categories": [
     "robotics"
+   ]
+  },
+  {
+   "id": "sk:R262350",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 업무 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "광주",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-11-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262354",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "파운데이션 모델 데이터 관련 업무 담당자",
+   "team": "기술/현장지원/DB 구축/관리",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-11-02",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262354",
+   "tags": [],
+   "categories": [
+    "llm"
    ]
   },
   {
