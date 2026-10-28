@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "sources_ok": [
   "naver",
   "kakao",
@@ -10,12 +10,204 @@
   "lgairesearch",
   "coupang",
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
  "errors": [
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "toss:7998166003",
+   "source": "toss",
+   "company": "토스증권",
+   "title": "Technical Program Manager (AI)",
+   "team": "Technical Excellence",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7998166003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-28",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-28"
+   },
+   "domains": [
+    "mlops"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "samsung:23386",
+   "source": "samsung",
+   "company": "삼성E&A",
+   "title": "경력사원 채용(연구개발, 분석)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-10",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-28",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-28"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001889",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[정보보안센터] AI보안 담당자 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-08",
+   "url": "https://careers.lg.com/apply/detail?id=1001889",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-28",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-28"
+   },
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262355",
+   "source": "sk",
+   "company": "KNC",
+   "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+   "team": "Tech R&D",
+   "location": "대전",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-11-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-10-28",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-28"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8179064",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 전략 기획/분석 담당자 (Eats Ads BD Strategy & Market Intelligence)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8179064",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-28",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-28"
+   },
+   "domains": [
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "coupang:8130045",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff, Machine Learning Engineer (Search & Discovery)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8130045",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-10-28",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-28"
+   },
+   "domains": [
+    "llm",
+    "recsys"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "aws",
+    "gcp"
+   ],
+   "pref_domains": [
+    "llm",
+    "recsys"
+   ],
+   "pref_skills": [
+    "aws",
+    "gcp"
+   ]
+  },
   {
    "id": "toss:7757642003",
    "source": "toss",
@@ -936,42 +1128,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005564",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] World Models for Physical AI Research (체험형 인턴)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-10-27",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005564",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-19"
-   },
-   "domains": [
-    "llm",
-    "recsys",
-    "mlops",
-    "data-eng",
-    "world-model"
-   ],
-   "skills": [
-    "cuda",
-    "huggingface",
-    "git"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R262266",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -1048,7 +1204,7 @@
    "id": "sk:R262252",
    "source": "sk",
    "company": "SK주식회사(AX)",
-   "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입",
+   "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
    "team": "IT/구축/운영/최적화 • Tech R&D/ML/DL 개발",
    "location": "경기/인천",
    "employment_type": "계약",
@@ -1141,7 +1297,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-10-29",
+   "deadline": "2026-11-05",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=380",
    "tags": [
     "10월 경력 채용"
@@ -1174,7 +1330,7 @@
    "location": "의왕연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-10-29",
+   "deadline": "2026-11-05",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=372",
    "tags": [
     "10월 경력 채용"
@@ -1217,7 +1373,7 @@
    "location": "의왕연구소",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-10-29",
+   "deadline": "2026-11-05",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=382",
    "tags": [
     "10월 경력 채용"
@@ -1743,7 +1899,7 @@
    "id": "coupang:8258122",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡] 시니어 콘텐츠 에디터 (AI 콘텐츠 제작 경험 우대)",
+   "title": "[쿠팡] 시니어 콘텐츠 에디터 (AI 콘텐츠 제작 경험 우대/포트폴리오 필수)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
@@ -2007,55 +2163,6 @@
     "recsys"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "woowahan:26032",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "로보틱스 S/W 엔지니어링(자율주행 ML/팀장급)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/26032/detail",
-   "tags": [],
-   "categories": [
-    "ml",
-    "robotics"
-   ],
-   "first_seen": "2026-10-07",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-07"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "rl",
-    "vision",
-    "robotics",
-    "world-model"
-   ],
-   "skills": [
-    "pytorch",
-    "tensorflow",
-    "airflow",
-    "k8s",
-    "git"
-   ],
-   "pref_domains": [
-    "agent",
-    "vision"
-   ],
-   "pref_skills": [
-    "pytorch",
-    "tensorflow",
-    "airflow",
-    "k8s",
-    "git"
-   ]
   },
   {
    "id": "woowahan:26031",
@@ -2904,34 +3011,6 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "samsung:23215",
-   "source": "samsung",
-   "company": "삼성글로벌리서치",
-   "title": "분야별 연구원 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-12",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-09-22",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-22"
-   },
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -6782,40 +6861,6 @@
    "pref_skills": [
     "aws"
    ]
-  },
-  {
-   "id": "coupang:7919225",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Senior~Staff, Data Analyst (Catalog)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7919225",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "aws",
-    "gcp"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8034833",

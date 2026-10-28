@@ -1,12 +1,11 @@
 {
- "generated": "2026-10-27",
+ "generated": "2026-10-28",
  "sources_ok": [
   "sk",
-  "hyundai"
+  "hyundai",
+  "samsung"
  ],
- "errors": [
-  "samsung: 0 jobs returned"
- ],
+ "errors": [],
  "jobs": [
   {
    "id": "sk:R262248",
@@ -138,6 +137,22 @@
    ]
   },
   {
+   "id": "sk:R262355",
+   "source": "sk",
+   "company": "KNC",
+   "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
+   "team": "Tech R&D",
+   "location": "대전",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-11-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262355",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
    "id": "sk:R261936",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -238,7 +253,7 @@
    "id": "sk:R262252",
    "source": "sk",
    "company": "SK주식회사(AX)",
-   "title": "제조 AI 기반 이미지 분류 플랫폼 Application PL 및 ML 엔지니어 영입",
+   "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
    "team": "IT/구축/운영/최적화 • Tech R&D/ML/DL 개발",
    "location": "경기/인천",
    "employment_type": "계약",
@@ -433,61 +448,6 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-380",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "로봇 기술/시장 동향 연구",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=380",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "research",
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-372",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 모방학습/강화학습 개발",
-   "team": "생산/제조 · 생산기술",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=372",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-382",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조AI] 무선통신 자율 운영 시스템 개발",
-   "team": "생산/제조 · 생산기술",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=382",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
    "id": "hyundai:2026-N2-381",
    "source": "hyundai",
    "company": "현대자동차",
@@ -533,6 +493,61 @@
    "deadline": "2026-11-03",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
    "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-380",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "로봇 기술/시장 동향 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-05",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=380",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "research",
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-372",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조로보틱스] 모방학습/강화학습 개발",
+   "team": "생산/제조 · 생산기술",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-05",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=372",
+   "tags": [
+    "10월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-382",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조AI] 무선통신 자율 운영 시스템 개발",
+   "team": "생산/제조 · 생산기술",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-05",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=382",
+   "tags": [
+    "10월 경력 채용"
+   ],
    "categories": [
     "ml"
    ]
@@ -814,19 +829,19 @@
    ]
   },
   {
-   "id": "samsung:23215",
+   "id": "samsung:23386",
    "source": "samsung",
-   "company": "삼성글로벌리서치",
-   "title": "분야별 연구원 채용",
+   "company": "삼성E&A",
+   "title": "경력사원 채용(연구개발, 분석)",
    "team": "",
    "location": "",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-10-12",
+   "deadline": "2026-11-10",
    "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [
-    "research"
+    "data-analysis"
    ]
   }
  ]
