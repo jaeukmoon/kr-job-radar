@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-29",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,122 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262377",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+   "team": "Tech R&D/Data 분석/개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-11-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-29",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-29"
+   },
+   "domains": [
+    "robotics",
+    "timeseries",
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262374",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Solutions Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-10",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262374",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-29",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-29"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "sql",
+    "spark",
+    "airflow",
+    "k8s",
+    "aws",
+    "azure",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "cpp",
+    "spark",
+    "airflow",
+    "k8s",
+    "rag"
+   ]
+  },
+  {
+   "id": "coupang:8330368",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Director, Search Marketing",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8330368",
+   "tags": [],
+   "categories": [
+    "recsys"
+   ],
+   "first_seen": "2026-10-29",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-29"
+   },
+   "domains": [
+    "recsys",
+    "timeseries"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "toss:7998166003",
    "source": "toss",
@@ -1267,7 +1383,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-10-29",
+   "deadline": "2026-11-05",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=371",
    "tags": [
     "10월 경력 채용"
@@ -1431,32 +1547,6 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-15"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262248",
-   "source": "sk",
-   "company": "아이에스시",
-   "title": "2026년 연구소/생산본부 수시 채용",
-   "team": "Tech R&D/연구개발,Solution 개발 • 제조/장비기술,공정기술",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-10-29",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262248",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
     "fetched_at": "2026-10-15"
    },
    "domains": [],
@@ -3792,11 +3882,11 @@
    "id": "lg:1002176",
    "source": "lg",
    "company": "LG에너지솔루션",
-   "title": "[CDO] AI/빅데이터 경력 상시 모집",
+   "title": "[CDO] AI/빅데이터 분야 상시 모집",
    "team": "",
    "location": "",
    "employment_type": "",
-   "career_type": "경력",
+   "career_type": "신입/경력",
    "deadline": "2027-03-31",
    "url": "https://careers.lg.com/apply/detail?id=1002176",
    "tags": [],
@@ -6827,40 +6917,6 @@
     "posttraining"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:7994883",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Sr. Staff - AI Data Center Architect ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7994883",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "recsys"
-   ],
-   "skills": [
-    "javascript",
-    "airflow",
-    "aws"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "aws"
-   ]
   },
   {
    "id": "coupang:8034833",

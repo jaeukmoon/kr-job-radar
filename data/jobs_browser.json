@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28",
+ "generated": "2026-10-29",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262248",
-   "source": "sk",
-   "company": "아이에스시",
-   "title": "2026년 연구소/생산본부 수시 채용",
-   "team": "Tech R&D/연구개발,Solution 개발 • 제조/장비기술,공정기술",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-10-29",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262248",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
   {
    "id": "sk:R261986",
    "source": "sk",
@@ -150,6 +134,38 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R262377",
+   "source": "sk",
+   "company": "SK인텔릭스",
+   "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+   "team": "Tech R&D/Data 분석/개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-11-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262377",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262374",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Solutions Engineer 구성원 영입",
+   "team": "기타",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-10",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262374",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {
@@ -430,24 +446,6 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-371",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "미래 모빌리티 및 Physical AI 신사업 전략",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=371",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
    "id": "hyundai:2026-N2-381",
    "source": "hyundai",
    "company": "현대자동차",
@@ -493,6 +491,24 @@
    "deadline": "2026-11-03",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
    "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-371",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "미래 모빌리티 및 Physical AI 신사업 전략",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-05",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=371",
+   "tags": [
+    "10월 경력 채용"
+   ],
    "categories": [
     "ml"
    ]
