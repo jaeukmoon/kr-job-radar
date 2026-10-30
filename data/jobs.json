@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29",
+ "generated": "2026-10-30",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,85 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "naver:30005559",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] Robotics ML Research Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-08",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005559",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research",
+    "robotics"
+   ],
+   "first_seen": "2026-10-30",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-10-30"
+   },
+   "domains": [
+    "llm",
+    "rl",
+    "vision",
+    "recsys",
+    "robotics",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "pretraining",
+    "posttraining",
+    "world-model"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "distributed"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8305266",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] Senior Business Analyst (Supply Chain Solutions)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8305266",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-30",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-30"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "sk:R262377",
    "source": "sk",
@@ -1189,7 +1268,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-02",
+   "deadline": "2026-11-09",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
    "tags": [],
    "categories": [
@@ -1347,34 +1426,6 @@
    "pref_skills": []
   },
   {
-   "id": "hyundai:2026-N2-383",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "미래 인재·조직 전략 연구",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=383",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-15"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "hyundai:2026-N2-371",
    "source": "hyundai",
    "company": "현대자동차",
@@ -1527,34 +1578,6 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-381",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "GBC 부동산 재무분석 및 지원업무",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=381",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-15"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R262250",
    "source": "sk",
    "company": "SK인텔릭스",
@@ -1583,46 +1606,6 @@
    "pref_domains": [],
    "pref_skills": [
     "linux"
-   ]
-  },
-  {
-   "id": "lg:1002306",
-   "source": "lg",
-   "company": "LG이노텍",
-   "title": "[광학솔루션] 개발기획 및 AI ISP 분야 경력사원 모집",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-10-29",
-   "url": "https://careers.lg.com/apply/detail?id=1002306",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-15"
-   },
-   "domains": [
-    "mlops",
-    "efficient-inference"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "cuda",
-    "vllm"
-   ],
-   "pref_domains": [
-    "mlops",
-    "efficient-inference"
-   ],
-   "pref_skills": [
-    "cuda",
-    "vllm"
    ]
   },
   {
@@ -4692,47 +4675,6 @@
     "pretraining"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8130043",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff, Machine Learning Engineer (Search & Discovery)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8130043",
-   "tags": [],
-   "categories": [
-    "ml",
-    "recsys"
-   ],
-   "first_seen": "2026-08-19",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-08-19"
-   },
-   "domains": [
-    "llm",
-    "recsys"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "aws",
-    "gcp"
-   ],
-   "pref_domains": [
-    "llm",
-    "recsys"
-   ],
-   "pref_skills": [
-    "aws",
-    "gcp"
-   ]
   },
   {
    "id": "coupang:8130040",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29",
+ "generated": "2026-10-30",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -428,58 +428,6 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-383",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "미래 인재·조직 전략 연구",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=383",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-381",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "GBC 부동산 재무분석 및 지원업무",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-10-29",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=381",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N5-241",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
-   "team": "기타 · 장애인 제한경쟁",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-02",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
    "id": "hyundai:2026-N5-244",
    "source": "hyundai",
    "company": "현대자동차",
@@ -566,6 +514,22 @@
    ],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N5-241",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
+   "team": "기타 · 장애인 제한경쟁",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-09",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
+   "tags": [],
+   "categories": [
+    "research"
    ]
   },
   {
