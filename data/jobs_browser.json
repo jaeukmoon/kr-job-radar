@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-10-31",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,39 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R261986",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "k8s Engineer PL 영입 (계약직)",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-10-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261986",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "sk:R261987",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI Data Platform 개발.운영 PL (계약직)",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-10-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261987",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ]
-  },
   {
    "id": "sk:R262233",
    "source": "sk",
@@ -341,6 +308,22 @@
    "career_type": "경력",
    "deadline": "2026-12-14",
    "url": "https://www.skcareers.com/Recruit/Detail/R262231",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262392",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+   "team": "Tech R&D/Solution SW",
+   "location": "서울,경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-18",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262392",
    "tags": [],
    "categories": [
     "data-analysis"

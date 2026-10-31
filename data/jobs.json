@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30",
+ "generated": "2026-10-31",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,52 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262392",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "SAP BW/BDC/BI/Data Analytics 분야 전문가 영입",
+   "team": "Tech R&D/Solution SW",
+   "location": "서울,경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-18",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262392",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-10-31",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-31"
+   },
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "aws",
+    "gcp",
+    "azure",
+    "tableau",
+    "powerbi"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "aws",
+    "gcp",
+    "azure",
+    "tableau",
+    "powerbi"
+   ]
+  },
   {
    "id": "naver:30005559",
    "source": "naver",
@@ -496,36 +542,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005625",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] AI 애니메이션 제작 (AI animator) (신입)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-10-30",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005625",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-27"
-   },
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "naver:30005566",
    "source": "naver",
    "company": "NAVER LABS",
@@ -857,38 +873,6 @@
     "rl",
     "posttraining"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:8042384003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "Technical Product Owner (AI)",
-   "team": "Product Ownership",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=8042384003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-23"
-   },
-   "domains": [
-    "agent",
-    "vision",
-    "speech",
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -1969,34 +1953,6 @@
    ]
   },
   {
-   "id": "coupang:8258122",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 시니어 콘텐츠 에디터 (AI 콘텐츠 제작 경험 우대/포트폴리오 필수)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8258122",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-12",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-12"
-   },
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8248619",
    "source": "coupang",
    "company": "Coupang",
@@ -2031,6 +1987,34 @@
    "pref_skills": [
     "sql"
    ]
+  },
+  {
+   "id": "coupang:8258122",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 로켓배송 상품 판매 콘텐츠 에디터 (AI 콘텐츠 제작 경험 우대, 상품 포트폴리오 필수)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8258122",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-10-12",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-10-12"
+   },
+   "domains": [
+    "llm"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
   },
   {
    "id": "coupang:8260755",
@@ -3305,76 +3289,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R261986",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "k8s Engineer PL 영입 (계약직)",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-10-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261986",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-16",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-16"
-   },
-   "domains": [],
-   "skills": [
-    "spark",
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "k8s"
-   ]
-  },
-  {
-   "id": "sk:R261987",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI Data Platform 개발.운영 PL (계약직)",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-10-30",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261987",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-09-16",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-16"
-   },
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "javascript",
-    "k8s",
-    "spring"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "javascript",
-    "k8s",
-    "spring"
-   ]
-  },
-  {
    "id": "lg:1001807",
    "source": "lg",
    "company": "LG CNS",
@@ -3916,43 +3830,6 @@
     "cpp",
     "pytorch",
     "langchain"
-   ]
-  },
-  {
-   "id": "coupang:8172516",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡풀필먼트서비스] Business Analyst (Fresh FC Fp&A)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8172516",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-05"
-   },
-   "domains": [
-    "llm",
-    "timeseries",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python"
    ]
   },
   {
