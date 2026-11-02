@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,38 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262233",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
-   "team": "Tech R&D/설계",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-01",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262233",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "sk:R262250",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] Robotics 탑재 App 개발 경력 인재 영입",
-   "team": "Tech R&D/SW 개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-01",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262250",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ]
-  },
   {
    "id": "sk:R262350",
    "source": "sk",
@@ -582,17 +550,19 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-320",
+   "id": "hyundai:2026-N2-389",
    "source": "hyundai",
    "company": "현대자동차",
-   "title": "[로보틱스랩] 로봇 SW 품질 관리",
+   "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
    "team": "사업/기획 · 경영전략",
    "location": "의왕",
    "employment_type": "",
    "career_type": "",
    "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
-   "tags": [],
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+   "tags": [
+    "집중 상시 채용"
+   ],
    "categories": [
     "robotics"
    ]
@@ -789,6 +759,22 @@
    "tags": [],
    "categories": [
     "robotics"
+   ]
+  },
+  {
+   "id": "samsung:23407",
+   "source": "samsung",
+   "company": "삼성바이오에피스",
+   "title": "경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-13",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {

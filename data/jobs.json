@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,227 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "hyundai:2026-N2-389",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
+   "team": "사업/기획 · 경영전략",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "robotics"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:7569891003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "보안 분석가",
+   "team": "Security Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=7569891003",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [
+    "evaluation"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:6675539003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "데이터 프로덕트 매니저 (AI)",
+   "team": "Data Managing",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6675539003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:8006388003",
+   "source": "toss",
+   "company": "토스",
+   "title": "글로벌 UX 리서치 프로그램 매니저",
+   "team": "UX",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8006388003",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "samsung:23407",
+   "source": "samsung",
+   "company": "삼성바이오에피스",
+   "title": "경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-13",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-analysis"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001432",
+   "source": "lg",
+   "company": "LG CNS",
+   "title": "[LG CNS] 어플리케이션 아키텍트/AI 아키텍트 모집(경력)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://careers.lg.com/apply/detail?id=1001432",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "k8s",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8332845",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8332845",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-02",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-02"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "sk:R262392",
    "source": "sk",
@@ -876,74 +1097,6 @@
    "pref_skills": []
   },
   {
-   "id": "naver:30005610",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-11-01",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005610",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-23"
-   },
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005558",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Robot Manipulation Data Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-11-01",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005558",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-23"
-   },
-   "domains": [
-    "llm",
-    "recsys",
-    "robotics",
-    "data-eng",
-    "world-model"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "pytorch",
-    "tensorflow"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lg:1002330",
    "source": "lg",
    "company": "LG전자",
@@ -985,7 +1138,7 @@
    "id": "toss:8039958003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "Data Engineering Specialist",
+   "title": "데이터 엔지니어링 스페셜리스트",
    "team": "Data Engineering",
    "location": "Seoul",
    "employment_type": "계약직",
@@ -1204,43 +1357,6 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "lg:1002062",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[CTO] Speech AI 경력 채용 ",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-11-01",
-   "url": "https://careers.lg.com/apply/detail?id=1002062",
-   "tags": [],
-   "categories": [
-    "ml",
-    "speech"
-   ],
-   "first_seen": "2026-10-20",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-20"
-   },
-   "domains": [
-    "llm",
-    "speech",
-    "multimodal",
-    "posttraining",
-    "efficient-inference"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "git"
-   ],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -1562,37 +1678,6 @@
    ]
   },
   {
-   "id": "sk:R262250",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] Robotics 탑재 App 개발 경력 인재 영입",
-   "team": "Tech R&D/SW 개발",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-01",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262250",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-10-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-15"
-   },
-   "domains": [],
-   "skills": [
-    "java",
-    "linux"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "linux"
-   ]
-  },
-  {
    "id": "coupang:8283901",
    "source": "coupang",
    "company": "Coupang",
@@ -1670,36 +1755,6 @@
     "k8s",
     "aws"
    ]
-  },
-  {
-   "id": "sk:R262233",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 가전·로보틱스 제품 기구설계 경력 인재 채용",
-   "team": "Tech R&D/설계",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-01",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262233",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-10-14",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-14"
-   },
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
   },
   {
    "id": "sk:R262231",
@@ -2153,7 +2208,7 @@
    "id": "toss:7728018003",
    "source": "toss",
    "company": "토스",
-   "title": "Data Scientist",
+   "title": "데이터 사이언티스트",
    "team": "Data Analysis",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -2162,8 +2217,7 @@
    "url": "https://toss.im/career/job-detail?gh_jid=7728018003",
    "tags": [],
    "categories": [
-    "data-analysis",
-    "research"
+    "data-analysis"
    ],
    "first_seen": "2026-10-08",
    "detail_quality": {
@@ -2674,7 +2728,7 @@
    "id": "toss:8007436003",
    "source": "toss",
    "company": "토스",
-   "title": "AI Platform Engineer",
+   "title": "AI 플랫폼 엔지니어",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -2825,7 +2879,7 @@
    "id": "toss:7995370003",
    "source": "toss",
    "company": "토스",
-   "title": "DataOps Manager",
+   "title": "DataOps 매니저",
    "team": "Data Analysis",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -2970,7 +3024,7 @@
    "id": "toss:6025151003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "ML Data Assistant",
+   "title": "ML 데이터 어시스턴트",
    "team": "Data Engineering",
    "location": "Seoul",
    "employment_type": "단기계약직",
@@ -3000,7 +3054,7 @@
    "id": "toss:7996773003",
    "source": "toss",
    "company": "토스",
-   "title": "Forward Deployed Engineer ",
+   "title": "Forward Deployed Engineer",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3037,7 +3091,7 @@
    "id": "toss:8000575003",
    "source": "toss",
    "company": "토스",
-   "title": "AI Solution Engineer",
+   "title": "AI 솔루션 엔지니어",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3134,7 +3188,7 @@
    "id": "toss:7998953003",
    "source": "toss",
    "company": "토스",
-   "title": "ML Engineer [Ads]",
+   "title": "ML 엔지니어 (Ads)",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3171,7 +3225,7 @@
    "id": "toss:7825079003",
    "source": "toss",
    "company": "토스",
-   "title": "ML Engineer",
+   "title": "ML 엔지니어",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3333,7 +3387,7 @@
    "id": "toss:7992223003",
    "source": "toss",
    "company": "토스",
-   "title": "ML Engineer [Commerce]",
+   "title": "ML 엔지니어 (Commerce)",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3615,7 +3669,7 @@
    "id": "toss:7990802003",
    "source": "toss",
    "company": "토스",
-   "title": "AI Engineer",
+   "title": "AI 엔지니어",
    "team": "ML",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3696,7 +3750,7 @@
    "id": "toss:7742346003",
    "source": "toss",
    "company": "토스",
-   "title": "Data Analyst ",
+   "title": "데이터 분석가",
    "team": "Data Analysis",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3783,7 +3837,7 @@
    "id": "toss:7985134003",
    "source": "toss",
    "company": "토스",
-   "title": "Financial Data Analyst (Accounting)",
+   "title": "재무 데이터 분석가 (Accounting)",
    "team": "Finance",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -3951,36 +4005,6 @@
     "python",
     "cpp"
    ]
-  },
-  {
-   "id": "hyundai:2026-N2-320",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[로보틱스랩] 로봇 SW 품질 관리",
-   "team": "사업/기획 · 경영전략",
-   "location": "의왕",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-12-31",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=320",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-09-01",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-01"
-   },
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "robotics"
-   ],
-   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-325",
@@ -4509,7 +4533,7 @@
    "id": "toss:7827198003",
    "source": "toss",
    "company": "토스",
-   "title": "AI Manager",
+   "title": "AI 매니저",
    "team": "Data Managing",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -4669,7 +4693,7 @@
    "id": "toss:7821118003",
    "source": "toss",
    "company": "토스",
-   "title": "Search Quality Operations Manager",
+   "title": "검색 품질 운영 매니저",
    "team": "Product Operations",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -4859,7 +4883,7 @@
    "id": "toss:4695176003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "Data Engineer ",
+   "title": "데이터 엔지니어",
    "team": "Data Engineering",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -5021,7 +5045,7 @@
    "id": "toss:7668948003",
    "source": "toss",
    "company": "토스",
-   "title": "Product Owner [Search]",
+   "title": "Product Owner (Search)",
    "team": "Product Ownership",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -5193,40 +5217,10 @@
    "pref_skills": []
   },
   {
-   "id": "toss:6600650003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "ML Backend Engineer",
-   "team": "ML",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=6600650003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [],
-   "skills": [
-    "python",
-    "go",
-    "k8s"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "toss:6434513003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "Finance Data System Developer",
+   "title": "재무 데이터 시스템 개발자",
    "team": "Data Engineering",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -5263,7 +5257,7 @@
    "id": "toss:6603749003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "Data Platform Engineer (Streaming)",
+   "title": "데이터 플랫폼 엔지니어 (Streaming)",
    "team": "Data Engineering",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -5299,10 +5293,84 @@
    ]
   },
   {
+   "id": "toss:6600650003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "ML 백엔드 엔지니어",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=6600650003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-07-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   },
+   "domains": [],
+   "skills": [
+    "python",
+    "go",
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "toss:5960616003",
+   "source": "toss",
+   "company": "토스",
+   "title": "데이터 분석 엔지니어",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=5960616003",
+   "tags": [],
+   "categories": [
+    "data-analysis",
+    "data-eng"
+   ],
+   "first_seen": "2026-07-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-07-05"
+   },
+   "domains": [
+    "llm",
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "scala",
+    "sql",
+    "spark",
+    "hadoop",
+    "kafka",
+    "airflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql",
+    "hadoop",
+    "airflow"
+   ]
+  },
+  {
    "id": "toss:4770769003",
    "source": "toss",
    "company": "토스",
-   "title": "ML Engineer [전문연구요원]",
+   "title": "ML 엔지니어 [전문연구요원]",
    "team": "병역특례",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -5343,50 +5411,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "toss:5960616003",
-   "source": "toss",
-   "company": "토스",
-   "title": "Data Analytics Engineer ",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=5960616003",
-   "tags": [],
-   "categories": [
-    "data-analysis",
-    "data-eng"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "llm",
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "scala",
-    "sql",
-    "spark",
-    "hadoop",
-    "kafka",
-    "airflow"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "sql",
-    "hadoop",
-    "airflow"
-   ]
   },
   {
    "id": "toss:4071131003",
@@ -6106,43 +6130,6 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4693138005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Internship - Robot Foundation Model",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4693138005",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "robotics",
-    "multimodal",
-    "pretraining",
-    "posttraining",
-    "world-model"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "world-model"
-   ],
    "pref_skills": []
   },
   {
