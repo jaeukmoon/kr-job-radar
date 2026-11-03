@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-03",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,38 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262350",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 업무 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "광주",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-11-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "sk:R262354",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "파운데이션 모델 데이터 관련 업무 담당자",
-   "team": "기술/현장지원/DB 구축/관리",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-11-02",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262354",
-   "tags": [],
-   "categories": [
-    "llm"
-   ]
-  },
   {
    "id": "sk:R262304",
    "source": "sk",
@@ -50,6 +18,22 @@
    "career_type": "경력",
    "deadline": "2026-11-07",
    "url": "https://www.skcareers.com/Recruit/Detail/R262304",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262350",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 업무 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "광주",
+   "employment_type": "계약",
+   "career_type": "신입",
+   "deadline": "2026-11-08",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
    "tags": [],
    "categories": [
     "data-analysis"
