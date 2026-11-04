@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03",
+ "generated": "2026-11-04",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -282,6 +282,23 @@
    ]
   },
   {
+   "id": "sk:R262415",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+   "team": "Tech R&D/Data Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ]
+  },
+  {
    "id": "sk:R261800",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -360,22 +377,6 @@
    "tags": [],
    "categories": [
     "data-eng"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N5-244",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
-   "team": "기타 · 행정사무지원",
-   "location": "경주캠퍼스",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-03",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
-   "tags": [],
-   "categories": [
-    "ml"
    ]
   },
   {
@@ -743,6 +744,22 @@
    "tags": [],
    "categories": [
     "robotics"
+   ]
+  },
+  {
+   "id": "samsung:23409",
+   "source": "samsung",
+   "company": "삼성물산 건설부문",
+   "title": "경력사원 채용(AI서비스개발, 정보기술, 데이터)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-16",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {

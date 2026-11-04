@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03",
+ "generated": "2026-11-04",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,170 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "samsung:23409",
+   "source": "samsung",
+   "company": "삼성물산 건설부문",
+   "title": "경력사원 채용(AI서비스개발, 정보기술, 데이터)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-16",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-04",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-04"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "data-analysis",
+    "retrieval"
+   ],
+   "skills": [
+    "sql",
+    "airflow",
+    "aws",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "data-analysis",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "sql",
+    "airflow",
+    "aws",
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262415",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI · Data 분야 [Data Engineer / DevOps(k8s)] 전문가 영입",
+   "team": "Tech R&D/Data Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262415",
+   "tags": [],
+   "categories": [
+    "ml",
+    "data-eng"
+   ],
+   "first_seen": "2026-11-04",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-04"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng",
+    "retrieval"
+   ],
+   "skills": [
+    "k8s",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "mlops",
+    "data-eng",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "k8s",
+    "rag"
+   ]
+  },
+  {
+   "id": "naver:30005662",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] AI 애니메이션 제작 담당 (정규 전환형)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "무관",
+   "deadline": "2026-11-18",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005662",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-04",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-04"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "speech"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [
+    "agent",
+    "speech"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "naver:30005640",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] AI 에이전트 프로덕트/서비스 기획 (경력)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-12",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005640",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-04",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-04"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "recsys",
+    "data-eng",
+    "retrieval"
+   ],
+   "skills": [
+    "sql",
+    "rag"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "toss:7604234003",
    "source": "toss",
@@ -778,34 +942,6 @@
    ]
   },
   {
-   "id": "toss:7757642003",
-   "source": "toss",
-   "company": "토스씨엑스",
-   "title": "토스쇼핑 음성 데이터 검수 스태프 (팀원)",
-   "team": "Customer",
-   "location": "부산",
-   "employment_type": "단기계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7757642003",
-   "tags": [],
-   "categories": [
-    "speech"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-27"
-   },
-   "domains": [
-    "speech"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "sk:R262350",
    "source": "sk",
    "company": "SK텔레콤",
@@ -961,42 +1097,6 @@
    ],
    "skills": [
     "aws"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:8323927",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Data Analyst (CRM FP&A)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8323927",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-27"
-   },
-   "domains": [
-    "data-eng",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql",
-    "spark",
-    "hadoop",
-    "airflow",
-    "tableau",
-    "powerbi"
    ],
    "pref_domains": [],
    "pref_skills": []
@@ -1294,32 +1394,6 @@
     "langchain",
     "rag"
    ]
-  },
-  {
-   "id": "hyundai:2026-N5-244",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 글로벌상생협력센터 (GPC) 교육 운영_AI 특화 공동훈련센터",
-   "team": "기타 · 행정사무지원",
-   "location": "경주캠퍼스",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-03",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=244",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-21",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-21"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R262304",
@@ -2957,40 +3031,6 @@
     "sql",
     "tableau"
    ]
-  },
-  {
-   "id": "coupang:8224844",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff, AI Security Architect",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8224844",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-23",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-23"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "mlops"
-   ],
-   "skills": [
-    "aws",
-    "gcp",
-    "azure"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "hyundai:2026-N2-366",
