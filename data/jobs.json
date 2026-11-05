@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-05",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,348 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "hyundai:2026-N5-253",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 연구소 정부과제 행정업무 지원",
+   "team": "기타 · 행정사무지원",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-19",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "kakao:P-14581",
+   "source": "kakao",
+   "company": "카카오",
+   "title": "생성형 모델 Research Engineer (Post-training) (신입/경력)",
+   "team": "테크",
+   "location": "판교",
+   "employment_type": "정규직",
+   "career_type": "완전선택근무제",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/P-14581",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "posttraining",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "distributed"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "posttraining",
+    "efficient-inference"
+   ],
+   "pref_skills": [
+    "distributed"
+   ]
+  },
+  {
+   "id": "woowahan:26221",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "데이터엔지니어링(데이터서비스 AI)",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26221/detail",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "multimodal",
+    "mlops",
+    "data-eng",
+    "data-analysis",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "mlops",
+    "data-eng",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "flink",
+    "k8s",
+    "aws",
+    "rag",
+    "fastapi",
+    "git"
+   ]
+  },
+  {
+   "id": "naver:30005656",
+   "source": "naver",
+   "company": "NAVER LABS",
+   "title": "[네이버랩스] 3D Vision & Robot Foundation Model Research Engineer",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-15",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005656",
+   "tags": [],
+   "categories": [
+    "research",
+    "llm",
+    "vision"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "robotics",
+    "multimodal",
+    "data-eng",
+    "pretraining",
+    "world-model"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "pytorch"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005652",
+   "source": "naver",
+   "company": "NAVER",
+   "title": "[NAVER] 음성번역 품질 평가/멀티모달 번역 연구 (인턴)",
+   "team": "Tech · 공통",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-11-13",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005652",
+   "tags": [],
+   "categories": [
+    "research",
+    "speech"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "speech",
+    "recsys",
+    "multimodal",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002363",
+   "source": "lg",
+   "company": "LG전자",
+   "title": "[로보틱스사업센터] 로보틱스 사업이행 (Field Engineer) 경력 채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-19",
+   "url": "https://careers.lg.com/apply/detail?id=1002363",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "robotics"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8345707",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] 물류 운영 분석가 (Quickflex CX)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8345707",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "coupang:8351940",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡로지스틱스서비스] Principal, Business Analyst (물류 운영 전략)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8351940",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8352094",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Security Engineer(AI-Driven Vulnerability Discovery & Remediation)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8352094",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-05",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-05"
+   },
+   "domains": [
+    "llm",
+    "agent"
+   ],
+   "skills": [
+    "python",
+    "go",
+    "aws",
+    "langchain"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "samsung:23409",
    "source": "samsung",
@@ -480,7 +822,7 @@
    "id": "coupang:8332845",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화)",
+   "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화) - 신입급",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
@@ -866,7 +1208,7 @@
    "id": "coupang:8179064",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡] 전략 기획/분석 담당자 (Eats Ads BD Strategy & Market Intelligence)",
+   "title": "[쿠팡] 광고 사업전략 및 비즈니스 분석 담당자 (8년 이상)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
@@ -1224,7 +1566,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-11-04",
+   "deadline": "2026-11-05",
    "url": "https://careers.lg.com/apply/detail?id=1002330",
    "tags": [],
    "categories": [
@@ -1394,32 +1736,6 @@
     "langchain",
     "rag"
    ]
-  },
-  {
-   "id": "sk:R262304",
-   "source": "sk",
-   "company": "티맵모빌리티",
-   "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
-   "team": "기타",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-07",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-21",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-21"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "woowahan:26173",
@@ -1944,47 +2260,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8274118",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] CS Specialist (데이터 분석 & AI)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8274118",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-14",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-14"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "sql",
-    "rag"
-   ],
-   "pref_domains": [
-    "agent"
-   ],
-   "pref_skills": [
-    "python",
-    "java"
-   ]
-  },
-  {
    "id": "lg:1002288",
    "source": "lg",
    "company": "비즈테크아이",
@@ -2209,34 +2484,6 @@
    ]
   },
   {
-   "id": "coupang:8187626",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 검색 품질 데이터 운영 및 평가 담당자 (개발 조직 협업)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8187626",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-10-10",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-10"
-   },
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8245169",
    "source": "coupang",
    "company": "Coupang",
@@ -2367,69 +2614,6 @@
     "recsys"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "woowahan:26031",
-   "source": "woowahan",
-   "company": "우아한형제들",
-   "title": "데이터엔지니어링(데이터서비스 AI)",
-   "team": "",
-   "location": "서울",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://career.woowahan.com/recruitment/26031/detail",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-07",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-07"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "data-analysis",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "mlops",
-    "data-eng",
-    "retrieval"
-   ],
-   "pref_skills": [
-    "python",
-    "spark",
-    "kafka",
-    "airflow",
-    "flink",
-    "k8s",
-    "aws",
-    "rag",
-    "fastapi",
-    "git"
-   ]
   },
   {
    "id": "sk:R262159",
@@ -4673,43 +4857,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8108131",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Tier1 Security Analyst (계약직 - 선임/후임분석가)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8108131",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-08-11",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-08-11"
-   },
-   "domains": [],
-   "skills": [
-    "python",
-    "k8s",
-    "aws",
-    "gcp",
-    "azure",
-    "linux"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "k8s",
-    "linux"
-   ]
-  },
-  {
    "id": "kakao:P-14519",
    "source": "kakao",
    "company": "카카오",
@@ -4904,39 +5051,6 @@
     "k8s",
     "distributed"
    ]
-  },
-  {
-   "id": "lgairesearch:4012563005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist/Engineer - STT(Speech-To-Text)/TTS(Text-To-Speech)",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4012563005",
-   "tags": [],
-   "categories": [
-    "research",
-    "speech"
-   ],
-   "first_seen": "2026-07-22",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-07-22"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "speech"
-   ],
-   "skills": [
-    "tensorflow"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:4695176003",
@@ -5772,38 +5886,6 @@
    "pref_skills": []
   },
   {
-   "id": "kakao:S-4651",
-   "source": "kakao",
-   "company": "카카오모빌리티",
-   "title": "[공동체] 카카오모빌리티 SLAM research scientist (R&D)",
-   "team": "",
-   "location": "",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://careers.kakao.com/jobs/S-4651",
-   "tags": [],
-   "categories": [
-    "research",
-    "robotics"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "kakao:P-14402",
    "source": "kakao",
    "company": "카카오",
@@ -6482,38 +6564,6 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4711938005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI Safety & Policy Specialist",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4711938005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "agent",
-    "evaluation"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "agent",
-    "evaluation"
-   ],
    "pref_skills": []
   },
   {

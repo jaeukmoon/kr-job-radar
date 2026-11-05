@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04",
+ "generated": "2026-11-05",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262304",
-   "source": "sk",
-   "company": "티맵모빌리티",
-   "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
-   "team": "기타",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-07",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R262350",
    "source": "sk",
@@ -463,6 +447,22 @@
    "career_type": "",
    "deadline": "2026-11-09",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N5-253",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[계약직] 연구소 정부과제 행정업무 지원",
+   "team": "기타 · 행정사무지원",
+   "location": "남양연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-19",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
    "tags": [],
    "categories": [
     "research"
