@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-06",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -283,6 +283,22 @@
    ]
   },
   {
+   "id": "sk:R262417",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 기반 차세대 통신 BSS/OSS(NOVA) 응용개발 분야 전문가 영입",
+   "team": "Tech R&D/Backend 개발,Frontend 개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262417",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "sk:R261800",
    "source": "sk",
    "company": "티맵모빌리티",
@@ -361,79 +377,6 @@
    "tags": [],
    "categories": [
     "data-eng"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-371",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "미래 모빌리티 및 Physical AI 신사업 전략",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-05",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=371",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-380",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "로봇 기술/시장 동향 연구",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-05",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=380",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "research",
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-372",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조로보틱스] 모방학습/강화학습 개발",
-   "team": "생산/제조 · 생산기술",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-05",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=372",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "robotics"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-382",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[제조AI] 무선통신 자율 운영 시스템 개발",
-   "team": "생산/제조 · 생산기술",
-   "location": "의왕연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-05",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=382",
-   "tags": [
-    "10월 경력 채용"
-   ],
-   "categories": [
-    "ml"
    ]
   },
   {
