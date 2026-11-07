@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06",
+ "generated": "2026-11-07",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,39 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "woowahan:26400",
+   "source": "woowahan",
+   "company": "우아한형제들",
+   "title": "로봇 시스템 소프트웨어 엔지니어",
+   "team": "",
+   "location": "서울",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://career.woowahan.com/recruitment/26400/detail",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-11-07",
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-07"
+   },
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "python",
+    "cpp",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "woowahan:26416",
    "source": "woowahan",
@@ -1161,7 +1194,7 @@
    "team": "Tech · AI/ML",
    "location": "",
    "employment_type": "정규",
-   "career_type": "경력",
+   "career_type": "무관",
    "deadline": "2026-11-08",
    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005559",
    "tags": [],
@@ -1573,7 +1606,7 @@
    "team": "Tech · AI/ML",
    "location": "",
    "employment_type": "정규",
-   "career_type": "경력",
+   "career_type": "무관",
    "deadline": "2026-11-08",
    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005566",
    "tags": [],
@@ -1605,7 +1638,7 @@
    "team": "Tech · AI/ML",
    "location": "",
    "employment_type": "정규",
-   "career_type": "경력",
+   "career_type": "무관",
    "deadline": "2026-11-08",
    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005567",
    "tags": [],
@@ -1811,44 +1844,6 @@
     "sql",
     "tableau",
     "powerbi"
-   ]
-  },
-  {
-   "id": "lg:1002330",
-   "source": "lg",
-   "company": "LG전자",
-   "title": "[CTO부문] AI Security 전문가 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-11-06",
-   "url": "https://careers.lg.com/apply/detail?id=1002330",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-23",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-23"
-   },
-   "domains": [
-    "llm",
-    "robotics"
-   ],
-   "skills": [
-    "python",
-    "cpp",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "robotics"
-   ],
-   "pref_skills": [
-    "linux"
    ]
   },
   {
