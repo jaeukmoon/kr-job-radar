@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,43 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "coupang:8354788",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior~Staff, Data Analyst (Growth Marketing / Contract: 1년 6개월)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8354788",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-09",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-09"
+   },
+   "domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [
+    "llm",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "woowahan:26400",
    "source": "woowahan",
@@ -1187,50 +1224,6 @@
    ]
   },
   {
-   "id": "naver:30005559",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Robotics ML Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-11-08",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005559",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "robotics"
-   ],
-   "first_seen": "2026-10-30",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-30"
-   },
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "recsys",
-    "robotics",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "pretraining",
-    "posttraining",
-    "world-model"
-   ],
-   "skills": [
-    "python",
-    "k8s",
-    "distributed"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8305266",
    "source": "coupang",
    "company": "Coupang",
@@ -1264,38 +1257,6 @@
    "pref_skills": [
     "python"
    ]
-  },
-  {
-   "id": "sk:R262377",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
-   "team": "Tech R&D/Data 분석/개발",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-11-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262377",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-29",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-29"
-   },
-   "domains": [
-    "robotics",
-    "timeseries",
-    "data-analysis"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R262374",
@@ -1440,60 +1401,6 @@
    "pref_skills": []
   },
   {
-   "id": "lg:1001889",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[정보보안센터] AI보안 담당자 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-11-08",
-   "url": "https://careers.lg.com/apply/detail?id=1001889",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-28",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-28"
-   },
-   "domains": [
-    "agent"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262355",
-   "source": "sk",
-   "company": "KNC",
-   "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
-   "team": "Tech R&D",
-   "location": "대전",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-11-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262355",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-28",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-28"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8179064",
    "source": "coupang",
    "company": "Coupang",
@@ -1571,96 +1478,6 @@
     "aws",
     "gcp"
    ]
-  },
-  {
-   "id": "sk:R262350",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 업무 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "광주",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-11-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-27"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005566",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Panoptic Segmentation Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-11-08",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005566",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "vision"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-27"
-   },
-   "domains": [
-    "vision",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005567",
-   "source": "naver",
-   "company": "NAVER LABS",
-   "title": "[네이버랩스] Computer Vision & 3D Recon. Research Engineer",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "무관",
-   "deadline": "2026-11-08",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005567",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "vision"
-   ],
-   "first_seen": "2026-10-27",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-10-27"
-   },
-   "domains": [
-    "vision",
-    "recsys",
-    "data-eng"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8323832",
@@ -1997,7 +1814,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-09",
+   "deadline": "2026-11-16",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
    "tags": [],
    "categories": [
@@ -2011,43 +1828,6 @@
    },
    "domains": [],
    "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005587",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] AI/ML 추천시스템 모델링 연구 개발 (Data Scientist) (경력)",
-   "team": "Tech · AI/ML",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-08",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005587",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "recsys"
-   ],
-   "first_seen": "2026-10-19",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-19"
-   },
-   "domains": [
-    "recsys",
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "tensorflow",
-    "spark",
-    "hadoop"
-   ],
    "pref_domains": [],
    "pref_skills": []
   },

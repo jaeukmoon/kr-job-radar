@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08",
+ "generated": "2026-11-09",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,54 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262350",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 업무 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "광주",
-   "employment_type": "계약",
-   "career_type": "신입",
-   "deadline": "2026-11-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262350",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
-  {
-   "id": "sk:R262355",
-   "source": "sk",
-   "company": "KNC",
-   "title": "2026년 한국넥슬렌(KNC) 연구소 연구실험원 채용 (계약직)",
-   "team": "Tech R&D",
-   "location": "대전",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-11-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262355",
-   "tags": [],
-   "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "sk:R262377",
-   "source": "sk",
-   "company": "SK인텔릭스",
-   "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
-   "team": "Tech R&D/Data 분석/개발",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "신입",
-   "deadline": "2026-11-08",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262377",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R262374",
    "source": "sk",
@@ -388,7 +340,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-09",
+   "deadline": "2026-11-16",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
    "tags": [],
    "categories": [
