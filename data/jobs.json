@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-10",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,86 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "naver:30005689",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] Localization Specialist – 일본어 번역 품질 연구개발 (계약직)",
+   "team": "Corporate · 통번역",
+   "location": "",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-29",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005689",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-10",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-10"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005685",
+   "source": "naver",
+   "company": "NAVER Cloud",
+   "title": "[NAVER Cloud/한국에이아이컴퓨팅센터] 클라우드·AI 세일즈 담당자 (경력)",
+   "team": "Service & Business · 어카운트/세일즈",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-25",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005685",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-10",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-10"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1001889",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[정보보안센터] AI보안 담당자 경력채용",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-22",
+   "url": "https://careers.lg.com/apply/detail?id=1001889",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-10",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-10"
+   },
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "coupang:8354788",
    "source": "coupang",
@@ -965,7 +1045,7 @@
    "location": "의왕",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-12-31",
+   "deadline": "2026-11-15",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
    "tags": [
     "집중 상시 채용"
@@ -1148,7 +1228,7 @@
    "id": "coupang:8332845",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화) - 신입급",
+   "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화) - 주니어",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
@@ -3208,38 +3288,6 @@
    "pref_skills": []
   },
   {
-   "id": "lgairesearch:4736109005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Speech LLM Research Scientist Internship",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4736109005",
-   "tags": [],
-   "categories": [
-    "research",
-    "llm",
-    "speech"
-   ],
-   "first_seen": "2026-09-20",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-09-20"
-   },
-   "domains": [
-    "llm",
-    "nlp",
-    "speech"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "toss:7998953003",
    "source": "toss",
    "company": "토스",
@@ -4583,32 +4631,6 @@
     "aws",
     "gcp"
    ]
-  },
-  {
-   "id": "toss:7827198003",
-   "source": "toss",
-   "company": "토스",
-   "title": "AI 매니저",
-   "team": "Data Managing",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7827198003",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-15",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-08-15"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "lg:1002072",
@@ -6433,36 +6455,6 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:8011846",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 카탈로그 운영 개선 비즈니스 분석가",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8011846",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-07-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-07-05"
-   },
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [
-    "data-analysis"
-   ],
    "pref_skills": []
   },
   {
