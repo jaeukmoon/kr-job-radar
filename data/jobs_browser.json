@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10",
+ "generated": "2026-11-11",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262374",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Solutions Engineer 구성원 영입",
-   "team": "기타",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-10",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262374",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R261936",
    "source": "sk",
@@ -118,6 +102,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262476",
+   "source": "sk",
+   "company": "SK바이오팜",
+   "title": "AI Platform Operation 구성원 영입",
+   "team": "IT/IT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262476",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
    ]
   },
   {
@@ -328,6 +329,23 @@
    "url": "https://www.skcareers.com/Recruit/Detail/R262339",
    "tags": [],
    "categories": [
+    "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R262457",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI · Data 분야 AI Studio(AI/ML DevOps 플랫폼) 개발/운영 PL 영입",
+   "team": "Tech R&D/Data Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-31",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262457",
+   "tags": [],
+   "categories": [
+    "ml",
     "data-eng"
    ]
   },
@@ -642,6 +660,23 @@
    ]
   },
   {
+   "id": "samsung:23428",
+   "source": "samsung",
+   "company": "삼성E&A",
+   "title": "경력사원 채용(화공 사업관리, 연구개발, 분석)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-24",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "research",
+    "data-analysis"
+   ]
+  },
+  {
    "id": "samsung:23409",
    "source": "samsung",
    "company": "삼성물산 건설부문",
@@ -655,38 +690,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "samsung:23407",
-   "source": "samsung",
-   "company": "삼성바이오에피스",
-   "title": "경력사원 채용(R&D, Medical/임상, 기술이전, Commercial, AI)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-13",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "samsung:23386",
-   "source": "samsung",
-   "company": "삼성E&A",
-   "title": "경력사원 채용(연구개발, 분석)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-10",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "data-analysis"
    ]
   }
  ]
