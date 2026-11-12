@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -99,6 +99,22 @@
    "career_type": "경력",
    "deadline": "2026-11-24",
    "url": "https://www.skcareers.com/Recruit/Detail/R262159",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262456",
+   "source": "sk",
+   "company": "SK온",
+   "title": "SK온 AI 인프라 구축 및 운영 담당자 채용 ",
+   "team": "DT",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262456",
    "tags": [],
    "categories": [
     "ml"

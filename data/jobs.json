@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11",
+ "generated": "2026-11-12",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,75 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262456",
+   "source": "sk",
+   "company": "SK온",
+   "title": "SK온 AI 인프라 구축 및 운영 담당자 채용 ",
+   "team": "DT",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-25",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262456",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-12"
+   },
+   "domains": [
+    "llm",
+    "mlops"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "git",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "k8s",
+    "git"
+   ]
+  },
+  {
+   "id": "coupang:8382219",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[쿠팡] 패션 이커머스 Senior, Program Manager (사업운영·데이터분석_계약직)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8382219",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-12",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-12"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "sql"
+   ]
+  },
   {
    "id": "samsung:23428",
    "source": "samsung",
@@ -1038,41 +1107,6 @@
    "pref_skills": [
     "python"
    ]
-  },
-  {
-   "id": "naver:30005640",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] AI 에이전트 프로덕트/서비스 기획 (경력)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-12",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005640",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-11-04",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-11-04"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "recsys",
-    "data-eng",
-    "retrieval"
-   ],
-   "skills": [
-    "sql",
-    "rag"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "toss:7604234003",
@@ -2792,52 +2826,6 @@
    ]
   },
   {
-   "id": "lgairesearch:4709731005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI Data Engineer Internship",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4709731005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "data-eng"
-   ],
-   "first_seen": "2026-10-01",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-10-01"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "nlp",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "javascript",
-    "k8s",
-    "rag",
-    "git",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "retrieval"
-   ],
-   "pref_skills": [
-    "k8s",
-    "rag"
-   ]
-  },
-  {
    "id": "coupang:8175787",
    "source": "coupang",
    "company": "Coupang",
@@ -3427,47 +3415,6 @@
     "evaluation"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8203172",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff AI Engineer (Security)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8203172",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-16",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-09-16"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "timeseries",
-    "data-eng",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "retrieval"
-   ],
-   "pref_skills": [
-    "rag"
-   ]
   },
   {
    "id": "toss:7992223003",
@@ -4531,46 +4478,6 @@
     "llm",
     "agent",
     "speech"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4593631005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "독자AI파운데이션 모델 개발 Internship (World Best LLM)",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4593631005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "llm"
-   ],
-   "first_seen": "2026-08-19",
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-08-19"
-   },
-   "domains": [
-    "llm",
-    "rl",
-    "pretraining",
-    "posttraining"
-   ],
-   "skills": [
-    "python",
-    "pytorch",
-    "huggingface",
-    "linux"
-   ],
-   "pref_domains": [
-    "llm",
-    "pretraining"
    ],
    "pref_skills": []
   },
