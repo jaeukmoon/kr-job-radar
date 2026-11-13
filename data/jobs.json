@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12",
+ "generated": "2026-11-13",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,150 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "samsung:23492",
+   "source": "samsung",
+   "company": "삼성화재",
+   "title": "경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-23",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-13",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-13"
+   },
+   "domains": [
+    "llm",
+    "mlops",
+    "data-eng",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "k8s",
+    "aws",
+    "vllm",
+    "langchain",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "mlops",
+    "data-eng",
+    "efficient-inference"
+   ],
+   "pref_skills": [
+    "python",
+    "sql",
+    "airflow",
+    "k8s",
+    "aws",
+    "vllm",
+    "langchain"
+   ]
+  },
+  {
+   "id": "coupang:8382373",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Software Engineer, AI Platform (GenAI & Agent Infrastructure)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8382373",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-11-13",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-13"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "k8s",
+    "aws",
+    "langchain",
+    "rag",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "k8s",
+    "aws",
+    "langchain",
+    "rag"
+   ]
+  },
+  {
+   "id": "coupang:8302736",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Backend Engineer (Fintech Data Platform)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8302736",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-11-13",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-13"
+   },
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "java",
+    "sql",
+    "spark",
+    "kafka",
+    "flink",
+    "k8s",
+    "aws",
+    "spring"
+   ],
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [
+    "kafka",
+    "k8s",
+    "aws"
+   ]
+  },
   {
    "id": "sk:R262456",
    "source": "sk",
