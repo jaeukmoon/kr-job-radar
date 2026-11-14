@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "sources_ok": [
   "naver",
   "kakao",
@@ -17,6 +17,85 @@
   "kt: HTTP Error 500: Internal Server Error"
  ],
  "jobs": [
+  {
+   "id": "sk:R262507",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262507",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-14",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-14"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262503",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+   "tags": [],
+   "categories": [
+    "research",
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-14",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-14"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262506",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-14",
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-14"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "samsung:23492",
    "source": "samsung",
@@ -951,44 +1030,6 @@
     "python",
     "cpp",
     "pytorch"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "naver:30005652",
-   "source": "naver",
-   "company": "NAVER",
-   "title": "[NAVER] 음성번역 품질 평가/멀티모달 번역 연구 (인턴)",
-   "team": "Tech · 공통",
-   "location": "",
-   "employment_type": "인턴",
-   "career_type": "신입",
-   "deadline": "2026-11-13",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005652",
-   "tags": [],
-   "categories": [
-    "research",
-    "speech"
-   ],
-   "first_seen": "2026-11-05",
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-11-05"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "vision",
-    "speech",
-    "recsys",
-    "multimodal",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "git"
    ],
    "pref_domains": [],
    "pref_skills": []

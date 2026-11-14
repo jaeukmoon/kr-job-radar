@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -200,6 +200,55 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262503",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[경력] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 경력사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262503",
+   "tags": [],
+   "categories": [
+    "research",
+    "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262506",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[경력] SK바이오텍 Peptide 공정개발 연구원(R&D) 경력사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262506",
+   "tags": [],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "sk:R262507",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[신입] SK바이오텍 Peptide 공정개발 연구원(R&D) 신입사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262507",
+   "tags": [],
+   "categories": [
+    "research"
    ]
   },
   {
