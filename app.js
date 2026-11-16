@@ -5,7 +5,7 @@
 let DATA = window.JOBS_DATA || null;
 let jobs = [];
 let state = { company: "all", newOnly: false, sort: "recent", search: "",
-              trendScope: "pref", trendFilter: null, period: "all", deadline: "open", savedOnly: false };
+              degree: "all", degreeSection: "all", trendScope: "pref", trendFilter: null, period: "all", deadline: "open", savedOnly: false };
 let savedJobs = new Set();
 try { savedJobs = new Set(JSON.parse(localStorage.getItem("kjr_saved") || "[]")); } catch (_) {}
 let cvSkills = [];          // extracted skill ids from CV
@@ -142,6 +142,7 @@ function baseJobs() {
     (state.company === "all" || j.company === state.company) &&
     (state.period === "all" || JobInsights.recent(j, Number(state.period))) &&
     (state.deadline === "all" || daysTo(j.deadline) === null || daysTo(j.deadline) >= 0) &&
+    DegreeFilters.matches(j, state.degree, state.degreeSection) &&
     (!state.savedOnly || savedJobs.has(j.id)) &&
     (!state.newOnly || j.first_seen === DATA.generated) &&
     (!kw || [j.title, j.company, j.location, j.team, ...(j.tags || []),
@@ -197,6 +198,7 @@ function render() {
       </div>
       ${m && m.hits.length ? `<div class="mk">${m.hits.map(h => `<span>${esc(h)}</span>`).join("")}</div>` : ""}
       ${(doms || sks) ? `<div class="jtags">${doms}${sks}</div>` : ""}
+      ${DegreeFilters.markup(j, esc)}
       <div class="actions">
         <button class="iconbtn save-job" data-job-id="${esc(j.id)}" aria-pressed="${savedJobs.has(j.id)}">${savedJobs.has(j.id) ? "관심 해제" : "관심 저장"}</button>
         <button class="iconbtn" onclick="aiAnalyze('${esc(j.id)}')">AI 적합도 분석</button>
@@ -431,7 +433,16 @@ document.getElementById("jobList").addEventListener("click", e => {
   if (savedJobs.has(id)) savedJobs.delete(id); else savedJobs.add(id);
   localStorage.setItem("kjr_saved", JSON.stringify([...savedJobs])); render();
 });
+for (const [id, key] of [["degreeFilter", "degree"], ["degreeSection", "degreeSection"]]) {
+  document.getElementById(id).addEventListener("change", event => {
+    state[key] = event.target.value;
+    render();
+  });
+}
 document.getElementById("resetFilters").addEventListener("click", () => {
+  state.degree = state.degreeSection = "all";
+  document.getElementById("degreeFilter").value = "all";
+  document.getElementById("degreeSection").value = "all";
   Object.assign(state, {company: "all", newOnly: false, period: "all", deadline: "open", savedOnly: false, search: "", trendFilter: null});
   document.getElementById("search").value = "";
   document.getElementById("periodFilter").value = "all";

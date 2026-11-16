@@ -1,7 +1,7 @@
 "use strict";
-const CACHE = "kr-job-radar-public-v1";
+const CACHE = "kr-job-radar-public-v2";
 const ROOT = new URL("./", self.location.href);
-const ASSETS = ["./", "index.html", "style.css", "app.js", "insights.js", "install.js",
+const ASSETS = ["./", "index.html", "style.css", "app.js", "degree_filters.js", "insights.js", "install.js",
   "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png",
   "icons/icon-maskable.png", "icons/apple-touch-icon.png", "data/jobs.js"];
 const URLS = new Set(ASSETS.map(path => new URL(path, ROOT).href));

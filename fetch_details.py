@@ -26,6 +26,7 @@ from datetime import date
 from pathlib import Path
 
 from fetch_jobs import http_get, get_json, post_json
+from degree_requirements import extract_degrees
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
@@ -215,7 +216,7 @@ def bulk_kakao(_need):
             else:
                 qual = strip_html(j.get("qualification") or "")
                 duties = strip_html(j.get("workContentDesc") or "")
-                full = f"{duties}\n{qual}"
+                full = f"{duties}\n자격요건\n{qual}"
                 pref = split_min_pref(qual)[1]
             out[jid] = (full, pref)
         if page >= int(d.get("totalPage") or 1):
@@ -286,7 +287,7 @@ def one_hyundai(job):
                  headers={"X-HKMC-SERVICE": "HM", "X-HKMC-TOKEN": "null"})
     ai = (d.get("data") or {}).get("applyInfo") or {}
     mn, pr, du = ai.get("privMustReq") or "", ai.get("prefReq") or "", ai.get("privJdDtl") or ""
-    return (f"{du}\n{mn}\n{pr}", pr)
+    return (f"{du}\n자격요건\n{mn}\n우대사항\n{pr}", pr)
 
 
 def one_samsung(job):
@@ -296,7 +297,8 @@ def one_samsung(job):
     mins = [it.get("qlfctKr") or "" for it in items]
     prefs = [it.get("favorKr") or "" for it in items]
     duties = [it.get("taskKr") or "" for it in items]
-    return ("\n".join(duties + mins + prefs), "\n".join(prefs))
+    return ("\n".join(f"담당업무\n{du}\n자격요건\n{mn}\n우대사항\n{pr}"
+                       for du, mn, pr in zip(duties, mins, prefs)), "\n".join(prefs))
 
 
 def one_woowahan(job):
@@ -325,7 +327,8 @@ def one_lg(job):
     mins = [strip_html(r.get("requiredItem") or "") for r in recs]
     prefs = [strip_html(r.get("preferredItem") or "") for r in recs]
     duties = [strip_html(r.get("detailContext") or "") for r in recs]
-    return ("\n".join(duties + mins + prefs), "\n".join(prefs))
+    return ("\n".join(f"담당업무\n{du}\n자격요건\n{mn}\n우대사항\n{pr}"
+                       for du, mn, pr in zip(duties, mins, prefs)), "\n".join(prefs))
 
 
 def one_sk(job):
@@ -360,7 +363,8 @@ def main():
     cached_only = "--cached-only" in sys.argv
     need_by_source = {}
     for j in jobs:
-        if not cached_only and not cache.get(j["id"], {}).get("full"):
+        if not cached_only and (not cache.get(j["id"], {}).get("full")
+                                or "degrees" not in cache.get(j["id"], {})):
             need_by_source.setdefault(j["source"], []).append(j)
 
     # bulk sources: one (or few) calls cover all their postings
@@ -371,7 +375,8 @@ def main():
             idx = fn(need_by_source[src])
             for j in need_by_source[src]:
                 full, pref = idx.get(j["id"], ("", ""))
-                cache[j["id"]] = {"full": full[:FULL_CAP], "pref": pref[:PREF_CAP], "d": today}
+                cache[j["id"]] = {"full": full[:FULL_CAP], "pref": pref[:PREF_CAP], "d": today,
+                                  "degrees": extract_degrees(full, preferred=pref or None)}
             print(f"[{src}] bulk quals for {len(need_by_source[src])} postings")
         except Exception as e:
             print(f"[{src}] bulk quals ERROR: {e}", file=sys.stderr)
@@ -382,7 +387,8 @@ def main():
             try:
                 res = fn(j)
                 full, pref = res if res else ("", "")
-                cache[j["id"]] = {"full": full[:FULL_CAP], "pref": pref[:PREF_CAP], "d": today}
+                cache[j["id"]] = {"full": full[:FULL_CAP], "pref": pref[:PREF_CAP], "d": today,
+                                  "degrees": extract_degrees(full, preferred=pref or None)}
             except Exception as e:
                 print(f"[{src}] {j['id']} quals ERROR: {e}", file=sys.stderr)
             time.sleep(0.3)
@@ -393,6 +399,8 @@ def main():
     enriched = 0
     for j in jobs:
         c = cache.get(j["id"])
+        j["degree_requirements"] = (c or {}).get("degrees") or extract_degrees(
+            (c or {}).get("full", ""), preferred=(c or {}).get("pref") or None)
         j["detail_quality"] = {"full": bool(c and c.get("full")),
                                "preferred": bool(c and c.get("pref")),
                                "fetched_at": c.get("d") if c else None}
