@@ -25,7 +25,7 @@ import time
 from datetime import date
 from pathlib import Path
 
-from fetch_jobs import http_get, get_json, post_json
+from fetch_jobs import http_get, get_json, post_json, kt_notices
 from degree_requirements import extract_degrees
 
 ROOT = Path(__file__).parent
@@ -227,10 +227,8 @@ def bulk_kakao(_need):
 
 
 def bulk_kt(_need):
-    d = get_json("https://recruit.kt.com/api/recruit"
-                 "?isPost=1&isInprogress=1&isContainsContents=1")
     out = {}
-    for j in d.get("data", []):
+    for j in kt_notices(include_contents=True):
         jid = f"kt:{j.get('recruitNoticeSn')}"
         c = j.get("contents") or ""
         if "<img" in c.lower() and "자격" not in c:  # image-only JD (needs OCR) — skip

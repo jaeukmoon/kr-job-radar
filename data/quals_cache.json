@@ -2522,5 +2522,16 @@
    "unclassified": [],
    "available": true
   }
+ },
+ "kt:259303": {
+  "full": "",
+  "pref": "",
+  "d": "2026-11-16",
+  "degrees": {
+   "required": [],
+   "preferred": [],
+   "unclassified": [],
+   "available": false
+  }
  }
 }

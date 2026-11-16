@@ -265,12 +265,33 @@ def fetch_lg():
     return jobs
 
 
+def kt_notices(include_contents=False):
+    """Current public KT API, shared by listing and qualification collection."""
+    page, seen, notices = 1, set(), []
+    while True:
+        data = get_json("https://recruit.kt.com/api/recruit"
+                        f"?currentPage={page}&pageSize=100&isInProgress=true"
+                        f"&isContainsContents={str(include_contents).lower()}")
+        if data.get("isSuccess") is not True or not isinstance(data.get("data"), list):
+            raise ValueError("INSUFFICIENT-DATA: KT did not return a successful notice list")
+        rows = data["data"]
+        for row in rows:
+            identity = row.get("recruitNoticeSn")
+            if identity is None or identity in seen:
+                raise ValueError("INSUFFICIENT-DATA: KT notice ID is missing or repeated across pages")
+            seen.add(identity)
+        notices.extend(rows)
+        if len(rows) < 100:
+            return notices
+        page += 1
+
+
 def fetch_kt():
     """recruit.kt.com — KT그룹 채용 (KT·BC카드·kt ds·kt is·kt alpha 등 계열사)."""
-    d = get_json("https://recruit.kt.com/api/recruit"
-                 "?isPost=1&isInprogress=1&isContainsContents=0")
     jobs = []
-    for j in d.get("data", []):
+    for j in kt_notices():
+        if j.get("isTimeOver") is True:
+            continue
         title = j.get("recruitNoticeName") or j.get("title") or ""
         sectors = [s.get("recruitSectorName", "") for s in (j.get("recruitSectorList") or [])
                    if isinstance(s, dict)]
@@ -403,7 +424,7 @@ def main():
             pass
 
     today = date.today().isoformat()
-    all_jobs, errors = [], []
+    all_jobs, errors, successful_sources = [], [], []
     for name, fn in SOURCES.items():
         if only and name != only:
             continue
@@ -412,10 +433,12 @@ def main():
             for j in js:
                 j["first_seen"] = prev.get(j["id"]) or today
             all_jobs.extend(js)
+            successful_sources.append(name)
             print(f"[{name}] {len(js)} jobs")
         except Exception as e:  # keep other sources alive on one failure
             errors.append(f"{name}: {e}")
             print(f"[{name}] ERROR: {e}", file=sys.stderr)
+            print(f"::warning::Source {name} fetch failed: {e}")
 
     # merge browser-fetched sources (Samsung/Hyundai/SK via Playwright), if present.
     # fetch_browser.py writes data/jobs_browser.json in a prior workflow step; if it is
@@ -433,10 +456,12 @@ def main():
         except Exception as e:
             print(f"[browser] merge skipped: {e}", file=sys.stderr)
 
+    if errors and not successful_sources and not browser_ok:
+        raise SystemExit("INSUFFICIENT-DATA: every source failed; previous snapshot preserved")
     all_jobs.sort(key=lambda j: (j["first_seen"], j["company"], j["title"]), reverse=True)
     out = {
         "generated": today,
-        "sources_ok": [n for n in SOURCES if not only or n == only] + browser_ok,
+        "sources_ok": successful_sources + browser_ok,
         "errors": errors,
         "jobs": all_jobs,
     }
