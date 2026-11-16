@@ -472,6 +472,70 @@
    "pref_skills": []
   },
   {
+   "id": "sk:R262514",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 및 사무지원 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-22",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-16",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-16"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262523",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "AI 데이터센터 전력설비 구축 분야 전문가 영입",
+   "team": "건설/플랜트/Utility기술(전기, 제어)",
+   "location": "경기/인천,전라,울산",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262523",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-16",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-16"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
    "id": "coupang:8312121",
    "source": "coupang",
    "company": "Coupang",
@@ -2909,38 +2973,6 @@
     "langchain",
     "rag"
    ]
-  },
-  {
-   "id": "hyundai:2026-N5-241",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 경영연구 사무운영보조 (장애인 제한경쟁)",
-   "team": "기타 · 장애인 제한경쟁",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-16",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=241",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-10-19",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "sk:R262266",
