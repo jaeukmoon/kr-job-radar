@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15",
+ "generated": "2026-11-16",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -151,6 +151,22 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262304",
+   "source": "sk",
+   "company": "티맵모빌리티",
+   "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
+   "team": "기타",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262304",
+   "tags": [],
+   "categories": [
+    "data-analysis"
    ]
   },
   {
@@ -447,6 +463,133 @@
    ]
   },
   {
+   "id": "hyundai:2026-N2-398",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "정책 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=398",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-408",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "오디오/라디오 시스템 소프트웨어 개발",
+   "team": "연구개발 · 전자개발",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=408",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "speech"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-399",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "에너지 기술/시장 동향 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=399",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-395",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "로보틱스 및 AI 기술 전략",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=395",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "ml",
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-397",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조물류지능화] 지능형 AMR 로봇시스템 통합 엔지니어",
+   "team": "생산/제조 · 스마트제조",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=397",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-400",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[제조AI] 제조 비전 AI 모델 운영 및 최적화",
+   "team": "생산/제조 · 생산기술",
+   "location": "의왕연구소",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=400",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-413",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "[ICT] Backend Developer - MLOps 개발",
+   "team": "IT · SW Development",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-11-30",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=413",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "mlops"
+   ]
+  },
+  {
    "id": "hyundai:2026-N2-27",
    "source": "hyundai",
    "company": "현대자동차",
@@ -513,16 +656,16 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-389",
+   "id": "hyundai:2026-N2-401",
    "source": "hyundai",
    "company": "현대자동차",
-   "title": "[로보틱스랩] 로봇 SW 검증/품질 관리",
+   "title": "[로보틱스랩] 로보틱스 SW 검증/품질 관리",
    "team": "사업/기획 · 경영전략",
    "location": "의왕",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-15",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=389",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=401",
    "tags": [
     "집중 상시 채용"
    ],
@@ -709,6 +852,24 @@
    ]
   },
   {
+   "id": "hyundai:2026-N2-391",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": " [로보틱스랩] 로보틱스 HW 검증/품질 관리",
+   "team": "사업/기획 · 경영전략",
+   "location": "의왕",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-31",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=391",
+   "tags": [
+    "집중 상시 채용"
+   ],
+   "categories": [
+    "robotics"
+   ]
+  },
+  {
    "id": "hyundai:2026-N2-330",
    "source": "hyundai",
    "company": "현대자동차",
@@ -755,22 +916,6 @@
    "categories": [
     "research",
     "data-analysis"
-   ]
-  },
-  {
-   "id": "samsung:23409",
-   "source": "samsung",
-   "company": "삼성물산 건설부문",
-   "title": "경력사원 채용(AI서비스개발, 정보기술, 데이터)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-16",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "ml"
    ]
   }
  ]
