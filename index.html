@@ -38,10 +38,13 @@
   <div class="filters overview-filters">
     <label>등록확인 기간 <select id="periodFilter"><option value="all">전체</option><option value="7">최근 7일</option><option value="30">최근 30일</option></select></label>
     <label>공고 상태 <select id="deadlineFilter"><option value="open">마감일이 지나지 않은 공고</option><option value="all">마감 포함 전체</option></select></label>
+    <label>학위 언급 <select id="degreeFilter"><option value="all">전체</option><option value="graduate">석사 또는 박사</option><option value="masters">석사</option><option value="phd">박사</option></select></label>
+    <label>언급 위치 <select id="degreeSection"><option value="all">전체 위치</option><option value="required">기본 자격</option><option value="preferred">우대사항</option><option value="unclassified">본문·구분 미확인</option></select></label>
     <button class="chip" id="savedOnly" aria-pressed="false">관심 공고</button>
     <button class="iconbtn" id="resetFilters">필터 초기화</button>
     <span id="resultCount" role="status"></span>
   </div>
+  <p class="hint">학위가 명시된 문구를 찾습니다. 학위 또는 동등 경력 같은 대안은 원문 그대로 표시하며, 최소 학력·지원 자격 충족을 판정하지 않습니다. 미검출·미확보는 학위 무관을 뜻하지 않습니다.</p>
   <section class="trend" id="trend" data-scope="pref" hidden>
     <div class="trend-head">
       <div>
@@ -207,6 +210,7 @@
 
 <script src="data/jobs.js"></script>
 <script src="insights.js"></script>
+<script src="degree_filters.js"></script>
 <script src="app.js"></script>
 <script src="install.js"></script>
 <script>

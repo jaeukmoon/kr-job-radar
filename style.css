@@ -344,3 +344,9 @@ summary { cursor: pointer; font-size: .9rem; font-weight: 600; padding: 8px 0; }
   .gm-bar { flex-wrap: wrap; font-size: .8rem; }
   #gmFrame { height: 75dvh; min-height: 400px; }
 }
+
+/* Degree evidence remains readable on narrow cards and mobile screens. */
+.degree-evidence,.degree-note{font-size:.8rem;color:var(--muted);margin:10px 0;overflow-wrap:anywhere}
+.degree-evidence summary{cursor:pointer;color:var(--accent);line-height:1.6}
+.degree-evidence p{line-height:1.6;margin:8px 0}
+.degree-evidence b{color:var(--text)}

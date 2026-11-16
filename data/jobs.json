@@ -47,7 +47,13 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-408",
@@ -81,7 +87,18 @@
    "pref_domains": [
     "speech"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "· 전자/전기, 컴퓨터 공학 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-399",
@@ -109,7 +126,18 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "· 공학/경영학 석사 이상의 학위 또는 MBA를 소지하신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-395",
@@ -145,7 +173,22 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "· 로보틱스 및 Physical AI 분야 공학계열 석/박사 학위 보유자 또는 졸업 예정이신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "· 로보틱스 및 Physical AI 분야 공학계열 석/박사 학위 보유자 또는 졸업 예정이신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-397",
@@ -185,7 +228,13 @@
    "pref_skills": [
     "python",
     "cpp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-400",
@@ -229,7 +278,13 @@
     "cpp",
     "cuda",
     "vllm"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-401",
@@ -261,7 +316,13 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-413",
@@ -304,7 +365,13 @@
    ],
    "pref_skills": [
     "vllm"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-391",
@@ -334,7 +401,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262304",
@@ -360,7 +433,13 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8312121",
@@ -386,7 +465,13 @@
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262507",
@@ -407,12 +492,28 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "석사 이상 (화학, 생화학, 약학, 생명과학 및 관련 전공)"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "박사 학위 보유자"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262503",
@@ -434,12 +535,23 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "분석화학 전공 석사 이상"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262506",
@@ -460,12 +572,28 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "석사 이상 (화학, 생화학, 약학, 생명과학 등 관련 전공)"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "박사 학위자(화학, 생화학, 약학, 생명과학 등 관련 전공)"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "samsung:23492",
@@ -486,7 +614,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-13"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -518,7 +646,38 @@
     "aws",
     "vllm",
     "langchain"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "교통공학, 도시공학 등 유관전공 석사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "masters",
+      "text": "전기공학, 안전공학 등 유관전공 석사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "masters",
+      "text": "토목공학, 수자원공학 등 유관전공 석사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "masters",
+      "text": "기계공학, 안전공학 등 유관전공 석사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "masters",
+      "text": "화학공학, 안전공학 등 유관전공 석사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "masters",
+      "text": "안전공학, 소방방재학 등 유관전공 석사 이상 학위 보유하신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8382373",
@@ -540,7 +699,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-13"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -566,7 +725,13 @@
     "aws",
     "langchain",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8302736",
@@ -587,7 +752,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-13"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng"
@@ -609,7 +774,13 @@
     "kafka",
     "k8s",
     "aws"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262456",
@@ -630,7 +801,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -646,7 +817,13 @@
    "pref_skills": [
     "k8s",
     "git"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8382219",
@@ -667,7 +844,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -678,7 +855,13 @@
    "pref_domains": [],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "samsung:23428",
@@ -700,7 +883,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-11"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "rl"
@@ -713,7 +896,34 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "화공, 환경, 기계공학등 유관전공 석/박사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "화공, 환경, 기계공학등 유관전공 석/박사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "화공, 환경, 기계, 재료공학, 화학등 유관전공 박사 학위 보유하신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "화공, 화학등 유관전공 박사 이상 학위 보유하신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "환경(대기처리기술 등) 유관전공 박사 이상 학위 보유하신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262457",
@@ -735,7 +945,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-11"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "mlops",
@@ -760,7 +970,13 @@
     "gcp",
     "azure",
     "spring"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262476",
@@ -782,7 +998,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-11"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng"
@@ -791,7 +1007,13 @@
    "pref_domains": [
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8364665",
@@ -812,7 +1034,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-11"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -823,7 +1045,13 @@
     "powerbi"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "naver:30005689",
@@ -844,12 +1072,18 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-10"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "naver:30005685",
@@ -870,12 +1104,18 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-10"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1001889",
@@ -896,14 +1136,20 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-10"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "agent"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8354788",
@@ -924,7 +1170,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-09"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -940,7 +1186,13 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "woowahan:26400",
@@ -961,7 +1213,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -973,7 +1225,31 @@
     "linux"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": ". 로봇·컴퓨터공학 또는 유사 분야의 석박사 학위"
+     },
+     {
+      "degree": "phd",
+      "text": ". 로봇·컴퓨터공학 또는 유사 분야의 석박사 학위"
+     }
+    ],
+    "unclassified": [
+     {
+      "degree": "masters",
+      "text": "이런 경험이 있다면 더 잘 맞아요. 로봇·컴퓨터공학 또는 유사 분야의 석박사 학위"
+     },
+     {
+      "degree": "phd",
+      "text": "이런 경험이 있다면 더 잘 맞아요. 로봇·컴퓨터공학 또는 유사 분야의 석박사 학위"
+     }
+    ],
+    "available": true
+   }
   },
   {
    "id": "woowahan:26416",
@@ -994,7 +1270,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -1003,7 +1279,18 @@
     "linux"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [
+     {
+      "degree": "masters",
+      "text": "기계·전자·로봇 관련 분야의 석사 이상 학위가 있다면 더 잘 맞아요."
+     }
+    ],
+    "available": true
+   }
   },
   {
    "id": "woowahan:26392",
@@ -1024,14 +1311,20 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "woowahan:26374",
@@ -1052,7 +1345,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1075,7 +1368,13 @@
     "git"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "woowahan:26417",
@@ -1097,7 +1396,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1108,7 +1407,13 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262417",
@@ -1129,7 +1434,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1153,7 +1458,13 @@
     "k8s",
     "aws",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8357697",
@@ -1174,7 +1485,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng",
@@ -1192,7 +1503,13 @@
    ],
    "pref_skills": [
     "airflow"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8352169",
@@ -1213,7 +1530,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -1227,7 +1544,13 @@
    "pref_domains": [],
    "pref_skills": [
     "airflow"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8354858",
@@ -1248,7 +1571,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-06"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng",
@@ -1263,7 +1586,18 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "컴퓨터공학, 정보시스템, 데이터과학 관련 학사 또는 석사 학위 또는 이에 상응하는 실무 경험 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N5-253",
@@ -1284,12 +1618,18 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14581",
@@ -1310,7 +1650,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1333,7 +1673,18 @@
    ],
    "pref_skills": [
     "distributed"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "CS/AI/ML 등 관련 전공 석사 이상 혹은 이에 준하는 관련 프로젝트 경험을 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1002363",
@@ -1354,14 +1705,20 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8345707",
@@ -1382,7 +1739,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -1396,7 +1753,13 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8351940",
@@ -1417,7 +1780,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1429,7 +1792,13 @@
     "airflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8352094",
@@ -1450,7 +1819,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1463,7 +1832,13 @@
     "langchain"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262415",
@@ -1485,7 +1860,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-04"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1507,7 +1882,13 @@
    "pref_skills": [
     "k8s",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "naver:30005662",
@@ -1528,7 +1909,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-04"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1544,7 +1925,13 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7604234003",
@@ -1565,7 +1952,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-03"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1577,7 +1964,13 @@
     "fastapi"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:5847765003",
@@ -1598,7 +1991,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-03"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "evaluation"
@@ -1610,7 +2003,13 @@
     "fastapi"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8273424",
@@ -1631,7 +2030,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-03"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1651,7 +2050,13 @@
     "python",
     "sql",
     "aws"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7569891003",
@@ -1672,7 +2077,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "evaluation"
@@ -1681,7 +2086,13 @@
     "python"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:6675539003",
@@ -1702,7 +2113,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1711,7 +2122,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:8006388003",
@@ -1732,12 +2149,18 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1001432",
@@ -1758,7 +2181,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1773,7 +2196,13 @@
     "git"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8332845",
@@ -1794,7 +2223,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-11-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -1806,7 +2235,13 @@
    "pref_domains": [],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262392",
@@ -1827,7 +2262,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-31"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -1852,7 +2287,13 @@
     "azure",
     "tableau",
     "powerbi"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8305266",
@@ -1873,7 +2314,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-30"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -1887,7 +2328,13 @@
    "pref_domains": [],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8330368",
@@ -1908,7 +2355,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-29"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "recsys",
@@ -1916,7 +2363,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7998166003",
@@ -1937,14 +2390,20 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-10-28"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "mlops"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8179064",
@@ -1965,7 +2424,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-28"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "timeseries",
@@ -1982,7 +2441,13 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8130045",
@@ -2004,7 +2469,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-28"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2023,7 +2488,22 @@
    "pref_skills": [
     "aws",
     "gcp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "Ph.D. or Master degree inComputer Science, Electrical Engineering, Mathematics, Statistics or related science majors"
+     },
+     {
+      "degree": "phd",
+      "text": "Ph.D. or Master degree inComputer Science, Electrical Engineering, Mathematics, Statistics or related science majors"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8323832",
@@ -2044,13 +2524,12 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-27"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
    ],
    "skills": [
-    "python",
     "sql",
     "tableau",
     "powerbi"
@@ -2059,10 +2538,16 @@
     "data-analysis"
    ],
    "pref_skills": [
-    "python",
+    "sql",
     "tableau",
     "powerbi"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8323929",
@@ -2083,7 +2568,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-10-27"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "recsys",
@@ -2093,7 +2578,13 @@
     "aws"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262339",
@@ -2114,7 +2605,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-26"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng"
@@ -2129,7 +2620,13 @@
    ],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4223874005",
@@ -2151,7 +2648,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-26"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2168,7 +2665,13 @@
     "nlp",
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8316768",
@@ -2189,7 +2692,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-24"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -2207,7 +2710,13 @@
     "sql",
     "tableau",
     "powerbi"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:8039958003",
@@ -2228,7 +2737,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng"
@@ -2242,8 +2751,16 @@
     "airflow",
     "flink"
    ],
-   "pref_domains": [],
-   "pref_skills": []
+   "pref_domains": [
+    "data-eng"
+   ],
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262275",
@@ -2264,7 +2781,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2296,7 +2813,13 @@
     "azure",
     "langchain",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262283",
@@ -2317,7 +2840,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2349,7 +2872,13 @@
     "azure",
     "langchain",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N5-241",
@@ -2370,12 +2899,18 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-19"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262266",
@@ -2397,14 +2932,20 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-17"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
     "k8s"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4744424005",
@@ -2425,7 +2966,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-17"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2448,7 +2989,18 @@
     "javascript",
     "go",
     "k8s"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "유관 전공 (컴퓨터공학, 전자 전기공학, 인공지능 등) 학/석사 재학생 및 졸업생"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262252",
@@ -2469,7 +3021,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-16"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision"
@@ -2478,7 +3030,13 @@
     "python"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8283901",
@@ -2499,7 +3057,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-15"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2514,7 +3072,13 @@
    ],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262231",
@@ -2535,12 +3099,18 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8280199",
@@ -2561,7 +3131,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2577,7 +3147,13 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8275940",
@@ -2598,17 +3174,24 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
-    "recsys",
     "data-analysis"
    ],
    "skills": [
     "sql"
    ],
-   "pref_domains": [],
-   "pref_skills": []
+   "pref_domains": [
+    "data-analysis"
+   ],
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1002288",
@@ -2629,7 +3212,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-13"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -2640,7 +3223,13 @@
    "pref_skills": [
     "javascript",
     "spring"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8239021",
@@ -2661,7 +3250,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-13"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2675,7 +3264,13 @@
    "pref_domains": [],
    "pref_skills": [
     "aws"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262196",
@@ -2696,7 +3291,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2724,7 +3319,13 @@
    "pref_skills": [
     "langchain",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8248619",
@@ -2745,7 +3346,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2760,7 +3361,13 @@
    ],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8258122",
@@ -2781,14 +3388,20 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8260755",
@@ -2809,7 +3422,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2832,7 +3445,13 @@
     "spark",
     "airflow",
     "aws"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8245169",
@@ -2853,12 +3472,18 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-10-09"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262169",
@@ -2879,7 +3504,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-08"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng",
@@ -2893,7 +3518,13 @@
    "pref_domains": [
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7728018003",
@@ -2914,7 +3545,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-08"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "recsys",
@@ -2928,7 +3559,13 @@
    "pref_domains": [
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262159",
@@ -2949,7 +3586,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -2963,7 +3600,13 @@
     "python",
     "java",
     "javascript"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4693142005",
@@ -2984,7 +3627,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -2998,7 +3641,13 @@
    "pref_domains": [
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8207192",
@@ -3019,7 +3668,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm"
@@ -3034,7 +3683,13 @@
     "agent",
     "data-analysis"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14558",
@@ -3056,7 +3711,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-03"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3071,7 +3726,18 @@
     "llm",
     "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "CS/AI/ML 등 관련 전공 석사 이상 혹은 이에 준하는 관련 프로젝트 경험을 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:8011144003",
@@ -3092,14 +3758,20 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-10-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14559",
@@ -3121,7 +3793,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3138,7 +3810,18 @@
    "pref_skills": [
     "cuda",
     "distributed"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "CS/AI/ML 등 관련 전공 석사 이상 혹은 이에 준하는 관련 프로젝트 경험을 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8242506",
@@ -3159,7 +3842,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-02"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3181,7 +3864,13 @@
    "pref_skills": [
     "hadoop",
     "airflow"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4739196005",
@@ -3202,7 +3891,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3229,7 +3918,22 @@
    "pref_skills": [
     "k8s",
     "git"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "Computer Vision 및 관련 분야 석/박사 학위 보유"
+     },
+     {
+      "degree": "phd",
+      "text": "Computer Vision 및 관련 분야 석/박사 학위 보유"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8175787",
@@ -3250,14 +3954,13 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-10-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision",
     "data-analysis"
    ],
    "skills": [
-    "python",
     "sql",
     "tableau",
     "powerbi"
@@ -3268,7 +3971,13 @@
    "pref_skills": [
     "tableau",
     "powerbi"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:8007436003",
@@ -3290,11 +3999,10 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-29"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
-    "agent",
     "rl",
     "vision",
     "posttraining",
@@ -3314,7 +4022,13 @@
    ],
    "pref_skills": [
     "k8s"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4738301005",
@@ -3335,7 +4049,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-29"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3348,7 +4062,18 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "Computer science, industrial engineering, operations research, applied mathematics 또는 관련 분야의 석사 이상 학위"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4738783005",
@@ -3370,7 +4095,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-29"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3382,7 +4107,22 @@
     "llm",
     "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "관련 분야 석사 또는 박사 학위 소지"
+     },
+     {
+      "degree": "phd",
+      "text": "관련 분야 석사 또는 박사 학위 소지"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4722545005",
@@ -3403,7 +4143,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-28"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3419,7 +4159,13 @@
    ],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7995370003",
@@ -3440,7 +4186,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-24"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng",
@@ -3451,7 +4197,13 @@
     "tableau"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8219658",
@@ -3472,7 +4224,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-24"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -3483,7 +4235,13 @@
    "pref_skills": [
     "sql",
     "tableau"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-366",
@@ -3504,7 +4262,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision",
@@ -3530,7 +4288,18 @@
     "tensorflow",
     "cuda",
     "vllm"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 컴퓨터공학, 소프트웨어공학, 로봇공학 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:6025151003",
@@ -3552,7 +4321,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision",
@@ -3560,7 +4329,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7996773003",
@@ -3581,7 +4356,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3597,7 +4372,13 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:8000575003",
@@ -3618,7 +4399,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3634,7 +4415,13 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8219716",
@@ -3655,14 +4442,20 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-22"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7998953003",
@@ -3683,7 +4476,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-19"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3699,7 +4492,13 @@
     "huggingface"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7825079003",
@@ -3720,7 +4519,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-19"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -3731,7 +4530,13 @@
     "hadoop"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R262015",
@@ -3753,7 +4558,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-17"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3777,7 +4582,13 @@
    "pref_skills": [
     "aws",
     "langchain"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4734450005",
@@ -3798,7 +4609,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-17"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3820,7 +4631,13 @@
     "posttraining",
     "evaluation"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7992223003",
@@ -3841,7 +4658,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3853,7 +4670,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R261940",
@@ -3875,7 +4698,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3893,7 +4716,13 @@
    ],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R261938",
@@ -3914,7 +4743,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3934,7 +4763,13 @@
    ],
    "pref_skills": [
     "k8s"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R261937",
@@ -3955,7 +4790,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -3970,7 +4805,13 @@
    ],
    "pref_skills": [
     "sql"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R261936",
@@ -3991,7 +4832,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4007,7 +4848,13 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R261939",
@@ -4028,7 +4875,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4052,7 +4899,13 @@
     "k8s",
     "langchain",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1002199",
@@ -4073,7 +4926,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-11"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4102,7 +4955,13 @@
     "javascript",
     "langchain",
     "rag"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7990802003",
@@ -4123,7 +4982,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-10"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4141,7 +5000,13 @@
     "huggingface"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8188042",
@@ -4162,7 +5027,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-10"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4183,7 +5048,13 @@
    "pref_skills": [
     "airflow",
     "k8s"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7742346003",
@@ -4204,7 +5075,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-08"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-analysis"
@@ -4213,7 +5084,13 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1002176",
@@ -4234,7 +5111,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4270,7 +5147,43 @@
     "cpp",
     "pytorch",
     "langchain"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "AI관련 연구로 석/박사 학위자"
+     },
+     {
+      "degree": "phd",
+      "text": "AI관련 연구로 석/박사 학위자"
+     },
+     {
+      "degree": "masters",
+      "text": "전자공학, 컴퓨터공학, 산업공학 등 AI, Vision 관련 석사이상(박사 우대) 학위 보유자"
+     },
+     {
+      "degree": "phd",
+      "text": "전자공학, 컴퓨터공학, 산업공학 등 AI, Vision 관련 석사이상(박사 우대) 학위 보유자"
+     },
+     {
+      "degree": "masters",
+      "text": "통계학, AI, 컴퓨팅, 수학, 최적화 관련 연구 석/박사 학위자"
+     },
+     {
+      "degree": "phd",
+      "text": "통계학, AI, 컴퓨팅, 수학, 최적화 관련 연구 석/박사 학위자"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "유관 전공 박사학위자"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7985134003",
@@ -4291,15 +5204,23 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-09-04"
+    "fetched_at": "2026-11-16"
    },
-   "domains": [],
+   "domains": [
+    "data-analysis"
+   ],
    "skills": [
     "sql",
     "tableau"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4750",
@@ -4320,7 +5241,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-04"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng"
@@ -4338,7 +5259,13 @@
     "sql",
     "kafka",
     "k8s"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8171509",
@@ -4359,7 +5286,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-04"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4371,7 +5298,13 @@
    "pref_domains": [],
    "pref_skills": [
     "python"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-323",
@@ -4392,7 +5325,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4409,7 +5342,13 @@
     "python",
     "cpp",
     "git"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-328",
@@ -4430,7 +5369,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4443,7 +5382,18 @@
    "pref_skills": [
     "python",
     "cpp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 기계공학, 전기·전자공학, 컴퓨터공학, 로봇공학 관련 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-325",
@@ -4464,7 +5414,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4473,7 +5423,13 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-331",
@@ -4494,7 +5450,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4503,7 +5459,13 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-326",
@@ -4524,7 +5486,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "rl",
@@ -4541,7 +5503,18 @@
     "python",
     "cpp",
     "linux"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 기계공학, 전기· 전자공학, 컴퓨터공학, 로봇공학 관련 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-329",
@@ -4562,7 +5535,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4571,7 +5544,13 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-324",
@@ -4592,7 +5571,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4602,7 +5581,13 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-322",
@@ -4624,7 +5609,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision",
@@ -4643,7 +5628,18 @@
    ],
    "pref_skills": [
     "vllm"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 전기ㆍ전자공학, AI, 컴퓨터사이언스 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-327",
@@ -4664,7 +5660,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "rl",
@@ -4684,7 +5680,18 @@
    "pref_skills": [
     "cpp",
     "linux"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 기계공학, 전기·전자공학, 로봇공학 관련 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-321",
@@ -4706,7 +5713,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "rl",
@@ -4725,7 +5732,18 @@
     "robotics",
     "world-model"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 전기ㆍ전자공학, AI, 컴퓨터사이언스 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-330",
@@ -4746,7 +5764,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-09-01"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -4755,7 +5773,13 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:6279876003",
@@ -4776,7 +5800,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-08-25"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "agent",
@@ -4786,7 +5810,13 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4725958005",
@@ -4807,7 +5837,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-08-21"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4818,7 +5848,22 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "유관 분야 석/박사과정 진행중인 분"
+     },
+     {
+      "degree": "phd",
+      "text": "유관 분야 석/박사과정 진행중인 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8146344",
@@ -4840,7 +5885,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-08-21"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4851,7 +5896,22 @@
     "llm",
     "nlp"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "Masters or Ph.D. in Computer Science or related technical fields."
+     },
+     {
+      "degree": "phd",
+      "text": "Masters or Ph.D. in Computer Science or related technical fields."
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "sk:R261800",
@@ -4872,7 +5932,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-08-19"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4885,7 +5945,13 @@
     "agent",
     "speech"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8130040",
@@ -4907,7 +5973,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-08-19"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -4926,7 +5992,22 @@
    "pref_skills": [
     "aws",
     "gcp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "Ph.D. or Master degree inComputer Science, Electrical Engineering, Mathematics, Statistics or related science majors"
+     },
+     {
+      "degree": "phd",
+      "text": "Ph.D. or Master degree inComputer Science, Electrical Engineering, Mathematics, Statistics or related science majors"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1002072",
@@ -4947,12 +6028,18 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-08-15"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8048155",
@@ -4973,9 +6060,10 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-08-12"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
+    "llm",
     "agent"
    ],
    "skills": [
@@ -4984,7 +6072,13 @@
     "sql"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14519",
@@ -5007,7 +6101,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-08-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5023,7 +6117,13 @@
     "distributed"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7821118003",
@@ -5044,14 +6144,20 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-31"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4737",
@@ -5072,19 +6178,30 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-30"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
+    "llm",
     "robotics",
     "data-eng"
    ],
    "skills": [
+    "cpp",
     "linux"
    ],
    "pref_domains": [
+    "llm",
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [
+    "linux"
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4719752005",
@@ -5105,7 +6222,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-30"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5131,7 +6248,30 @@
    "pref_skills": [
     "k8s",
     "fastapi"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "인공지능, 자연어처리 관련 분야의 석사·박사 학위를 보유하신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "인공지능, 자연어처리 관련 분야의 석사·박사 학위를 보유하신 분"
+     },
+     {
+      "degree": "masters",
+      "text": "학사 졸업 후 4년 이상 유관 경력 보유자 혹은 인공지능, 자연어처리 관련 분야의 석사/박사 학위 보유자"
+     },
+     {
+      "degree": "phd",
+      "text": "학사 졸업 후 4년 이상 유관 경력 보유자 혹은 인공지능, 자연어처리 관련 분야의 석사/박사 학위 보유자"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4591478005",
@@ -5152,7 +6292,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-28"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5180,7 +6320,18 @@
     "airflow",
     "k8s",
     "distributed"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "컴퓨터과학, 컴퓨터공학 등 관련 전공 학/석사 재학생 또는 졸업생"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:4695176003",
@@ -5201,7 +6352,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-21"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5222,7 +6373,13 @@
     "tableau"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4730",
@@ -5243,7 +6400,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-16"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -5252,7 +6409,13 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14469",
@@ -5274,7 +6437,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-16"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5304,7 +6467,13 @@
     "cuda",
     "vllm",
     "huggingface"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4623079005",
@@ -5326,7 +6495,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-14"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5342,7 +6511,22 @@
    "pref_domains": [],
    "pref_skills": [
     "pytorch"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "관련 분야 석사 또는 박사 학위 소지"
+     },
+     {
+      "degree": "phd",
+      "text": "관련 분야 석사 또는 박사 학위 소지"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:7668948003",
@@ -5363,7 +6547,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-07"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "recsys",
@@ -5371,7 +6555,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-27",
@@ -5394,7 +6584,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics"
@@ -5403,7 +6593,18 @@
    "pref_domains": [
     "robotics"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "· 산업 정책, 기업 경영, 경제학, 경영학, 산업공학, 기술경영 등의 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-99",
@@ -5424,7 +6625,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "timeseries"
@@ -5441,7 +6642,13 @@
     "java",
     "scala",
     "go"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-98",
@@ -5462,7 +6669,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "mlops",
@@ -5488,7 +6695,13 @@
     "flink",
     "k8s",
     "gcp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "hyundai:2026-N2-209",
@@ -5509,7 +6722,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -5517,7 +6730,23 @@
     "cpp"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "· 인공지능/전자/컴퓨터공학 분야에서 석사 이상의 학위를 보유하신 분"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "· NPU 또는 GPU를 대상으로 한 컴파일러 분야에서 박사 학위를 보유하신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:6434513003",
@@ -5538,23 +6767,25 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
-    "data-eng",
-    "data-analysis"
+    "data-eng"
    ],
    "skills": [
     "python",
     "java",
-    "scala",
     "sql",
-    "spark",
-    "hadoop",
-    "kafka"
+    "hadoop"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:6603749003",
@@ -5575,7 +6806,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng"
@@ -5583,7 +6814,6 @@
    "skills": [
     "java",
     "sql",
-    "hadoop",
     "kafka",
     "flink",
     "spring"
@@ -5593,7 +6823,13 @@
    ],
    "pref_skills": [
     "kafka"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:6600650003",
@@ -5614,7 +6850,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -5623,7 +6859,13 @@
     "k8s"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:5960616003",
@@ -5645,7 +6887,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5662,12 +6904,20 @@
     "kafka",
     "airflow"
    ],
-   "pref_domains": [],
+   "pref_domains": [
+    "data-analysis"
+   ],
    "pref_skills": [
     "sql",
     "hadoop",
     "airflow"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:4770769003",
@@ -5688,7 +6938,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5713,7 +6963,13 @@
     "rag"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "toss:4071131003",
@@ -5734,7 +6990,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "mlops",
@@ -5748,7 +7004,13 @@
    "pref_skills": [
     "python",
     "sql"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4689",
@@ -5769,7 +7031,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng",
@@ -5789,7 +7051,13 @@
     "hadoop",
     "aws",
     "gcp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4699",
@@ -5810,7 +7078,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -5818,7 +7086,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4706",
@@ -5839,7 +7113,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "data-eng",
@@ -5849,7 +7123,13 @@
    "pref_domains": [
     "data-eng"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4681",
@@ -5870,7 +7150,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "robotics",
@@ -5886,7 +7166,22 @@
    "pref_skills": [
     "python",
     "cpp"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "관련 석/박사 학위가 있으신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "관련 석/박사 학위가 있으신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4680",
@@ -5908,7 +7203,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision",
@@ -5933,7 +7228,22 @@
     "cpp",
     "cuda",
     "vllm"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "관련 석/박사 학위가 있으신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "관련 석/박사 학위가 있으신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4725",
@@ -5956,7 +7266,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "vision",
@@ -5973,7 +7283,18 @@
     "vllm"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "박사 학위 소지자 또는 박사 과정 졸업 예정자이신 분"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:S-4306",
@@ -5995,7 +7316,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6013,7 +7334,27 @@
     "robotics",
     "multimodal"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "머신러닝 / 컴퓨터 비전 / 로보틱스 관련 석박사 학위 또는 이에 준하는 연구 경험이 있으신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "머신러닝 / 컴퓨터 비전 / 로보틱스 관련 석박사 학위 또는 이에 준하는 연구 경험이 있으신 분"
+     }
+    ],
+    "unclassified": [
+     {
+      "degree": "phd",
+      "text": "5년 이상의 실무 경험이 있으신 분 (또는 이에 준하는 연구 역량을 갖춘 박사 졸업 예정자 지원 가능)"
+     }
+    ],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14402",
@@ -6035,7 +7376,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6056,7 +7397,22 @@
     "llm",
     "multimodal"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "딥러닝 관련 분야 석사 또는 박사 학위, 또는 이에 준하는 관련 경력 2년 이상을 보유하신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "딥러닝 관련 분야 석사 또는 박사 학위, 또는 이에 준하는 관련 경력 2년 이상을 보유하신 분"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14324",
@@ -6077,7 +7433,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6105,7 +7461,13 @@
    "pref_skills": [
     "airflow",
     "k8s"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "kakao:P-14276",
@@ -6126,7 +7488,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -6139,7 +7501,13 @@
    "pref_domains": [],
    "pref_skills": [
     "hadoop"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lg:1001506",
@@ -6160,7 +7528,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6187,7 +7555,13 @@
     "airflow",
     "k8s",
     "git"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4708027005",
@@ -6209,7 +7583,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm"
@@ -6221,7 +7595,22 @@
    "pref_domains": [
     "llm"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "관련 분야 석사/박사 졸업자(예정자) 및 경력자"
+     },
+     {
+      "degree": "phd",
+      "text": "관련 분야 석사/박사 졸업자(예정자) 및 경력자"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4080978005",
@@ -6242,19 +7631,21 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
-    "llm",
-    "rl",
-    "timeseries",
-    "multimodal",
-    "evaluation",
-    "world-model"
+    "agent",
+    "rl"
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4012547005",
@@ -6276,7 +7667,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6286,7 +7677,18 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "해당 분야 석사 졸업 혹은 이에 준하는 경력 필요"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4179238005",
@@ -6307,7 +7709,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6321,7 +7723,23 @@
     "pretraining",
     "posttraining"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "AI 분야 석사 학위 소지자 또는 6개월 내 학위 취득 예정자"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "AI 분야 박사 학위 소지자"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4708924005",
@@ -6344,7 +7762,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6368,7 +7786,22 @@
    ],
    "pref_skills": [
     "distributed"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "컴퓨터 비전·머신러닝·로보틱스 등 유관 분야 석사 학위 및 관련 경력 3년 이상, 또는 박사 학위 보유자 (졸업 예정자 포함)"
+     },
+     {
+      "degree": "phd",
+      "text": "컴퓨터 비전·머신러닝·로보틱스 등 유관 분야 석사 학위 및 관련 경력 3년 이상, 또는 박사 학위 보유자 (졸업 예정자 포함)"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4080869005",
@@ -6390,7 +7823,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6401,7 +7834,23 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "Ph.D. degree with publications in major machine learning conferences."
+     }
+    ],
+    "unclassified": [
+     {
+      "degree": "phd",
+      "text": "Nice to have Ph.D. degree with publications in major machine learning conferences."
+     }
+    ],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4080871005",
@@ -6423,7 +7872,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6434,7 +7883,31 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "an advanced degree (e.g., M.S. or Ph.D.) with publications in major machine learning conferences."
+     },
+     {
+      "degree": "phd",
+      "text": "an advanced degree (e.g., M.S. or Ph.D.) with publications in major machine learning conferences."
+     }
+    ],
+    "unclassified": [
+     {
+      "degree": "masters",
+      "text": "Nice to have an advanced degree (e.g., M.S. or Ph.D.) with publications in major machine learning conferences."
+     },
+     {
+      "degree": "phd",
+      "text": "Nice to have an advanced degree (e.g., M.S. or Ph.D.) with publications in major machine learning conferences."
+     }
+    ],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4603031005",
@@ -6455,7 +7928,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [
@@ -6463,7 +7936,13 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4083477005",
@@ -6485,7 +7964,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6504,7 +7983,18 @@
     "rag"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "석사 학위 이상"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4024293005",
@@ -6525,7 +8015,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6535,7 +8025,18 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "해당 분야 석사 졸업 혹은 이에 준하는 경력 필요"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4012564005",
@@ -6556,7 +8057,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6571,7 +8072,13 @@
     "git"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4180455005",
@@ -6593,7 +8100,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6615,7 +8122,22 @@
    "pref_skills": [
     "gcp",
     "distributed"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [
+     {
+      "degree": "masters",
+      "text": "학부 졸업 예정자 및 기 졸업하신 분, 석사/박사 재학중이신 분"
+     },
+     {
+      "degree": "phd",
+      "text": "학부 졸업 예정자 및 기 졸업하신 분, 석사/박사 재학중이신 분"
+     }
+    ],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4607350005",
@@ -6637,7 +8159,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6661,7 +8183,13 @@
     "pytorch",
     "tensorflow",
     "cuda"
-   ]
+   ],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4130830005",
@@ -6683,7 +8211,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6694,7 +8222,13 @@
    ],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4666089005",
@@ -6715,12 +8249,23 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [],
    "skills": [],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "관련 분야 석사 학위 소지 및 5년 이상 유관 분야 실무 경력자"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "lgairesearch:4325674005",
@@ -6741,7 +8286,7 @@
    "detail_quality": {
     "full": true,
     "preferred": false,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6751,7 +8296,18 @@
     "tensorflow"
    ],
    "pref_domains": [],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "해당 분야 석사 졸업 혹은 이에 준하는 경력 필요"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:8012236",
@@ -6772,7 +8328,7 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
@@ -6798,7 +8354,30 @@
     "posttraining",
     "efficient-inference"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "컴퓨터공학, 엔지니어링, 수학, 통계학 또는 관련 분야의 석사 또는 박사 학위(Ph.D.)"
+     },
+     {
+      "degree": "phd",
+      "text": "컴퓨터공학, 엔지니어링, 수학, 통계학 또는 관련 분야의 석사 또는 박사 학위(Ph.D.)"
+     },
+     {
+      "degree": "masters",
+      "text": "Master’s or Ph.D. in Computer Science, Engineering, Mathematics, or a related technical field."
+     },
+     {
+      "degree": "phd",
+      "text": "Master’s or Ph.D. in Computer Science, Engineering, Mathematics, or a related technical field."
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   }
   },
   {
    "id": "coupang:7927865",
@@ -6819,30 +8398,30 @@
    "detail_quality": {
     "full": true,
     "preferred": true,
-    "fetched_at": "2026-07-05"
+    "fetched_at": "2026-11-16"
    },
    "domains": [
     "llm",
-    "recsys",
-    "multimodal",
-    "mlops",
-    "data-eng",
-    "posttraining"
+    "recsys"
    ],
    "skills": [
     "python",
-    "pytorch",
-    "spark",
-    "airflow",
-    "k8s"
+    "cpp",
+    "java",
+    "scala",
+    "go"
    ],
    "pref_domains": [
     "llm",
-    "recsys",
-    "multimodal",
-    "posttraining"
+    "recsys"
    ],
-   "pref_skills": []
+   "pref_skills": [],
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   }
   }
  ],
  "taxonomy": {
