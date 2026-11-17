@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -203,6 +203,22 @@
    ]
   },
   {
+   "id": "sk:R262529",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "AX Engineering (AI Application 개발) 경력사원 채용",
+   "team": "IT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262529",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
    "id": "sk:R262275",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -362,6 +378,23 @@
    "tags": [],
    "categories": [
     "ml"
+   ]
+  },
+  {
+   "id": "sk:R262526",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262526",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
    ]
   },
   {

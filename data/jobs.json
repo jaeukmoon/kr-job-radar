@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-17",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,155 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "sk:R262526",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "반도체 Cloud/AI Platform 개발/운영 전문가 영입",
+   "team": "IT/Platform/Solution",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262526",
+   "tags": [],
+   "categories": [
+    "ml",
+    "mlops"
+   ],
+   "first_seen": "2026-11-17",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-17"
+   },
+   "domains": [],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262529",
+   "source": "sk",
+   "company": "SK바이오사이언스",
+   "title": "AX Engineering (AI Application 개발) 경력사원 채용",
+   "team": "IT",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262529",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-17",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-17"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "aws",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "java",
+    "aws",
+    "rag"
+   ]
+  },
+  {
+   "id": "lg:1002421",
+   "source": "lg",
+   "company": "LG이노텍",
+   "title": "[광학솔루션] R&D분야(개발기획/AI ISP/광기구설계) 경력사원 모집",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-11-30",
+   "url": "https://careers.lg.com/apply/detail?id=1002421",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-17",
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "초소형 카메라 기구물 설계 (8년 이상; 석사기간 포함 가능) 또는"
+     },
+     {
+      "degree": "masters",
+      "text": "설비용 기구물 설계 (8년 이상; 석사기간 포함 가능)"
+     },
+     {
+      "degree": "phd",
+      "text": "딥러닝 기반 영상 복원·향상 모델 개발 경력 6년 이상 (박사는 3년 이상)"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "masters",
+      "text": "기술경영(MOT) 또는 관련 분야 석사 학위 소지"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-17"
+   },
+   "domains": [
+    "mlops",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "cuda",
+    "vllm"
+   ],
+   "pref_domains": [
+    "mlops",
+    "efficient-inference"
+   ],
+   "pref_skills": [
+    "cuda",
+    "vllm"
+   ]
+  },
   {
    "id": "hyundai:2026-N2-398",
    "source": "hyundai",
@@ -464,7 +613,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-16"
+    "fetched_at": "2026-11-17"
    },
    "domains": [],
    "skills": [],
