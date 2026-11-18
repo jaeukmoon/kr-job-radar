@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17",
+ "generated": "2026-11-18",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,147 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "kakao:S-4787",
+   "source": "kakao",
+   "company": "카카오스타일",
+   "title": "[공동체] 카카오스타일 비즈니스 분석가 파트리더",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4787",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-18",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-18"
+   },
+   "domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql",
+    "airflow",
+    "aws"
+   ],
+   "pref_domains": [
+    "data-eng",
+    "data-analysis"
+   ],
+   "pref_skills": [
+    "airflow",
+    "aws"
+   ]
+  },
+  {
+   "id": "kakao:S-4788",
+   "source": "kakao",
+   "company": "카카오스타일",
+   "title": "[공동체] 카카오스타일 MLOps 엔지니어",
+   "team": "",
+   "location": "",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://careers.kakao.com/jobs/S-4788",
+   "tags": [],
+   "categories": [
+    "mlops"
+   ],
+   "first_seen": "2026-11-18",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-18"
+   },
+   "domains": [
+    "llm",
+    "vision",
+    "nlp",
+    "recsys",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "skills": [
+    "python",
+    "spark",
+    "kafka",
+    "airflow",
+    "aws",
+    "git"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "nlp",
+    "multimodal",
+    "mlops",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "kafka"
+   ]
+  },
+  {
+   "id": "coupang:8381980",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "[CFN] Staff Data Scientist (Credit Strategy)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8381980",
+   "tags": [],
+   "categories": [
+    "research"
+   ],
+   "first_seen": "2026-11-18",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-18"
+   },
+   "domains": [
+    "data-analysis"
+   ],
+   "skills": [
+    "python",
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "sk:R262526",
    "source": "sk",
@@ -557,38 +698,6 @@
    "pref_skills": []
   },
   {
-   "id": "sk:R262304",
-   "source": "sk",
-   "company": "티맵모빌리티",
-   "title": "내비게이션 경로 테스트 및 분석 담당자 (계약직)",
-   "team": "기타",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-28",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262304",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-11-16",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "kt:259303",
    "source": "kt",
    "company": "kt netcore",
@@ -613,7 +722,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-17"
+    "fetched_at": "2026-11-18"
    },
    "domains": [],
    "skills": [],
@@ -4417,44 +4526,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8219658",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡] 검색 데이터 운영 담당자",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219658",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-09-24",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
-   "skills": [
-    "sql",
-    "tableau"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "sql",
-    "tableau"
-   ]
-  },
-  {
    "id": "hyundai:2026-N2-366",
    "source": "hyundai",
    "company": "현대자동차",
@@ -6333,40 +6404,6 @@
    "skills": [
     "distributed"
    ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "toss:7821118003",
-   "source": "toss",
-   "company": "토스",
-   "title": "검색 품질 운영 매니저",
-   "team": "Product Operations",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=7821118003",
-   "tags": [],
-   "categories": [
-    "recsys"
-   ],
-   "first_seen": "2026-07-31",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm"
-   ],
-   "skills": [],
    "pref_domains": [],
    "pref_skills": []
   },
