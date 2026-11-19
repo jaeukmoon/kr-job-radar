@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -932,23 +932,6 @@
    "tags": [],
    "categories": [
     "ml"
-   ]
-  },
-  {
-   "id": "samsung:23428",
-   "source": "samsung",
-   "company": "삼성E&A",
-   "title": "경력사원 채용(화공 사업관리, 연구개발, 분석)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-24",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "research",
-    "data-analysis"
    ]
   }
  ]

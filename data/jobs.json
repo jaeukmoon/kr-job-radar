@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18",
+ "generated": "2026-11-19",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,47 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "lgairesearch:4756278005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI Sandbox Infrastructure Engineer for Large Language Model",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4756278005",
+   "tags": [],
+   "categories": [
+    "ml",
+    "llm"
+   ],
+   "first_seen": "2026-11-19",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-19"
+   },
+   "domains": [
+    "agent",
+    "rl"
+   ],
+   "skills": [
+    "k8s"
+   ],
+   "pref_domains": [
+    "agent",
+    "rl"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "kakao:S-4787",
    "source": "kakao",
@@ -722,7 +763,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-18"
+    "fetched_at": "2026-11-19"
    },
    "domains": [],
    "skills": [],
@@ -1213,68 +1254,6 @@
    "pref_domains": [],
    "pref_skills": [
     "sql"
-   ]
-  },
-  {
-   "id": "samsung:23428",
-   "source": "samsung",
-   "company": "삼성E&A",
-   "title": "경력사원 채용(화공 사업관리, 연구개발, 분석)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-24",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "research",
-    "data-analysis"
-   ],
-   "first_seen": "2026-11-11",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [
-     {
-      "degree": "masters",
-      "text": "화공, 환경, 기계공학등 유관전공 석/박사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "phd",
-      "text": "화공, 환경, 기계공학등 유관전공 석/박사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "phd",
-      "text": "화공, 환경, 기계, 재료공학, 화학등 유관전공 박사 학위 보유하신 분"
-     },
-     {
-      "degree": "phd",
-      "text": "화공, 화학등 유관전공 박사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "phd",
-      "text": "환경(대기처리기술 등) 유관전공 박사 이상 학위 보유하신 분"
-     }
-    ],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "rl"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "rl"
-   ],
-   "pref_skills": [
-    "python"
    ]
   },
   {
@@ -2047,7 +2026,7 @@
    "location": "",
    "employment_type": "",
    "career_type": "경력",
-   "deadline": "2026-11-19",
+   "deadline": "2026-11-22",
    "url": "https://careers.lg.com/apply/detail?id=1002363",
    "tags": [],
    "categories": [
@@ -2240,49 +2219,6 @@
    "pref_skills": [
     "k8s",
     "rag"
-   ]
-  },
-  {
-   "id": "naver:30005662",
-   "source": "naver",
-   "company": "NAVER WEBTOON",
-   "title": "[네이버웹툰] AI 애니메이션 제작 담당 (정규 전환형)",
-   "team": "Service & Business · Product Development",
-   "location": "",
-   "employment_type": "계약",
-   "career_type": "무관",
-   "deadline": "2026-11-18",
-   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005662",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-11-04",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "speech"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [
-    "agent",
-    "speech"
-   ],
-   "pref_skills": [
-    "python"
    ]
   },
   {
@@ -3970,48 +3906,6 @@
    "pref_skills": []
   },
   {
-   "id": "coupang:8207192",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Director of Engineering, Fulfillment Optimization (Global Operations Technology) ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8207192",
-   "tags": [],
-   "categories": [
-    "llm"
-   ],
-   "first_seen": "2026-10-07",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm"
-   ],
-   "skills": [
-    "python",
-    "java",
-    "kafka"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "data-analysis"
-   ],
-   "pref_skills": []
-  },
-  {
    "id": "kakao:P-14558",
    "source": "kakao",
    "company": "카카오",
@@ -4703,40 +4597,6 @@
     "llm",
     "agent"
    ],
-   "pref_skills": []
-  },
-  {
-   "id": "coupang:8219716",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[CES] CS 운영 및 기획/개선 담당자 (일본어 가능자) (Customer Service & Data Analytics)",
-   "team": "",
-   "location": "South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8219716",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-09-22",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [],
-   "pref_domains": [],
    "pref_skills": []
   },
   {
@@ -6295,7 +6155,7 @@
    "id": "lg:1002072",
    "source": "lg",
    "company": "비즈테크아이",
-   "title": "[비즈테크아이] 금융IT PM/PL, 분석•설계•개발, 사업관리 담당자 모집(경력)",
+   "title": "[비즈테크아이] 금융IT PM/PL, 분석·설계·개발, 사업관리 담당자 모집(경력)",
    "team": "",
    "location": "",
    "employment_type": "",
