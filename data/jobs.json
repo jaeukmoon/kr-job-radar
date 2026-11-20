@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,45 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:8210340003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "카프카 엔지니어 (Kafka Engineer)",
+   "team": "Data Engineering",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8210340003",
+   "tags": [],
+   "categories": [
+    "data-eng"
+   ],
+   "first_seen": "2026-11-20",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-20"
+   },
+   "domains": [
+    "data-eng"
+   ],
+   "skills": [
+    "kafka",
+    "flink",
+    "spring",
+    "linux"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "lgairesearch:4756278005",
    "source": "lgairesearch",
@@ -763,7 +802,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-19"
+    "fetched_at": "2026-11-20"
    },
    "domains": [],
    "skills": [],
@@ -1929,38 +1968,6 @@
    "pref_skills": [
     "python"
    ]
-  },
-  {
-   "id": "hyundai:2026-N5-253",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "[계약직] 연구소 정부과제 행정업무 지원",
-   "team": "기타 · 행정사무지원",
-   "location": "남양연구소",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-19",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N5&recuCls=253",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-11-05",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "kakao:P-14581",
@@ -4337,49 +4344,6 @@
     "posttraining"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4722545005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Superintelligence Lab — AI-Native Engineering Project",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4722545005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-28",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "agent"
-   ],
-   "skills": [
-    "javascript",
-    "sql",
-    "git"
-   ],
-   "pref_domains": [
-    "llm"
-   ],
-   "pref_skills": [
-    "sql"
-   ]
   },
   {
    "id": "toss:7995370003",
@@ -6896,50 +6860,6 @@
    "pref_skills": []
   },
   {
-   "id": "toss:6603749003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "데이터 플랫폼 엔지니어 (Streaming)",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=6603749003",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-07-05",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "java",
-    "sql",
-    "kafka",
-    "flink",
-    "spring"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": [
-    "kafka"
-   ]
-  },
-  {
    "id": "toss:6600650003",
    "source": "toss",
    "company": "토스뱅크",
@@ -7848,68 +7768,6 @@
     "posttraining"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4708924005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Scientist - Physical AI & Robot Foundation Models",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4708924005",
-   "tags": [],
-   "categories": [
-    "ml",
-    "research",
-    "llm"
-   ],
-   "first_seen": "2026-07-05",
-   "degree_requirements": {
-    "required": [
-     {
-      "degree": "masters",
-      "text": "컴퓨터 비전·머신러닝·로보틱스 등 유관 분야 석사 학위 및 관련 경력 3년 이상, 또는 박사 학위 보유자 (졸업 예정자 포함)"
-     },
-     {
-      "degree": "phd",
-      "text": "컴퓨터 비전·머신러닝·로보틱스 등 유관 분야 석사 학위 및 관련 경력 3년 이상, 또는 박사 학위 보유자 (졸업 예정자 포함)"
-     }
-    ],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "robotics",
-    "multimodal",
-    "pretraining",
-    "posttraining",
-    "world-model"
-   ],
-   "skills": [
-    "pytorch",
-    "distributed"
-   ],
-   "pref_domains": [
-    "llm",
-    "robotics",
-    "multimodal",
-    "pretraining"
-   ],
-   "pref_skills": [
-    "distributed"
-   ]
   },
   {
    "id": "lgairesearch:4080869005",
