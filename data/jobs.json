@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20",
+ "generated": "2026-11-21",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,48 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "naver:30005739",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[네이버웹툰] AI Engineer (체험형 인턴)",
+   "team": "Service & Business · Product Development",
+   "location": "",
+   "employment_type": "인턴",
+   "career_type": "신입",
+   "deadline": "2026-12-13",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005739",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-21",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-21"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "multimodal"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "vision",
+    "multimodal"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "toss:8210340003",
    "source": "toss",
@@ -802,7 +844,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-20"
+    "fetched_at": "2026-11-21"
    },
    "domains": [],
    "skills": [],
@@ -4446,7 +4488,7 @@
    "source": "toss",
    "company": "토스뱅크",
    "title": "ML 데이터 어시스턴트",
-   "team": "Data Engineering",
+   "team": "ML",
    "location": "Seoul",
    "employment_type": "단기계약직",
    "career_type": "",
@@ -4454,7 +4496,6 @@
    "url": "https://toss.im/career/job-detail?gh_jid=6025151003",
    "tags": [],
    "categories": [
-    "data-eng",
     "ml"
    ],
    "first_seen": "2026-09-22",
@@ -4783,235 +4824,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R261940",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI 플랫폼 아키텍트 전문가 영입",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-20",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261940",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ],
-   "first_seen": "2026-09-12",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "k8s",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": [
-    "python"
-   ]
-  },
-  {
-   "id": "sk:R261938",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI Model 엔지니어 영입",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-20",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261938",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-12",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "rl",
-    "vision",
-    "multimodal",
-    "posttraining"
-   ],
-   "skills": [
-    "pytorch",
-    "k8s"
-   ],
-   "pref_domains": [
-    "rl",
-    "vision",
-    "multimodal"
-   ],
-   "pref_skills": [
-    "k8s"
-   ]
-  },
-  {
-   "id": "sk:R261937",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI Data 엔지니어 영입",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-20",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261937",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-12",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "nlp",
-    "data-eng"
-   ],
-   "skills": [
-    "sql"
-   ],
-   "pref_domains": [
-    "nlp"
-   ],
-   "pref_skills": [
-    "sql"
-   ]
-  },
-  {
-   "id": "sk:R261936",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI Agent 엔지니어 영입",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-20",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261936",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-12",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "retrieval"
-   ],
-   "skills": [
-    "k8s",
-    "rag",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent"
-   ],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R261939",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "AI Agent 개발자 전문가 영입",
-   "team": "Tech R&D/AI/DT",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-20",
-   "url": "https://www.skcareers.com/Recruit/Detail/R261939",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-09-12",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "agent",
-    "data-eng",
-    "retrieval"
-   ],
-   "skills": [
-    "python",
-    "k8s",
-    "langchain",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "agent",
-    "data-eng",
-    "retrieval"
-   ],
-   "pref_skills": [
-    "k8s",
-    "langchain",
-    "rag"
-   ]
   },
   {
    "id": "lg:1002199",

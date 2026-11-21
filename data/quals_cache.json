@@ -1074,61 +1074,6 @@
    "available": true
   }
  },
- "sk:R261940": {
-  "full": "Who We're Looking For\n\r\n \r\n \r\n 이런 경험을 갖고 계시다면 저희가 찾는 그분입니다! ✨ \r\n \r\n \r\n 필요 역량 및 경험 \r\n \r\n IT 시스템 개발 또는 운영 경력 10년 이상이신 분.\n\r\n 시스템 분석 및 아키텍처 설계 경험이 있으신 분.\n\r\n Data 이관 및 Migration 분석·설계 경험이 있으신 분.\n\r\n 클라우드·컨테이너 기반 서비스의 운영 및 장애 대응 경험이 있으신 분\n\r\n AI Model, LLM, RAG, AI Agent 등 AI 기술 및 서비스 아키텍처에 대한 이해가 있으신 분.\n\r\n 기술 문서 작성 능력 및 고객·유관 조직과의 원활한 커뮤니케이션 역량이 있으신 분.\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n 플랫폼·솔루션을 고객사 환경에 딜리버리하고 안정화까지 수행한 경험을 보유하신 분\n\r\n 개발 조직 리딩 또는 프로젝트 총괄로 참여해보신 분\n\r\n Python 기반 서비스 개발 및 아키텍처 설계 능력을 갖추신 분\n\r\n LLM 기반 애플리케이션 또는 AI Agent를 직접 설계·구현한 경험이 있으신 분\n\r\n 온프레미스 및 폐쇄망 환경에서의 시스템 구축을 수행해 보신 분\n\r\n 분산 환경에서의 비동기 처리, 큐 기반 아키텍처 설계 경험이 있으신 분\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 구조를 먼저 그리고, 그 위에서 팀이 일할 수 있게 만드는 분\n\r\n 기술 선택의 근거를 명확히 설명하고 합의를 이끌어낼수 있는 분\n\r\n 고객 환경의 제약을 걸림돌이 아니라 설계 조건으로 생각하고 다루는 분\n\r\n 새로운 AI 기술과 시장 변화에 관심을 가지고 지속적으로 학습하는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "pref": "Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n 플랫폼·솔루션을 고객사 환경에 딜리버리하고 안정화까지 수행한 경험을 보유하신 분\n\r\n 개발 조직 리딩 또는 프로젝트 총괄로 참여해보신 분\n\r\n Python 기반 서비스 개발 및 아키텍처 설계 능력을 갖추신 분\n\r\n LLM 기반 애플리케이션 또는 AI Agent를 직접 설계·구현한 경험이 있으신 분\n\r\n 온프레미스 및 폐쇄망 환경에서의 시스템 구축을 수행해 보신 분\n\r\n 분산 환경에서의 비동기 처리, 큐 기반 아키텍처 설계 경험이 있으신 분\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 구조를 먼저 그리고, 그 위에서 팀이 일할 수 있게 만드는 분\n\r\n 기술 선택의 근거를 명확히 설명하고 합의를 이끌어낼수 있는 분\n\r\n 고객 환경의 제약을 걸림돌이 아니라 설계 조건으로 생각하고 다루는 분\n\r\n 새로운 AI 기술과 시장 변화에 관심을 가지고 지속적으로 학습하는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "d": "2026-11-16",
-  "degrees": {
-   "required": [],
-   "preferred": [],
-   "unclassified": [],
-   "available": true
-  }
- },
- "sk:R261938": {
-  "full": "Who We're Looking For\n\r\n \r\n \r\n 이런 경험을 갖고 계시다면 저희가 찾는 그분입니다! ✨ \r\n \r\n \r\n 필요 역량 및 경험 \r\n \r\n PyTorch로 학습 코드를 직접 작성하고, 디버깅해 본 경험이 있으신 분\n\r\n LoRA 등 효율화 기법 포함하여 LLM 파인튜닝 경험이 있으신 분\n\r\n 다중 GPU 학습 환경 경험을 보유하신 분\n\r\n 모델 성능 평가를 설계하고 결과를 해석할 수 있는 역량을 갖추신 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n 강화학습 기반 사후 학습 경험이 있으신 분\n\r\n VLM, 멀티모달 모델의 구조와 원리를 이해하고 있으신 분\n\r\n Kubernetes 기반 학습, 서빙 인프라를 직접 운영해 본 경험이 있으신 분\n\r\n 폐쇄망이나 NPU 같은 제약 있는 환경에서 모델을 구축해 본 경험이 있으신 분\n\r\n 논문 게재나 오픈소스 모델 공개 경험이력을 보유하신 분\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 정답이 없는 문제에서 스스로 범위를 좁혀 결론을 내는 분\n\r\n 새 기술을 읽는 데서 그치지 않고 직접 돌려보고 고민하는 분\n\r\n 검증한 것을 시스템과 현장까지 끌고 가는 분\n\r\n 자신이 만든 것을 다른 조직 앞에서 설명할 수 있는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "pref": "Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n 강화학습 기반 사후 학습 경험이 있으신 분\n\r\n VLM, 멀티모달 모델의 구조와 원리를 이해하고 있으신 분\n\r\n Kubernetes 기반 학습, 서빙 인프라를 직접 운영해 본 경험이 있으신 분\n\r\n 폐쇄망이나 NPU 같은 제약 있는 환경에서 모델을 구축해 본 경험이 있으신 분\n\r\n 논문 게재나 오픈소스 모델 공개 경험이력을 보유하신 분\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 정답이 없는 문제에서 스스로 범위를 좁혀 결론을 내는 분\n\r\n 새 기술을 읽는 데서 그치지 않고 직접 돌려보고 고민하는 분\n\r\n 검증한 것을 시스템과 현장까지 끌고 가는 분\n\r\n 자신이 만든 것을 다른 조직 앞에서 설명할 수 있는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "d": "2026-11-16",
-  "degrees": {
-   "required": [],
-   "preferred": [],
-   "unclassified": [],
-   "available": true
-  }
- },
- "sk:R261937": {
-  "full": "Who We're Looking For\n\r\n \r\n \r\n 이런 경험을 갖고 계시다면 저희가 찾는 그분입니다! ✨ \r\n \r\n \r\n 필요 역량 및 경험 \r\n \r\n 데이터 파이프라인을 직접 설계하고 운영한 경험이 있으신 분.\n\r\n 복잡한 도메인의 데이터 모델을 직접 설계한 경험 및 SQL과 관계형 모델링에 대한 이해를 가지신 분.\n\r\n LLM을 데이터 추출이나 변환 파이프라인에 적용해 보신 분.\n\r\n 문서 파싱, 표 추출 등 비정형 데이터를 구조화해 본 경험이 있으신 분.\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n GraphDB, Neo4j 같은 그래프 데이터베이스나 RDF, SPARQL을 다뤄 본 경험이 있으신 분.\n\r\n OWL, RDFS, SHACL 같은 온톨로지 표준을 다뤄 본 경험이 있으신 분.\n\r\n 지식그래프와 검색을 결합한 GraphRAG 계열 시스템 경험이 있으신 분.\n\r\n 데이터 품질을 판단할 평가 기준을 설계해 본 경험이 있으신 분.\n\r\n Text2SQL이나 자연어 질의 시스템을 만들어 본 경험이 있으신 분.\n\r\n 고객이나 현업을 상대로 요건을 끌어내고 결과를 설명해 본 경험이 있으신 분.\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분.\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 정답이 없는 문제에서 스스로 범위를 좁혀 결론을 내는 분.\n\r\n 새 기술을 읽는 데서 그치지 않고 직접 돌려보고 판단하는 분.\n\r\n 검증한 것을 시스템과 현장까지 끌고 가는 분.\n\r\n 자신이 만든 것을 다른 조직 앞에서 설명할 수 있는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "pref": "Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n GraphDB, Neo4j 같은 그래프 데이터베이스나 RDF, SPARQL을 다뤄 본 경험이 있으신 분.\n\r\n OWL, RDFS, SHACL 같은 온톨로지 표준을 다뤄 본 경험이 있으신 분.\n\r\n 지식그래프와 검색을 결합한 GraphRAG 계열 시스템 경험이 있으신 분.\n\r\n 데이터 품질을 판단할 평가 기준을 설계해 본 경험이 있으신 분.\n\r\n Text2SQL이나 자연어 질의 시스템을 만들어 본 경험이 있으신 분.\n\r\n 고객이나 현업을 상대로 요건을 끌어내고 결과를 설명해 본 경험이 있으신 분.\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분.\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 정답이 없는 문제에서 스스로 범위를 좁혀 결론을 내는 분.\n\r\n 새 기술을 읽는 데서 그치지 않고 직접 돌려보고 판단하는 분.\n\r\n 검증한 것을 시스템과 현장까지 끌고 가는 분.\n\r\n 자신이 만든 것을 다른 조직 앞에서 설명할 수 있는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "d": "2026-11-16",
-  "degrees": {
-   "required": [],
-   "preferred": [],
-   "unclassified": [],
-   "available": true
-  }
- },
- "sk:R261936": {
-  "full": "Who We're Looking For\n\r\n \r\n \r\n 이런 경험을 갖고 계시다면 저희가 찾는 그분입니다! ✨ \r\n \r\n \r\n 필요 역량 및 경험 \r\n \r\n API 기반 비동기 시스템을 설계하고 운영한 경험이 있으신 분\n\r\n Tool calling과 RAG 구현을 포함하여 LLM을 사용한 시스템을 직접 만들어 본 경험이 있으신분\n\r\n Agent 품질을 평가하거나 디버깅한 경험이 있으신 분\n\r\n 새 기술을 검증하고 그 판단 근거를 글로 정리하고 설명할 수 있는 분\n\r\n Git 기반 협업과 컨테이너 환경에 대한 이해가 있으신분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n Multi-Agent 구조를 설계하고 운영해 본 경험이 있으신 분.\n\r\n Tool 권한 제어, Prompt Injection 대응, Agent Guardrail 등 LLM과 Agent 보안 관련 경험이 있으신 분.\n\r\n LLM 평가 체계나 벤치마크를 직접 설계하고 측정해 보신 분.\n\r\n 코딩 에이전트를 실제 개발 업무에 적용해 본 경험이 있으신 분.\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 정답이 없는 문제에서 스스로 범위를 좁혀 결론을 내는 분\n\r\n 새 기술을 읽는 데서 그치지 않고 직접 돌려보고 고민하는 분\n\r\n 검증한 것을 시스템과 현장까지 끌고 가는 분\n\r\n 자신이 만든 것을 다른 조직 앞에서 설명할 수 있는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "pref": "Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n Multi-Agent 구조를 설계하고 운영해 본 경험이 있으신 분.\n\r\n Tool 권한 제어, Prompt Injection 대응, Agent Guardrail 등 LLM과 Agent 보안 관련 경험이 있으신 분.\n\r\n LLM 평가 체계나 벤치마크를 직접 설계하고 측정해 보신 분.\n\r\n 코딩 에이전트를 실제 개발 업무에 적용해 본 경험이 있으신 분.\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 정답이 없는 문제에서 스스로 범위를 좁혀 결론을 내는 분\n\r\n 새 기술을 읽는 데서 그치지 않고 직접 돌려보고 고민하는 분\n\r\n 검증한 것을 시스템과 현장까지 끌고 가는 분\n\r\n 자신이 만든 것을 다른 조직 앞에서 설명할 수 있는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "d": "2026-11-16",
-  "degrees": {
-   "required": [],
-   "preferred": [],
-   "unclassified": [],
-   "available": true
-  }
- },
- "sk:R261939": {
-  "full": "Who We're Looking For\n\r\n \r\n \r\n 이런 경험을 갖고 계시다면 저희가 찾는 그분입니다! ✨ \r\n \r\n \r\n 필요 역량 및 경험 \r\n \r\n 소프트웨어 개발 또는 데이터 엔지니어링 실무 경력 5년 이상이신 분\n\r\n Python 기반 서비스·API 또는 데이터 처리 파이프라인 개발 경험이 있으신 분\n\r\n 외부 시스템·API 또는 다양한 데이터 소스를 연동해 하나의 기능·서비스로 구현한 경험이 있으신 분\n\r\n 요구사항과 데이터 흐름을 스스로 구조화하고 설계부터 구현·운영까지 완결한 경험이 있으신 분\n\r\n LLM, RAG, AI Agent 등 AI 기술의 동작 방식에 대한 이해도를 보유하신 분\n\r\n 장애 분석 및 문제 해결 능력, 기술 문서 작성과 현업·유관 조직 커뮤니케이션 역량이 있으신 분\n\r\n ※ AI Agent 개발 경험은 필수가 아닙니다. AI Data, 데이터 파이프라인, 검색·지식 데이터, 백엔드 개발 역량을 바탕으로 Agent 서비스 구현에 도전할 분도 환영합니다\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n LLM 기반 애플리케이션 또는 AI Agent를 직접 설계·구현/운영 이력을 보유하신 분\n\r\n LangChain·LangGraph 등 Agent Framework, MCP 서버/Tool 연동, 멀티 Agent 구조 설계해 보신 분\n\r\n RAG 시스템 또는 데이터 파이프라인 설계·운영 경험을 갖추신 분 (문서 파싱, ETL/ELT, 임베딩, Vector DB, 하이브리드 검색·리랭킹 등)\n\r\n 비정형 문서(PDF·오피스 문서·웹) 구조화, 데이터 모델링·지식그래프·온톨로지 또는 권한 기반 데이터 접근 제어 경험이 있으신 분.\n\r\n 프롬프트·응답·검색 품질을 정량 평가하고 개선하거나, Observability/Tracing 기반으로 Agent를 디버깅한 경험이 있으신 분.\n\r\n 비동기 처리·외부 API 호출 안정화, Docker/Kubernetes 또는 온프레미스·폐쇄망 환경의 서비스 구축 경험이 있으신 분.\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 만든 Agent가 실제 현업에서 신뢰하고 사용할 수 있는지까지 검증하는 분\n\r\n 정답이 정해지지 않은 문제에서 가설을 세우고 빠르게 구현·측정·개선하는 분\n\r\n 데이터 품질과 서비스 품질의 연결을 이해하고, 문제의 원인을 끝까지 추적해 재발을 막는 분\n\r\n 현업의 언어와 데이터를 기술로 옮기고, 판단 근거를 문서와 코드로 명확히 설명하는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "pref": "Preferred Qualifications\n\r\n \r\n\r\n \r\n 이런 경험과 역량이 있으면 더 좋아요! 👍 \r\n \r\n \r\n 우대사항 \r\n \r\n LLM 기반 애플리케이션 또는 AI Agent를 직접 설계·구현/운영 이력을 보유하신 분\n\r\n LangChain·LangGraph 등 Agent Framework, MCP 서버/Tool 연동, 멀티 Agent 구조 설계해 보신 분\n\r\n RAG 시스템 또는 데이터 파이프라인 설계·운영 경험을 갖추신 분 (문서 파싱, ETL/ELT, 임베딩, Vector DB, 하이브리드 검색·리랭킹 등)\n\r\n 비정형 문서(PDF·오피스 문서·웹) 구조화, 데이터 모델링·지식그래프·온톨로지 또는 권한 기반 데이터 접근 제어 경험이 있으신 분.\n\r\n 프롬프트·응답·검색 품질을 정량 평가하고 개선하거나, Observability/Tracing 기반으로 Agent를 디버깅한 경험이 있으신 분.\n\r\n 비동기 처리·외부 API 호출 안정화, Docker/Kubernetes 또는 온프레미스·폐쇄망 환경의 서비스 구축 경험이 있으신 분.\n\r\n 외국어 능력으로 글로벌 커뮤니케이션에 능하신 분\n\r\n \r\n\r\n \r\n 성향 및 캐릭터 \r\n \r\n 만든 Agent가 실제 현업에서 신뢰하고 사용할 수 있는지까지 검증하는 분\n\r\n 정답이 정해지지 않은 문제에서 가설을 세우고 빠르게 구현·측정·개선하는 분\n\r\n 데이터 품질과 서비스 품질의 연결을 이해하고, 문제의 원인을 끝까지 추적해 재발을 막는 분\n\r\n 현업의 언어와 데이터를 기술로 옮기고, 판단 근거를 문서와 코드로 명확히 설명하는 분\n\r\n \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n Recruiting Process\n\r\n \r\n \r\n ",
-  "d": "2026-11-16",
-  "degrees": {
-   "required": [],
-   "preferred": [],
-   "unclassified": [],
-   "available": true
-  }
- },
  "lgairesearch:4734450005": {
   "full": "팀 소개 \n Data Intelligence Lab은 최신 Deep Learning 알고리즘을 연구/개발하여 고도화 된 데이터 분석 및 예측과 복잡한 데이터의 최적화를 수행합니다.\n이를 통해 산업에 적용할 수 있는 실용적 기술을 통해 그룹의 다양한 사업적 난제를 해결하고, 업무 효율화 및 생산성 향상, 제품 기능 개선을 추진합니다.\n \n \n \n 그 중 Ontology 구축 및 활용을 위한 AI 모델을 연구하는 Ontology Intelligence Tech Cell에서 저희와 함께 연구할 Researcher를 찾고 있습니다. \n 기업의 지식은 문서, 테이블, 데이터베이스 등 다양한 형태로 분산되어 있으며, LLM과 RAG만으로는 지식 간 의미적 관계와 논리적 일관성을 보장하기 어렵습니다.\nOntology Intelligence Tech Cell에서는 Ontology와 Knowledge Graph를 기반으로 기업 데이터를 구조화하고, 논리적 검증과 GraphRAG를 결합하여 신뢰할 수 있는 AI 서비스를 만드는 기술을 연구·개발합니다. Ontology, Knowledge Graph, LLM을 결합한 AI 시스템을 연구·개선하고, 실제 사용 환경에서 필요한 연구 문제를 정의하고 검증하는 Applied Researcher를 모집합니다. \n 수행 업무 \n \n LLM 기반 Ontology 및 Knowledge Graph 생성·구조화 기술 연구\n Ontology schema/constraint 설계 및 consistency validation/reasoning 기술 개발\n GraphRAG, multi-hop retrieval 및 Knowledge Graph 기반 QA 연구\n EXAONE 등 LLM을 활용한 Knowledge Extraction 및 domain adaptation 연구\n 연구 결과를 실제 서비스/API로 확장하기 위한 시스템 개발 및 제품화 협업\n \n 지원자격 \n \n Ontology, Knowledge Graph, Knowledge Representation의 기본 개념과 ontology schema 설계에 대한 이해\n RDF/OWL 및 ontology reasoning·validation에 대한 기본적인 이해\n LLM, Transformer 등 언어모델의 구조와 학습·추론 방식에 대한 이해\n PyTorch 기반 연구 코드를 읽고 실험을 설계·수정·확장·구현할 수 있는 역량\n RAG/GraphRAG 등 knowledge retrieval 기술에 대한 이해\n 논문·오픈소스 구현체와 failure case를 분석해 연구 가설 및 개선 방향으로 연결할 수 있는 역량\n \n 우대사항 \n \n Ontology, Knowledge Graph 관련 연구 또는 구현 경험\n LLM 기반 Knowledge Extraction, Ontology Generation 또는 KG Construction 연구 경험\n LLM의 hallucination 또는 knowledge grounding 관련 연구 경험\n NLP, LLM, Knowledge Representation 분야 연구 또는 PoC 경험\n LLM fine-tuning, domain adaptation 또는 evaluation 경험\n 모델 서빙·API화·MLOps에 대한 기본적인 이해\n \n전공 \n \n 인공지능, 컴퓨터공학, 전자공학, 전기공학 등\n \n전형절차 \n \n 서류심사 → 코딩테스트(온라인) & LG Way Fit Test(인성검사)→ 기술 인터뷰(비대면) → 최종 Culture Fit Interview(대면)\n \n * 전형 절차는 변경될 수 있습니다. 서류 합격 시 전형 절차에 대해 별도로 안내 해 드립니다. \n \n현재 LG AI연구원은 병역지정업체가 아님으로, 전문연구요원 채용 및 전직이 불가함을 알려드립니다.\n 지원시 문제가 있을 경우 careers@lgresearch.ai 로 문의 부탁드립니다.",
   "pref": "우대사항 \n \n Ontology, Knowledge Graph 관련 연구 또는 구현 경험\n LLM 기반 Knowledge Extraction, Ontology Generation 또는 KG Construction 연구 경험\n LLM의 hallucination 또는 knowledge grounding 관련 연구 경험\n NLP, LLM, Knowledge Representation 분야 연구 또는 PoC 경험\n LLM fine-tuning, domain adaptation 또는 evaluation 경험\n 모델 서빙·API화·MLOps에 대한 기본적인 이해\n \n전공 \n \n 인공지능, 컴퓨터공학, 전자공학, 전기공학 등\n \n전형절차 \n \n 서류심사 → 코딩테스트(온라인) & LG Way Fit Test(인성검사)→ 기술 인터뷰(비대면) → 최종 Culture Fit Interview(대면)\n \n * 전형 절차는 변경될 수 있습니다. 서류 합격 시 전형 절차에 대해 별도로 안내 해 드립니다. \n \n현재 LG AI연구원은 병역지정업체가 아님으로, 전문연구요원 채용 및 전직이 불가함을 알려드립니다.\n 지원시 문제가 있을 경우 careers@lgresearch.ai 로 문의 부탁드립니다.",
@@ -2364,7 +2309,7 @@
  "kt:259303": {
   "full": "",
   "pref": "",
-  "d": "2026-11-20",
+  "d": "2026-11-21",
   "degrees": {
    "required": [],
    "preferred": [],
@@ -2493,6 +2438,17 @@
   "full": "# 합류하게 될 팀에 대해 알려드려요\n- 토스뱅크의 Kafka Engineer는 Data Division 내 Real-Time Data 팀에 속해있어요.\n- Real-Time Data 팀은 Kafka, Flink, CDC, Kafka Connect, ClickHouse, OpenTelemetry, Langfuse 등 실시간 Data Platform을 운영하고 있어요.\n- 전사 서비스 이벤트와 로그가 지나가는 Kafka를 유실 없이 제공하는 것이 팀의 핵심 미션이에요.\n \n# 합류하면 함께할 업무예요\n- 서버 MSA 이벤트, 데이터 파이프라인, 로그 등 용도별로 분리된 대규모 Kafka Broker Cluster를 두 개의 데이터센터에서 운영해요.\n- Broker 증설, partition reassign, rolling upgrade, 용량 계획을 주도하고 Ansible 기반으로 자동화해요.\n- Broker와 Client(Spring Boot) 사이에서 발생하는 지연, rebalance, consumer lag 문제의 근본 원인을 JVM, OS, 네트워크 수준까지 추적해 해결해요.\n- 데이터센터 이중화(Producer Active-Active, Consumer Active-Standby)를 위한 데이터 미러링과 offset sync 애플리케이션을 Kafka Connect 기반으로 개발하고 운영해요.\n- DC 전환 훈련과 failover 시 유실 검증으로 \"중복은 허용하되 유실은 없는\" Kafka를 만들어요.\n- 메트릭과 로그 기반의 모니터링, 알림을 고도화하고 AI를 활용해 장애 분석을 자동화해요.\n    - [Apache Kafka 데이터센터 이중화 구성 #1](https://toss.tech/article/kafka-distribution-1)\n    - [Apache Kafka 데이터센터 이중화 구성 #2: 데이터 미러링](https://toss.tech/article/kafka-distribution-2)\n    - [Apache Kafka 데이터센터 이중화 구성 #3: Offset Sync](https://toss.tech/article/kafka-distribution-3)\n\n# 이런 분과 함께하고 싶어요\n- Kafka Broker를 운영 환경에서 직접 운영하며 장애를 해결해 본 경험이 있는 분이 필요해요.\n- replication, ISR, controller, consumer group 등 Kafka 내부 동작을 깊이 있게 이해하고 계신 분이 필요해요.\n- JVM 기반 언어로 개발할 수 있고, GC와 메모리 문제를 분석할 수 있는 분이 필요해요.\n- Linux, 네트워크, 디스크 I/O 등 탄탄한 시스템 지식을 가진 분이 필요해요.\n\n# 이런 경험이 있다면 더 좋아요\n- 베어메탈 환경에서 Ansible 등으로 Kafka 배포와 업그레이드를 자동화해 본 경험\n- 멀티 데이터센터 이중화나 미러링(MirrorMaker2 등)을 설계하거나 운영해 본 경험\n- Kafka Connect 플러그인 개발 또는 Kafka 오픈소스 코드를 분석하거나 기여한 경험\n- Spring Boot 환경에서 Kafka Client를 활용하거나 Client 가이드를 제공해 본 경험\n\n# 이력서는 이렇게 작성하시는 걸 추천해요\n- 운영하신 Kafka의 규모(클러스터 수, Broker 수, 처리량)와 맡으신 역할을 구체적으로 적어주세요.\n- 장애나 성능 문제의 원인을 찾아 해결한 과정을 상세하게 적어주세요.\n- 결과물 소개보다 그 과정에서 깊이 있게 배운 것을 중심으로 적어주시는 것을 추천해요.\n \n# 토스뱅크로의 합류 여정\n- 서류접수 > 직무 인터뷰 > 문화적합성 인터뷰 > 레퍼런스 체크 > 처우협의 > 최종합격 및 입사\n\n# 꼭 확인해주세요\n- 이력서 및 제출 서류에 허위 사실이 발견되거나 근무 이력 중 징계사항이 확인될 경우, 채용이 취소될 수 있어요.\n- 토스뱅크 내부규정상 결격사유 해당자 또는 금융기관 인력 채용 상 결격사유 해당자는 채용이 취소될 수 있어요.\n- 장애인 및 국가보훈대상자는 지원 시 관련법에 따라 우대하고 있어요.\n- 카프카 엔지니어 (Kafka Engineer) 포지션은 전형 과정에서 국문, 영문 명칭을 함께 사용해요. Data 데이터 데이타 kafka 카프카 Flink CDC connect clickhouse opentelemetry OTel langfuse platform 플랫폼 실시간 realtime Data Platform 데이터 플랫폼 로그 log MSA 파이프라인 pipeline 브로커 broker 데이터센터 Ansible JVM 이중화 DC Data Center 메트릭 metric 모니터링 오픈소스 Spring Data Engineering 데이터 Kafka 로그",
   "pref": "",
   "d": "2026-11-20",
+  "degrees": {
+   "required": [],
+   "preferred": [],
+   "unclassified": [],
+   "available": true
+  }
+ },
+ "naver:30005739": {
+  "full": "담당 업무\n \n 웹툰 자동 번역 과제 수행 \n \r\n - 번역 , 식자 품질 문제를 측정 가능한 지표로 정의하고 평가 데이터 구축 \n \r\n - LLM/VLM\r\n 기반 자동 평가 도구 개발 및 모델 간 품질 비교 \n \r\n - 모델 , 프롬프트 단의 가설을 빠르게 프로토타이핑하고 효과 검증 \n \r\n - 실험 결과를 팀이 공유할 수 있는 형태로 정리하고 프로덕션\r\n반영으로 연결 \n \n \n \n \n \n \n 필요 역량\n \n - 컴퓨터공학, AI, 통계 등 관련 전공 학부 4학년 이상 또는 대학원 재학 중이신 분 \n - LLM, 딥러닝, 생성 모델 관련 최신 논문을 따라가며 핵심 아이디어를 코드로 옮겨보신 경험이 있으신 분 \n - 정답이 정해져 있지 않은 문제를 가설 → 실험 → 검증의 흐름으로 풀어가는 과정 자체에 흥미를 느끼시는 분 \n - AI를 활용한 애플리케이션, 시스템을 직접 만들어보신 경험이 있으신 분 \n - 리서치 결과를 동작하는 시스템으로 옮길 수 있는 백엔드 / 엔지니어링 기본기가 있으신 분 \n - 맡은 과제를 기한 내에 끝까지 완수하는 실행력이 있으신 분 \n - 최소 3개월 동안 Full-Time으로 근무 가능하신 분 (조직 상황에 따라 최대 6개월까지 연장될 수 있음) \n \n \n \n \n \n \n 우대 사항\n \n - 다양한 LLM과 이미지 생성 모델(OpenAI, Anthropic, Google, 오픈소스 모델 등)을 다뤄 보며, 각 모델의 강점과 약점에 대한 본인만의 인사이트를 갖고 계신 분 \n - LLM/VLM 판정이나 자동 지표가 사람 평가와 얼마나 맞는지 검증해 보신 분 \n - 멀티모달 모델(LLM + Vision)에 대한 이해와, 이를 활용한 에이전트(Agent), harness 설계, 개발 경험이 있으신 분 \n - 논문 게재, 오픈소스 기여, 컨퍼런스 발표 등 외부에 공개된 연구 활동이 있으신 분 \n - 팀 프로젝트에서 코드 리뷰를 주고받으며 협업해 보신 분 \n - 웹툰, 만화 등 콘텐츠와 현지화에 대한 관심이 있으신 분 \n \n \n \n \n \n \n ",
+  "pref": "우대 사항\n \n - 다양한 LLM과 이미지 생성 모델(OpenAI, Anthropic, Google, 오픈소스 모델 등)을 다뤄 보며, 각 모델의 강점과 약점에 대한 본인만의 인사이트를 갖고 계신 분 \n - LLM/VLM 판정이나 자동 지표가 사람 평가와 얼마나 맞는지 검증해 보신 분 \n - 멀티모달 모델(LLM + Vision)에 대한 이해와, 이를 활용한 에이전트(Agent), harness 설계, 개발 경험이 있으신 분 \n - 논문 게재, 오픈소스 기여, 컨퍼런스 발표 등 외부에 공개된 연구 활동이 있으신 분 \n - 팀 프로젝트에서 코드 리뷰를 주고받으며 협업해 보신 분 \n - 웹툰, 만화 등 콘텐츠와 현지화에 대한 관심이 있으신 분 \n \n \n \n \n \n \n ",
+  "d": "2026-11-21",
   "degrees": {
    "required": [],
    "preferred": [],
