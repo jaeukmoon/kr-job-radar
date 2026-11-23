@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262514",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 및 사무지원 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-22",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262514",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ]
-  },
   {
    "id": "sk:R262159",
    "source": "sk",
@@ -200,6 +184,23 @@
    "tags": [],
    "categories": [
     "research"
+   ]
+  },
+  {
+   "id": "sk:R262551",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[신입] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 신입사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262551",
+   "tags": [],
+   "categories": [
+    "research",
+    "data-analysis"
    ]
   },
   {

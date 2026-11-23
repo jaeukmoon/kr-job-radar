@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22",
+ "generated": "2026-11-23",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,133 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "lg:1002433",
+   "source": "lg",
+   "company": "로보스타",
+   "title": "[로보스타] 로봇 응용 소프트웨어 개발자",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-12-06",
+   "url": "https://careers.lg.com/apply/detail?id=1002433",
+   "tags": [],
+   "categories": [
+    "robotics"
+   ],
+   "first_seen": "2026-11-23",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-23"
+   },
+   "domains": [
+    "robotics"
+   ],
+   "skills": [
+    "javascript"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262551",
+   "source": "sk",
+   "company": "SK바이오텍",
+   "title": "[신입] SK바이오텍 Small Molecule&Peptide 분석 연구원(R&D) 신입사원 모집",
+   "team": "Tech R&D/연구개발",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262551",
+   "tags": [],
+   "categories": [
+    "research",
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-23",
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "분석화학 전공 석사 이상"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-23"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "lg:1002062",
+   "source": "lg",
+   "company": "LG유플러스",
+   "title": "[CTO] Speech AI 경력 채용 ",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "경력",
+   "deadline": "2026-12-06",
+   "url": "https://careers.lg.com/apply/detail?id=1002062",
+   "tags": [],
+   "categories": [
+    "ml",
+    "speech"
+   ],
+   "first_seen": "2026-11-23",
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "석사이상"
+     }
+    ],
+    "preferred": [
+     {
+      "degree": "phd",
+      "text": "박사이상"
+     }
+    ],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-23"
+   },
+   "domains": [
+    "llm",
+    "speech",
+    "multimodal",
+    "posttraining",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "git"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
   {
    "id": "naver:30005739",
    "source": "naver",
@@ -844,39 +971,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-22"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "sk:R262514",
-   "source": "sk",
-   "company": "SK텔레콤",
-   "title": "통계 및 사무지원 담당자",
-   "team": "사무/행정지원/기타(사무/행정지원)",
-   "location": "서울",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-22",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262514",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-11-16",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
+    "fetched_at": "2026-11-23"
    },
    "domains": [],
    "skills": [],
@@ -1530,40 +1625,6 @@
    "pref_skills": []
   },
   {
-   "id": "lg:1001889",
-   "source": "lg",
-   "company": "LG유플러스",
-   "title": "[정보보안센터] AI보안 담당자 경력채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-11-22",
-   "url": "https://careers.lg.com/apply/detail?id=1001889",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-11-10",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "agent"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8354788",
    "source": "coupang",
    "company": "Coupang",
@@ -2065,40 +2126,6 @@
    "pref_skills": [
     "distributed"
    ]
-  },
-  {
-   "id": "lg:1002363",
-   "source": "lg",
-   "company": "LG전자",
-   "title": "[로보틱스사업센터] 로보틱스 사업이행 (Field Engineer) 경력 채용",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "경력",
-   "deadline": "2026-11-22",
-   "url": "https://careers.lg.com/apply/detail?id=1002363",
-   "tags": [],
-   "categories": [
-    "robotics"
-   ],
-   "first_seen": "2026-11-05",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "robotics"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
   },
   {
    "id": "coupang:8345707",
@@ -3054,50 +3081,6 @@
     "tableau",
     "powerbi"
    ]
-  },
-  {
-   "id": "toss:8039958003",
-   "source": "toss",
-   "company": "토스뱅크",
-   "title": "데이터 엔지니어링 스페셜리스트",
-   "team": "Data Engineering",
-   "location": "Seoul",
-   "employment_type": "계약직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=8039958003",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-10-22",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "spark",
-    "hadoop",
-    "kafka",
-    "airflow",
-    "flink"
-   ],
-   "pref_domains": [
-    "data-eng"
-   ],
-   "pref_skills": []
   },
   {
    "id": "sk:R262275",
