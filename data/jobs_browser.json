@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -73,6 +73,22 @@
    ]
   },
   {
+   "id": "sk:R262514",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 및 사무지원 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ]
+  },
+  {
    "id": "sk:R262266",
    "source": "sk",
    "company": "SK주식회사(AX)",
@@ -132,6 +148,22 @@
    "career_type": "경력",
    "deadline": "2026-12-01",
    "url": "https://www.skcareers.com/Recruit/Detail/R262283",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262558",
+   "source": "sk",
+   "company": "SK하이닉스",
+   "title": "[11월] 월간 hy-way(경력)",
+   "team": "Tech R&D/HBM Digital Design(RTL design),HBM Digital Design(SoC Design),HBM Digital Design(검증),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Digital Design(Strategy),회로설계(HBM),SoC Design,High-Speed Interface,Digital IP Design,SoC Design Verification,SoC Silicon Validation,Logical Implementation,AI Research",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262558",
    "tags": [],
    "categories": [
     "ml"
@@ -233,6 +265,23 @@
    "tags": [],
    "categories": [
     "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262509",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "초대형 AI 모델 연구원",
+   "team": "Tech R&D/ML/DL 개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262509",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
    ]
   },
   {
@@ -823,15 +872,15 @@
    ]
   },
   {
-   "id": "samsung:23492",
+   "id": "samsung:23545",
    "source": "samsung",
-   "company": "삼성화재",
-   "title": "경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
+   "company": "삼성문화재단",
+   "title": "경력사원 채용(개인정보보호, AI·IT보안)",
    "team": "",
    "location": "",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-23",
+   "deadline": "2026-12-07",
    "url": "https://www.samsungcareers.com/hr/",
    "tags": [],
    "categories": [

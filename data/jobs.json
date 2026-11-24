@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23",
+ "generated": "2026-11-24",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,211 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "samsung:23545",
+   "source": "samsung",
+   "company": "삼성문화재단",
+   "title": "경력사원 채용(개인정보보호, AI·IT보안)",
+   "team": "",
+   "location": "",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-07",
+   "url": "https://www.samsungcareers.com/hr/",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-24",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-24"
+   },
+   "domains": [
+    "agent"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "agent"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262558",
+   "source": "sk",
+   "company": "SK하이닉스",
+   "title": "[11월] 월간 hy-way(경력)",
+   "team": "Tech R&D/HBM Digital Design(RTL design),HBM Digital Design(SoC Design),HBM Digital Design(검증),HBM Digital Design(Front-end),HBM Digital Design(Back-end),HBM Digital Design(Strategy),회로설계(HBM),SoC Design,High-Speed Interface,Digital IP Design,SoC Design Verification,SoC Silicon Validation,Logical Implementation,AI Research",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-07",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262558",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-24",
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "학사/석사/박사 졸업자의 경우 입력하지 않으셔도 무방하며 별도 불이익은 없습니다."
+     },
+     {
+      "degree": "phd",
+      "text": "학사/석사/박사 졸업자의 경우 입력하지 않으셔도 무방하며 별도 불이익은 없습니다."
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": false,
+    "fetched_at": "2026-11-24"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262514",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "통계 및 사무지원 담당자",
+   "team": "사무/행정지원/기타(사무/행정지원)",
+   "location": "서울",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2026-11-29",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262514",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-24",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-24"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262509",
+   "source": "sk",
+   "company": "SK텔레콤",
+   "title": "초대형 AI 모델 연구원",
+   "team": "Tech R&D/ML/DL 개발",
+   "location": "서울",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-20",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262509",
+   "tags": [],
+   "categories": [
+    "ml",
+    "research"
+   ],
+   "first_seen": "2026-11-24",
+   "degree_requirements": {
+    "required": [
+     {
+      "degree": "masters",
+      "text": "학력/전공 : 박사 이상(Fresh박사 가능), 석사 졸업 후 관련 경험 3년 이상 / AI, CS, 전기전자, 수학·통계 등 관련 전공"
+     },
+     {
+      "degree": "phd",
+      "text": "학력/전공 : 박사 이상(Fresh박사 가능), 석사 졸업 후 관련 경험 3년 이상 / AI, CS, 전기전자, 수학·통계 등 관련 전공"
+     }
+    ],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-24"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "rl",
+    "data-analysis",
+    "pretraining",
+    "posttraining"
+   ],
+   "skills": [
+    "python",
+    "pytorch",
+    "distributed",
+    "linux"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "rl",
+    "pretraining",
+    "posttraining"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "lgairesearch:4608205005",
+   "source": "lgairesearch",
+   "company": "LG AI Research",
+   "title": "AI R&D 전략·정부과제 기획 담당자",
+   "team": "",
+   "location": "Gangseo-gu, Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.lgresearch.ai/careers?gh_jid=4608205005",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-24",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-24"
+   },
+   "domains": [
+    "vision"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "vision"
+   ],
+   "pref_skills": []
+  },
   {
    "id": "lg:1002433",
    "source": "lg",
@@ -971,7 +1176,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-23"
+    "fetched_at": "2026-11-24"
    },
    "domains": [],
    "skills": [],
@@ -1163,90 +1368,6 @@
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "samsung:23492",
-   "source": "samsung",
-   "company": "삼성화재",
-   "title": "경력사원 채용(AI, IT, 경영기획, 경영지원, 상품/계리, 언더라이팅, 손해사정, 방재연구)",
-   "team": "",
-   "location": "",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-23",
-   "url": "https://www.samsungcareers.com/hr/",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-11-13",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [
-     {
-      "degree": "masters",
-      "text": "교통공학, 도시공학 등 유관전공 석사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "masters",
-      "text": "전기공학, 안전공학 등 유관전공 석사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "masters",
-      "text": "토목공학, 수자원공학 등 유관전공 석사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "masters",
-      "text": "기계공학, 안전공학 등 유관전공 석사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "masters",
-      "text": "화학공학, 안전공학 등 유관전공 석사 이상 학위 보유하신 분"
-     },
-     {
-      "degree": "masters",
-      "text": "안전공학, 소방방재학 등 유관전공 석사 이상 학위 보유하신 분"
-     }
-    ],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "mlops",
-    "data-eng",
-    "efficient-inference"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "airflow",
-    "k8s",
-    "aws",
-    "vllm",
-    "langchain",
-    "rag"
-   ],
-   "pref_domains": [
-    "llm",
-    "mlops",
-    "data-eng",
-    "efficient-inference"
-   ],
-   "pref_skills": [
-    "python",
-    "sql",
-    "airflow",
-    "k8s",
-    "aws",
-    "vllm",
-    "langchain"
-   ]
   },
   {
    "id": "coupang:8382373",
@@ -2917,7 +3038,7 @@
    "id": "coupang:8323929",
    "source": "coupang",
    "company": "Coupang",
-   "title": "Robotics Hardware Engineer (Global Operations Technology)",
+   "title": "Robotics Systems Architect (Global Operations Technology)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
