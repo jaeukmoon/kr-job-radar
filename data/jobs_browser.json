@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262159",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
-   "team": "IT/구축/운영/최적화",
-   "location": "울산",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-24",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262159",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262456",
    "source": "sk",
@@ -446,6 +430,102 @@
    "categories": [
     "ml",
     "data-eng"
+   ]
+  },
+  {
+   "id": "sk:R262568",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+   "team": "Tech R&D/Software Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262568",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262569",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+   "team": "Tech R&D/Software Engineering",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262569",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262570",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 P&T AI, MES 전문가 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262570",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262571",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 P&T AI, MES 전문가 영입 (계약직)",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262571",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262580",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "울산 AI DC B동 신축공사 보건관리자 영입 (계약직, 울산 근무)",
+   "team": "안전보건/보건관리",
+   "location": "울산",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262580",
+   "tags": [],
+   "categories": [
+    "ml"
+   ]
+  },
+  {
+   "id": "sk:R262584",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 시스템 모니터링 AI 전환 과제 PM/PL 영입",
+   "team": "Tech R&D/Software Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262584",
+   "tags": [],
+   "categories": [
+    "ml"
    ]
   },
   {

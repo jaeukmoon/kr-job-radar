@@ -1,20 +1,483 @@
 {
- "generated": "2026-11-24",
+ "generated": "2026-11-25",
  "sources_ok": [
   "naver",
   "kakao",
   "woowahan",
   "toss",
   "lg",
-  "kt",
   "lgairesearch",
   "coupang",
   "sk",
   "hyundai",
   "samsung"
  ],
- "errors": [],
+ "errors": [
+  "kt: HTTP Error 403: Forbidden"
+ ],
  "jobs": [
+  {
+   "id": "sk:R262568",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조AI 장비/품질 자동화 시스템 전문가 영입",
+   "team": "Tech R&D/Software Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262568",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-analysis",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262584",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 시스템 모니터링 AI 전환 과제 PM/PL 영입",
+   "team": "Tech R&D/Software Engineering",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262584",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "skills": [
+    "java",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262571",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 P&T AI, MES 전문가 영입 (계약직)",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262571",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "langchain",
+    "rag",
+    "spring"
+   ],
+   "pref_domains": [
+    "agent",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262570",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 P&T AI, MES 전문가 영입",
+   "team": "IT/구축/운영/최적화",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262570",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-eng",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "sql",
+    "langchain",
+    "rag",
+    "spring"
+   ],
+   "pref_domains": [
+    "agent",
+    "data-eng"
+   ],
+   "pref_skills": [
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262569",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "제조 AI 장비/품질 자동화 시스템 전문가 영입 (계약직)",
+   "team": "Tech R&D/Software Engineering",
+   "location": "경기/인천",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262569",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "data-analysis",
+    "retrieval"
+   ],
+   "skills": [
+    "python",
+    "java",
+    "javascript",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "data-analysis",
+    "retrieval"
+   ],
+   "pref_skills": [
+    "python",
+    "rag"
+   ]
+  },
+  {
+   "id": "sk:R262580",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "울산 AI DC B동 신축공사 보건관리자 영입 (계약직, 울산 근무)",
+   "team": "안전보건/보건관리",
+   "location": "울산",
+   "employment_type": "계약",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262580",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [],
+   "skills": [],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "naver:30005756",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[2027 상반기 채용연계형 인턴십] 네이버웹툰 Search Intelligence Engineer",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-12-06",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005756",
+   "tags": [],
+   "categories": [
+    "ml",
+    "recsys"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "mlops",
+    "data-eng",
+    "retrieval",
+    "efficient-inference"
+   ],
+   "skills": [
+    "python",
+    "go",
+    "kafka",
+    "airflow",
+    "k8s",
+    "vllm",
+    "rag"
+   ],
+   "pref_domains": [
+    "llm",
+    "vision",
+    "recsys",
+    "mlops",
+    "data-eng",
+    "retrieval",
+    "efficient-inference"
+   ],
+   "pref_skills": [
+    "kafka",
+    "airflow",
+    "k8s",
+    "vllm",
+    "rag"
+   ]
+  },
+  {
+   "id": "naver:30005757",
+   "source": "naver",
+   "company": "NAVER WEBTOON",
+   "title": "[2027 상반기 채용연계형 인턴십] 네이버웹툰 AI Researcher",
+   "team": "Tech · AI/ML",
+   "location": "",
+   "employment_type": "정규",
+   "career_type": "신입",
+   "deadline": "2026-12-06",
+   "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005757",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "speech",
+    "multimodal",
+    "posttraining"
+   ],
+   "skills": [],
+   "pref_domains": [
+    "llm",
+    "agent",
+    "speech",
+    "multimodal",
+    "posttraining"
+   ],
+   "pref_skills": []
+  },
+  {
+   "id": "coupang:8413602",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Staff Network Engineer (Fulfillment and Logistics Network Engineering)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413602",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "robotics"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
+  {
+   "id": "coupang:8413572",
+   "source": "coupang",
+   "company": "Coupang",
+   "title": "Senior, Network Engineer (Fulfillment and Logistics Network Engineering)",
+   "team": "",
+   "location": "Seoul, South Korea",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413572",
+   "tags": [],
+   "categories": [
+    "llm"
+   ],
+   "first_seen": "2026-11-25",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-25"
+   },
+   "domains": [
+    "llm",
+    "robotics"
+   ],
+   "skills": [
+    "python"
+   ],
+   "pref_domains": [],
+   "pref_skills": [
+    "python"
+   ]
+  },
   {
    "id": "samsung:23545",
    "source": "samsung",
@@ -1147,38 +1610,6 @@
    "domains": [
     "robotics"
    ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "kt:259303",
-   "source": "kt",
-   "company": "kt netcore",
-   "title": "[kt netcore] 경력직 상시 인재풀(선로운용/선로설계/Biz서비스운영/IT정보보안/AI서비스개발)",
-   "team": "선로운용-서울 · 선로운용-강원 · 선로운용-경기 북부 · 선로운용-경기 남부 · 선로운용-경기 서부 · 선로운용-인천 · 선로운용-충북 · 선로운용-대전/충남 · 선로운용-대구/경북 · 선로운용-부산/경남 · 선로운용-전북 · 선로운용-광주/전남 · 선로운용-제주 · 선로설계-서울 · 선로설계-강원 · 선로설계-경기 북부 · 선로설계-경기 남부 · 선로설계-경기 서부 · 선로설계-인천 · 선로설계-충북 · 선로설계-대전/충남 · 선로설계-대구/경북 · 선로설계-부산/경남 · 선로설계-전북 · 선로설계-광주/전남 · 선로설계-제주 · Biz서비스운영-서울 · Biz서비스운영-강원 · Biz서비스운영-경기 북부 · Biz서비스운영-경기 남부 · Biz서비스운영-경기 서부 · Biz서비스운영-인천 · Biz서비스운영-충북 · Biz서비스운영-대전/충남 · Biz서비스운영-대구/경북 · Biz서비스운영-부산/경남 · Biz서비스운영-전북 · Biz서비스운영-광주/전남 · Biz서비스운영-제주 · IT/정보보안-서울(수서) · AI서비스개발-서울(수서)",
-   "location": "",
-   "employment_type": "상시",
-   "career_type": "경력",
-   "deadline": "2027-12-31",
-   "url": "https://kt.recruiter.co.kr/career/jobs/121154",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-11-16",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": false
-   },
-   "detail_quality": {
-    "full": false,
-    "preferred": false,
-    "fetched_at": "2026-11-24"
-   },
-   "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []
@@ -2616,38 +3047,6 @@
    "pref_skills": []
   },
   {
-   "id": "toss:8006388003",
-   "source": "toss",
-   "company": "토스",
-   "title": "글로벌 UX 리서치 프로그램 매니저",
-   "team": "UX",
-   "location": "Seoul",
-   "employment_type": "정규직",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://toss.im/career/job-detail?gh_jid=8006388003",
-   "tags": [],
-   "categories": [
-    "research"
-   ],
-   "first_seen": "2026-11-02",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": false,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "lg:1001432",
    "source": "lg",
    "company": "LG CNS",
@@ -3525,7 +3924,7 @@
    "id": "coupang:8280199",
    "source": "coupang",
    "company": "Coupang",
-   "title": "[쿠팡] 카탈로그 품질 분석가 (경력 2년 이상)",
+   "title": "[쿠팡] 카탈로그 품질 분석가 (주니어)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
@@ -3975,47 +4374,6 @@
     "data-analysis"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "sk:R262159",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "제조 에너지/화학 계열 AI/DT 및 시스템 담당자 영입 (울산 근무)",
-   "team": "IT/구축/운영/최적화",
-   "location": "울산",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-24",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262159",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-07",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
-   "skills": [
-    "python",
-    "java",
-    "javascript",
-    "spring"
-   ],
-   "pref_domains": [],
-   "pref_skills": [
-    "python",
-    "java",
-    "javascript"
-   ]
   },
   {
    "id": "lgairesearch:4693142005",
@@ -5293,7 +5651,7 @@
    "id": "coupang:8171509",
    "source": "coupang",
    "company": "Coupang",
-   "title": "Staff Network Engineer (Fulfillment and Logistics Network Engineering)",
+   "title": "Staff, Network Engineer (Fulfillment and Logistics Network Engineering)",
    "team": "",
    "location": "Seoul, South Korea",
    "employment_type": "",
