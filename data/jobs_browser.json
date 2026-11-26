@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25",
+ "generated": "2026-11-26",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,39 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262456",
-   "source": "sk",
-   "company": "SK온",
-   "title": "SK온 AI 인프라 구축 및 운영 담당자 채용 ",
-   "team": "DT",
-   "location": "서울",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-25",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262456",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
-  {
-   "id": "sk:R262476",
-   "source": "sk",
-   "company": "SK바이오팜",
-   "title": "AI Platform Operation 구성원 영입",
-   "team": "IT/IT",
-   "location": "경기/인천",
-   "employment_type": "정규",
-   "career_type": "경력",
-   "deadline": "2026-11-25",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262476",
-   "tags": [],
-   "categories": [
-    "ml",
-    "mlops"
-   ]
-  },
   {
    "id": "sk:R262252",
    "source": "sk",
@@ -217,6 +184,22 @@
    "categories": [
     "research",
     "data-analysis"
+   ]
+  },
+  {
+   "id": "sk:R262547",
+   "source": "sk",
+   "company": "SK이노베이션",
+   "title": "Electronics and Control Engineer – Prototyping & Innovation Specialist",
+   "team": "Tech R&D/기술연구",
+   "location": "대전",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2026-12-13",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262547",
+   "tags": [],
+   "categories": [
+    "robotics"
    ]
   },
   {
