@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26",
+ "generated": "2026-11-27",
  "sources_ok": [
   "naver",
   "kakao",
@@ -15,6 +15,88 @@
  ],
  "errors": [],
  "jobs": [
+  {
+   "id": "toss:8217490003",
+   "source": "toss",
+   "company": "토스뱅크",
+   "title": "AI 매니저",
+   "team": "ML",
+   "location": "Seoul",
+   "employment_type": "정규직",
+   "career_type": "",
+   "deadline": "상시",
+   "url": "https://toss.im/career/job-detail?gh_jid=8217490003",
+   "tags": [],
+   "categories": [
+    "ml"
+   ],
+   "first_seen": "2026-11-27",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-27"
+   },
+   "domains": [
+    "llm",
+    "agent",
+    "vision",
+    "mlops"
+   ],
+   "skills": [
+    "sql"
+   ],
+   "pref_domains": [],
+   "pref_skills": []
+  },
+  {
+   "id": "sk:R262593",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "보안 위협분석 및 침해사고 대응(CERT) 분야 전문가 영입 ",
+   "team": "정보보안/정보보안 관제",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262593",
+   "tags": [],
+   "categories": [
+    "data-analysis"
+   ],
+   "first_seen": "2026-11-27",
+   "degree_requirements": {
+    "required": [],
+    "preferred": [],
+    "unclassified": [],
+    "available": true
+   },
+   "detail_quality": {
+    "full": true,
+    "preferred": true,
+    "fetched_at": "2026-11-27"
+   },
+   "domains": [
+    "llm"
+   ],
+   "skills": [
+    "python",
+    "k8s",
+    "git"
+   ],
+   "pref_domains": [
+    "llm"
+   ],
+   "pref_skills": [
+    "k8s",
+    "git"
+   ]
+  },
   {
    "id": "kakao:P-14595",
    "source": "kakao",
@@ -143,7 +225,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-26"
+    "fetched_at": "2026-11-27"
    },
    "domains": [],
    "skills": [],
@@ -1107,7 +1189,7 @@
    "id": "toss:8210340003",
    "source": "toss",
    "company": "토스뱅크",
-   "title": "카프카 엔지니어 (Kafka Engineer)",
+   "title": "카프카 엔지니어",
    "team": "Data Engineering",
    "location": "Seoul",
    "employment_type": "정규직",
@@ -1482,7 +1564,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=398",
    "tags": [
     "11월 경력 채용"
@@ -1520,7 +1602,7 @@
    "location": "판교",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-07",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=408",
    "tags": [
     "11월 경력 채용"
@@ -1565,7 +1647,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=399",
    "tags": [
     "11월 경력 채용"
@@ -1789,7 +1871,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=413",
    "tags": [
     "11월 경력 채용"
@@ -3695,51 +3777,6 @@
     "data-eng"
    ],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8316768",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "[쿠팡로지스틱스서비스] 물류 데이터 분석 담당자 (신입 가능)",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8316768",
-   "tags": [],
-   "categories": [
-    "data-analysis"
-   ],
-   "first_seen": "2026-10-24",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "data-analysis"
-   ],
-   "skills": [
-    "python",
-    "sql",
-    "tableau",
-    "powerbi"
-   ],
-   "pref_domains": [
-    "data-analysis"
-   ],
-   "pref_skills": [
-    "sql",
-    "tableau",
-    "powerbi"
-   ]
   },
   {
    "id": "sk:R262275",
@@ -6338,53 +6375,6 @@
    "pref_skills": []
   },
   {
-   "id": "lgairesearch:4725958005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "Research Internship - Physical AI",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4725958005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-08-21",
-   "degree_requirements": {
-    "required": [
-     {
-      "degree": "masters",
-      "text": "유관 분야 석/박사과정 진행중인 분"
-     },
-     {
-      "degree": "phd",
-      "text": "유관 분야 석/박사과정 진행중인 분"
-     }
-    ],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "vision",
-    "robotics",
-    "multimodal",
-    "world-model"
-   ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8146344",
    "source": "coupang",
    "company": "Coupang",
@@ -8605,43 +8595,6 @@
     "multimodal",
     "world-model"
    ],
-   "skills": [],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
-   "id": "lgairesearch:4666089005",
-   "source": "lgairesearch",
-   "company": "LG AI Research",
-   "title": "AI Consultant",
-   "team": "",
-   "location": "Gangseo-gu, Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.lgresearch.ai/careers?gh_jid=4666089005",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-07-05",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [
-     {
-      "degree": "masters",
-      "text": "관련 분야 석사 학위 소지 및 5년 이상 유관 분야 실무 경력자"
-     }
-    ],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [],
    "skills": [],
    "pref_domains": [],
    "pref_skills": []

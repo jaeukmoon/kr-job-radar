@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26",
+ "generated": "2026-11-27",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -512,57 +512,19 @@
    ]
   },
   {
-   "id": "hyundai:2026-N2-398",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "정책 연구",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=398",
-   "tags": [
-    "11월 경력 채용"
-   ],
+   "id": "sk:R262593",
+   "source": "sk",
+   "company": "SK주식회사(AX)",
+   "title": "보안 위협분석 및 침해사고 대응(CERT) 분야 전문가 영입 ",
+   "team": "정보보안/정보보안 관제",
+   "location": "경기/인천",
+   "employment_type": "정규",
+   "career_type": "경력",
+   "deadline": "2027-01-28",
+   "url": "https://www.skcareers.com/Recruit/Detail/R262593",
+   "tags": [],
    "categories": [
-    "research"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-408",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "오디오/라디오 시스템 소프트웨어 개발",
-   "team": "연구개발 · 전자개발",
-   "location": "판교",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=408",
-   "tags": [
-    "11월 경력 채용"
-   ],
-   "categories": [
-    "speech"
-   ]
-  },
-  {
-   "id": "hyundai:2026-N2-399",
-   "source": "hyundai",
-   "company": "현대자동차",
-   "title": "에너지 기술/시장 동향 연구",
-   "team": "사업/기획 · 경영전략",
-   "location": "양재본사",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "2026-11-30",
-   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=399",
-   "tags": [
-    "11월 경력 채용"
-   ],
-   "categories": [
-    "research"
+    "data-analysis"
    ]
   },
   {
@@ -621,6 +583,60 @@
    ]
   },
   {
+   "id": "hyundai:2026-N2-408",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "오디오/라디오 시스템 소프트웨어 개발",
+   "team": "연구개발 · 전자개발",
+   "location": "판교",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-07",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=408",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "speech"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-398",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "정책 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=398",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
+   "id": "hyundai:2026-N2-399",
+   "source": "hyundai",
+   "company": "현대자동차",
+   "title": "에너지 기술/시장 동향 연구",
+   "team": "사업/기획 · 경영전략",
+   "location": "양재본사",
+   "employment_type": "",
+   "career_type": "",
+   "deadline": "2026-12-14",
+   "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=399",
+   "tags": [
+    "11월 경력 채용"
+   ],
+   "categories": [
+    "research"
+   ]
+  },
+  {
    "id": "hyundai:2026-N2-413",
    "source": "hyundai",
    "company": "현대자동차",
@@ -629,7 +645,7 @@
    "location": "양재본사",
    "employment_type": "",
    "career_type": "",
-   "deadline": "2026-11-30",
+   "deadline": "2026-12-14",
    "url": "https://talent.hyundai.com/apply/applyView.hc?recuYy=2026&recuType=N2&recuCls=413",
    "tags": [
     "11월 경력 채용"
