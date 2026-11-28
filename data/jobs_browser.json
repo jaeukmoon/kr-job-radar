@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "sources_ok": [
   "sk",
   "hyundai",
@@ -7,22 +7,6 @@
  ],
  "errors": [],
  "jobs": [
-  {
-   "id": "sk:R262252",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
-   "team": "IT/구축/운영/최적화 • Tech R&D/ML/DL 개발",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-27",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262252",
-   "tags": [],
-   "categories": [
-    "ml"
-   ]
-  },
   {
    "id": "sk:R262514",
    "source": "sk",

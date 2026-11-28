@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27",
+ "generated": "2026-11-28",
  "sources_ok": [
   "naver",
   "kakao",
@@ -225,7 +225,7 @@
    "detail_quality": {
     "full": false,
     "preferred": false,
-    "fetched_at": "2026-11-27"
+    "fetched_at": "2026-11-28"
    },
    "domains": [],
    "skills": [],
@@ -3987,42 +3987,6 @@
    ]
   },
   {
-   "id": "sk:R262252",
-   "source": "sk",
-   "company": "SK주식회사(AX)",
-   "title": "전사 통합 Image 솔루션 제공 플랫폼 Application PL 및 ML 엔지니어 모집 (계약직)",
-   "team": "IT/구축/운영/최적화 • Tech R&D/ML/DL 개발",
-   "location": "경기/인천",
-   "employment_type": "계약",
-   "career_type": "경력",
-   "deadline": "2026-11-27",
-   "url": "https://www.skcareers.com/Recruit/Detail/R262252",
-   "tags": [],
-   "categories": [
-    "ml"
-   ],
-   "first_seen": "2026-10-16",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "vision"
-   ],
-   "skills": [
-    "python"
-   ],
-   "pref_domains": [],
-   "pref_skills": []
-  },
-  {
    "id": "coupang:8283901",
    "source": "coupang",
    "company": "Coupang",
@@ -5563,54 +5527,6 @@
    ],
    "pref_domains": [],
    "pref_skills": []
-  },
-  {
-   "id": "coupang:8188042",
-   "source": "coupang",
-   "company": "Coupang",
-   "title": "Staff, Security Data Platform Engineer ",
-   "team": "",
-   "location": "Seoul, South Korea",
-   "employment_type": "",
-   "career_type": "",
-   "deadline": "상시",
-   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8188042",
-   "tags": [],
-   "categories": [
-    "data-eng"
-   ],
-   "first_seen": "2026-09-10",
-   "degree_requirements": {
-    "required": [],
-    "preferred": [],
-    "unclassified": [],
-    "available": true
-   },
-   "detail_quality": {
-    "full": true,
-    "preferred": true,
-    "fetched_at": "2026-11-16"
-   },
-   "domains": [
-    "llm",
-    "data-eng"
-   ],
-   "skills": [
-    "python",
-    "kafka",
-    "airflow",
-    "k8s",
-    "aws",
-    "git"
-   ],
-   "pref_domains": [
-    "llm",
-    "data-eng"
-   ],
-   "pref_skills": [
-    "airflow",
-    "k8s"
-   ]
   },
   {
    "id": "toss:7742346003",
